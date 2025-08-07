@@ -1,0 +1,173 @@
+{
+  "argos": {
+    "base_url": "https://www.argos.co.uk",
+    "name": "Argos UK",
+    "category_discovery": {
+      "method": "href_pattern",
+      "patterns": ["/browse/", "c:"],
+      "selector": "a[href]",
+      "exclude_patterns": []
+    },
+    "pagination": {
+      "method": "link_rel_next",
+      "next_selector": "link[rel='next']",
+      "next_attribute": "href"
+    },
+    "data_extraction": {
+      "method": "json_script_tag",
+      "patterns": [
+        {
+          "start": "</main><script>window.App=",
+          "end": "</script><script nomodule="
+        },
+        {
+          "start": "<script>window.App=",
+          "end": "</script><script nomodule="
+        },
+        {
+          "start": "</main><script>window.App=",
+          "end": "</script><script"
+        },
+        {
+          "start": "<script>window.App=",
+          "end": "</script><script"
+        },
+        {
+          "start": "window.App=",
+          "end": "</script>"
+        }
+      ],
+      "product_path": ["redux", "product", "products"],
+      "fields": {
+        "id": ["id"],
+        "name": ["attributes", "name"],
+        "price": ["attributes", "price"],
+        "url_template": "https://www.argos.co.uk/product/{id}"
+      }
+    },
+    "request_config": {
+      "timeout": 3,
+      "use_proxy": true,
+      "user_agent_type": "chrome_modified",
+      "delay_range": [1, 42]
+    }
+  },
+
+  "argos_file": {
+    "base_url": "https://www.argos.co.uk",
+    "name": "Argos UK (File-based)",
+    "category_discovery": {
+      "method": "url_file",
+      "file_path": "argos_all_pages.txt"
+    },
+    "pagination": {
+      "method": "none"
+    },
+    "data_extraction": {
+      "method": "json_script_tag",
+      "patterns": [
+        {
+          "start": "</main><script>window.App=",
+          "end": "</script><script nomodule="
+        },
+        {
+          "start": "<script>window.App=",
+          "end": "</script><script"
+        },
+        {
+          "start": "window.App=",
+          "end": "</script>"
+        }
+      ],
+      "fallback_patterns": [
+        {
+          "method": "json_application_script",
+          "selector": "script[type='application/json']",
+          "product_path": ["props", "pageProps", "productData"],
+          "fields": {
+            "id": ["id"],
+            "name": ["attributes", "name"],
+            "price": ["attributes", "price"],
+            "url_template": "https://www.argos.co.uk/product/{id}"
+          }
+        }
+      ],
+      "product_path": ["redux", "product", "products"],
+      "fields": {
+        "id": ["id"],
+        "name": ["attributes", "name"],
+        "price": ["attributes", "price"],
+        "url_template": "https://www.argos.co.uk/product/{id}"
+      }
+    },
+    "request_config": {
+      "timeout": 3,
+      "use_proxy": true,
+      "user_agent_type": "chrome_modified",
+      "delay_range": [1, 42]
+    }
+  },
+  
+  "amazon": {
+    "base_url": "https://www.amazon.co.uk",
+    "name": "Amazon UK",
+    "category_discovery": {
+      "method": "href_pattern",
+      "patterns": ["/gp/browse.html", "/s?"],
+      "selector": "a[href]",
+      "exclude_patterns": ["sign-in", "register"]
+    },
+    "pagination": {
+      "method": "next_button",
+      "next_selector": "a[aria-label='Next']",
+      "next_attribute": "href"
+    },
+    "data_extraction": {
+      "method": "dom_scraping",
+      "product_selector": "[data-component-type='s-search-result']",
+      "fields": {
+        "id": {"selector": "[data-asin]", "attribute": "data-asin"},
+        "name": {"selector": "h2 a span", "attribute": "text"},
+        "price": {"selector": ".a-price-whole", "attribute": "text", "parser": "price"},
+        "url": {"selector": "h2 a", "attribute": "href", "prefix": "https://www.amazon.co.uk"}
+      }
+    },
+    "request_config": {
+      "timeout": 5,
+      "use_proxy": true,
+      "user_agent_type": "chrome",
+      "delay_range": [2, 8]
+    }
+  },
+
+  "generic_json_ld": {
+    "base_url": "PLACEHOLDER",
+    "name": "Generic JSON-LD Site",
+    "category_discovery": {
+      "method": "sitemap",
+      "sitemap_url": "/sitemap.xml",
+      "category_patterns": ["/category/", "/products/"]
+    },
+    "pagination": {
+      "method": "url_parameter",
+      "param": "page",
+      "start": 1
+    },
+    "data_extraction": {
+      "method": "json_ld",
+      "json_ld_type": "Product",
+      "fields": {
+        "id": ["sku"],
+        "name": ["name"],
+        "price": ["offers", "price"],
+        "url": ["url"]
+      }
+    },
+    "request_config": {
+      "timeout": 5,
+      "use_proxy": false,
+      "user_agent_type": "chrome",
+      "delay_range": [1, 3]
+    }
+  }
+}

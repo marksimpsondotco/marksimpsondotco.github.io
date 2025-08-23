@@ -1,0 +1,596 @@
+{
+  "argos": {
+    "base_url": "https://www.argos.co.uk/",
+    "name": "www.argos.co.uk",
+    "category_discovery": {
+      "method": "href_pattern",
+      "patterns": [
+        "/browse/"
+      ],
+      "selector": "a[href]",
+      "exclude_patterns": [
+        "sign-in",
+        "login",
+        "register",
+        "cart",
+        "checkout"
+      ]
+    },
+    "pagination": {
+      "method": "none",
+      "note": "Manual configuration needed"
+    },
+    "data_extraction": {
+      "method": "manual",
+      "note": "Manual analysis required"
+    },
+    "request_config": {
+      "timeout": 15,
+      "use_proxy": false,
+      "user_agent_type": "chrome",
+      "delay_range": [
+        1,
+        4
+      ],
+      "working_details": {
+        "user_agent_string": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.107 Safari/535.1",
+        "working_proxy": null,
+        "connection_notes": "Successfully connected on attempt with chrome user agent, proxy: False"
+      }
+    }
+  },
+  "argos_file": {
+    "base_url": "https://www.argos.co.uk",
+    "name": "Argos UK (File-based)",
+    "category_discovery": {
+      "method": "url_file",
+      "file_path": "argos_all_pages.txt"
+    },
+    "pagination": {
+      "method": "none"
+    },
+    "data_extraction": {
+      "method": "json_script_tag",
+      "patterns": [
+        {
+          "start": "</main><script>window.App=",
+          "end": "</script><script nomodule="
+        },
+        {
+          "start": "<script>window.App=",
+          "end": "</script><script"
+        },
+        {
+          "start": "window.App=",
+          "end": "</script>"
+        }
+      ],
+      "fallback_patterns": [
+        {
+          "method": "json_application_script",
+          "selector": "script[type='application/json']",
+          "product_path": [
+            "props",
+            "pageProps",
+            "productData"
+          ],
+          "fields": {
+            "id": [
+              "id"
+            ],
+            "name": [
+              "attributes",
+              "name"
+            ],
+            "price": [
+              "attributes",
+              "price"
+            ],
+            "url_template": "https://www.argos.co.uk/product/{id}"
+          }
+        }
+      ],
+      "product_path": [
+        "redux",
+        "product",
+        "products"
+      ],
+      "fields": {
+        "id": [
+          "id"
+        ],
+        "name": [
+          "attributes",
+          "name"
+        ],
+        "price": [
+          "attributes",
+          "price"
+        ],
+        "url_template": "https://www.argos.co.uk/product/{id}"
+      }
+    },
+    "request_config": {
+      "timeout": 3,
+      "use_proxy": true,
+      "user_agent_type": "chrome_modified",
+      "delay_range": [
+        1,
+        42
+      ]
+    }
+  },
+  "amazon": {
+    "base_url": "https://www.amazon.co.uk",
+    "name": "Amazon UK",
+    "category_discovery": {
+      "method": "href_pattern",
+      "patterns": [
+        "/gp/browse.html",
+        "/s?"
+      ],
+      "selector": "a[href]",
+      "exclude_patterns": [
+        "sign-in",
+        "register"
+      ]
+    },
+    "pagination": {
+      "method": "next_button",
+      "next_selector": "a[aria-label='Next']",
+      "next_attribute": "href"
+    },
+    "data_extraction": {
+      "method": "dom_scraping",
+      "product_selector": "[data-component-type='s-search-result']",
+      "fields": {
+        "id": {
+          "selector": "[data-asin]",
+          "attribute": "data-asin"
+        },
+        "name": {
+          "selector": "h2 a span",
+          "attribute": "text"
+        },
+        "price": {
+          "selector": ".a-price-whole",
+          "attribute": "text",
+          "parser": "price"
+        },
+        "url": {
+          "selector": "h2 a",
+          "attribute": "href",
+          "prefix": "https://www.amazon.co.uk"
+        }
+      }
+    },
+    "request_config": {
+      "timeout": 5,
+      "use_proxy": true,
+      "user_agent_type": "chrome",
+      "delay_range": [
+        2,
+        8
+      ]
+    }
+  },
+  "boohoo": {
+    "base_url": "https://www.boohoo.com/",
+    "name": "www.boohoo.com",
+    "category_discovery": {
+      "method": "sitemap",
+      "sitemap_url": "/sitemap.xml",
+      "category_patterns": [
+        "/category/",
+        "/products/",
+        "/collections/"
+      ]
+    },
+    "pagination": {
+      "method": "none",
+      "note": "Manual configuration needed"
+    },
+    "data_extraction": {
+      "method": "manual",
+      "note": "Manual analysis required"
+    },
+    "request_config": {
+      "timeout": 15,
+      "use_proxy": false,
+      "user_agent_type": "chrome",
+      "delay_range": [
+        1,
+        4
+      ],
+      "working_details": {
+        "user_agent_string": "Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/4.0.202.0 Safari/532.0",
+        "working_proxy": null,
+        "connection_notes": "Successfully connected on attempt with chrome user agent, proxy: False"
+      }
+    }
+  },
+  "generic_json_ld": {
+    "base_url": "PLACEHOLDER",
+    "name": "Generic JSON-LD Site",
+    "category_discovery": {
+      "method": "sitemap",
+      "sitemap_url": "/sitemap.xml",
+      "category_patterns": [
+        "/category/",
+        "/products/"
+      ]
+    },
+    "pagination": {
+      "method": "url_parameter",
+      "param": "page",
+      "start": 1
+    },
+    "data_extraction": {
+      "method": "json_ld",
+      "json_ld_type": "Product",
+      "fields": {
+        "id": [
+          "sku"
+        ],
+        "name": [
+          "name"
+        ],
+        "price": [
+          "offers",
+          "price"
+        ],
+        "url": [
+          "url"
+        ]
+      }
+    },
+    "request_config": {
+      "timeout": 5,
+      "use_proxy": false,
+      "user_agent_type": "chrome",
+      "delay_range": [
+        1,
+        3
+      ]
+    }
+  },
+  "norman": {
+    "base_url": "https://normanwalsh.com/",
+    "name": "normanwalsh.com",
+    "category_discovery": {
+      "method": "href_pattern",
+      "patterns": [
+        "/collections/"
+      ],
+      "selector": "a[href]",
+      "exclude_patterns": [
+        "sign-in",
+        "login",
+        "register",
+        "cart",
+        "checkout"
+      ]
+    },
+    "pagination": {
+      "method": "none",
+      "note": "Manual configuration needed"
+    },
+    "data_extraction": {
+      "method": "dom_scraping",
+      "product_selector": "product-card",
+      "fields": {
+        "id": {
+          "selector": "self",
+          "attribute": "handle"
+        },
+        "name": {
+          "selector": ".product-title",
+          "attribute": "text"
+        },
+        "price": {
+          "selector": ".money",
+          "attribute": "text"
+        },
+        "url": {
+          "selector": ".product-card__media",
+          "attribute": "href"
+        }
+      },
+      "note": "Updated selectors based on current HTML structure - product-card custom element"
+    },
+    "request_config": {
+      "timeout": 5,
+      "use_proxy": false,
+      "user_agent_type": "chrome",
+      "delay_range": [
+        1,
+        3
+      ],
+      "working_details": {
+        "user_agent_string": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "working_proxy": null,
+        "connection_notes": "Uses modern Chrome user agent for proper site rendering"
+      }
+    }
+  },
+  "tkmaxx": {
+    "base_url": "https://www.tkmaxx.com/uk/en/",
+    "name": "www.tkmaxx.com",
+    "category_discovery": {
+      "method": "href_pattern",
+      "patterns": [
+        "/uk/en/women/",
+        "/uk/en/men/",
+        "/uk/en/kids+toys/",
+        "/uk/en/home/"
+      ],
+      "selector": "a[href]",
+      "exclude_patterns": [
+        "/l/customer-service",
+        "/l/gift-cards",
+        "clearance",
+        "sign-in",
+        "login",
+        "register",
+        "cart",
+        "checkout",
+        "account",
+        "wishlist",
+        "delivery",
+        "returns",
+        "help",
+        "contact",
+        "stores",
+        "all-events"
+      ]
+    },
+    "pagination": {
+      "method": "none"
+    },
+    "data_extraction": {
+      "method": "dom_scraping",
+      "product_selector": ".c-product-grid__item",
+      "fields": {
+        "id": {
+          "selector": "a[href*='/p/']",
+          "attribute": "href"
+        },
+        "name": {
+          "selector": "strong.c-product-card__label",
+          "attribute": "text"
+        },
+        "price": {
+          "selector": "strong.u-font-bold.u-font-theta:not(.text-uppercase)",
+          "attribute": "text"
+        },
+        "url": {
+          "selector": "a[href*='/p/']",
+          "attribute": "href"
+        }
+      },
+      "single_product_fields": {
+        "name": {
+          "selector": "h1",
+          "attribute": "text"
+        },
+        "price": {
+          "selector": ".item-price-original",
+          "attribute": "text"
+        }
+      }
+    },
+    "request_config": {
+      "timeout": 30,
+      "use_proxy": false,
+      "user_agent_type": "safari",
+      "delay_range": [
+        5,
+        8
+      ],
+      "working_details": {
+        "user_agent_string": "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR) AppleWebKit/525+ (KHTML, like Gecko) Version/3.0 Safari/523.15",
+        "working_proxy": null,
+        "connection_notes": "Successfully connected on attempt with safari user agent, proxy: False"
+      }
+    }
+  },
+  "very": {
+    "base_url": "https://www.very.co.uk/",
+    "name": "www.very.co.uk",
+    "category_discovery": {
+      "method": "href_pattern",
+      "patterns": [
+        "/browse/"
+      ],
+      "selector": "a[href]",
+      "exclude_patterns": [
+        "sign-in",
+        "login",
+        "register",
+        "cart",
+        "checkout"
+      ]
+    },
+    "pagination": {
+      "method": "next_button",
+      "next_selector": "a:contains('Next')",
+      "next_attribute": "href"
+    },
+    "data_extraction": {
+      "method": "dom_scraping",
+      "product_selector": "[data-cnstrc-item-id]",
+      "fields": {
+        "id": {
+          "selector": "self",
+          "attribute": "data-cnstrc-item-id"
+        },
+        "name": {
+          "selector": "self",
+          "attribute": "data-cnstrc-item-name"
+        },
+        "price": {
+          "selector": "self",
+          "attribute": "data-cnstrc-item-price"
+        },
+        "url": {
+          "selector": "a[href]",
+          "attribute": "href"
+        }
+      },
+      "single_product_fields": {
+        "id": {
+          "selector": "[data-testid='product-item-number'], .product-code, .product-id, input[name='productId']",
+          "attribute": "text"
+        },
+        "name": {
+          "selector": "h1",
+          "attribute": "text"
+        },
+        "price": {
+          "selector": "[data-testid='product-price'], .productPrice_price, .price",
+          "attribute": "text"
+        },
+        "url": {
+          "selector": "link[rel='canonical']",
+          "attribute": "href"
+        }
+      },
+      "note": "Updated to use DOM scraping with data-cnstrc attributes - Very.co.uk changed from JSON to server-side rendering"
+    },
+    "request_config": {
+      "timeout": 30,
+      "use_proxy": false,
+      "user_agent_type": "safari",
+      "delay_range": [
+        5,
+        8
+      ],
+      "working_details": {
+        "user_agent_string": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "working_proxy": null,
+        "connection_notes": "Successfully connected on attempt with safari user agent, proxy: False"
+      }
+    }
+  },
+  "pendleton": {
+    "base_url": "https://pendletonwoolenmills.eu/",
+    "name": "pendletonwoolenmills.eu",
+    "category_discovery": {
+      "method": "sitemap",
+      "sitemap_url": "/sitemap_collections_1.xml?from=387565893&to=674643444091",
+      "category_patterns": [
+        "/collections/"
+      ]
+    },
+    "pagination": {
+      "method": "next_button",
+      "next_selector": "a[rel='next']",
+      "next_attribute": "href"
+    },
+    "data_extraction": {
+      "method": "dom_scraping",
+      "product_selector": ".product-item, .product-card, [data-product-id]",
+      "fields": {
+        "id": {
+          "selector": "self",
+          "attribute": "href"
+        },
+        "name": {
+          "selector": "self",
+          "attribute": "title"
+        },
+        "price": {
+          "selector": "self",
+          "attribute": "text"
+        },
+        "url": {
+          "selector": "self",
+          "attribute": "href"
+        }
+      },
+      "single_product_fields": {
+        "id": {
+          "selector": "meta[property='og:url']",
+          "attribute": "content"
+        },
+        "name": {
+          "selector": "h1, .product-title, .product__title, meta[property='og:title']",
+          "attribute": "text"
+        },
+        "price": {
+          "selector": ".money",
+          "attribute": "text"
+        },
+        "url": {
+          "selector": "link[rel='canonical']",
+          "attribute": "href"
+        }
+      },
+      "note": "Shopify site with standard product structure"
+    },
+    "request_config": {
+      "timeout": 15,
+      "use_proxy": false,
+      "user_agent_type": "chrome",
+      "delay_range": [
+        1,
+        4
+      ],
+      "working_details": {
+        "user_agent_string": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/530.8 (KHTML, like Gecko) Chrome/2.0.178.0 Safari/530.8",
+        "working_proxy": null,
+        "connection_notes": "Successfully connected on attempt with chrome user agent, proxy: False"
+      }
+    }
+  },
+  "yeti": {
+    "base_url": "https://uk.yeti.com/",
+    "name": "uk.yeti.com",
+    "category_discovery": {
+      "method": "sitemap",
+      "sitemap_url": "/sitemap_collections_1.xml?from=133684396112&to=671263064444",
+      "category_patterns": [
+        "/collections/"
+      ]
+    },
+    "pagination": {
+      "method": "none",
+      "note": "Shopify product pages - no pagination needed"
+    },
+    "data_extraction": {
+      "method": "json_script_tag",
+      "patterns": [
+        {
+          "start": "var meta = ",
+          "end": ";\n  for (var attr in meta)"
+        }
+      ],
+      "product_path": ["products"],
+      "fields": {
+        "id": ["variants", 0, "sku"],
+        "name": ["variants", 0, "name"],
+        "price": ["variants", 0, "price"],
+        "url": ["url"]
+      },
+      "fallback_selectors": {
+        "name": "h1, .product__title",
+        "price": ".price-item--regular, .price__regular .price-item, [data-price]",
+        "price_attribute": "data-price"
+      }
+    },
+    "request_config": {
+      "timeout": 15,
+      "use_proxy": false,
+      "user_agent_type": "chrome",
+      "delay_range": [
+        1,
+        4
+      ],
+      "working_details": {
+        "user_agent_string": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.04 Chromium/17.0.963.56 Chrome/17.0.963.56 Safari/535.11",
+        "working_proxy": null,
+        "connection_notes": "Successfully connected on attempt with chrome user agent, proxy: False"
+      }
+    }
+  }
+}

@@ -185,17 +185,83 @@ def test_site(site_name: str):
         return False
 
 
+def run_monitor(site_name: str, 
+                min_interval: int = 60, 
+                max_interval: int = 300, 
+                price_threshold: float = 10.0,
+                email_recipients: str = None,
+                auto_refresh_hours: float = 0):
+    """Run continuous price monitoring for a site"""
+    try:
+        with open('site_configs.json', 'r') as f:
+            configs = json.load(f)
+        
+        if site_name not in configs:
+            print(f"❌ Site '{site_name}' not found in configuration")
+            print(f"Available sites: {', '.join(configs.keys())}")
+            return False
+        
+        config = configs[site_name]
+        
+    except FileNotFoundError:
+        print("❌ No site configurations found. Run 'python config_helper.py' to create one.")
+        return False
+    except json.JSONDecodeError as e:
+        print(f"❌ Error reading configuration file: {e}")
+        return False
+    
+    # Parse email recipients
+    recipients = []
+    if email_recipients:
+        recipients = [email.strip() for email in email_recipients.split(',')]
+    
+    # Initialize scraper
+    scraper = GenericEcommerceScraper(config)
+    
+    try:
+        # Check if database has products
+        cursor = scraper.conn.cursor()
+        cursor.execute("SELECT COUNT(*) FROM products WHERE site = ?", (scraper.name,))
+        product_count = cursor.fetchone()[0]
+        
+        if product_count == 0:
+            print(f"❌ No products found in database for {site_name}")
+            print("   Run a full scrape first: python scraper_cli.py run {site_name}")
+            return False
+        
+        print(f"✓ Found {product_count} products to monitor")
+        
+        # Start monitoring
+        scraper.run_continuous_monitoring(
+            min_interval=min_interval,
+            max_interval=max_interval,
+            min_price_drop_percent=price_threshold,
+            email_recipients=recipients,
+            auto_refresh_hours=auto_refresh_hours
+        )
+        
+        return True
+        
+    except Exception as e:
+        print(f"❌ Error running monitor: {e}")
+        return False
+    finally:
+        scraper.close()
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Generic E-commerce Scraper CLI",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python scraper_cli.py list                    # List all configured sites
-  python scraper_cli.py run argos               # Run Argos scraper
-  python scraper_cli.py run amazon --dry-run    # Dry run for Amazon
-  python scraper_cli.py test argos              # Test Argos configuration
-  python scraper_cli.py stats                   # Show database statistics
+  python scraper_cli.py list                              # List all configured sites
+  python scraper_cli.py run argos                         # Run Argos scraper
+  python scraper_cli.py run amazon --dry-run              # Dry run for Amazon
+  python scraper_cli.py test argos                        # Test Argos configuration
+  python scraper_cli.py stats                             # Show database statistics
+  python scraper_cli.py monitor norman                    # Monitor Norman Walsh prices
+  python scraper_cli.py monitor argos --min-interval 30   # Monitor Argos with 30s min interval
   
 To add new sites, run: python config_helper.py
         """
@@ -218,6 +284,20 @@ To add new sites, run: python config_helper.py
     # Stats command
     stats_parser = subparsers.add_parser('stats', help='Show database statistics')
     
+    # Monitor command
+    monitor_parser = subparsers.add_parser('monitor', help='Run continuous price monitoring')
+    monitor_parser.add_argument('site', help='Site name to monitor')
+    monitor_parser.add_argument('--min-interval', type=int, default=60, 
+                               help='Minimum seconds between checks (default: 60)')
+    monitor_parser.add_argument('--max-interval', type=int, default=300,
+                               help='Maximum seconds between checks (default: 300)')
+    monitor_parser.add_argument('--price-threshold', type=float, default=10.0,
+                               help='Minimum price drop percentage to trigger email (default: 10.0)')
+    monitor_parser.add_argument('--email-recipients', type=str,
+                               help='Comma-separated email addresses for notifications')
+    monitor_parser.add_argument('--auto-refresh-hours', type=float, default=0,
+                               help='Hours between full scrapes to discover new products (0=disabled, default: 0)')
+    
     args = parser.parse_args()
     
     if not args.command:
@@ -234,6 +314,16 @@ To add new sites, run: python config_helper.py
         sys.exit(0 if success else 1)
     elif args.command == 'stats':
         show_stats()
+    elif args.command == 'monitor':
+        success = run_monitor(
+            args.site,
+            args.min_interval,
+            args.max_interval,
+            args.price_threshold,
+            args.email_recipients,
+            args.auto_refresh_hours
+        )
+        sys.exit(0 if success else 1)
 
 
 if __name__ == "__main__":

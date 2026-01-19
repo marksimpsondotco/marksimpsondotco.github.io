@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T22:12:08.265847",
-  "total_drops": 1263,
+  "generated_at": "2026-01-19T22:17:22.113467",
+  "total_drops": 1266,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -58,22 +58,22 @@
       "total_savings": 24.0
     },
     {
+      "site": "flannels_com",
+      "count": 15,
+      "max_drop": 40.7,
+      "total_savings": 492.0
+    },
+    {
       "site": "thesewingstudio_co_uk",
       "count": 48,
       "max_drop": 40.0,
       "total_savings": 100.57
     },
     {
-      "site": "flannels_com",
-      "count": 14,
-      "max_drop": 39.0,
-      "total_savings": 437.0
-    },
-    {
       "site": "boden_com",
-      "count": 61,
+      "count": 62,
       "max_drop": 37.5,
-      "total_savings": 675.0
+      "total_savings": 677.4
     },
     {
       "site": "currys_com",
@@ -83,9 +83,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 5,
+      "count": 6,
       "max_drop": 30.3,
-      "total_savings": 343.6
+      "total_savings": 493.6
     },
     {
       "site": "saltrock_com",
@@ -554,7 +554,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-19T22:11:45.082112",
+      "timestamp": "2026-01-19T22:14:33.543035",
       "url": "https://www.astridandmiyu.com/products/experience-gift-card"
     },
     {
@@ -671,7 +671,7 @@
       "percentage": 46.2,
       "old_price": "26.00",
       "new_price": "14.00",
-      "timestamp": "2026-01-19T22:11:50.092059",
+      "timestamp": "2026-01-19T22:17:19.348700",
       "url": "https://dusk.com/products/scallop-contrast-edge-sofa-cushion-cover-stone-black"
     },
     {
@@ -1008,6 +1008,15 @@
       "url": "https://www.johnlewis.com/french-connection-renaya-diamante-draped-blouse-blackout/p114272296"
     },
     {
+      "site": "flannels_com",
+      "product": "NORDA - Women's Everyday Neutral Road Running Shoes",
+      "percentage": 40.7,
+      "old_price": "135.00",
+      "new_price": "80.00",
+      "timestamp": "2026-01-19T22:17:17.337959",
+      "url": "https://www.flannels.com/norda-womens-everyday-neutral-road-running-shoes-210824"
+    },
+    {
       "site": "dusk_com",
       "product": "Juniper Reactive Glaze Pitcher - Grey/Blue",
       "percentage": 40.7,
@@ -1051,15 +1060,6 @@
       "new_price": "10.50",
       "timestamp": "2026-01-19T10:59:35.089495",
       "url": "https://www.johnlewis.com/john-lewis-palms-scoop-neck-swimsuit-blue/p112627960"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Ted Baker Nathain Straight Check Chinos, Grey",
-      "percentage": 40.0,
-      "old_price": "64.50",
-      "new_price": "38.70",
-      "timestamp": "2026-01-19T10:59:35.089495",
-      "url": "https://www.johnlewis.com/ted-baker-nathain-straight-check-chinos-grey/p113998972"
     }
   ]
 }

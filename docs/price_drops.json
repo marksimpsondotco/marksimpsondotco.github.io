@@ -1,33 +1,7 @@
 {
-  "generated_at": "2026-01-19T23:33:10.299598",
-  "total_drops": 2,
-  "top_drops_shown": 2,
-  "site_stats": [
-    {
-      "site": "solarscooters_co_uk",
-      "count": 2,
-      "max_drop": 10.0,
-      "total_savings": 150.0
-    }
-  ],
-  "drops": [
-    {
-      "site": "solarscooters_co_uk",
-      "product": "Solar P1 3.0 Electric Scooter - Black",
-      "percentage": 10.0,
-      "old_price": "999.99",
-      "new_price": "899.99",
-      "timestamp": "2026-01-19T23:02:40.544620",
-      "url": "https://solarscooters.co.uk/products/solar-p1-electric-scooter"
-    },
-    {
-      "site": "solarscooters_co_uk",
-      "product": "Solar EQ",
-      "percentage": 5.0,
-      "old_price": "999.99",
-      "new_price": "949.99",
-      "timestamp": "2026-01-19T23:02:40.544620",
-      "url": "https://solarscooters.co.uk/products/solar-eq-fast-electric-scooter"
-    }
-  ]
+  "generated_at": "2026-01-19T23:34:51.494235",
+  "total_drops": 0,
+  "top_drops_shown": 0,
+  "site_stats": [],
+  "drops": []
 }

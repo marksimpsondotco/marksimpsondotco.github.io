@@ -1,13 +1,19 @@
 {
-  "generated_at": "2026-01-19T23:53:17.530844",
-  "total_drops": 3,
-  "top_drops_shown": 3,
+  "generated_at": "2026-01-19T23:58:19.336909",
+  "total_drops": 5,
+  "top_drops_shown": 5,
   "site_stats": [
     {
       "site": "dryrobe_com",
       "count": 1,
       "max_drop": 25.9,
       "total_savings": 35.0
+    },
+    {
+      "site": "chelseababy_com",
+      "count": 2,
+      "max_drop": 12.1,
+      "total_savings": 149.9
     },
     {
       "site": "solarscooters_co_uk",
@@ -27,6 +33,15 @@
       "url": "https://dryrobe.com/products/rework-black-grey-camo-advance-kids-changing-robe"
     },
     {
+      "site": "chelseababy_com",
+      "product": "Cybex Balios S Lux One Box Travel System - Moon Black",
+      "percentage": 12.1,
+      "old_price": "699.95",
+      "new_price": "615.00",
+      "timestamp": "2026-01-19T23:58:03.945207",
+      "url": "https://chelseababy.com/products/cybex-balios-s-lux-one-box-travel-system-moon-black"
+    },
+    {
       "site": "solarscooters_co_uk",
       "product": "Solar P1 3.0 Electric Scooter - Black",
       "percentage": 10.0,
@@ -34,6 +49,15 @@
       "new_price": "899.99",
       "timestamp": "2026-01-19T23:02:40.544620",
       "url": "https://solarscooters.co.uk/products/solar-p1-electric-scooter"
+    },
+    {
+      "site": "chelseababy_com",
+      "product": "Cybex Balios S Lux One Box Travel System - Almond Beige",
+      "percentage": 9.0,
+      "old_price": "719.95",
+      "new_price": "655.00",
+      "timestamp": "2026-01-19T23:58:03.945207",
+      "url": "https://chelseababy.com/products/cybex-balios-s-lux-one-box-travel-system-almond-beige"
     },
     {
       "site": "solarscooters_co_uk",

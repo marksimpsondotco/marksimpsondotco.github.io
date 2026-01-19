@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T22:17:22.113467",
-  "total_drops": 1266,
+  "generated_at": "2026-01-19T22:22:33.592425",
+  "total_drops": 1271,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -53,9 +53,9 @@
     },
     {
       "site": "pigletinbed_com",
-      "count": 2,
+      "count": 3,
       "max_drop": 46.7,
-      "total_savings": 24.0
+      "total_savings": 48.0
     },
     {
       "site": "flannels_com",
@@ -71,9 +71,9 @@
     },
     {
       "site": "boden_com",
-      "count": 62,
+      "count": 66,
       "max_drop": 37.5,
-      "total_savings": 677.4
+      "total_savings": 737.0
     },
     {
       "site": "currys_com",
@@ -671,7 +671,7 @@
       "percentage": 46.2,
       "old_price": "26.00",
       "new_price": "14.00",
-      "timestamp": "2026-01-19T22:17:19.348700",
+      "timestamp": "2026-01-19T22:22:22.438529",
       "url": "https://dusk.com/products/scallop-contrast-edge-sofa-cushion-cover-stone-black"
     },
     {
@@ -1013,7 +1013,7 @@
       "percentage": 40.7,
       "old_price": "135.00",
       "new_price": "80.00",
-      "timestamp": "2026-01-19T22:17:17.337959",
+      "timestamp": "2026-01-19T22:22:25.760717",
       "url": "https://www.flannels.com/norda-womens-everyday-neutral-road-running-shoes-210824"
     },
     {

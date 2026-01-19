@@ -69,6 +69,20 @@ while true; do
         
         echo ""
         echo "📤 Pushing to GitHub..."
+        
+        # Set up tracking information if not already set
+        if ! git config branch.main.remote &>/dev/null; then
+            echo "🔗 Setting up branch tracking..."
+            git branch --set-upstream-to=origin/main main
+        fi
+        
+        # Pull any remote changes first
+        echo "📥 Pulling latest changes from remote..."
+        git pull origin main --rebase || {
+            echo "⚠️  Pull failed, attempting to push without rebase..."
+        }
+        
+        # Now push
         git push origin main
         
         echo ""

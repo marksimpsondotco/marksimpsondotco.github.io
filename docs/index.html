@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Drop Monitor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔥 Price Drop Monitor</h1>
+            <div class="last-update" id="lastUpdate">Loading...</div>
+        </div>
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h3>Total Drops</h3>
+                <div class="value" id="totalDrops">-</div>
+            </div>
+            <div class="stat-card">
+                <h3>Top Drop</h3>
+                <div class="value" id="topDrop">-</div>
+            </div>
+            <div class="stat-card">
+                <h3>Sites Tracked</h3>
+                <div class="value" id="sitesTracked">-</div>
+            </div>
+        </div>
+        
+        <div class="filters">
+            <div class="search-wrapper">
+                <span class="search-icon">🔍</span>
+                <div contenteditable="true" class="search-box" id="searchBox" data-placeholder="Search products or sites..."></div>
+            </div>
+            <div class="select-wrapper">
+                <div class="custom-select" id="sortSelect">
+                    <div class="select-trigger">
+                        <span>Sort by: Highest % Drop</span>
+                        <span class="arrow">▼</span>
+                    </div>
+                    <div class="options">
+                        <div class="option" data-value="percentage">Sort by: Highest % Drop</div>
+                        <div class="option" data-value="savings">Sort by: Highest Savings</div>
+                        <div class="option" data-value="site">Sort by: Site</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="price-drops" id="priceDrops">
+            <div class="loading">⏳ Loading price drops...</div>
+        </div>
+        
+        <div class="auto-refresh">
+            🔄 Auto-refreshing every 5 minutes | Next refresh: <span id="countdown">5:00</span>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-01-19T23:33:10.299598",
-  "total_drops": 2,
-  "top_drops_shown": 2,
+  "generated_at": "2026-01-19T23:38:11.921301",
+  "total_drops": 3,
+  "top_drops_shown": 3,
   "site_stats": [
+    {
+      "site": "dryrobe_com",
+      "count": 1,
+      "max_drop": 25.9,
+      "total_savings": 35.0
+    },
     {
       "site": "solarscooters_co_uk",
       "count": 2,
@@ -11,6 +17,15 @@
     }
   ],
   "drops": [
+    {
+      "site": "dryrobe_com",
+      "product": "REWORK - Black Grey Camo Advance Kids Changing Robe",
+      "percentage": 25.9,
+      "old_price": "135.00",
+      "new_price": "100.00",
+      "timestamp": "2026-01-19T23:38:04.434460",
+      "url": "https://dryrobe.com/products/rework-black-grey-camo-advance-kids-changing-robe"
+    },
     {
       "site": "solarscooters_co_uk",
       "product": "Solar P1 3.0 Electric Scooter - Black",

@@ -76,11 +76,22 @@ while true; do
             git branch --set-upstream-to=origin/main main
         fi
         
+        # Configure pull strategy if not set
+        if ! git config pull.rebase &>/dev/null; then
+            git config pull.rebase false
+        fi
+        
         # Pull any remote changes first
         echo "📥 Pulling latest changes from remote..."
-        git pull origin main --rebase || {
-            echo "⚠️  Pull failed, attempting to push without rebase..."
-        }
+        if git pull origin main; then
+            echo "✅ Pull successful"
+        else
+            echo "⚠️  Merge conflict detected - resolving with fresh data..."
+            # Regenerate the data file to resolve conflicts
+            python export_price_drops_json.py sites docs/price_drops.json 100
+            git add docs/price_drops.json
+            git commit -m "Resolve merge conflict with fresh price data - $(date '+%Y-%m-%d %H:%M:%S')"
+        fi
         
         # Now push
         git push origin main

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T22:32:55.438570",
-  "total_drops": 1271,
+  "generated_at": "2026-01-19T22:38:07.164663",
+  "total_drops": 1273,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -95,9 +95,9 @@
     },
     {
       "site": "condorcycles_com",
-      "count": 9,
+      "count": 11,
       "max_drop": 27.3,
-      "total_savings": 186.05
+      "total_savings": 206.05
     },
     {
       "site": "radley_co_uk",
@@ -671,7 +671,7 @@
       "percentage": 46.2,
       "old_price": "26.00",
       "new_price": "14.00",
-      "timestamp": "2026-01-19T22:32:46.892385",
+      "timestamp": "2026-01-19T22:37:54.342979",
       "url": "https://dusk.com/products/scallop-contrast-edge-sofa-cushion-cover-stone-black"
     },
     {
@@ -1013,7 +1013,7 @@
       "percentage": 40.7,
       "old_price": "135.00",
       "new_price": "80.00",
-      "timestamp": "2026-01-19T22:32:42.519268",
+      "timestamp": "2026-01-19T22:37:55.676059",
       "url": "https://www.flannels.com/norda-womens-everyday-neutral-road-running-shoes-210824"
     },
     {

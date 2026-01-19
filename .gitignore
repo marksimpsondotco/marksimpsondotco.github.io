@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Project specific - DO NOT COMMIT TO GITHUB
+# Only /docs folder should be public!
+sites/
+Archive/
+Shopify/
+Universal/
+
+# All root Python scripts (monitoring code)
+*.py
+!export_price_drops_json.py
+
+# Configuration and data files
+*.txt
+!requirements.txt
+*.md
+!README.md
+*.csv
+*.json
+!docs/*.json
+
+# Shell scripts
+*.sh
+!deploy_to_github.sh
+
+# Images and media
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.svg
+
+# Backup files
+*.backup
+*.bak
+*copy.py
+urls=*
+backup*
+
+# Temporary files
+testurls.txt
+pending_urls.txt
+original_urls.txt
+extracted_urls.txt

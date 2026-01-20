@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-20T21:36:27.440305",
-  "total_drops": 11,
-  "top_drops_shown": 11,
+  "generated_at": "2026-01-20T21:41:29.093144",
+  "total_drops": 14,
+  "top_drops_shown": 14,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
@@ -14,6 +14,12 @@
       "count": 7,
       "max_drop": 25.0,
       "total_savings": 108.1
+    },
+    {
+      "site": "rehaus_co_uk",
+      "count": 3,
+      "max_drop": 20.3,
+      "total_savings": 6350.0
     },
     {
       "site": "ukbabycentre_com",
@@ -29,7 +35,7 @@
       "percentage": 29.0,
       "old_price": "137.40",
       "new_price": "97.50",
-      "timestamp": "2026-01-20T21:36:13.663029",
+      "timestamp": "2026-01-20T21:41:18.435247",
       "url": "https://fenwick.co.uk/products/other-multicoloured-carlow-duvet-cover-hbcarldcmulticoloured"
     },
     {
@@ -49,6 +55,24 @@
       "new_price": "20.00",
       "timestamp": "2026-01-20T20:04:53.187002",
       "url": "https://fenwick.co.uk/products/lsa-collective-starter-pasta-bowl-x-2-white"
+    },
+    {
+      "site": "rehaus_co_uk",
+      "product": "Hermès Reeditions Dining Table by Jean-Michel Frank",
+      "percentage": 20.3,
+      "old_price": "13800.00",
+      "new_price": "11000.00",
+      "timestamp": "2026-01-20T21:41:22.477127",
+      "url": "https://rehaus.co.uk/products/2576939376"
+    },
+    {
+      "site": "rehaus_co_uk",
+      "product": "Hermès Reeditions 3 Seater Leather Sofa by J.M. Frank",
+      "percentage": 18.8,
+      "old_price": "17250.00",
+      "new_price": "14000.00",
+      "timestamp": "2026-01-20T21:41:22.477127",
+      "url": "https://rehaus.co.uk/products/2576934955"
     },
     {
       "site": "boden_com",
@@ -87,6 +111,15 @@
       "url": "https://www.boden.com/products/boys-cosy-fleece-joggers-college-navy-b2844nav"
     },
     {
+      "site": "rehaus_co_uk",
+      "product": "Fritz Hansen Swan Chair by Arne Jacobsen",
+      "percentage": 13.0,
+      "old_price": "2300.00",
+      "new_price": "2000.00",
+      "timestamp": "2026-01-20T21:41:22.477127",
+      "url": "https://rehaus.co.uk/products/2573384601"
+    },
+    {
       "site": "boden_com",
       "product": "Cord Leggings-College Navy",
       "percentage": 12.0,
@@ -110,7 +143,7 @@
       "percentage": 5.4,
       "old_price": "295.00",
       "new_price": "279.00",
-      "timestamp": "2026-01-20T21:36:13.238261",
+      "timestamp": "2026-01-20T21:41:23.815023",
       "url": "https://ukbabycentre.com/products/uppababy-minu-v2-stroller-bundle-jake"
     },
     {
@@ -119,7 +152,7 @@
       "percentage": 5.1,
       "old_price": "999.99",
       "new_price": "949.00",
-      "timestamp": "2026-01-20T21:36:13.238261",
+      "timestamp": "2026-01-20T21:41:23.815023",
       "url": "https://ukbabycentre.com/products/bugaboo-fox-5-essential-bundle-noir-limited-edition-midnight-green"
     }
   ]

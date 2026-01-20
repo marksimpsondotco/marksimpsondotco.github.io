@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-20T08:39:35.423978",
-  "total_drops": 742,
+  "generated_at": "2026-01-20T08:44:45.160691",
+  "total_drops": 753,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
-      "count": 253,
+      "count": 255,
       "max_drop": 60.6,
-      "total_savings": 18742.48
+      "total_savings": 18862.48
     },
     {
       "site": "currys_com",
-      "count": 206,
+      "count": 214,
       "max_drop": 58.8,
-      "total_savings": 6805.88
+      "total_savings": 6839.89
     },
     {
       "site": "johnlewis_com",
@@ -29,9 +29,9 @@
     },
     {
       "site": "boden_com",
-      "count": 4,
+      "count": 5,
       "max_drop": 40.0,
-      "total_savings": 78.2
+      "total_savings": 102.0
     },
     {
       "site": "flannels_com",
@@ -116,7 +116,7 @@
       "percentage": 58.8,
       "old_price": "5.99",
       "new_price": "2.47",
-      "timestamp": "2026-01-20T08:39:23.809087",
+      "timestamp": "2026-01-20T08:44:39.525202",
       "url": "https://www.currys.co.uk/products/10283564.html"
     },
     {
@@ -292,6 +292,15 @@
     },
     {
       "site": "fenwick_co_uk",
+      "product": "HEADLINE",
+      "percentage": 47.3,
+      "old_price": "169.00",
+      "new_price": "89.00",
+      "timestamp": "2026-01-20T08:44:31.960043",
+      "url": "https://fenwick.co.uk/products/black-headline-3812400109"
+    },
+    {
+      "site": "fenwick_co_uk",
       "product": "Ivory/Multi Feathered Tiger Shirred Blouse",
       "percentage": 44.9,
       "old_price": "89.00",
@@ -386,7 +395,7 @@
       "percentage": 43.7,
       "old_price": "19.99",
       "new_price": "11.25",
-      "timestamp": "2026-01-20T08:39:23.809087",
+      "timestamp": "2026-01-20T08:44:39.525202",
       "url": "https://www.currys.co.uk/products/10226606.html"
     },
     {
@@ -422,7 +431,7 @@
       "percentage": 41.2,
       "old_price": "16.99",
       "new_price": "9.99",
-      "timestamp": "2026-01-20T08:39:23.809087",
+      "timestamp": "2026-01-20T08:44:39.525202",
       "url": "https://www.currys.co.uk/products/10289857.html"
     },
     {
@@ -442,6 +451,15 @@
       "new_price": "35.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-white-twist-front-detail-tee"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Boulder Heeled Ankle Boots Black",
+      "percentage": 40.4,
+      "old_price": "99.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-20T08:44:31.960043",
+      "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
       "site": "fenwick_co_uk",
@@ -593,7 +611,7 @@
       "percentage": 39.2,
       "old_price": "27.90",
       "new_price": "16.97",
-      "timestamp": "2026-01-20T08:39:23.809087",
+      "timestamp": "2026-01-20T08:44:39.525202",
       "url": "https://www.currys.co.uk/products/10276698.html"
     },
     {
@@ -746,7 +764,7 @@
       "percentage": 34.8,
       "old_price": "22.97",
       "new_price": "14.97",
-      "timestamp": "2026-01-20T08:39:23.809087",
+      "timestamp": "2026-01-20T08:44:39.525202",
       "url": "https://www.currys.co.uk/products/10235192.html"
     },
     {
@@ -755,7 +773,7 @@
       "percentage": 34.8,
       "old_price": "22.97",
       "new_price": "14.97",
-      "timestamp": "2026-01-20T08:39:23.809087",
+      "timestamp": "2026-01-20T08:44:39.525202",
       "url": "https://www.currys.co.uk/products/10286559.html"
     },
     {
@@ -899,7 +917,7 @@
       "percentage": 33.5,
       "old_price": "224.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-20T08:39:23.809087",
+      "timestamp": "2026-01-20T08:44:39.525202",
       "url": "https://www.currys.co.uk/products/10268526.html"
     },
     {
@@ -964,24 +982,6 @@
       "new_price": "49.50",
       "timestamp": "2026-01-20T07:55:45.721418",
       "url": "https://www.johnlewis.com/ralph-lauren-kids-cotton-long-sleeved-rugby-shirt-red-blue/p113626559"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Green/Multi Kelly Tiger Flame Jumpsuit",
-      "percentage": 31.7,
-      "old_price": "139.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-green-green-multi-kelly-tiger-flame-jumpsuit-39967"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Blue/Multi Stripe Print Zip Jumpsuit",
-      "percentage": 31.7,
-      "old_price": "139.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-blue-blue-multi-stripe-print-zip-jumpsuit-39749"
     }
   ]
 }

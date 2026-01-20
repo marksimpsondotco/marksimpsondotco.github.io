@@ -1,13 +1,19 @@
 {
-  "generated_at": "2026-01-20T11:10:37.901240",
-  "total_drops": 986,
+  "generated_at": "2026-01-20T11:15:51.644513",
+  "total_drops": 999,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 326,
+      "count": 335,
       "max_drop": 75.0,
-      "total_savings": 6445.86
+      "total_savings": 6863.35
+    },
+    {
+      "site": "origincoffee_co_uk",
+      "count": 1,
+      "max_drop": 66.4,
+      "total_savings": 25.55
     },
     {
       "site": "fenwick_co_uk",
@@ -41,9 +47,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 26,
+      "count": 27,
       "max_drop": 40.0,
-      "total_savings": 1139.5
+      "total_savings": 1186.5
     },
     {
       "site": "boden_com",
@@ -68,6 +74,12 @@
       "count": 1,
       "max_drop": 25.9,
       "total_savings": 35.0
+    },
+    {
+      "site": "hoxtonmacs_co_uk",
+      "count": 2,
+      "max_drop": 24.3,
+      "total_savings": 850.0
     },
     {
       "site": "pureelectric_com",
@@ -139,6 +151,24 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Harrietta Mary Jane Leather Pumps",
+      "percentage": 72.8,
+      "old_price": "65.00",
+      "new_price": "17.70",
+      "timestamp": "2026-01-20T11:15:42.446698",
+      "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Helenca Lace Bikini Knickers, Pack of 3",
+      "percentage": 72.2,
+      "old_price": "18.00",
+      "new_price": "5.00",
+      "timestamp": "2026-01-20T11:15:42.446698",
+      "url": "https://www.johnlewis.com/john-lewis-helenca-lace-bikini-knickers-pack-of-3/p111801639"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Essential Straight Cut Chinos",
       "percentage": 70.0,
       "old_price": "55.00",
@@ -172,6 +202,15 @@
       "new_price": "20.70",
       "timestamp": "2026-01-20T10:57:26.622252",
       "url": "https://www.johnlewis.com/john-lewis-helm-suede-high-vamp-ballerina-pumps/p113907299"
+    },
+    {
+      "site": "origincoffee_co_uk",
+      "product": "Pathfinder",
+      "percentage": 66.4,
+      "old_price": "38.50",
+      "new_price": "12.95",
+      "timestamp": "2026-01-20T11:14:43.529137",
+      "url": "https://www.origincoffee.co.uk/products/pathfinder"
     },
     {
       "site": "johnlewis_com",
@@ -242,7 +281,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T11:10:27.086217",
+      "timestamp": "2026-01-20T11:15:17.460295",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -354,6 +393,15 @@
       "url": "https://fenwick.co.uk/products/whistles-black-black-hot-fix-jersey-midi-dress-39134"
     },
     {
+      "site": "johnlewis_com",
+      "product": "John Lewis Woven Leather Tote Bag",
+      "percentage": 50.1,
+      "old_price": "89.50",
+      "new_price": "44.70",
+      "timestamp": "2026-01-20T11:15:42.446698",
+      "url": "https://www.johnlewis.com/john-lewis-woven-leather-tote-bag/p113892391"
+    },
+    {
       "site": "condorcycles_com",
       "product": "Tektro TR-35 Center Lock Rotor",
       "percentage": 50.0,
@@ -361,6 +409,15 @@
       "new_price": "12.49",
       "timestamp": "2026-01-20T09:38:20.667499",
       "url": "https://www.condorcycles.com/products/trp-35-centrelock-rotor"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "UGG Classic Mini II Short Sheepskin Boots",
+      "percentage": 50.0,
+      "old_price": "165.00",
+      "new_price": "82.50",
+      "timestamp": "2026-01-20T11:15:42.446698",
+      "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
     },
     {
       "site": "johnlewis_com",
@@ -539,7 +596,7 @@
       "percentage": 50.0,
       "old_price": "495.00",
       "new_price": "247.50",
-      "timestamp": "2026-01-20T11:10:27.302086",
+      "timestamp": "2026-01-20T11:13:51.975966",
       "url": "https://www.trunkclothiers.com/products/trunk-dover-cashmere-crew-neck-sweater-grey"
     },
     {
@@ -589,6 +646,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Radley Dukes Place Leather Grab Bag",
+      "percentage": 49.0,
+      "old_price": "259.00",
+      "new_price": "132.09",
+      "timestamp": "2026-01-20T11:15:42.446698",
+      "url": "https://www.johnlewis.com/radley-dukes-place-leather-grab-bag/p113917130"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Le Creuset Cast Iron Signature Square Grillit, 26cm",
       "percentage": 48.1,
       "old_price": "159.00",
@@ -611,7 +677,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T11:10:27.086217",
+      "timestamp": "2026-01-20T11:15:17.460295",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -620,7 +686,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T11:10:27.086217",
+      "timestamp": "2026-01-20T11:15:17.460295",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -728,7 +794,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T11:10:27.086217",
+      "timestamp": "2026-01-20T11:15:17.460295",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -818,7 +884,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T11:10:27.086217",
+      "timestamp": "2026-01-20T11:15:17.460295",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -949,75 +1015,21 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Mango Super Suede Ankle Boots",
+      "percentage": 40.0,
+      "old_price": "49.99",
+      "new_price": "29.99",
+      "timestamp": "2026-01-20T11:15:42.446698",
+      "url": "https://www.johnlewis.com/mango-super-suede-ankle-boots/p114037890"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Triumph Amourette Underwired Padded Spacer Cup Bra",
       "percentage": 40.0,
       "old_price": "23.00",
       "new_price": "13.80",
       "timestamp": "2026-01-20T01:17:00.280502",
       "url": "https://www.johnlewis.com/triumph-amourette-underwired-padded-spacer-cup-bra/p112911504"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Men's Leather Loafers",
-      "percentage": 40.0,
-      "old_price": "44.50",
-      "new_price": "26.70",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/john-lewis-mens-leather-loafers/p109856422"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Selected Wool Blend Knitted Vest, Coffee Bean",
-      "percentage": 40.0,
-      "old_price": "32.50",
-      "new_price": "19.50",
-      "timestamp": "2026-01-20T10:11:45.622306",
-      "url": "https://www.johnlewis.com/selected-wool-blend-knitted-vest-coffee-bean/p113981458"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Bobbi Brown Long-Wear Cream Shadow Stick",
-      "percentage": 40.0,
-      "old_price": "29.50",
-      "new_price": "17.70",
-      "timestamp": "2026-01-20T10:11:45.622306",
-      "url": "https://www.johnlewis.com/bobbi-brown-long-wear-cream-shadow-stick/p2581250"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Ted Baker Prinell Floral Pattern Leather Trainers",
-      "percentage": 40.0,
-      "old_price": "59.50",
-      "new_price": "35.70",
-      "timestamp": "2026-01-20T10:57:26.622252",
-      "url": "https://www.johnlewis.com/ted-baker-prinell-floral-pattern-leather-trainers/p114208992"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Gabor Dolly Suede Chunky Lace Up Leopard Print Trainers, Grey",
-      "percentage": 40.0,
-      "old_price": "62.50",
-      "new_price": "37.50",
-      "timestamp": "2026-01-20T10:57:26.622252",
-      "url": "https://www.johnlewis.com/gabor-dolly-suede-chunky-lace-up-leopard-print-trainers-grey/p113648154"
-    },
-    {
-      "site": "flannels_com",
-      "product": "KENZO - Kids' Closed Hem Jersey Joggers",
-      "percentage": 40.0,
-      "old_price": "55.00",
-      "new_price": "33.00",
-      "timestamp": "2026-01-20T11:01:32.946643",
-      "url": "https://www.flannels.com/kenzo-kids-closed-hem-jersey-joggers-480118"
-    },
-    {
-      "site": "boden_com",
-      "product": "Heeled Buckled Ankle Boot-Cognac",
-      "percentage": 40.0,
-      "old_price": "169.00",
-      "new_price": "101.40",
-      "timestamp": "2026-01-20T05:42:14.194842",
-      "url": "https://www.boden.com/products/women-heeled-buckled-ankle-boot-cognac-a2128tan"
     }
   ]
 }

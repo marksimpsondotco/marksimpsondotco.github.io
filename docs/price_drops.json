@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T09:31:38.090723",
-  "total_drops": 793,
+  "generated_at": "2026-01-20T09:36:47.296287",
+  "total_drops": 864,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,21 +11,21 @@
     },
     {
       "site": "currys_com",
-      "count": 226,
+      "count": 227,
       "max_drop": 58.8,
-      "total_savings": 6996.89
+      "total_savings": 7016.89
     },
     {
       "site": "johnlewis_com",
-      "count": 241,
+      "count": 248,
       "max_drop": 51.2,
-      "total_savings": 4995.95
+      "total_savings": 5043.25
     },
     {
       "site": "condorcycles_com",
-      "count": 11,
+      "count": 12,
       "max_drop": 50.0,
-      "total_savings": 96.51
+      "total_savings": 101.51
     },
     {
       "site": "hollandcooper_com",
@@ -34,16 +34,22 @@
       "total_savings": 60.0
     },
     {
+      "site": "flannels_com",
+      "count": 25,
+      "max_drop": 40.0,
+      "total_savings": 1116.5
+    },
+    {
       "site": "boden_com",
       "count": 10,
       "max_drop": 40.0,
       "total_savings": 132.0
     },
     {
-      "site": "flannels_com",
-      "count": 22,
-      "max_drop": 30.8,
-      "total_savings": 1058.5
+      "site": "saltrock_com",
+      "count": 59,
+      "max_drop": 33.3,
+      "total_savings": 223.0
     },
     {
       "site": "twentytwentyone_com",
@@ -131,7 +137,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T09:31:20.526444",
+      "timestamp": "2026-01-20T09:36:42.097148",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -221,8 +227,17 @@
       "percentage": 50.0,
       "old_price": "24.99",
       "new_price": "12.49",
-      "timestamp": "2026-01-20T09:31:16.426180",
+      "timestamp": "2026-01-20T09:36:08.889207",
       "url": "https://www.condorcycles.com/products/trp-35-centrelock-rotor"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Le Creuset Classic Pepper Mill",
+      "percentage": 50.0,
+      "old_price": "43.00",
+      "new_price": "21.50",
+      "timestamp": "2026-01-20T09:36:41.047365",
+      "url": "https://www.johnlewis.com/le-creuset-classic-pepper-mill/p5067050"
     },
     {
       "site": "fenwick_co_uk",
@@ -320,7 +335,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T09:31:20.526444",
+      "timestamp": "2026-01-20T09:36:42.097148",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -482,7 +497,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T09:31:20.526444",
+      "timestamp": "2026-01-20T09:36:42.097148",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -630,6 +645,15 @@
       "url": "https://www.johnlewis.com/john-lewis-mens-leather-loafers/p109856422"
     },
     {
+      "site": "flannels_com",
+      "product": "KENZO - Kids' Closed Hem Jersey Joggers",
+      "percentage": 40.0,
+      "old_price": "55.00",
+      "new_price": "33.00",
+      "timestamp": "2026-01-20T09:36:43.654306",
+      "url": "https://www.flannels.com/kenzo-kids-closed-hem-jersey-joggers-480118"
+    },
+    {
       "site": "boden_com",
       "product": "Heeled Buckled Ankle Boot-Cognac",
       "percentage": 40.0,
@@ -707,7 +731,7 @@
       "percentage": 37.5,
       "old_price": "39.99",
       "new_price": "24.99",
-      "timestamp": "2026-01-20T09:31:16.426180",
+      "timestamp": "2026-01-20T09:36:08.889207",
       "url": "https://www.condorcycles.com/products/trp-25-centerlock-rotor"
     },
     {
@@ -792,6 +816,15 @@
       "url": "https://www.johnlewis.com/reiss-kids-prescott-jacket/p114290378"
     },
     {
+      "site": "flannels_com",
+      "product": "OFF WHITE - Kids Closed Hem Fleece Jogging Bottoms",
+      "percentage": 35.3,
+      "old_price": "68.00",
+      "new_price": "44.00",
+      "timestamp": "2026-01-20T09:36:43.654306",
+      "url": "https://www.flannels.com/off-white-kids-closed-hem-fleece-jogging-bottoms-322347"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Maja Knitted Polo Neck Knit",
       "percentage": 35.3,
@@ -860,7 +893,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T09:31:20.526444",
+      "timestamp": "2026-01-20T09:36:42.097148",
       "url": "https://fenwick.co.uk/products/white-triumph-sneaker-4418110979"
     },
     {
@@ -961,33 +994,6 @@
       "new_price": "79.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-multi-metallic-dobby-frill-blouse-40470"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Ivory Abby Linen Casual Jacket",
-      "percentage": 33.6,
-      "old_price": "119.00",
-      "new_price": "79.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-white-ivory-abby-linen-casual-jacket-39757"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Velvet Pleat Sleeve Mini Dress",
-      "percentage": 33.6,
-      "old_price": "149.00",
-      "new_price": "99.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-black-black-velvet-pleat-sleeve-mini-dress-37639"
-    },
-    {
-      "site": "currys_com",
-      "product": "DAEWOO COL1613GE Portable Dehumidifier - White",
-      "percentage": 33.5,
-      "old_price": "224.00",
-      "new_price": "149.00",
-      "timestamp": "2026-01-20T08:45:02.859142",
-      "url": "https://www.currys.co.uk/products/10268526.html"
     }
   ]
 }

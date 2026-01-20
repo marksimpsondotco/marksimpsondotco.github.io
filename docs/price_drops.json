@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-20T06:51:11.360630",
-  "total_drops": 423,
+  "generated_at": "2026-01-20T06:56:17.783890",
+  "total_drops": 453,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
-      "count": 251,
+      "count": 252,
       "max_drop": 60.6,
-      "total_savings": 18707.48
+      "total_savings": 18732.48
     },
     {
       "site": "johnlewis_com",
-      "count": 139,
+      "count": 168,
       "max_drop": 44.0,
-      "total_savings": 3679.84
+      "total_savings": 3944.31
     },
     {
       "site": "hollandcooper_com",
@@ -427,6 +427,24 @@
       "new_price": "89.00",
       "timestamp": "2026-01-20T03:40:54.981699",
       "url": "https://www.hollandcooper.com/products/oversized-cotton-lace-shirt-tick-stripe-sky-blue"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Mini Boden Kids' Cotton Glow-in-the-Dark Long Sleeve T-Shirt, Dino Skeletons",
+      "percentage": 40.0,
+      "old_price": "17.00",
+      "new_price": "10.20",
+      "timestamp": "2026-01-20T06:56:11.680305",
+      "url": "https://www.johnlewis.com/mini-boden-kids-cotton-glow-in-the-dark-long-sleeve-t-shirt-dino-skeletons/p114328632"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Polarn O. Pyret Kids' Wool Long Sleeve Unisex Sweater",
+      "percentage": 40.0,
+      "old_price": "28.00",
+      "new_price": "16.80",
+      "timestamp": "2026-01-20T06:56:11.680305",
+      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-wool-long-sleeve-unisex-sweater/p113960797"
     },
     {
       "site": "johnlewis_com",
@@ -898,84 +916,66 @@
     },
     {
       "site": "johnlewis_com",
-      "product": "John Lewis British Landscape Meadow Scented Candle, 315g",
-      "percentage": 28.6,
-      "old_price": "21.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/john-lewis-british-landscape-meadow-scented-candle-315g/p111147678"
+      "product": "Ralph Lauren Polo Ralph Lauren Kids' Big Pony Polo Shirt",
+      "percentage": 28.7,
+      "old_price": "55.42",
+      "new_price": "39.50",
+      "timestamp": "2026-01-20T06:56:11.680305",
+      "url": "https://www.johnlewis.com/ralph-lauren-polo-ralph-lauren-kids-big-pony-polo-shirt/p113197768"
     },
     {
       "site": "johnlewis_com",
-      "product": "Poole Pottery Keystone Earthenware Vase, H26cm, Celestial",
+      "product": "Hackett London Kids' Cotton Knitted Embroidered Hoodie, Stone Beige",
       "percentage": 28.6,
-      "old_price": "133.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/poole-pottery-keystone-earthenware-vase-h26cm-celestial/p113794027"
+      "old_price": "56.00",
+      "new_price": "40.00",
+      "timestamp": "2026-01-20T06:56:11.680305",
+      "url": "https://www.johnlewis.com/hackett-london-kids-cotton-knitted-embroidered-hoodie-stone-beige/p114165585"
     },
     {
       "site": "johnlewis_com",
-      "product": "LSA International Folk Decorative Glass Bowl, 23.8cm, Blue/Orange",
+      "product": "Hackett London Kids' Cotton Blend Regular Trousers",
       "percentage": 28.6,
-      "old_price": "70.00",
-      "new_price": "50.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/lsa-international-folk-decorative-glass-bowl-23-8cm-blue-orange/p111560511"
+      "old_price": "56.00",
+      "new_price": "40.00",
+      "timestamp": "2026-01-20T06:56:11.680305",
+      "url": "https://www.johnlewis.com/hackett-london-kids-cotton-blend-regular-trousers/p114043528"
     },
     {
       "site": "johnlewis_com",
-      "product": "Hackett London Otto Lace Up Trainers",
+      "product": "Ralph Lauren Kids' Cotton Long Sleeved Checked Shirt, Red/Cream",
       "percentage": 28.6,
-      "old_price": "112.00",
-      "new_price": "80.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/hackett-london-otto-lace-up-trainers/p114043029"
+      "old_price": "52.50",
+      "new_price": "37.50",
+      "timestamp": "2026-01-20T06:56:11.680305",
+      "url": "https://www.johnlewis.com/ralph-lauren-kids-cotton-long-sleeved-checked-shirt-red-cream/p114247081"
     },
     {
       "site": "johnlewis_com",
-      "product": "Hackett London Otto Lace Up Trainers, Beige",
+      "product": "Hackett London Kids' Classic Fit Trim Flannel Shirt, Midnight Blue",
       "percentage": 28.6,
-      "old_price": "112.00",
-      "new_price": "80.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/hackett-london-otto-lace-up-trainers-beige/p114173692"
+      "old_price": "42.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-20T06:56:11.680305",
+      "url": "https://www.johnlewis.com/hackett-london-kids-classic-fit-trim-flannel-shirt-midnight-blue/p114043535"
     },
     {
       "site": "johnlewis_com",
-      "product": "Merrell Men's Capra 2 Hiking Trainers, Black/Charcoal",
+      "product": "Hackett London Kids' Brompton Cotton Oxford Shirt, Malt Beige",
       "percentage": 28.6,
-      "old_price": "119.00",
-      "new_price": "85.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/merrell-mens-capra-2-hiking-trainers-black-charcoal/p112946983"
+      "old_price": "38.50",
+      "new_price": "27.50",
+      "timestamp": "2026-01-20T06:56:11.680305",
+      "url": "https://www.johnlewis.com/hackett-london-kids-brompton-cotton-oxford-shirt-malt-beige/p114165200"
     },
     {
-      "site": "flannels_com",
-      "product": "Calvin Klein - Lace Up Mix Trainers",
+      "site": "johnlewis_com",
+      "product": "Hackett London Kids' Cotton Long Sleeve Zip Neck Jersey Top",
       "percentage": 28.6,
-      "old_price": "70.00",
-      "new_price": "50.00",
-      "timestamp": "2026-01-20T06:36:51.719210",
-      "url": "https://www.flannels.com/calvin-klein-lace-up-mix-trainers-125019"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Harrys of London - SW1 Mount Suede Trainers",
-      "percentage": 28.6,
-      "old_price": "119.00",
-      "new_price": "85.00",
-      "timestamp": "2026-01-20T06:36:51.719210",
-      "url": "https://www.flannels.com/harrys-of-london-sw1-mount-suede-trainers-125217"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Green Willa V Neck Cap Sleeve Tee",
-      "percentage": 28.6,
-      "old_price": "35.00",
-      "new_price": "25.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-green-green-willa-v-neck-cap-sleeve-tee-39654"
+      "old_price": "56.00",
+      "new_price": "40.00",
+      "timestamp": "2026-01-20T06:56:11.680305",
+      "url": "https://www.johnlewis.com/hackett-london-kids-cotton-long-sleeve-zip-neck-jersey-top/p114043517"
     }
   ]
 }

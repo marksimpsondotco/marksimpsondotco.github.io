@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-20T21:31:23.247622",
+  "generated_at": "2026-01-20T21:36:25.527490",
   "total_drops": 11,
   "top_drops_shown": 11,
   "site_stats": [
@@ -29,7 +29,7 @@
       "percentage": 29.0,
       "old_price": "137.40",
       "new_price": "97.50",
-      "timestamp": "2026-01-20T21:31:04.624812",
+      "timestamp": "2026-01-20T21:36:13.663029",
       "url": "https://fenwick.co.uk/products/other-multicoloured-carlow-duvet-cover-hbcarldcmulticoloured"
     },
     {
@@ -110,7 +110,7 @@
       "percentage": 5.4,
       "old_price": "295.00",
       "new_price": "279.00",
-      "timestamp": "2026-01-20T21:30:53.927629",
+      "timestamp": "2026-01-20T21:36:13.238261",
       "url": "https://ukbabycentre.com/products/uppababy-minu-v2-stroller-bundle-jake"
     },
     {
@@ -119,7 +119,7 @@
       "percentage": 5.1,
       "old_price": "999.99",
       "new_price": "949.00",
-      "timestamp": "2026-01-20T21:30:53.927629",
+      "timestamp": "2026-01-20T21:36:13.238261",
       "url": "https://ukbabycentre.com/products/bugaboo-fox-5-essential-bundle-noir-limited-edition-midnight-green"
     }
   ]

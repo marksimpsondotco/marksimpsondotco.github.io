@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T08:03:33.843735",
-  "total_drops": 578,
+  "generated_at": "2026-01-20T08:08:41.865024",
+  "total_drops": 620,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "currys_com",
-      "count": 67,
+      "count": 102,
       "max_drop": 43.7,
-      "total_savings": 1774.33
+      "total_savings": 2495.9
     },
     {
       "site": "hollandcooper_com",
@@ -74,6 +74,12 @@
       "count": 1,
       "max_drop": 6.3,
       "total_savings": 6.5
+    },
+    {
+      "site": "ullajohnson_com",
+      "count": 7,
+      "max_drop": 2.3,
+      "total_savings": 35.0
     }
   ],
   "drops": [
@@ -371,7 +377,7 @@
       "percentage": 43.7,
       "old_price": "19.99",
       "new_price": "11.25",
-      "timestamp": "2026-01-20T08:03:23.324347",
+      "timestamp": "2026-01-20T08:08:33.079929",
       "url": "https://www.currys.co.uk/products/10226606.html"
     },
     {
@@ -400,6 +406,15 @@
       "new_price": "17.00",
       "timestamp": "2026-01-20T07:55:45.721418",
       "url": "https://www.johnlewis.com/joules-kids-crofton-colour-block-gilet-multi/p114206247"
+    },
+    {
+      "site": "currys_com",
+      "product": "HEAD Elastic Resistance Band - Pack of 3",
+      "percentage": 41.2,
+      "old_price": "16.99",
+      "new_price": "9.99",
+      "timestamp": "2026-01-20T08:08:33.079929",
+      "url": "https://www.currys.co.uk/products/10289857.html"
     },
     {
       "site": "fenwick_co_uk",
@@ -564,6 +579,15 @@
       "url": "https://www.johnlewis.com/french-connection-meera-longline-round-neck-jersey-cardigan/p113950648"
     },
     {
+      "site": "currys_com",
+      "product": "M-PETS Yumi Smart Pet Bowl - White & Black",
+      "percentage": 39.2,
+      "old_price": "27.90",
+      "new_price": "16.97",
+      "timestamp": "2026-01-20T08:08:33.079929",
+      "url": "https://www.currys.co.uk/products/10276698.html"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Spot Shirred Cuff Blouse Black",
       "percentage": 38.2,
@@ -713,8 +737,17 @@
       "percentage": 34.8,
       "old_price": "22.97",
       "new_price": "14.97",
-      "timestamp": "2026-01-20T08:03:23.324347",
+      "timestamp": "2026-01-20T08:08:33.079929",
       "url": "https://www.currys.co.uk/products/10235192.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "BRAUN Series 8 8603s Electric Shaver - Grey",
+      "percentage": 34.8,
+      "old_price": "22.97",
+      "new_price": "14.97",
+      "timestamp": "2026-01-20T08:08:33.079929",
+      "url": "https://www.currys.co.uk/products/10286559.html"
     },
     {
       "site": "fenwick_co_uk",
@@ -949,33 +982,6 @@
       "new_price": "75.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-black-crochet-knitted-shirt"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Olive Millie Linen Trouser",
-      "percentage": 31.2,
-      "old_price": "109.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-green-olive-millie-linen-trouser-39715"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "White Leona Linen Blend Trouser",
-      "percentage": 31.2,
-      "old_price": "109.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-white-white-leona-linen-blend-trouser-39720"
-    },
-    {
-      "site": "currys_com",
-      "product": "TP-LINK Tapo P110M Mini Smart WiFi Plug",
-      "percentage": 30.7,
-      "old_price": "12.99",
-      "new_price": "9.00",
-      "timestamp": "2026-01-20T08:03:23.324347",
-      "url": "https://www.currys.co.uk/products/10267464.html"
     }
   ]
 }

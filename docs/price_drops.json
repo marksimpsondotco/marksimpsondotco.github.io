@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-20T23:17:28.679733",
-  "total_drops": 51,
-  "top_drops_shown": 51,
+  "generated_at": "2026-01-20T23:22:31.758151",
+  "total_drops": 58,
+  "top_drops_shown": 58,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
@@ -17,9 +17,9 @@
     },
     {
       "site": "twentytwentyone_com",
-      "count": 30,
+      "count": 37,
       "max_drop": 25.9,
-      "total_savings": 148.0
+      "total_savings": 162.0
     },
     {
       "site": "boden_com",
@@ -59,7 +59,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T23:17:27.819604",
+      "timestamp": "2026-01-20T23:22:17.472609",
       "url": "https://fenwick.co.uk/products/gold-symmetry-court-vinyl-80-2413561979"
     },
     {
@@ -77,7 +77,7 @@
       "percentage": 29.0,
       "old_price": "137.40",
       "new_price": "97.50",
-      "timestamp": "2026-01-20T23:17:27.819604",
+      "timestamp": "2026-01-20T23:22:17.472609",
       "url": "https://fenwick.co.uk/products/other-multicoloured-carlow-duvet-cover-hbcarldcmulticoloured"
     },
     {
@@ -86,7 +86,7 @@
       "percentage": 29.0,
       "old_price": "69.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T23:17:27.819604",
+      "timestamp": "2026-01-20T23:22:17.472609",
       "url": "https://fenwick.co.uk/products/navy-lovebird-vinyl-9277284979"
     },
     {
@@ -95,7 +95,7 @@
       "percentage": 25.9,
       "old_price": "29.00",
       "new_price": "21.50",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/form-and-refine-herman-studio-angle-hook"
     },
     {
@@ -131,7 +131,7 @@
       "percentage": 20.3,
       "old_price": "59.00",
       "new_price": "47.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/nedre-foss-sigve-knutson-bokk-bottle-opener"
     },
     {
@@ -149,7 +149,7 @@
       "percentage": 20.0,
       "old_price": "97.50",
       "new_price": "78.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/nedre-foss-paolo-lucidi-and-luca-pevere-korg-tray"
     },
     {
@@ -163,11 +163,29 @@
     },
     {
       "site": "twentytwentyone_com",
+      "product": "Organic Soap | Cloud",
+      "percentage": 18.2,
+      "old_price": "5.50",
+      "new_price": "4.50",
+      "timestamp": "2026-01-20T23:22:25.327946",
+      "url": "https://www.twentytwentyone.com/products/studio-arhoj-organic-soap-cloud"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Organic Soap | Beer Mud",
+      "percentage": 18.2,
+      "old_price": "5.50",
+      "new_price": "4.50",
+      "timestamp": "2026-01-20T23:22:25.327946",
+      "url": "https://www.twentytwentyone.com/products/studio-arhoj-organic-soap-beer-mud"
+    },
+    {
+      "site": "twentytwentyone_com",
       "product": "Bas Poster 01",
       "percentage": 16.7,
       "old_price": "36.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bouroullec-bas-posters"
     },
     {
@@ -176,7 +194,7 @@
       "percentage": 16.7,
       "old_price": "36.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/the-wrong-shop-richard-woods-window-posters"
     },
     {
@@ -185,7 +203,7 @@
       "percentage": 16.7,
       "old_price": "36.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/ronan-bouroullec-poster-drawing-2"
     },
     {
@@ -194,7 +212,7 @@
       "percentage": 16.7,
       "old_price": "36.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bouroullec-poster-drawing-10"
     },
     {
@@ -203,7 +221,7 @@
       "percentage": 16.7,
       "old_price": "36.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bouroullec-poster-drawing-11"
     },
     {
@@ -212,7 +230,7 @@
       "percentage": 16.7,
       "old_price": "36.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bourollec-bas-poster-3"
     },
     {
@@ -230,7 +248,7 @@
       "percentage": 15.8,
       "old_price": "9.50",
       "new_price": "8.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/stephen-pearce-shanagarry-tea-light-holder"
     },
     {
@@ -244,11 +262,20 @@
     },
     {
       "site": "twentytwentyone_com",
+      "product": "Hand Lotion Santal + Cedar",
+      "percentage": 15.0,
+      "old_price": "30.00",
+      "new_price": "25.50",
+      "timestamp": "2026-01-20T23:22:25.327946",
+      "url": "https://www.twentytwentyone.com/products/kinfill-hand-lotion-santal-cedar"
+    },
+    {
+      "site": "twentytwentyone_com",
       "product": "Bakers Brush",
       "percentage": 14.3,
       "old_price": "14.00",
       "new_price": "12.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/iris-hantverk-bakers-brush"
     },
     {
@@ -259,6 +286,24 @@
       "new_price": "59.40",
       "timestamp": "2026-01-20T21:28:52.576529",
       "url": "https://www.boden.com/products/women-marion-merino-high-neck-jumper-gladioli-orange-k1168ora"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Hand Wash Santal + Cedar",
+      "percentage": 14.0,
+      "old_price": "25.00",
+      "new_price": "21.50",
+      "timestamp": "2026-01-20T23:22:25.327946",
+      "url": "https://www.twentytwentyone.com/products/kinfill-hand-wash-santal-cedar"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Hand Lotion Refill Santal + Cedar",
+      "percentage": 13.9,
+      "old_price": "18.00",
+      "new_price": "15.50",
+      "timestamp": "2026-01-20T23:22:25.327946",
+      "url": "https://www.twentytwentyone.com/products/kinfill-hand-lotion-refill-santal-cedar"
     },
     {
       "site": "boden_com",
@@ -275,7 +320,7 @@
       "percentage": 13.7,
       "old_price": "25.50",
       "new_price": "22.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/side-by-side-jette-scheib-rectangle-cutting-board"
     },
     {
@@ -284,7 +329,7 @@
       "percentage": 13.3,
       "old_price": "15.00",
       "new_price": "13.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/quitterie-coin-purse"
     },
     {
@@ -293,7 +338,7 @@
       "percentage": 13.3,
       "old_price": "15.00",
       "new_price": "13.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/iris-hantverk-shoe-brush"
     },
     {
@@ -302,7 +347,7 @@
       "percentage": 13.3,
       "old_price": "15.00",
       "new_price": "13.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/iris-hantverk-computer-desktop-brush"
     },
     {
@@ -320,7 +365,7 @@
       "percentage": 12.9,
       "old_price": "163.00",
       "new_price": "142.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/pappelina-kim-froyen-lina-rickardson-sam-rug"
     },
     {
@@ -329,7 +374,7 @@
       "percentage": 12.9,
       "old_price": "15.50",
       "new_price": "13.50",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/serax-piet-boon-base-red-wine-glass"
     },
     {
@@ -338,7 +383,7 @@
       "percentage": 12.9,
       "old_price": "15.50",
       "new_price": "13.50",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/stephen-pearce-shanagarry-handled-beaker"
     },
     {
@@ -347,7 +392,7 @@
       "percentage": 12.5,
       "old_price": "80.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/alessi-keiji-takeuchi-slow-coffee-grinder"
     },
     {
@@ -356,8 +401,26 @@
       "percentage": 12.5,
       "old_price": "24.00",
       "new_price": "21.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/monoware-ian-mcintyre-flat-white-cup-with-saucer"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Wooden Toothbrush",
+      "percentage": 12.5,
+      "old_price": "4.00",
+      "new_price": "3.50",
+      "timestamp": "2026-01-20T23:22:25.327946",
+      "url": "https://www.twentytwentyone.com/products/iris-hantverk-wooden-toothbrush"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Soap On A Rope",
+      "percentage": 12.5,
+      "old_price": "8.00",
+      "new_price": "7.00",
+      "timestamp": "2026-01-20T23:22:25.327946",
+      "url": "https://www.twentytwentyone.com/products/iris-hantverk-soap-on-a-rope"
     },
     {
       "site": "twentytwentyone_com",
@@ -365,7 +428,7 @@
       "percentage": 12.3,
       "old_price": "36.50",
       "new_price": "32.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/monoware-ian-mcintyre-serving-platter"
     },
     {
@@ -374,7 +437,7 @@
       "percentage": 12.0,
       "old_price": "12.50",
       "new_price": "11.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/monoware-ian-mcintyre-side-plate"
     },
     {
@@ -401,7 +464,7 @@
       "percentage": 10.7,
       "old_price": "14.00",
       "new_price": "12.50",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/monoware-ian-mcintyre-dinner-plate"
     },
     {
@@ -410,7 +473,7 @@
       "percentage": 10.7,
       "old_price": "14.00",
       "new_price": "12.50",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/monoware-ian-mcintyre-grain-bowl"
     },
     {
@@ -419,7 +482,7 @@
       "percentage": 10.7,
       "old_price": "5.60",
       "new_price": "5.00",
-      "timestamp": "2026-01-20T23:16:31.914448",
+      "timestamp": "2026-01-20T23:22:24.612304",
       "url": "https://dusk.com/products/velvet-cushion-cover-burnt-orange"
     },
     {
@@ -437,7 +500,7 @@
       "percentage": 7.1,
       "old_price": "28.00",
       "new_price": "26.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/pat-oleary-stoneware-candlestick"
     },
     {
@@ -446,7 +509,7 @@
       "percentage": 6.1,
       "old_price": "24.50",
       "new_price": "23.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/pat-oleary-tealight-holder"
     },
     {
@@ -455,7 +518,7 @@
       "percentage": 6.0,
       "old_price": "41.50",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/pat-oleary-stoneware-garlic-pot"
     },
     {
@@ -464,7 +527,7 @@
       "percentage": 6.0,
       "old_price": "58.50",
       "new_price": "55.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/pat-oleary-stoneware-bird-feeder"
     },
     {
@@ -473,7 +536,7 @@
       "percentage": 5.8,
       "old_price": "26.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/pat-oleary-stoneware-pourer"
     },
     {
@@ -491,7 +554,7 @@
       "percentage": 5.3,
       "old_price": "38.00",
       "new_price": "36.00",
-      "timestamp": "2026-01-20T23:17:10.894037",
+      "timestamp": "2026-01-20T23:22:25.327946",
       "url": "https://www.twentytwentyone.com/products/pat-oleary-pillar-candle-holder"
     },
     {

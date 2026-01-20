@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-20T20:15:46.770631",
-  "total_drops": 3,
-  "top_drops_shown": 3,
+  "generated_at": "2026-01-20T20:20:48.709292",
+  "total_drops": 4,
+  "top_drops_shown": 4,
   "site_stats": [
     {
       "site": "boden_com",
@@ -14,6 +14,12 @@
       "count": 1,
       "max_drop": 21.9,
       "total_savings": 5.6
+    },
+    {
+      "site": "ukbabycentre_com",
+      "count": 1,
+      "max_drop": 5.1,
+      "total_savings": 50.99
     }
   ],
   "drops": [
@@ -23,7 +29,7 @@
       "percentage": 25.0,
       "old_price": "287.20",
       "new_price": "215.40",
-      "timestamp": "2026-01-20T20:15:43.972828",
+      "timestamp": "2026-01-20T20:20:31.214772",
       "url": "https://www.boden.com/products/women-suede-jacket-dark-chocolate-u0358brn"
     },
     {
@@ -41,8 +47,17 @@
       "percentage": 15.6,
       "old_price": "19.20",
       "new_price": "16.20",
-      "timestamp": "2026-01-20T20:15:43.972828",
+      "timestamp": "2026-01-20T20:20:31.214772",
       "url": "https://www.boden.com/products/boys-slim-pull-on-trousers-charcoal-cord-b2795gry"
+    },
+    {
+      "site": "ukbabycentre_com",
+      "product": "Bugaboo Fox 5 Essential Bundle, Noir Limited Edition - Midnight Green",
+      "percentage": 5.1,
+      "old_price": "999.99",
+      "new_price": "949.00",
+      "timestamp": "2026-01-20T20:20:38.866880",
+      "url": "https://ukbabycentre.com/products/bugaboo-fox-5-essential-bundle-noir-limited-edition-midnight-green"
     }
   ]
 }

@@ -1,72 +1,7 @@
 {
-  "generated_at": "2026-01-19T23:58:19.336909",
-  "total_drops": 5,
-  "top_drops_shown": 5,
-  "site_stats": [
-    {
-      "site": "dryrobe_com",
-      "count": 1,
-      "max_drop": 25.9,
-      "total_savings": 35.0
-    },
-    {
-      "site": "chelseababy_com",
-      "count": 2,
-      "max_drop": 12.1,
-      "total_savings": 149.9
-    },
-    {
-      "site": "solarscooters_co_uk",
-      "count": 2,
-      "max_drop": 10.0,
-      "total_savings": 150.0
-    }
-  ],
-  "drops": [
-    {
-      "site": "dryrobe_com",
-      "product": "REWORK - Black Grey Camo Advance Kids Changing Robe",
-      "percentage": 25.9,
-      "old_price": "135.00",
-      "new_price": "100.00",
-      "timestamp": "2026-01-19T23:38:24.595944",
-      "url": "https://dryrobe.com/products/rework-black-grey-camo-advance-kids-changing-robe"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "Cybex Balios S Lux One Box Travel System - Moon Black",
-      "percentage": 12.1,
-      "old_price": "699.95",
-      "new_price": "615.00",
-      "timestamp": "2026-01-19T23:58:03.945207",
-      "url": "https://chelseababy.com/products/cybex-balios-s-lux-one-box-travel-system-moon-black"
-    },
-    {
-      "site": "solarscooters_co_uk",
-      "product": "Solar P1 3.0 Electric Scooter - Black",
-      "percentage": 10.0,
-      "old_price": "999.99",
-      "new_price": "899.99",
-      "timestamp": "2026-01-19T23:02:40.544620",
-      "url": "https://solarscooters.co.uk/products/solar-p1-electric-scooter"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "Cybex Balios S Lux One Box Travel System - Almond Beige",
-      "percentage": 9.0,
-      "old_price": "719.95",
-      "new_price": "655.00",
-      "timestamp": "2026-01-19T23:58:03.945207",
-      "url": "https://chelseababy.com/products/cybex-balios-s-lux-one-box-travel-system-almond-beige"
-    },
-    {
-      "site": "solarscooters_co_uk",
-      "product": "Solar EQ",
-      "percentage": 5.0,
-      "old_price": "999.99",
-      "new_price": "949.99",
-      "timestamp": "2026-01-19T23:02:40.544620",
-      "url": "https://solarscooters.co.uk/products/solar-eq-fast-electric-scooter"
-    }
-  ]
+  "generated_at": "2026-01-20T00:03:19.255213",
+  "total_drops": 0,
+  "top_drops_shown": 0,
+  "site_stats": [],
+  "drops": []
 }

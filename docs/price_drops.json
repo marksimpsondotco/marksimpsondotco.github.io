@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-20T01:19:09.741292",
-  "total_drops": 196,
+  "generated_at": "2026-01-20T01:24:13.888700",
+  "total_drops": 239,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
-      "count": 55,
+      "count": 98,
       "max_drop": 60.6,
-      "total_savings": 2371.5
+      "total_savings": 4243.5
     },
     {
       "site": "johnlewis_com",
@@ -53,8 +53,35 @@
       "percentage": 60.6,
       "old_price": "99.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-greenmulti-linear-leaf-wrap-midi-skirt-38927"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Riley Floral Shirred Dress",
+      "percentage": 60.4,
+      "old_price": "149.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-blackmulti-riley-floral-shirred-dress-38465"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Leopard Spot Print Blouse",
+      "percentage": 59.5,
+      "old_price": "79.00",
+      "new_price": "32.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-multi-leopard-print-animal-spot-print-blouse-39725"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Pointelle Crew Neck Knit",
+      "percentage": 55.0,
+      "old_price": "109.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-ivory-pointelle-crew-neck-knit-39641"
     },
     {
       "site": "fenwick_co_uk",
@@ -62,8 +89,26 @@
       "percentage": 54.5,
       "old_price": "99.00",
       "new_price": "45.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-ivory-cotton-textured-v-neck-tank-38830"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Ivory Lucie Boucle Tank",
+      "percentage": 52.8,
+      "old_price": "89.00",
+      "new_price": "42.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-white-ivory-lucie-boucle-tank-39724"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Pointelle Knitted Tank",
+      "percentage": 50.5,
+      "old_price": "99.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-olive-pointelle-knitted-tank"
     },
     {
       "site": "fenwick_co_uk",
@@ -71,8 +116,26 @@
       "percentage": 50.4,
       "old_price": "139.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-green-green-multi-tiger-flame-midi-dress-40106"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Navy Nora Textured Midi Dress",
+      "percentage": 50.4,
+      "old_price": "139.00",
+      "new_price": "69.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-blue-navy-nora-textured-midi-dress-39840"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Hot Fix Jersey Midi Dress Black",
+      "percentage": 50.3,
+      "old_price": "179.00",
+      "new_price": "89.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-black-black-hot-fix-jersey-midi-dress-39134"
     },
     {
       "site": "fenwick_co_uk",
@@ -80,7 +143,7 @@
       "percentage": 50.0,
       "old_price": "49.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/christy-serene-robe-blush-1"
     },
     {
@@ -89,7 +152,7 @@
       "percentage": 50.0,
       "old_price": "49.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/christy-serene-robe-blush"
     },
     {
@@ -98,7 +161,7 @@
       "percentage": 50.0,
       "old_price": "49.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/christy-serene-robe-white-1"
     },
     {
@@ -107,7 +170,7 @@
       "percentage": 50.0,
       "old_price": "49.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/christy-serene-robe-dove-grey-1"
     },
     {
@@ -116,8 +179,35 @@
       "percentage": 50.0,
       "old_price": "49.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/christy-serene-robe-driftwood-1"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Khaki Ariella Linen Blend Midi Dress Khaki",
+      "percentage": 49.7,
+      "old_price": "149.00",
+      "new_price": "75.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-green-khaki-ariella-linen-blend-midi-dress-38695"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Ivory/Multi Feathered Tiger Midi Dress",
+      "percentage": 49.7,
+      "old_price": "169.00",
+      "new_price": "85.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-multi-ivory-multi-feathered-tiger-midi-dress-39767"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Red/Multi Bloom Floral Midi Dress",
+      "percentage": 49.7,
+      "old_price": "169.00",
+      "new_price": "85.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-red-red-multi-bloom-floral-midi-dress-39771"
     },
     {
       "site": "fenwick_co_uk",
@@ -125,8 +215,17 @@
       "percentage": 49.5,
       "old_price": "109.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-red-cable-detail-knitted-tank-39405"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Ivory/Multi Hazy Stripe Fitted Shirt",
+      "percentage": 49.4,
+      "old_price": "89.00",
+      "new_price": "45.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-multi-ivory-multi-hazy-stripe-fitted-shirt-39553"
     },
     {
       "site": "fenwick_co_uk",
@@ -134,8 +233,35 @@
       "percentage": 44.9,
       "old_price": "89.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-multi-ivory-multi-feathered-tiger-shirred-blouse-39787"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Animal Tie Neck Blouse Blue",
+      "percentage": 44.9,
+      "old_price": "89.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-blue-animal-tie-neck-blouse-40648"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Pale Blue Frill Sleeve Tie Front Blouse",
+      "percentage": 44.9,
+      "old_price": "89.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-blue-pale-blue-frill-sleeve-tie-front-blouse-39834"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Black/Multi Scribble Print Blouse",
+      "percentage": 44.9,
+      "old_price": "89.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-black-black-multi-scribble-print-blouse-39253"
     },
     {
       "site": "fenwick_co_uk",
@@ -143,7 +269,7 @@
       "percentage": 44.4,
       "old_price": "99.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-white-white-broderie-v-neck-blouse-39815"
     },
     {
@@ -166,11 +292,20 @@
     },
     {
       "site": "fenwick_co_uk",
+      "product": "Plisse Sleeveless Top White",
+      "percentage": 43.5,
+      "old_price": "69.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-white-white-plisse-sleeveless-top-38409"
+    },
+    {
+      "site": "fenwick_co_uk",
       "product": "Faux Fur Aviator",
       "percentage": 41.1,
       "old_price": "219.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-black-faux-fur-aviator-37444"
     },
     {
@@ -179,7 +314,7 @@
       "percentage": 40.7,
       "old_price": "59.00",
       "new_price": "35.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-white-twist-front-detail-tee"
     },
     {
@@ -188,7 +323,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-oatmeal-wool-v-neck-button-front-tank-39429"
     },
     {
@@ -197,7 +332,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-black-black-helena-linen-blend-skirt-38750"
     },
     {
@@ -206,8 +341,17 @@
       "percentage": 40.4,
       "old_price": "109.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-white-stripe-detail-cotton-knit-39695"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Floral Dobby Blouse Multi",
+      "percentage": 40.4,
+      "old_price": "109.00",
+      "new_price": "65.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-multi-floral-dobby-blouse-40466"
     },
     {
       "site": "fenwick_co_uk",
@@ -215,7 +359,7 @@
       "percentage": 40.3,
       "old_price": "149.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-grey-ava-round-neck-knitted-dress-38932"
     },
     {
@@ -260,8 +404,17 @@
       "percentage": 38.2,
       "old_price": "89.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/black-spot-shirred-cuff-blouse-40468"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Blue/Multi Bamboo Leaves Tie Neck Blouse",
+      "percentage": 38.2,
+      "old_price": "89.00",
+      "new_price": "55.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-blue-blue-multi-bamboo-leaves-tie-neck-blouse-40001"
     },
     {
       "site": "fenwick_co_uk",
@@ -269,8 +422,26 @@
       "percentage": 37.7,
       "old_price": "159.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-white-ivory-lucie-boucle-jacket-39710"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Velvet Sheer Sleeve Dress",
+      "percentage": 37.7,
+      "old_price": "159.00",
+      "new_price": "99.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-blue-velvet-sheer-sleeve-dress-40603"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Millie Textured Dress",
+      "percentage": 37.7,
+      "old_price": "159.00",
+      "new_price": "99.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-green-millie-textured-dress-39052"
     },
     {
       "site": "johnlewis_com",
@@ -287,8 +458,17 @@
       "percentage": 37.0,
       "old_price": "119.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-ivorymulti-stripe-wool-roll-neck-39137"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Contrast Stripe Knit Blue",
+      "percentage": 36.7,
+      "old_price": "109.00",
+      "new_price": "69.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-blue-wool-mix-contrast-stripe-knit-40294"
     },
     {
       "site": "fenwick_co_uk",
@@ -296,7 +476,7 @@
       "percentage": 36.5,
       "old_price": "219.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-multi-multicolour-photographic-flower-midi-dress-39944"
     },
     {
@@ -314,7 +494,7 @@
       "percentage": 35.9,
       "old_price": "195.00",
       "new_price": "125.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-grey-marl-ultimate-cashmere-crew-neck-37201"
     },
     {
@@ -323,7 +503,7 @@
       "percentage": 35.3,
       "old_price": "85.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-black-maja-knitted-polo-neck-knit-37209"
     },
     {
@@ -332,8 +512,17 @@
       "percentage": 34.8,
       "old_price": "69.00",
       "new_price": "45.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-blue-zebra-button-through-shirt-40223"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Blue/Multi Stripe Print Cropped Trouser",
+      "percentage": 34.3,
+      "old_price": "99.00",
+      "new_price": "65.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-blue-blue-multi-stripe-print-cropped-trouser-39727"
     },
     {
       "site": "fenwick_co_uk",
@@ -341,7 +530,7 @@
       "percentage": 34.1,
       "old_price": "129.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-blue-dark-green-annie-sparkle-knit-dress-35679"
     },
     {
@@ -350,8 +539,17 @@
       "percentage": 33.9,
       "old_price": "189.00",
       "new_price": "125.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-black-black-una-puffa-coat-38954"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "White Broderie Sleeve Detail Tee",
+      "percentage": 33.9,
+      "old_price": "59.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-white-white-broderie-sleeve-detail-tee-40255"
     },
     {
       "site": "fenwick_co_uk",
@@ -359,7 +557,7 @@
       "percentage": 33.7,
       "old_price": "89.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-ivorymulti-stripe-textured-tank-39036"
     },
     {
@@ -368,8 +566,35 @@
       "percentage": 33.7,
       "old_price": "89.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-green-cotton-back-detail-ribbed-tank-39981"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "White Hannah Textured Shirt",
+      "percentage": 33.7,
+      "old_price": "89.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-white-white-hannah-textured-shirt-39533"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Navy Eva Elasticated Waist Skirt",
+      "percentage": 33.7,
+      "old_price": "89.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-blue-navy-eva-elasticated-waist-skirt-38469"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Tie Waist Trouser Black",
+      "percentage": 33.7,
+      "old_price": "89.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-black-black-tie-waist-trouser-38337"
     },
     {
       "site": "fenwick_co_uk",
@@ -377,7 +602,7 @@
       "percentage": 33.6,
       "old_price": "149.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-blue-blue-multi-abstract-blooms-linen-dress-39701"
     },
     {
@@ -386,8 +611,53 @@
       "percentage": 33.6,
       "old_price": "119.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-green-olive-abby-linen-casual-jacket-39678"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Metallic Dobby Frill Blouse Silver",
+      "percentage": 33.6,
+      "old_price": "119.00",
+      "new_price": "79.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-multi-metallic-dobby-frill-blouse-40470"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Ivory Abby Linen Casual Jacket",
+      "percentage": 33.6,
+      "old_price": "119.00",
+      "new_price": "79.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-white-ivory-abby-linen-casual-jacket-39757"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Velvet Pleat Sleeve Mini Dress",
+      "percentage": 33.6,
+      "old_price": "149.00",
+      "new_price": "99.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-black-black-velvet-pleat-sleeve-mini-dress-37639"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Green/Multi Kelly Tiger Flame Jumpsuit",
+      "percentage": 31.7,
+      "old_price": "139.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-green-green-multi-kelly-tiger-flame-jumpsuit-39967"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Blue/Multi Stripe Print Zip Jumpsuit",
+      "percentage": 31.7,
+      "old_price": "139.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-blue-blue-multi-stripe-print-zip-jumpsuit-39749"
     },
     {
       "site": "fenwick_co_uk",
@@ -395,8 +665,35 @@
       "percentage": 31.6,
       "old_price": "95.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-blue-blue-slim-jersey-jacket-34715"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Crochet Knitted Shirt",
+      "percentage": 31.2,
+      "old_price": "109.00",
+      "new_price": "75.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-black-crochet-knitted-shirt"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Olive Millie Linen Trouser",
+      "percentage": 31.2,
+      "old_price": "109.00",
+      "new_price": "75.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-green-olive-millie-linen-trouser-39715"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "White Leona Linen Blend Trouser",
+      "percentage": 31.2,
+      "old_price": "109.00",
+      "new_price": "75.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-white-white-leona-linen-blend-trouser-39720"
     },
     {
       "site": "fenwick_co_uk",
@@ -404,7 +701,7 @@
       "percentage": 30.3,
       "old_price": "99.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-black-black-molly-linen-waistcoat-39711"
     },
     {
@@ -413,7 +710,7 @@
       "percentage": 30.2,
       "old_price": "199.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-dark-grey-cashmere-funnel-neck-38931"
     },
     {
@@ -440,7 +737,7 @@
       "percentage": 29.1,
       "old_price": "55.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-white-linen-pocket-blend-tee-39129"
     },
     {
@@ -449,8 +746,26 @@
       "percentage": 29.0,
       "old_price": "69.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-white-nicola-button-through-shirt-31811"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Red Nicola Button Through Shirt",
+      "percentage": 29.0,
+      "old_price": "69.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-red-red-nicola-button-through-shirt-39822"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Navy/Multi Hatch Squares Jumpsuit",
+      "percentage": 28.8,
+      "old_price": "139.00",
+      "new_price": "99.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-blue-navy-multi-hatch-squares-jumpsuit-39946"
     },
     {
       "site": "johnlewis_com",
@@ -512,7 +827,7 @@
       "percentage": 28.6,
       "old_price": "35.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-green-green-willa-v-neck-cap-sleeve-tee-39654"
     },
     {
@@ -521,8 +836,26 @@
       "percentage": 28.6,
       "old_price": "35.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-green-green-emily-ultimate-t-shirt-39865"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Annie Sparkle Short Knit Dress",
+      "percentage": 28.6,
+      "old_price": "119.00",
+      "new_price": "85.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-black-annie-sparkle-short-knit-dress-39038"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Wool Mix Textured Cardigan",
+      "percentage": 28.6,
+      "old_price": "119.00",
+      "new_price": "85.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-ivory-wool-mix-textured-cardigan-39499"
     },
     {
       "site": "johnlewis_com",
@@ -544,11 +877,20 @@
     },
     {
       "site": "fenwick_co_uk",
+      "product": "White Cotton Waisted Midi Skirt",
+      "percentage": 27.0,
+      "old_price": "89.00",
+      "new_price": "65.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-white-white-cotton-waisted-midi-skirt-39856"
+    },
+    {
+      "site": "fenwick_co_uk",
       "product": "Red Fiona Linen Button Jumpsuit",
       "percentage": 26.8,
       "old_price": "149.00",
       "new_price": "109.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
+      "timestamp": "2026-01-20T01:23:32.108361",
       "url": "https://fenwick.co.uk/products/whistles-red-red-fiona-linen-button-jumpsuit-39756"
     },
     {
@@ -559,6 +901,15 @@
       "new_price": "100.00",
       "timestamp": "2026-01-19T23:38:24.595944",
       "url": "https://dryrobe.com/products/rework-black-grey-camo-advance-kids-changing-robe"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Shirred Bodice V Neck Dress",
+      "percentage": 25.2,
+      "old_price": "159.00",
+      "new_price": "119.00",
+      "timestamp": "2026-01-20T01:23:32.108361",
+      "url": "https://fenwick.co.uk/products/whistles-red-shirred-bodice-v-neck-dress-40010"
     },
     {
       "site": "johnlewis_com",
@@ -595,357 +946,6 @@
       "new_price": "108.75",
       "timestamp": "2026-01-20T00:28:18.179517",
       "url": "https://www.johnlewis.com/the-north-face-sangro-mens-waterproof-jacket/p3915325"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Boden Mila Long Sleeve Round Neck Velvet Blouse",
-      "percentage": 25.0,
-      "old_price": "52.00",
-      "new_price": "39.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/boden-mila-long-sleeve-round-neck-velvet-blouse/p114303135"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Aria Wool Crew Knit Pink",
-      "percentage": 24.2,
-      "old_price": "99.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
-      "url": "https://fenwick.co.uk/products/whistles-pink-aria-wool-mix-crew-knit-40341"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Ray-Ban RB2140 Polarised Wayfarer Sunglasses, Black",
-      "percentage": 23.3,
-      "old_price": "202.00",
-      "new_price": "155.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/ray-ban-rb2140-polarised-wayfarer-sunglasses-black/p1505265"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Bravado Ballet Maternity Nursing Bra",
-      "percentage": 23.1,
-      "old_price": "18.20",
-      "new_price": "14.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/bravado-ballet-maternity-nursing-bra/p110371195"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tutti Bambini CoZee Air Bedside Crib",
-      "percentage": 22.9,
-      "old_price": "219.00",
-      "new_price": "168.75",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/tutti-bambini-cozee-air-bedside-crib/p112978493"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Pink Cotton Boucle Textured Tank",
-      "percentage": 22.5,
-      "old_price": "89.00",
-      "new_price": "69.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
-      "url": "https://fenwick.co.uk/products/whistles-pink-pink-cotton-boucle-textured-tank-40016"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Relaxed Tee",
-      "percentage": 22.2,
-      "old_price": "45.00",
-      "new_price": "35.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
-      "url": "https://fenwick.co.uk/products/whistles-red-relaxed-tee-39127"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Thule Aion 28L Recycled Backpack",
-      "percentage": 20.6,
-      "old_price": "159.99",
-      "new_price": "127.00",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/thule-aion-28l-recycled-backpack/p6289555"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Navy/Multi Stripe Crew Neck Pocket Top",
-      "percentage": 20.4,
-      "old_price": "49.00",
-      "new_price": "39.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
-      "url": "https://fenwick.co.uk/products/whistles-blue-navy-multi-stripe-crew-neck-pocket-top-40042"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Navy/Multi Hatch Squares Cropped Trouser",
-      "percentage": 20.2,
-      "old_price": "99.00",
-      "new_price": "79.00",
-      "timestamp": "2026-01-20T01:18:52.724576",
-      "url": "https://fenwick.co.uk/products/whistles-blue-navy-multi-hatch-squares-cropped-trouser-39919"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Rattan Storage Bedside Table",
-      "percentage": 20.0,
-      "old_price": "175.00",
-      "new_price": "140.00",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/john-lewis-rattan-storage-bedside-table/p5274268"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Maxi-Cosi Titan Plus i-Size Car Seat",
-      "percentage": 20.0,
-      "old_price": "239.99",
-      "new_price": "191.99",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/maxi-cosi-titan-plus-i-size-car-seat/p110065423"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "BabaBing! Mani Changing Backpack",
-      "percentage": 20.0,
-      "old_price": "59.99",
-      "new_price": "47.99",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/bababing-mani-changing-backpack/p3855041"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Vera Wang With Love Photo Frame, Silver",
-      "percentage": 20.0,
-      "old_price": "75.00",
-      "new_price": "60.00",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/vera-wang-with-love-photo-frame-silver/p180076"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Rattan Dressing Table Stool",
-      "percentage": 20.0,
-      "old_price": "125.00",
-      "new_price": "100.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/john-lewis-rattan-dressing-table-stool/p4839371"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "VEJA Campo Leather Trainers, White/Blue",
-      "percentage": 20.0,
-      "old_price": "125.00",
-      "new_price": "100.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/veja-campo-leather-trainers-white-blue/p113594529"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tommy Hilfiger Unlined Bralette",
-      "percentage": 20.0,
-      "old_price": "15.00",
-      "new_price": "12.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/tommy-hilfiger-unlined-bralette/p112694571"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Laura Ashley Clifton Dressing Table and Stool Set, Grey",
-      "percentage": 20.0,
-      "old_price": "1000.00",
-      "new_price": "800.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/laura-ashley-clifton-dressing-table-and-stool-set-grey/p6227974"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Laura Ashley Clifton Dressing Table Mirror, Grey",
-      "percentage": 20.0,
-      "old_price": "225.00",
-      "new_price": "180.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/laura-ashley-clifton-dressing-table-mirror-grey/p6226873"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Nespresso Vertuo Pop Coffee Pod Machine by Krups",
-      "percentage": 18.4,
-      "old_price": "99.00",
-      "new_price": "80.81",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/nespresso-vertuo-pop-coffee-pod-machine-by-krups/p111959698"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Boden Porto Tankini Top, Multi",
-      "percentage": 16.7,
-      "old_price": "35.40",
-      "new_price": "29.50",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/boden-porto-tankini-top-multi/p113402606"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Radley Chester Row Small Card Holder",
-      "percentage": 16.7,
-      "old_price": "30.09",
-      "new_price": "25.07",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/radley-chester-row-small-card-holder/p113917257"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LSA International Borough Martini Glasses, Set of 4, 195ml, Clear",
-      "percentage": 16.0,
-      "old_price": "50.00",
-      "new_price": "42.00",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/lsa-international-borough-martini-glasses-set-of-4-195ml-clear/p4835298"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LG RHX7010TBB Freestanding Condenser Tumble Dryer, 10kg Load, Matte Black",
-      "percentage": 15.8,
-      "old_price": "949.00",
-      "new_price": "799.00",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/lg-rhx7010tbb-freestanding-condenser-tumble-dryer-10kg-load-matte-black/p114098258"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "BaByliss Super-X Metal Series Nose, Ear & Eyebrow Trimmer, Grey",
-      "percentage": 15.7,
-      "old_price": "32.00",
-      "new_price": "26.99",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/babyliss-super-x-metal-series-nose-ear-eyebrow-trimmer-grey/p5497919"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Silver Cross Slumber Travel Cot",
-      "percentage": 15.4,
-      "old_price": "195.00",
-      "new_price": "165.00",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/silver-cross-slumber-travel-cot/p110963929"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Silver Cross Slumber 3-in-1 Travel Cot, Stone",
-      "percentage": 15.4,
-      "old_price": "195.00",
-      "new_price": "165.00",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/silver-cross-slumber-3-in-1-travel-cot-stone/p114344647"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Samsung Series 8 WW11DB8B95GBU1 Freestanding Washing Machine, AI Energy, 11kg Load, 1400rpm Spin, Black",
-      "percentage": 15.3,
-      "old_price": "849.00",
-      "new_price": "719.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/samsung-series-8-ww11db8b95gbu1-freestanding-washing-machine-ai-energy-11kg-load-1400rpm-spin-black/p111972403"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Bose SoundLink Micro Water-resistant Portable Bluetooth Speaker with Built-in Speakerphone",
-      "percentage": 15.1,
-      "old_price": "119.00",
-      "new_price": "101.05",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/bose-soundlink-micro-water-resistant-portable-bluetooth-speaker-with-built-in-speakerphone/p3327251"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Big Potato You Can't Say Umm Party Game",
-      "percentage": 15.0,
-      "old_price": "19.99",
-      "new_price": "17.00",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/big-potato-you-cant-say-umm-party-game/p110649972"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Maxi-Cosi CabrioFix i-Size Baby Car Seat and ISOFIX Base",
-      "percentage": 15.0,
-      "old_price": "199.99",
-      "new_price": "169.99",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/maxi-cosi-cabriofix-i-size-baby-car-seat-and-isofix-base/p6345619"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "BabyBjörn Move with 3D Mesh Baby Carrier",
-      "percentage": 15.0,
-      "old_price": "144.90",
-      "new_price": "123.16",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/babybjorn-move-with-3d-mesh-baby-carrier/p4822393"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Maxi-Cosi Swift Eco Travel Cot, Graphite",
-      "percentage": 15.0,
-      "old_price": "219.99",
-      "new_price": "186.99",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/maxi-cosi-swift-eco-travel-cot-graphite/p111083266"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "TOM FORD Ombré Leather Parfum",
-      "percentage": 15.0,
-      "old_price": "135.00",
-      "new_price": "114.75",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/tom-ford-ombre-leather-parfum/p5709711"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Maison Francis Kurkdjian APOM Eau de Parfum",
-      "percentage": 15.0,
-      "old_price": "125.00",
-      "new_price": "106.25",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/maison-francis-kurkdjian-apom-eau-de-parfum/p112350103"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "BDK Parfums La Decouverte Matieres Discovery Fragrance Gift Set, 3 x 10ml",
-      "percentage": 15.0,
-      "old_price": "85.00",
-      "new_price": "72.25",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/bdk-parfums-la-decouverte-matieres-discovery-fragrance-gift-set-3-x-10ml/p111650366"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Fujifilm instax™ Link Wide Mobile Photo Printer",
-      "percentage": 15.0,
-      "old_price": "139.99",
-      "new_price": "119.00",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/fujifilm-instax-link-wide-mobile-photo-printer/p5794129"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LSA International Moya Champagne Flute, Set of 2",
-      "percentage": 15.0,
-      "old_price": "40.00",
-      "new_price": "34.00",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/lsa-international-moya-champagne-flute-set-of-2/p3080644"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Medela Silicone Nipple Shields, Pack of 2",
-      "percentage": 15.0,
-      "old_price": "9.99",
-      "new_price": "8.49",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/medela-silicone-nipple-shields-pack-of-2/p6348011"
     }
   ]
 }

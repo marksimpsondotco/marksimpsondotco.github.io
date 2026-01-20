@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T14:40:30.527785",
-  "total_drops": 1069,
+  "generated_at": "2026-01-20T14:45:45.840756",
+  "total_drops": 1086,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -56,6 +56,12 @@
       "count": 23,
       "max_drop": 49.5,
       "total_savings": 310.63
+    },
+    {
+      "site": "dusk_com",
+      "count": 22,
+      "max_drop": 41.4,
+      "total_savings": 498.6
     },
     {
       "site": "hollandcooper_com",
@@ -118,12 +124,6 @@
       "total_savings": 140.0
     },
     {
-      "site": "dusk_com",
-      "count": 5,
-      "max_drop": 12.2,
-      "total_savings": 64.6
-    },
-    {
       "site": "solarscooters_co_uk",
       "count": 2,
       "max_drop": 10.0,
@@ -161,7 +161,7 @@
       "percentage": 100.0,
       "old_price": "9.00",
       "new_price": "0.00",
-      "timestamp": "2026-01-20T14:39:59.062332",
+      "timestamp": "2026-01-20T14:45:38.005332",
       "url": "https://fenwick.co.uk/products/le-creuset-wa125-drip-free-pourer-black"
     },
     {
@@ -170,7 +170,7 @@
       "percentage": 80.7,
       "old_price": "109.00",
       "new_price": "21.00",
-      "timestamp": "2026-01-20T14:40:17.076686",
+      "timestamp": "2026-01-20T14:45:19.282260",
       "url": "https://www.leaderonline.com/products/liberty-doors-clear-pine-internal-unfinished-2-panel-2-light-clear-glass-door-93642"
     },
     {
@@ -260,7 +260,7 @@
       "percentage": 66.7,
       "old_price": "30.00",
       "new_price": "10.00",
-      "timestamp": "2026-01-20T14:40:17.076686",
+      "timestamp": "2026-01-20T14:45:19.282260",
       "url": "https://www.leaderonline.com/products/jeldwen-white-oak-internal-fully-finished-2-light-clear-glass-oregon-door-121757"
     },
     {
@@ -350,7 +350,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T14:39:59.062332",
+      "timestamp": "2026-01-20T14:45:38.005332",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -764,7 +764,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T14:39:59.062332",
+      "timestamp": "2026-01-20T14:45:38.005332",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -773,7 +773,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T14:39:59.062332",
+      "timestamp": "2026-01-20T14:45:38.005332",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -881,7 +881,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T14:39:59.062332",
+      "timestamp": "2026-01-20T14:45:38.005332",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -910,6 +910,15 @@
       "new_price": "17.00",
       "timestamp": "2026-01-20T07:55:45.721418",
       "url": "https://www.johnlewis.com/joules-kids-crofton-colour-block-gilet-multi/p114206247"
+    },
+    {
+      "site": "dusk_com",
+      "product": "Hebden Ottoman Storage Bed - Light Taupe",
+      "percentage": 41.4,
+      "old_price": "413.00",
+      "new_price": "242.00",
+      "timestamp": "2026-01-20T14:45:38.878120",
+      "url": "https://dusk.com/products/hebden-ottoman-storage-bed-light-taupe"
     },
     {
       "site": "johnlewis_com",
@@ -971,7 +980,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T14:39:59.062332",
+      "timestamp": "2026-01-20T14:45:38.005332",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -1045,15 +1054,6 @@
       "new_price": "15.00",
       "timestamp": "2026-01-20T07:55:45.721418",
       "url": "https://www.johnlewis.com/selected-charlie-regular-fit-shirt/p113975692"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polo Ralph Lauren Chester Performance Stretch Twill Suit Trouser",
-      "percentage": 40.0,
-      "old_price": "117.50",
-      "new_price": "70.50",
-      "timestamp": "2026-01-20T13:11:13.652359",
-      "url": "https://www.johnlewis.com/polo-ralph-lauren-chester-performance-stretch-twill-suit-trouser/p114585641"
     }
   ]
 }

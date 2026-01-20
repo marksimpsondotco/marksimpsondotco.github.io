@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-20T01:29:17.966396",
-  "total_drops": 295,
+  "generated_at": "2026-01-20T01:34:22.852652",
+  "total_drops": 322,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
-      "count": 154,
+      "count": 181,
       "max_drop": 60.6,
-      "total_savings": 4519.5
+      "total_savings": 6416.84
     },
     {
       "site": "johnlewis_com",
@@ -53,7 +53,7 @@
       "percentage": 60.6,
       "old_price": "99.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-greenmulti-linear-leaf-wrap-midi-skirt-38927"
     },
     {
@@ -62,7 +62,7 @@
       "percentage": 60.4,
       "old_price": "149.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blackmulti-riley-floral-shirred-dress-38465"
     },
     {
@@ -71,7 +71,7 @@
       "percentage": 59.5,
       "old_price": "79.00",
       "new_price": "32.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-multi-leopard-print-animal-spot-print-blouse-39725"
     },
     {
@@ -80,7 +80,7 @@
       "percentage": 55.0,
       "old_price": "109.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-ivory-pointelle-crew-neck-knit-39641"
     },
     {
@@ -89,7 +89,7 @@
       "percentage": 54.5,
       "old_price": "99.00",
       "new_price": "45.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-ivory-cotton-textured-v-neck-tank-38830"
     },
     {
@@ -98,7 +98,7 @@
       "percentage": 52.8,
       "old_price": "89.00",
       "new_price": "42.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-white-ivory-lucie-boucle-tank-39724"
     },
     {
@@ -107,7 +107,7 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-olive-pointelle-knitted-tank"
     },
     {
@@ -116,7 +116,7 @@
       "percentage": 50.4,
       "old_price": "139.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-green-green-multi-tiger-flame-midi-dress-40106"
     },
     {
@@ -125,7 +125,7 @@
       "percentage": 50.4,
       "old_price": "139.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-navy-nora-textured-midi-dress-39840"
     },
     {
@@ -134,7 +134,7 @@
       "percentage": 50.3,
       "old_price": "179.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-black-black-hot-fix-jersey-midi-dress-39134"
     },
     {
@@ -143,7 +143,7 @@
       "percentage": 50.0,
       "old_price": "49.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/christy-serene-robe-blush-1"
     },
     {
@@ -152,7 +152,7 @@
       "percentage": 50.0,
       "old_price": "49.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/christy-serene-robe-blush"
     },
     {
@@ -161,7 +161,7 @@
       "percentage": 50.0,
       "old_price": "49.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/christy-serene-robe-white-1"
     },
     {
@@ -170,7 +170,7 @@
       "percentage": 50.0,
       "old_price": "49.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/christy-serene-robe-dove-grey-1"
     },
     {
@@ -179,7 +179,7 @@
       "percentage": 50.0,
       "old_price": "49.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/christy-serene-robe-driftwood-1"
     },
     {
@@ -188,7 +188,7 @@
       "percentage": 49.7,
       "old_price": "149.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-green-khaki-ariella-linen-blend-midi-dress-38695"
     },
     {
@@ -197,7 +197,7 @@
       "percentage": 49.7,
       "old_price": "169.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-multi-ivory-multi-feathered-tiger-midi-dress-39767"
     },
     {
@@ -206,7 +206,7 @@
       "percentage": 49.7,
       "old_price": "169.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-red-red-multi-bloom-floral-midi-dress-39771"
     },
     {
@@ -215,7 +215,7 @@
       "percentage": 49.5,
       "old_price": "109.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-red-cable-detail-knitted-tank-39405"
     },
     {
@@ -224,7 +224,7 @@
       "percentage": 49.4,
       "old_price": "89.00",
       "new_price": "45.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-multi-ivory-multi-hazy-stripe-fitted-shirt-39553"
     },
     {
@@ -233,7 +233,7 @@
       "percentage": 44.9,
       "old_price": "89.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-multi-ivory-multi-feathered-tiger-shirred-blouse-39787"
     },
     {
@@ -242,7 +242,7 @@
       "percentage": 44.9,
       "old_price": "89.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-animal-tie-neck-blouse-40648"
     },
     {
@@ -251,7 +251,7 @@
       "percentage": 44.9,
       "old_price": "89.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-pale-blue-frill-sleeve-tie-front-blouse-39834"
     },
     {
@@ -260,7 +260,7 @@
       "percentage": 44.9,
       "old_price": "89.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-black-black-multi-scribble-print-blouse-39253"
     },
     {
@@ -269,7 +269,7 @@
       "percentage": 44.4,
       "old_price": "99.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-white-white-broderie-v-neck-blouse-39815"
     },
     {
@@ -292,11 +292,20 @@
     },
     {
       "site": "fenwick_co_uk",
+      "product": "Zwilling Joy Cookware Set",
+      "percentage": 43.7,
+      "old_price": "229.00",
+      "new_price": "129.00",
+      "timestamp": "2026-01-20T01:34:06.469645",
+      "url": "https://fenwick.co.uk/products/zwilling-zwilling-joy-cookware-set"
+    },
+    {
+      "site": "fenwick_co_uk",
       "product": "Plisse Sleeveless Top White",
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-white-white-plisse-sleeveless-top-38409"
     },
     {
@@ -305,7 +314,7 @@
       "percentage": 41.1,
       "old_price": "219.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-black-faux-fur-aviator-37444"
     },
     {
@@ -314,7 +323,7 @@
       "percentage": 40.7,
       "old_price": "59.00",
       "new_price": "35.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-white-twist-front-detail-tee"
     },
     {
@@ -323,7 +332,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-oatmeal-wool-v-neck-button-front-tank-39429"
     },
     {
@@ -332,7 +341,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-black-black-helena-linen-blend-skirt-38750"
     },
     {
@@ -341,7 +350,7 @@
       "percentage": 40.4,
       "old_price": "109.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-white-stripe-detail-cotton-knit-39695"
     },
     {
@@ -350,7 +359,7 @@
       "percentage": 40.4,
       "old_price": "109.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-multi-floral-dobby-blouse-40466"
     },
     {
@@ -359,7 +368,7 @@
       "percentage": 40.3,
       "old_price": "149.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-grey-ava-round-neck-knitted-dress-38932"
     },
     {
@@ -404,7 +413,7 @@
       "percentage": 38.2,
       "old_price": "89.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/black-spot-shirred-cuff-blouse-40468"
     },
     {
@@ -413,7 +422,7 @@
       "percentage": 38.2,
       "old_price": "89.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-blue-multi-bamboo-leaves-tie-neck-blouse-40001"
     },
     {
@@ -422,7 +431,7 @@
       "percentage": 37.7,
       "old_price": "159.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-white-ivory-lucie-boucle-jacket-39710"
     },
     {
@@ -431,7 +440,7 @@
       "percentage": 37.7,
       "old_price": "159.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-velvet-sheer-sleeve-dress-40603"
     },
     {
@@ -440,7 +449,7 @@
       "percentage": 37.7,
       "old_price": "159.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-green-millie-textured-dress-39052"
     },
     {
@@ -458,7 +467,7 @@
       "percentage": 37.0,
       "old_price": "119.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-ivorymulti-stripe-wool-roll-neck-39137"
     },
     {
@@ -467,7 +476,7 @@
       "percentage": 36.7,
       "old_price": "109.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-wool-mix-contrast-stripe-knit-40294"
     },
     {
@@ -476,7 +485,7 @@
       "percentage": 36.5,
       "old_price": "219.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-multi-multicolour-photographic-flower-midi-dress-39944"
     },
     {
@@ -494,7 +503,7 @@
       "percentage": 35.9,
       "old_price": "195.00",
       "new_price": "125.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-grey-marl-ultimate-cashmere-crew-neck-37201"
     },
     {
@@ -503,7 +512,7 @@
       "percentage": 35.3,
       "old_price": "85.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-black-maja-knitted-polo-neck-knit-37209"
     },
     {
@@ -512,7 +521,7 @@
       "percentage": 34.8,
       "old_price": "69.00",
       "new_price": "45.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-zebra-button-through-shirt-40223"
     },
     {
@@ -521,7 +530,7 @@
       "percentage": 34.3,
       "old_price": "99.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-blue-multi-stripe-print-cropped-trouser-39727"
     },
     {
@@ -530,7 +539,7 @@
       "percentage": 34.1,
       "old_price": "129.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-dark-green-annie-sparkle-knit-dress-35679"
     },
     {
@@ -539,7 +548,7 @@
       "percentage": 33.9,
       "old_price": "189.00",
       "new_price": "125.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-black-black-una-puffa-coat-38954"
     },
     {
@@ -548,7 +557,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-white-white-broderie-sleeve-detail-tee-40255"
     },
     {
@@ -557,7 +566,7 @@
       "percentage": 33.7,
       "old_price": "89.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-ivorymulti-stripe-textured-tank-39036"
     },
     {
@@ -566,7 +575,7 @@
       "percentage": 33.7,
       "old_price": "89.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-green-cotton-back-detail-ribbed-tank-39981"
     },
     {
@@ -575,7 +584,7 @@
       "percentage": 33.7,
       "old_price": "89.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-white-white-hannah-textured-shirt-39533"
     },
     {
@@ -584,7 +593,7 @@
       "percentage": 33.7,
       "old_price": "89.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-navy-eva-elasticated-waist-skirt-38469"
     },
     {
@@ -593,7 +602,7 @@
       "percentage": 33.7,
       "old_price": "89.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-black-black-tie-waist-trouser-38337"
     },
     {
@@ -602,7 +611,7 @@
       "percentage": 33.6,
       "old_price": "149.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-blue-multi-abstract-blooms-linen-dress-39701"
     },
     {
@@ -611,7 +620,7 @@
       "percentage": 33.6,
       "old_price": "119.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-green-olive-abby-linen-casual-jacket-39678"
     },
     {
@@ -620,7 +629,7 @@
       "percentage": 33.6,
       "old_price": "119.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-multi-metallic-dobby-frill-blouse-40470"
     },
     {
@@ -629,7 +638,7 @@
       "percentage": 33.6,
       "old_price": "119.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-white-ivory-abby-linen-casual-jacket-39757"
     },
     {
@@ -638,7 +647,7 @@
       "percentage": 33.6,
       "old_price": "149.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-black-black-velvet-pleat-sleeve-mini-dress-37639"
     },
     {
@@ -647,7 +656,7 @@
       "percentage": 31.7,
       "old_price": "139.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-green-green-multi-kelly-tiger-flame-jumpsuit-39967"
     },
     {
@@ -656,7 +665,7 @@
       "percentage": 31.7,
       "old_price": "139.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-blue-multi-stripe-print-zip-jumpsuit-39749"
     },
     {
@@ -665,7 +674,7 @@
       "percentage": 31.6,
       "old_price": "95.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-blue-slim-jersey-jacket-34715"
     },
     {
@@ -674,7 +683,7 @@
       "percentage": 31.2,
       "old_price": "109.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-black-crochet-knitted-shirt"
     },
     {
@@ -683,7 +692,7 @@
       "percentage": 31.2,
       "old_price": "109.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-green-olive-millie-linen-trouser-39715"
     },
     {
@@ -692,7 +701,7 @@
       "percentage": 31.2,
       "old_price": "109.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-white-white-leona-linen-blend-trouser-39720"
     },
     {
@@ -701,7 +710,7 @@
       "percentage": 30.3,
       "old_price": "99.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-black-black-molly-linen-waistcoat-39711"
     },
     {
@@ -710,7 +719,7 @@
       "percentage": 30.2,
       "old_price": "199.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-dark-grey-cashmere-funnel-neck-38931"
     },
     {
@@ -737,7 +746,7 @@
       "percentage": 29.1,
       "old_price": "55.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-white-linen-pocket-blend-tee-39129"
     },
     {
@@ -746,7 +755,7 @@
       "percentage": 29.0,
       "old_price": "69.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-white-nicola-button-through-shirt-31811"
     },
     {
@@ -755,7 +764,7 @@
       "percentage": 29.0,
       "old_price": "69.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-red-red-nicola-button-through-shirt-39822"
     },
     {
@@ -764,7 +773,7 @@
       "percentage": 28.8,
       "old_price": "139.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-blue-navy-multi-hatch-squares-jumpsuit-39946"
     },
     {
@@ -827,7 +836,7 @@
       "percentage": 28.6,
       "old_price": "35.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-green-green-willa-v-neck-cap-sleeve-tee-39654"
     },
     {
@@ -836,7 +845,7 @@
       "percentage": 28.6,
       "old_price": "35.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-green-green-emily-ultimate-t-shirt-39865"
     },
     {
@@ -845,7 +854,7 @@
       "percentage": 28.6,
       "old_price": "119.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-black-annie-sparkle-short-knit-dress-39038"
     },
     {
@@ -854,8 +863,17 @@
       "percentage": 28.6,
       "old_price": "119.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
+      "timestamp": "2026-01-20T01:34:06.469645",
       "url": "https://fenwick.co.uk/products/whistles-ivory-wool-mix-textured-cardigan-39499"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Chichester 3.0 x 3.0m Square Side Post Parasol - Grey",
+      "percentage": 28.6,
+      "old_price": "700.00",
+      "new_price": "500.00",
+      "timestamp": "2026-01-20T01:34:06.469645",
+      "url": "https://fenwick.co.uk/products/bramblecrest-with-granite-base-sppg8-chichester-3-0-x-3-0m-square-side-po-sppg8"
     },
     {
       "site": "johnlewis_com",
@@ -867,6 +885,60 @@
       "url": "https://www.johnlewis.com/charles-keith-addison-tote-bag-cream/p113820528"
     },
     {
+      "site": "fenwick_co_uk",
+      "product": "TOP ONLY FOR tuscan large rectangle piston adj casual dining table",
+      "percentage": 27.8,
+      "old_price": "899.83",
+      "new_price": "649.83",
+      "timestamp": "2026-01-20T01:34:06.469645",
+      "url": "https://fenwick.co.uk/products/bramblecrest-with-ceramic-top-top-only-for-tuscan-large-rectangle-piston-awtucdt8tp"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "BASE ONLY FOR tuscan large rectangle piston adj casual dining table",
+      "percentage": 27.8,
+      "old_price": "899.83",
+      "new_price": "649.83",
+      "timestamp": "2026-01-20T01:34:06.469645",
+      "url": "https://fenwick.co.uk/products/bramblecrest-with-ceramic-top-base-only-for-tuscan-large-rectangle-piston-awtucdt8ba"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Corner and middle modular sofa for L shape sofa",
+      "percentage": 27.8,
+      "old_price": "899.83",
+      "new_price": "649.83",
+      "timestamp": "2026-01-20T01:34:06.469645",
+      "url": "https://fenwick.co.uk/products/bramblecrest-corner-and-middle-modular-sofa-for-l-shape-sofa-awtums4"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Sofa chair",
+      "percentage": 27.8,
+      "old_price": "899.83",
+      "new_price": "649.83",
+      "timestamp": "2026-01-20T01:34:06.469645",
+      "url": "https://fenwick.co.uk/products/bramblecrest-sofa-chair-awtusc1"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Left & right modular sofas for L shape sofa",
+      "percentage": 27.8,
+      "old_price": "899.83",
+      "new_price": "649.85",
+      "timestamp": "2026-01-20T01:34:06.469645",
+      "url": "https://fenwick.co.uk/products/bramblecrest-leftright-modular-sofas-for-l-shape-sofa-awtusms1"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Long Bench for L shape sofa",
+      "percentage": 27.8,
+      "old_price": "899.83",
+      "new_price": "649.83",
+      "timestamp": "2026-01-20T01:34:06.469645",
+      "url": "https://fenwick.co.uk/products/bramblecrest-long-bench-for-l-shape-sofa-awtusb1"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Barbour Tartan Trim Snuggle Dog Bed, Multi, 30\"",
       "percentage": 27.5,
@@ -874,78 +946,6 @@
       "new_price": "58.00",
       "timestamp": "2026-01-20T00:28:18.179517",
       "url": "https://www.johnlewis.com/barbour-tartan-trim-snuggle-dog-bed-multi-30-inch/p113937506"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Stainless Steel Ice Cream Scoop",
-      "percentage": 27.3,
-      "old_price": "16.50",
-      "new_price": "12.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
-      "url": "https://fenwick.co.uk/products/oxo-goodgrips-stainless-steel-ice-cream-scoop"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Angled Measuring Jug 500ml",
-      "percentage": 27.3,
-      "old_price": "11.00",
-      "new_price": "8.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
-      "url": "https://fenwick.co.uk/products/oxo-goodgrips-angled-measuring-jug-500ml"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "White Cotton Waisted Midi Skirt",
-      "percentage": 27.0,
-      "old_price": "89.00",
-      "new_price": "65.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
-      "url": "https://fenwick.co.uk/products/whistles-white-white-cotton-waisted-midi-skirt-39856"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Steel POP Container Big Square Short 2.6L",
-      "percentage": 27.0,
-      "old_price": "18.50",
-      "new_price": "13.50",
-      "timestamp": "2026-01-20T01:29:00.236124",
-      "url": "https://fenwick.co.uk/products/oxo-goodgrips-steel-pop-container-big-square-short-2-6l"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Angled Measuring Jug 1L",
-      "percentage": 26.9,
-      "old_price": "13.00",
-      "new_price": "9.50",
-      "timestamp": "2026-01-20T01:29:00.236124",
-      "url": "https://fenwick.co.uk/products/oxo-goodgrips-angled-measuring-jug-1l"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "SPOP Container 1l",
-      "percentage": 26.9,
-      "old_price": "13.00",
-      "new_price": "9.50",
-      "timestamp": "2026-01-20T01:29:00.236124",
-      "url": "https://fenwick.co.uk/products/oxo-goodgrips-spop-container-1l"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Red Fiona Linen Button Jumpsuit",
-      "percentage": 26.8,
-      "old_price": "149.00",
-      "new_price": "109.00",
-      "timestamp": "2026-01-20T01:29:00.236124",
-      "url": "https://fenwick.co.uk/products/whistles-red-red-fiona-linen-button-jumpsuit-39756"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Vegetable Chopper Easy Pour Opening",
-      "percentage": 26.7,
-      "old_price": "22.50",
-      "new_price": "16.50",
-      "timestamp": "2026-01-20T01:29:00.236124",
-      "url": "https://fenwick.co.uk/products/oxo-goodgrips-vegetable-chopper-easy-pour-opening"
     }
   ]
 }

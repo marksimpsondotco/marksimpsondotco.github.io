@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-20T10:23:33.627129",
-  "total_drops": 940,
+  "generated_at": "2026-01-20T10:28:44.943524",
+  "total_drops": 960,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 298,
-      "max_drop": 74.0,
-      "total_savings": 5786.94
+      "count": 314,
+      "max_drop": 75.0,
+      "total_savings": 6216.49
     },
     {
       "site": "fenwick_co_uk",
@@ -17,9 +17,9 @@
     },
     {
       "site": "currys_com",
-      "count": 234,
+      "count": 235,
       "max_drop": 58.8,
-      "total_savings": 7284.82
+      "total_savings": 7287.82
     },
     {
       "site": "condorcycles_com",
@@ -88,6 +88,12 @@
       "total_savings": 150.0
     },
     {
+      "site": "hollinsandhollinshead_com",
+      "count": 3,
+      "max_drop": 9.1,
+      "total_savings": 11.0
+    },
+    {
       "site": "mamasandpapas_com",
       "count": 1,
       "max_drop": 6.3,
@@ -101,6 +107,15 @@
     }
   ],
   "drops": [
+    {
+      "site": "johnlewis_com",
+      "product": "FALKE Soft Merino Wool Blend Socks",
+      "percentage": 75.0,
+      "old_price": "19.00",
+      "new_price": "4.75",
+      "timestamp": "2026-01-20T10:28:38.288842",
+      "url": "https://www.johnlewis.com/falke-soft-merino-wool-blend-socks/p110651187"
+    },
     {
       "site": "johnlewis_com",
       "product": "Lancôme Teint Miracle Hydrating Foundation",
@@ -127,6 +142,24 @@
       "new_price": "3.60",
       "timestamp": "2026-01-20T10:11:45.622306",
       "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-egyptian-cotton-percale-200-thread-count-bedding/p5417600"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Olivia Microfibre Stretch Stiletto Heel Ankle Boots",
+      "percentage": 70.0,
+      "old_price": "59.00",
+      "new_price": "17.70",
+      "timestamp": "2026-01-20T10:28:38.288842",
+      "url": "https://www.johnlewis.com/john-lewis-olivia-microfibre-stretch-stiletto-heel-ankle-boots/p110855285"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Helm Suede High Vamp Ballerina Pumps",
+      "percentage": 70.0,
+      "old_price": "69.00",
+      "new_price": "20.70",
+      "timestamp": "2026-01-20T10:28:38.288842",
+      "url": "https://www.johnlewis.com/john-lewis-helm-suede-high-vamp-ballerina-pumps/p113907299"
     },
     {
       "site": "johnlewis_com",
@@ -197,7 +230,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T10:23:10.960728",
+      "timestamp": "2026-01-20T10:28:27.276405",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -217,6 +250,15 @@
       "new_price": "49.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-ivory-pointelle-crew-neck-knit-39641"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "adidas Breaknet Suede Trainers",
+      "percentage": 54.5,
+      "old_price": "55.00",
+      "new_price": "25.00",
+      "timestamp": "2026-01-20T10:28:38.288842",
+      "url": "https://www.johnlewis.com/adidas-breaknet-suede-trainers/p112032952"
     },
     {
       "site": "fenwick_co_uk",
@@ -244,6 +286,15 @@
       "new_price": "20.00",
       "timestamp": "2026-01-20T07:55:45.721418",
       "url": "https://www.johnlewis.com/french-connection-kady-high-neck-metallic-jumper-black-gold/p114369962"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Mint Velvet Strappy Kitten Heels",
+      "percentage": 50.8,
+      "old_price": "120.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-20T10:28:38.288842",
+      "url": "https://www.johnlewis.com/mint-velvet-strappy-kitten-heels/p114221987"
     },
     {
       "site": "fenwick_co_uk",
@@ -363,6 +414,33 @@
       "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Herschel Supply Co. Retreat Backpack",
+      "percentage": 50.0,
+      "old_price": "100.00",
+      "new_price": "50.00",
+      "timestamp": "2026-01-20T10:28:38.288842",
+      "url": "https://www.johnlewis.com/herschel-supply-co-retreat-backpack/p110710185"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "adidas VL Court Contrast Sole Trainers",
+      "percentage": 50.0,
+      "old_price": "60.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-20T10:28:38.288842",
+      "url": "https://www.johnlewis.com/adidas-vl-court-contrast-sole-trainers/p111331988"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "FALKE Cosy Wool & Cashmere Blend Socks",
+      "percentage": 50.0,
+      "old_price": "20.00",
+      "new_price": "10.00",
+      "timestamp": "2026-01-20T10:28:38.288842",
+      "url": "https://www.johnlewis.com/falke-cosy-wool-cashmere-blend-socks/p112090754"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Serene Robe Spa-Inspired Comfort Collection",
       "percentage": 50.0,
@@ -476,7 +554,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T10:23:10.960728",
+      "timestamp": "2026-01-20T10:28:27.276405",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -485,7 +563,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T10:23:10.960728",
+      "timestamp": "2026-01-20T10:28:27.276405",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -593,7 +671,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T10:23:10.960728",
+      "timestamp": "2026-01-20T10:28:27.276405",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -669,12 +747,21 @@
       "url": "https://fenwick.co.uk/products/whistles-white-twist-front-detail-tee"
     },
     {
+      "site": "johnlewis_com",
+      "product": "John Lewis Roll Neck Cashmere Jumper",
+      "percentage": 40.4,
+      "old_price": "109.00",
+      "new_price": "65.00",
+      "timestamp": "2026-01-20T10:28:38.288842",
+      "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Boulder Heeled Ankle Boots Black",
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T10:23:10.960728",
+      "timestamp": "2026-01-20T10:28:27.276405",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -840,12 +927,30 @@
       "url": "https://www.johnlewis.com/bobbi-brown-long-wear-cream-shadow-stick/p2581250"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Ted Baker Prinell Floral Pattern Leather Trainers",
+      "percentage": 40.0,
+      "old_price": "59.50",
+      "new_price": "35.70",
+      "timestamp": "2026-01-20T10:28:38.288842",
+      "url": "https://www.johnlewis.com/ted-baker-prinell-floral-pattern-leather-trainers/p114208992"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Gabor Dolly Suede Chunky Lace Up Leopard Print Trainers, Grey",
+      "percentage": 40.0,
+      "old_price": "62.50",
+      "new_price": "37.50",
+      "timestamp": "2026-01-20T10:28:38.288842",
+      "url": "https://www.johnlewis.com/gabor-dolly-suede-chunky-lace-up-leopard-print-trainers-grey/p113648154"
+    },
+    {
       "site": "flannels_com",
       "product": "KENZO - Kids' Closed Hem Jersey Joggers",
       "percentage": 40.0,
       "old_price": "55.00",
       "new_price": "33.00",
-      "timestamp": "2026-01-20T10:23:28.523422",
+      "timestamp": "2026-01-20T10:28:38.053448",
       "url": "https://www.flannels.com/kenzo-kids-closed-hem-jersey-joggers-480118"
     },
     {
@@ -901,105 +1006,6 @@
       "new_price": "99.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-white-ivory-lucie-boucle-jacket-39710"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Velvet Sheer Sleeve Dress",
-      "percentage": 37.7,
-      "old_price": "159.00",
-      "new_price": "99.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-blue-velvet-sheer-sleeve-dress-40603"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Millie Textured Dress",
-      "percentage": 37.7,
-      "old_price": "159.00",
-      "new_price": "99.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-green-millie-textured-dress-39052"
-    },
-    {
-      "site": "condorcycles_com",
-      "product": "TRP-25 Centerlock Rotor",
-      "percentage": 37.5,
-      "old_price": "39.99",
-      "new_price": "24.99",
-      "timestamp": "2026-01-20T09:38:20.667499",
-      "url": "https://www.condorcycles.com/products/trp-25-centerlock-rotor"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Lola Massage Gun",
-      "percentage": 37.5,
-      "old_price": "79.95",
-      "new_price": "49.95",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/lola-massage-gun/p6171796"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Elliptical table 175x120cm -Sandstone",
-      "percentage": 37.4,
-      "old_price": "1599.60",
-      "new_price": "1000.60",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/bramblecrest-elliptical-table-175x120cm-sandstone-rmte5s"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Stripe Wool Roll Neck",
-      "percentage": 37.0,
-      "old_price": "119.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-ivorymulti-stripe-wool-roll-neck-39137"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Contrast Stripe Knit Blue",
-      "percentage": 36.7,
-      "old_price": "109.00",
-      "new_price": "69.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-blue-wool-mix-contrast-stripe-knit-40294"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Multicolour Photographic Flower Midi Dress",
-      "percentage": 36.5,
-      "old_price": "219.00",
-      "new_price": "139.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-multi-multicolour-photographic-flower-midi-dress-39944"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Therabody Theragun Sense",
-      "percentage": 36.4,
-      "old_price": "275.00",
-      "new_price": "175.00",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/therabody-theragun-sense/p111769755"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Russell & Bromley Nordic Lace Suede Trainers, Black",
-      "percentage": 35.9,
-      "old_price": "195.00",
-      "new_price": "125.00",
-      "timestamp": "2026-01-20T09:24:45.793037",
-      "url": "https://www.johnlewis.com/russell-bromley-nordic-lace-suede-trainers-black/p114577904"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Ultimate Cashmere Crew Neck",
-      "percentage": 35.9,
-      "old_price": "195.00",
-      "new_price": "125.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-grey-marl-ultimate-cashmere-crew-neck-37201"
     }
   ]
 }

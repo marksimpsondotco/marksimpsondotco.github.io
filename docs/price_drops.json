@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T13:47:58.651697",
-  "total_drops": 1060,
+  "generated_at": "2026-01-20T13:48:09.569584",
+  "total_drops": 1063,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "condorcycles_com",
-      "count": 18,
+      "count": 21,
       "max_drop": 50.0,
-      "total_savings": 121.55
+      "total_savings": 186.56
     },
     {
       "site": "trunkclothiers_com",

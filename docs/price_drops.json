@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-20T11:31:26.695959",
-  "total_drops": 1010,
+  "generated_at": "2026-01-20T11:36:38.210476",
+  "total_drops": 1017,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 340,
+      "count": 341,
       "max_drop": 75.0,
-      "total_savings": 6943.45
+      "total_savings": 6974.45
     },
     {
       "site": "origincoffee_co_uk",
@@ -47,9 +47,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 27,
+      "count": 28,
       "max_drop": 40.0,
-      "total_savings": 1186.5
+      "total_savings": 1187.5
     },
     {
       "site": "boden_com",
@@ -59,9 +59,9 @@
     },
     {
       "site": "ukbabycentre_com",
-      "count": 5,
+      "count": 10,
       "max_drop": 34.5,
-      "total_savings": 43.55
+      "total_savings": 128.55
     },
     {
       "site": "saltrock_com",
@@ -161,7 +161,7 @@
       "percentage": 72.8,
       "old_price": "65.00",
       "new_price": "17.70",
-      "timestamp": "2026-01-20T11:31:18.353842",
+      "timestamp": "2026-01-20T11:36:30.541938",
       "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
     },
     {
@@ -170,7 +170,7 @@
       "percentage": 72.2,
       "old_price": "18.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-20T11:31:18.353842",
+      "timestamp": "2026-01-20T11:36:30.541938",
       "url": "https://www.johnlewis.com/john-lewis-helenca-lace-bikini-knickers-pack-of-3/p111801639"
     },
     {
@@ -208,6 +208,15 @@
       "new_price": "20.70",
       "timestamp": "2026-01-20T10:57:26.622252",
       "url": "https://www.johnlewis.com/john-lewis-helm-suede-high-vamp-ballerina-pumps/p113907299"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty Athlete Seamless T-Shirt",
+      "percentage": 68.9,
+      "old_price": "45.00",
+      "new_price": "14.00",
+      "timestamp": "2026-01-20T11:36:30.541938",
+      "url": "https://www.johnlewis.com/sweaty-betty-athlete-seamless-t-shirt/p114030189"
     },
     {
       "site": "origincoffee_co_uk",
@@ -287,7 +296,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T11:31:17.097126",
+      "timestamp": "2026-01-20T11:36:21.118999",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -404,7 +413,7 @@
       "percentage": 50.1,
       "old_price": "89.50",
       "new_price": "44.70",
-      "timestamp": "2026-01-20T11:31:18.353842",
+      "timestamp": "2026-01-20T11:36:30.541938",
       "url": "https://www.johnlewis.com/john-lewis-woven-leather-tote-bag/p113892391"
     },
     {
@@ -422,7 +431,7 @@
       "percentage": 50.0,
       "old_price": "165.00",
       "new_price": "82.50",
-      "timestamp": "2026-01-20T11:31:18.353842",
+      "timestamp": "2026-01-20T11:36:30.541938",
       "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
     },
     {
@@ -431,7 +440,7 @@
       "percentage": 50.0,
       "old_price": "60.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T11:31:18.353842",
+      "timestamp": "2026-01-20T11:36:30.541938",
       "url": "https://www.johnlewis.com/under-armour-essential-fleece-hoodie/p110654158"
     },
     {
@@ -665,7 +674,7 @@
       "percentage": 49.0,
       "old_price": "259.00",
       "new_price": "132.09",
-      "timestamp": "2026-01-20T11:31:18.353842",
+      "timestamp": "2026-01-20T11:36:30.541938",
       "url": "https://www.johnlewis.com/radley-dukes-place-leather-grab-bag/p113917130"
     },
     {
@@ -692,7 +701,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T11:31:17.097126",
+      "timestamp": "2026-01-20T11:36:21.118999",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -701,7 +710,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T11:31:17.097126",
+      "timestamp": "2026-01-20T11:36:21.118999",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -809,7 +818,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T11:31:17.097126",
+      "timestamp": "2026-01-20T11:36:21.118999",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -899,7 +908,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T11:31:17.097126",
+      "timestamp": "2026-01-20T11:36:21.118999",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -1027,15 +1036,6 @@
       "new_price": "5.70",
       "timestamp": "2026-01-20T00:28:18.179517",
       "url": "https://www.johnlewis.com/light-up-gin-liqueur-baubles-3x-5cl/p113628084"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Mango Super Suede Ankle Boots",
-      "percentage": 40.0,
-      "old_price": "49.99",
-      "new_price": "29.99",
-      "timestamp": "2026-01-20T11:31:18.353842",
-      "url": "https://www.johnlewis.com/mango-super-suede-ankle-boots/p114037890"
     }
   ]
 }

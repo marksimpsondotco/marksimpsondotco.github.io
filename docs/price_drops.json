@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T07:27:03.934891",
-  "total_drops": 477,
+  "generated_at": "2026-01-20T07:32:12.391335",
+  "total_drops": 492,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 191,
+      "count": 206,
       "max_drop": 51.2,
-      "total_savings": 4258.08
+      "total_savings": 4493.88
     },
     {
       "site": "hollandcooper_com",
@@ -137,7 +137,7 @@
       "percentage": 51.2,
       "old_price": "41.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-20T07:26:56.445553",
+      "timestamp": "2026-01-20T07:32:05.644057",
       "url": "https://www.johnlewis.com/french-connection-kady-high-neck-metallic-jumper-black-gold/p114369962"
     },
     {
@@ -335,7 +335,7 @@
       "percentage": 44.0,
       "old_price": "120.00",
       "new_price": "67.20",
-      "timestamp": "2026-01-20T07:26:56.445553",
+      "timestamp": "2026-01-20T07:32:05.644057",
       "url": "https://www.johnlewis.com/tommy-hilfiger-fine-cable-knit-crew-neck-jumper/p113166243"
     },
     {
@@ -373,6 +373,15 @@
       "new_price": "39.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-white-white-plisse-sleeveless-top-38409"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Calvin Klein Cotton Melange Regular Fit Overshirt",
+      "percentage": 42.9,
+      "old_price": "63.00",
+      "new_price": "36.00",
+      "timestamp": "2026-01-20T07:32:05.644057",
+      "url": "https://www.johnlewis.com/calvin-klein-cotton-melange-regular-fit-overshirt/p114463592"
     },
     {
       "site": "fenwick_co_uk",
@@ -448,6 +457,24 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Ted Baker Sohoe Pure Cotton Long Sleeve Stripe Shirt, Light Blue",
+      "percentage": 40.0,
+      "old_price": "64.50",
+      "new_price": "38.70",
+      "timestamp": "2026-01-20T07:32:05.644057",
+      "url": "https://www.johnlewis.com/ted-baker-sohoe-pure-cotton-long-sleeve-stripe-shirt-light-blue/p113888490"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Selected Charlie Regular Fit Shirt",
+      "percentage": 40.0,
+      "old_price": "25.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-20T07:32:05.644057",
+      "url": "https://www.johnlewis.com/selected-charlie-regular-fit-shirt/p113975692"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Mini Boden Kids' Cotton Glow-in-the-Dark Long Sleeve T-Shirt, Dino Skeletons",
       "percentage": 40.0,
       "old_price": "17.00",
@@ -515,7 +542,7 @@
       "percentage": 39.4,
       "old_price": "33.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-20T07:26:56.445553",
+      "timestamp": "2026-01-20T07:32:05.644057",
       "url": "https://www.johnlewis.com/french-connection-meera-longline-round-neck-jersey-cardigan/p113950648"
     },
     {
@@ -681,6 +708,15 @@
       "url": "https://fenwick.co.uk/products/whistles-white-white-broderie-sleeve-detail-tee-40255"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Dune London Cohens Leather Chelsea Boots",
+      "percentage": 33.8,
+      "old_price": "77.00",
+      "new_price": "51.00",
+      "timestamp": "2026-01-20T07:32:05.644057",
+      "url": "https://www.johnlewis.com/dune-london-cohens-leather-chelsea-boots/p114423692"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Stripe Textured Tank",
       "percentage": 33.7,
@@ -821,7 +857,7 @@
       "percentage": 32.5,
       "old_price": "63.00",
       "new_price": "42.50",
-      "timestamp": "2026-01-20T07:26:56.445553",
+      "timestamp": "2026-01-20T07:32:05.644057",
       "url": "https://www.johnlewis.com/hush-gracey-v-neck-jumper/p114402549"
     },
     {
@@ -898,6 +934,24 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "SISLEY Cotton Blend Roll Neck Jumper, Night Blue",
+      "percentage": 30.0,
+      "old_price": "59.95",
+      "new_price": "41.97",
+      "timestamp": "2026-01-20T07:32:05.644057",
+      "url": "https://www.johnlewis.com/sisley-cotton-blend-roll-neck-jumper-night-blue/p114496482"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Benetton Wool Blend Zip-Through Knitted Vest, Beige",
+      "percentage": 30.0,
+      "old_price": "89.95",
+      "new_price": "62.95",
+      "timestamp": "2026-01-20T07:32:05.644057",
+      "url": "https://www.johnlewis.com/benetton-wool-blend-zip-through-knitted-vest-beige/p114635276"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "SISLEY Wool Blend Scarf, Taupe",
       "percentage": 30.0,
       "old_price": "39.95",
@@ -915,67 +969,13 @@
       "url": "https://www.johnlewis.com/oxo-good-grips-y-shaped-peeler/p185427"
     },
     {
-      "site": "fenwick_co_uk",
-      "product": "Linen Pocket Blend Tee",
-      "percentage": 29.1,
-      "old_price": "55.00",
-      "new_price": "39.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-white-linen-pocket-blend-tee-39129"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Nicola Button Through Shirt",
-      "percentage": 29.0,
-      "old_price": "69.00",
-      "new_price": "49.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-white-nicola-button-through-shirt-31811"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Red Nicola Button Through Shirt",
-      "percentage": 29.0,
-      "old_price": "69.00",
-      "new_price": "49.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-red-red-nicola-button-through-shirt-39822"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Navy/Multi Hatch Squares Jumpsuit",
-      "percentage": 28.8,
-      "old_price": "139.00",
-      "new_price": "99.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-blue-navy-multi-hatch-squares-jumpsuit-39946"
-    },
-    {
       "site": "johnlewis_com",
-      "product": "Ralph Lauren Polo Ralph Lauren Kids' Big Pony Polo Shirt",
-      "percentage": 28.7,
-      "old_price": "55.42",
-      "new_price": "39.50",
-      "timestamp": "2026-01-20T07:07:54.375288",
-      "url": "https://www.johnlewis.com/ralph-lauren-polo-ralph-lauren-kids-big-pony-polo-shirt/p113197768"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "SISLEY Regular Fit Cardigan",
-      "percentage": 28.6,
-      "old_price": "42.00",
-      "new_price": "29.98",
-      "timestamp": "2026-01-20T07:26:56.445553",
-      "url": "https://www.johnlewis.com/sisley-regular-fit-cardigan/p114430004"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Hackett London Kids' Cotton Knitted Embroidered Hoodie, Stone Beige",
-      "percentage": 28.6,
-      "old_price": "56.00",
-      "new_price": "40.00",
-      "timestamp": "2026-01-20T07:07:54.375288",
-      "url": "https://www.johnlewis.com/hackett-london-kids-cotton-knitted-embroidered-hoodie-stone-beige/p114165585"
+      "product": "Reiss Voyager Shirt, Soft Blue",
+      "percentage": 29.4,
+      "old_price": "68.00",
+      "new_price": "48.00",
+      "timestamp": "2026-01-20T07:32:05.644057",
+      "url": "https://www.johnlewis.com/reiss-voyager-shirt-soft-blue/p112170703"
     }
   ]
 }

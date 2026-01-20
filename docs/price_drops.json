@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T08:13:50.585593",
-  "total_drops": 655,
+  "generated_at": "2026-01-20T08:18:58.896500",
+  "total_drops": 679,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "currys_com",
-      "count": 127,
+      "count": 150,
       "max_drop": 43.7,
-      "total_savings": 3916.91
+      "total_savings": 5246.72
     },
     {
       "site": "hollandcooper_com",
@@ -53,9 +53,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 3,
+      "count": 4,
       "max_drop": 12.2,
-      "total_savings": 63.0
+      "total_savings": 64.0
     },
     {
       "site": "chelseababy_com",
@@ -377,7 +377,7 @@
       "percentage": 43.7,
       "old_price": "19.99",
       "new_price": "11.25",
-      "timestamp": "2026-01-20T08:13:45.254856",
+      "timestamp": "2026-01-20T08:18:57.516788",
       "url": "https://www.currys.co.uk/products/10226606.html"
     },
     {
@@ -413,7 +413,7 @@
       "percentage": 41.2,
       "old_price": "16.99",
       "new_price": "9.99",
-      "timestamp": "2026-01-20T08:13:45.254856",
+      "timestamp": "2026-01-20T08:18:57.516788",
       "url": "https://www.currys.co.uk/products/10289857.html"
     },
     {
@@ -584,7 +584,7 @@
       "percentage": 39.2,
       "old_price": "27.90",
       "new_price": "16.97",
-      "timestamp": "2026-01-20T08:13:45.254856",
+      "timestamp": "2026-01-20T08:18:57.516788",
       "url": "https://www.currys.co.uk/products/10276698.html"
     },
     {
@@ -737,7 +737,7 @@
       "percentage": 34.8,
       "old_price": "22.97",
       "new_price": "14.97",
-      "timestamp": "2026-01-20T08:13:45.254856",
+      "timestamp": "2026-01-20T08:18:57.516788",
       "url": "https://www.currys.co.uk/products/10235192.html"
     },
     {
@@ -746,7 +746,7 @@
       "percentage": 34.8,
       "old_price": "22.97",
       "new_price": "14.97",
-      "timestamp": "2026-01-20T08:13:45.254856",
+      "timestamp": "2026-01-20T08:18:57.516788",
       "url": "https://www.currys.co.uk/products/10286559.html"
     },
     {
@@ -885,6 +885,15 @@
       "url": "https://fenwick.co.uk/products/whistles-black-black-velvet-pleat-sleeve-mini-dress-37639"
     },
     {
+      "site": "currys_com",
+      "product": "DAEWOO COL1613GE Portable Dehumidifier - White",
+      "percentage": 33.5,
+      "old_price": "224.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-20T08:18:57.516788",
+      "url": "https://www.currys.co.uk/products/10268526.html"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Sofa armchair- Sandstone",
       "percentage": 33.3,
@@ -973,15 +982,6 @@
       "new_price": "65.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-blue-blue-slim-jersey-jacket-34715"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Crochet Knitted Shirt",
-      "percentage": 31.2,
-      "old_price": "109.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-black-crochet-knitted-shirt"
     }
   ]
 }

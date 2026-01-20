@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:47:16.156528",
-  "total_drops": 1019,
+  "generated_at": "2026-01-20T11:52:28.082999",
+  "total_drops": 1030,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -28,6 +28,12 @@
       "total_savings": 7302.99
     },
     {
+      "site": "rehaus_co_uk",
+      "count": 2,
+      "max_drop": 56.5,
+      "total_savings": 960.0
+    },
+    {
       "site": "condorcycles_com",
       "count": 13,
       "max_drop": 50.0,
@@ -38,6 +44,12 @@
       "count": 1,
       "max_drop": 50.0,
       "total_savings": 247.5
+    },
+    {
+      "site": "ukbabycentre_com",
+      "count": 20,
+      "max_drop": 49.5,
+      "total_savings": 257.67
     },
     {
       "site": "hollandcooper_com",
@@ -56,12 +68,6 @@
       "count": 12,
       "max_drop": 40.0,
       "total_savings": 138.3
-    },
-    {
-      "site": "ukbabycentre_com",
-      "count": 11,
-      "max_drop": 34.5,
-      "total_savings": 139.54
     },
     {
       "site": "saltrock_com",
@@ -291,12 +297,21 @@
       "url": "https://www.currys.co.uk/products/10283564.html"
     },
     {
+      "site": "rehaus_co_uk",
+      "product": "Vitra DKX Wire Chairs by Eames, Set of Two",
+      "percentage": 56.5,
+      "old_price": "1380.00",
+      "new_price": "600.00",
+      "timestamp": "2026-01-20T11:52:14.223667",
+      "url": "https://rehaus.co.uk/products/2577190538"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "SWIFT JEWEL RUNNER",
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T11:47:02.112381",
+      "timestamp": "2026-01-20T11:52:02.820854",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -651,6 +666,15 @@
       "url": "https://fenwick.co.uk/products/whistles-red-red-multi-bloom-floral-midi-dress-39771"
     },
     {
+      "site": "ukbabycentre_com",
+      "product": "Junior Jones Changing Backpack - Black",
+      "percentage": 49.5,
+      "old_price": "99.00",
+      "new_price": "49.95",
+      "timestamp": "2026-01-20T11:52:19.977508",
+      "url": "https://ukbabycentre.com/products/junior-jones-changing-backpack-black"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Cable Detail Knitted Tank",
       "percentage": 49.5,
@@ -701,7 +725,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T11:47:02.112381",
+      "timestamp": "2026-01-20T11:52:02.820854",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -710,7 +734,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T11:47:02.112381",
+      "timestamp": "2026-01-20T11:52:02.820854",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -818,7 +842,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T11:47:02.112381",
+      "timestamp": "2026-01-20T11:52:02.820854",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -908,7 +932,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T11:47:02.112381",
+      "timestamp": "2026-01-20T11:52:02.820854",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -1018,24 +1042,6 @@
       "new_price": "81.00",
       "timestamp": "2026-01-20T09:24:45.793037",
       "url": "https://www.johnlewis.com/anonymous-copenhagen-patricia-leather-calf-boots-brown/p114033307"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tommee Tippee In-Ear Digital Thermometer",
-      "percentage": 40.0,
-      "old_price": "44.99",
-      "new_price": "26.99",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/tommee-tippee-in-ear-digital-thermometer/p113292914"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Light Up Gin Liqueur Baubles, 3x 5cl",
-      "percentage": 40.0,
-      "old_price": "9.50",
-      "new_price": "5.70",
-      "timestamp": "2026-01-20T00:28:18.179517",
-      "url": "https://www.johnlewis.com/light-up-gin-liqueur-baubles-3x-5cl/p113628084"
     }
   ]
 }

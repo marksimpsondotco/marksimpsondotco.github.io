@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-20T14:56:24.041128",
-  "total_drops": 1086,
+  "generated_at": "2026-01-20T15:01:37.040490",
+  "total_drops": 1088,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
-      "count": 261,
+      "count": 262,
       "max_drop": 100.0,
-      "total_savings": 19051.43
+      "total_savings": 19131.43
     },
     {
       "site": "leaderonline_com",
@@ -143,9 +143,9 @@
     },
     {
       "site": "hauslondon_com",
-      "count": 3,
-      "max_drop": 3.2,
-      "total_savings": 13.0
+      "count": 4,
+      "max_drop": 6.3,
+      "total_savings": 19.0
     },
     {
       "site": "ullajohnson_com",
@@ -161,7 +161,7 @@
       "percentage": 100.0,
       "old_price": "9.00",
       "new_price": "0.00",
-      "timestamp": "2026-01-20T14:56:01.418446",
+      "timestamp": "2026-01-20T15:01:31.178992",
       "url": "https://fenwick.co.uk/products/le-creuset-wa125-drip-free-pourer-black"
     },
     {
@@ -170,7 +170,7 @@
       "percentage": 80.7,
       "old_price": "109.00",
       "new_price": "21.00",
-      "timestamp": "2026-01-20T14:56:12.123330",
+      "timestamp": "2026-01-20T15:01:10.382386",
       "url": "https://www.leaderonline.com/products/liberty-doors-clear-pine-internal-unfinished-2-panel-2-light-clear-glass-door-93642"
     },
     {
@@ -260,7 +260,7 @@
       "percentage": 66.7,
       "old_price": "30.00",
       "new_price": "10.00",
-      "timestamp": "2026-01-20T14:56:12.123330",
+      "timestamp": "2026-01-20T15:01:10.382386",
       "url": "https://www.leaderonline.com/products/jeldwen-white-oak-internal-fully-finished-2-light-clear-glass-oregon-door-121757"
     },
     {
@@ -350,7 +350,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T14:56:01.418446",
+      "timestamp": "2026-01-20T15:01:31.178992",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -451,6 +451,15 @@
       "new_price": "69.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-blue-navy-nora-textured-midi-dress-39840"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "OLLAVE",
+      "percentage": 50.3,
+      "old_price": "159.00",
+      "new_price": "79.00",
+      "timestamp": "2026-01-20T15:01:31.178992",
+      "url": "https://fenwick.co.uk/products/dune-london-black-ollave-9-1510780002e13"
     },
     {
       "site": "fenwick_co_uk",
@@ -764,7 +773,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T14:56:01.418446",
+      "timestamp": "2026-01-20T15:01:31.178992",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -773,7 +782,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T14:56:01.418446",
+      "timestamp": "2026-01-20T15:01:31.178992",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -881,7 +890,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T14:56:01.418446",
+      "timestamp": "2026-01-20T15:01:31.178992",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -917,7 +926,7 @@
       "percentage": 41.4,
       "old_price": "413.00",
       "new_price": "242.00",
-      "timestamp": "2026-01-20T14:56:11.245744",
+      "timestamp": "2026-01-20T15:01:21.502875",
       "url": "https://dusk.com/products/hebden-ottoman-storage-bed-light-taupe"
     },
     {
@@ -980,7 +989,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T14:56:01.418446",
+      "timestamp": "2026-01-20T15:01:31.178992",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -1045,15 +1054,6 @@
       "new_price": "38.70",
       "timestamp": "2026-01-20T07:55:45.721418",
       "url": "https://www.johnlewis.com/ted-baker-sohoe-pure-cotton-long-sleeve-stripe-shirt-light-blue/p113888490"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Selected Charlie Regular Fit Shirt",
-      "percentage": 40.0,
-      "old_price": "25.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-20T07:55:45.721418",
-      "url": "https://www.johnlewis.com/selected-charlie-regular-fit-shirt/p113975692"
     }
   ]
 }

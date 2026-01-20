@@ -1,63 +1,7 @@
 {
-  "generated_at": "2026-01-20T20:20:48.709292",
-  "total_drops": 4,
-  "top_drops_shown": 4,
-  "site_stats": [
-    {
-      "site": "boden_com",
-      "count": 2,
-      "max_drop": 25.0,
-      "total_savings": 74.8
-    },
-    {
-      "site": "fenwick_co_uk",
-      "count": 1,
-      "max_drop": 21.9,
-      "total_savings": 5.6
-    },
-    {
-      "site": "ukbabycentre_com",
-      "count": 1,
-      "max_drop": 5.1,
-      "total_savings": 50.99
-    }
-  ],
-  "drops": [
-    {
-      "site": "boden_com",
-      "product": "Suede Jacket-Dark Chocolate",
-      "percentage": 25.0,
-      "old_price": "287.20",
-      "new_price": "215.40",
-      "timestamp": "2026-01-20T20:20:31.214772",
-      "url": "https://www.boden.com/products/women-suede-jacket-dark-chocolate-u0358brn"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Collective Starter Pasta Bowl x 2 White 20cm",
-      "percentage": 21.9,
-      "old_price": "25.60",
-      "new_price": "20.00",
-      "timestamp": "2026-01-20T20:04:53.187002",
-      "url": "https://fenwick.co.uk/products/lsa-collective-starter-pasta-bowl-x-2-white"
-    },
-    {
-      "site": "boden_com",
-      "product": "Slim Pull-On Trousers-Charcoal Cord",
-      "percentage": 15.6,
-      "old_price": "19.20",
-      "new_price": "16.20",
-      "timestamp": "2026-01-20T20:20:31.214772",
-      "url": "https://www.boden.com/products/boys-slim-pull-on-trousers-charcoal-cord-b2795gry"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "Bugaboo Fox 5 Essential Bundle, Noir Limited Edition - Midnight Green",
-      "percentage": 5.1,
-      "old_price": "999.99",
-      "new_price": "949.00",
-      "timestamp": "2026-01-20T20:20:38.866880",
-      "url": "https://ukbabycentre.com/products/bugaboo-fox-5-essential-bundle-noir-limited-edition-midnight-green"
-    }
-  ]
+  "generated_at": "2026-01-20T20:21:20.216408",
+  "total_drops": 0,
+  "top_drops_shown": 0,
+  "site_stats": [],
+  "drops": []
 }

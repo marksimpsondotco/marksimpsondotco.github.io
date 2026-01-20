@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-20T00:13:25.656992",
-  "total_drops": 28,
-  "top_drops_shown": 28,
+  "generated_at": "2026-01-20T00:18:27.891530",
+  "total_drops": 51,
+  "top_drops_shown": 51,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 8,
-      "max_drop": 27.5,
-      "total_savings": 358.27
+      "count": 31,
+      "max_drop": 40.0,
+      "total_savings": 804.75
     },
     {
       "site": "dryrobe_com",
@@ -43,11 +43,20 @@
   "drops": [
     {
       "site": "johnlewis_com",
+      "product": "Tommee Tippee In-Ear Digital Thermometer",
+      "percentage": 40.0,
+      "old_price": "44.99",
+      "new_price": "26.99",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/tommee-tippee-in-ear-digital-thermometer/p113292914"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Barbour Tartan Trim Snuggle Dog Bed, Multi, 30\"",
       "percentage": 27.5,
       "old_price": "79.95",
       "new_price": "58.00",
-      "timestamp": "2026-01-20T00:13:25.017411",
+      "timestamp": "2026-01-20T00:18:26.679309",
       "url": "https://www.johnlewis.com/barbour-tartan-trim-snuggle-dog-bed-multi-30-inch/p113937506"
     },
     {
@@ -61,12 +70,48 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Tommee Tippee Deluxe Ollie Owl Sleeping Aid",
+      "percentage": 25.0,
+      "old_price": "39.99",
+      "new_price": "29.99",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/tommee-tippee-deluxe-ollie-owl-sleeping-aid/p110558062"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Maxi-Cosi Mica 360 Pro i-Size Car Seat",
+      "percentage": 25.0,
+      "old_price": "349.99",
+      "new_price": "262.49",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/maxi-cosi-mica-360-pro-i-size-car-seat/p112653688"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Rattan Storage Bedside Table",
       "percentage": 20.0,
       "old_price": "175.00",
       "new_price": "140.00",
-      "timestamp": "2026-01-20T00:13:25.017411",
+      "timestamp": "2026-01-20T00:18:26.679309",
       "url": "https://www.johnlewis.com/john-lewis-rattan-storage-bedside-table/p5274268"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Maxi-Cosi Titan Plus i-Size Car Seat",
+      "percentage": 20.0,
+      "old_price": "239.99",
+      "new_price": "191.99",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/maxi-cosi-titan-plus-i-size-car-seat/p110065423"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "BabaBing! Mani Changing Backpack",
+      "percentage": 20.0,
+      "old_price": "59.99",
+      "new_price": "47.99",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/bababing-mani-changing-backpack/p3855041"
     },
     {
       "site": "johnlewis_com",
@@ -74,8 +119,107 @@
       "percentage": 15.8,
       "old_price": "949.00",
       "new_price": "799.00",
-      "timestamp": "2026-01-20T00:13:25.017411",
+      "timestamp": "2026-01-20T00:18:26.679309",
       "url": "https://www.johnlewis.com/lg-rhx7010tbb-freestanding-condenser-tumble-dryer-10kg-load-matte-black/p114098258"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Silver Cross Slumber Travel Cot",
+      "percentage": 15.4,
+      "old_price": "195.00",
+      "new_price": "165.00",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/silver-cross-slumber-travel-cot/p110963929"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Silver Cross Slumber 3-in-1 Travel Cot, Stone",
+      "percentage": 15.4,
+      "old_price": "195.00",
+      "new_price": "165.00",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/silver-cross-slumber-3-in-1-travel-cot-stone/p114344647"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Big Potato You Can't Say Umm Party Game",
+      "percentage": 15.0,
+      "old_price": "19.99",
+      "new_price": "17.00",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/big-potato-you-cant-say-umm-party-game/p110649972"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Maxi-Cosi CabrioFix i-Size Baby Car Seat and ISOFIX Base",
+      "percentage": 15.0,
+      "old_price": "199.99",
+      "new_price": "169.99",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/maxi-cosi-cabriofix-i-size-baby-car-seat-and-isofix-base/p6345619"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "BabyBjörn Move with 3D Mesh Baby Carrier",
+      "percentage": 15.0,
+      "old_price": "144.90",
+      "new_price": "123.16",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/babybjorn-move-with-3d-mesh-baby-carrier/p4822393"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Maxi-Cosi Swift Eco Travel Cot, Graphite",
+      "percentage": 15.0,
+      "old_price": "219.99",
+      "new_price": "186.99",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/maxi-cosi-swift-eco-travel-cot-graphite/p111083266"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "TOM FORD Ombré Leather Parfum",
+      "percentage": 15.0,
+      "old_price": "135.00",
+      "new_price": "114.75",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/tom-ford-ombre-leather-parfum/p5709711"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Maison Francis Kurkdjian APOM Eau de Parfum",
+      "percentage": 15.0,
+      "old_price": "125.00",
+      "new_price": "106.25",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/maison-francis-kurkdjian-apom-eau-de-parfum/p112350103"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "BDK Parfums La Decouverte Matieres Discovery Fragrance Gift Set, 3 x 10ml",
+      "percentage": 15.0,
+      "old_price": "85.00",
+      "new_price": "72.25",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/bdk-parfums-la-decouverte-matieres-discovery-fragrance-gift-set-3-x-10ml/p111650366"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Joie Baby Sansa 2 in 1 Swing and Rocker, Multi",
+      "percentage": 12.5,
+      "old_price": "160.00",
+      "new_price": "140.00",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/joie-baby-sansa-2-in-1-swing-and-rocker-multi/p113231998"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Braun No Touch and Touch Age Precision Thermometer",
+      "percentage": 12.5,
+      "old_price": "39.99",
+      "new_price": "34.99",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/braun-no-touch-and-touch-age-precision-thermometer/p3997279"
     },
     {
       "site": "dusk_com",
@@ -83,8 +227,17 @@
       "percentage": 12.2,
       "old_price": "246.00",
       "new_price": "216.00",
-      "timestamp": "2026-01-20T00:13:21.346652",
+      "timestamp": "2026-01-20T00:18:14.473035",
       "url": "https://dusk.com/products/ascot-ottoman-bed-frame-natural"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Maxi-Cosi Emerald 360 S i-Size Car Seat",
+      "percentage": 12.1,
+      "old_price": "289.95",
+      "new_price": "254.99",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/maxi-cosi-emerald-360-s-i-size-car-seat/p111795229"
     },
     {
       "site": "chelseababy_com",
@@ -92,7 +245,7 @@
       "percentage": 12.1,
       "old_price": "699.95",
       "new_price": "615.00",
-      "timestamp": "2026-01-20T00:13:21.280260",
+      "timestamp": "2026-01-20T00:18:17.989646",
       "url": "https://chelseababy.com/products/cybex-balios-s-lux-one-box-travel-system-moon-black"
     },
     {
@@ -101,7 +254,7 @@
       "percentage": 11.4,
       "old_price": "299.00",
       "new_price": "265.00",
-      "timestamp": "2026-01-20T00:13:25.017411",
+      "timestamp": "2026-01-20T00:18:26.679309",
       "url": "https://www.johnlewis.com/aeg-ikx64301cb-60cm-induction-hob-black/p112042069"
     },
     {
@@ -110,7 +263,7 @@
       "percentage": 10.5,
       "old_price": "949.00",
       "new_price": "849.00",
-      "timestamp": "2026-01-20T00:13:10.752742",
+      "timestamp": "2026-01-20T00:18:07.354311",
       "url": "https://fenwick.co.uk/products/samsung-qe75qn1ef-75-inch-4k-neo-qled-mini-led-vision-ai-smart-tv-2025-0"
     },
     {
@@ -123,12 +276,30 @@
       "url": "https://solarscooters.co.uk/products/solar-p1-electric-scooter"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Cheeky Chompers 6-in-1 Multi Muslin Breastfeeding Cover, Speckle",
+      "percentage": 10.0,
+      "old_price": "24.99",
+      "new_price": "22.49",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/cheeky-chompers-6-in-1-multi-muslin-breastfeeding-cover-speckle/p5445573"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "VTech VM819 2.8inch Digital Video Baby Monitor with Adjustable Camera",
+      "percentage": 9.2,
+      "old_price": "54.99",
+      "new_price": "49.95",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/vtech-vm819-2-8inch-digital-video-baby-monitor-with-adjustable-camera/p6283039"
+    },
+    {
       "site": "chelseababy_com",
       "product": "Cybex Balios S Lux One Box Travel System - Almond Beige",
       "percentage": 9.0,
       "old_price": "719.95",
       "new_price": "655.00",
-      "timestamp": "2026-01-20T00:13:21.280260",
+      "timestamp": "2026-01-20T00:18:17.989646",
       "url": "https://chelseababy.com/products/cybex-balios-s-lux-one-box-travel-system-almond-beige"
     },
     {
@@ -137,7 +308,7 @@
       "percentage": 8.7,
       "old_price": "2299.00",
       "new_price": "2099.00",
-      "timestamp": "2026-01-20T00:13:10.752742",
+      "timestamp": "2026-01-20T00:18:07.354311",
       "url": "https://fenwick.co.uk/products/lg-oled65g56-65-inch-oled-evo-ai-4k-hdr-ultra-smart-tv-with-dolby-atmos-2025-no-colour"
     },
     {
@@ -146,7 +317,7 @@
       "percentage": 8.7,
       "old_price": "2299.00",
       "new_price": "2099.00",
-      "timestamp": "2026-01-20T00:13:10.752742",
+      "timestamp": "2026-01-20T00:18:07.354311",
       "url": "https://fenwick.co.uk/products/lg-oled65g54lw-65-inch-oled-evo-ai-4k-hdr-ultra-smart-tv-with-dolby-atmos-and-one-wall-design-2025-no-colour"
     },
     {
@@ -155,8 +326,17 @@
       "percentage": 8.1,
       "old_price": "284.00",
       "new_price": "261.00",
-      "timestamp": "2026-01-20T00:13:21.346652",
+      "timestamp": "2026-01-20T00:18:14.473035",
       "url": "https://dusk.com/products/hampshire-loveseat-beige"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "University Games Bullseye Board Game",
+      "percentage": 8.0,
+      "old_price": "24.99",
+      "new_price": "23.00",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/university-games-bullseye-board-game/p113927614"
     },
     {
       "site": "fenwick_co_uk",
@@ -164,7 +344,7 @@
       "percentage": 8.0,
       "old_price": "249.00",
       "new_price": "229.00",
-      "timestamp": "2026-01-20T00:13:10.752742",
+      "timestamp": "2026-01-20T00:18:07.354311",
       "url": "https://fenwick.co.uk/products/sony-pslx310b-turntable-no-colour-pslx310b"
     },
     {
@@ -173,7 +353,7 @@
       "percentage": 6.7,
       "old_price": "749.99",
       "new_price": "699.99",
-      "timestamp": "2026-01-20T00:13:25.017411",
+      "timestamp": "2026-01-20T00:18:26.679309",
       "url": "https://www.johnlewis.com/samsung-galaxy-book5-laptop-intel-core-ultra-7-processor-16gb-ram-1tb-ssd-15-6-full-hd-titan-grey/p114733505"
     },
     {
@@ -182,7 +362,7 @@
       "percentage": 6.3,
       "old_price": "159.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-20T00:13:21.346652",
+      "timestamp": "2026-01-20T00:18:14.473035",
       "url": "https://dusk.com/products/ascot-bed-frame-natural"
     },
     {
@@ -191,7 +371,7 @@
       "percentage": 5.7,
       "old_price": "349.00",
       "new_price": "329.00",
-      "timestamp": "2026-01-20T00:13:25.017411",
+      "timestamp": "2026-01-20T00:18:26.679309",
       "url": "https://www.johnlewis.com/aeg-tn64ia04fb-60cm-induction-hob-black/p113577620"
     },
     {
@@ -200,7 +380,7 @@
       "percentage": 5.6,
       "old_price": "899.00",
       "new_price": "849.00",
-      "timestamp": "2026-01-20T00:13:10.752742",
+      "timestamp": "2026-01-20T00:18:07.354311",
       "url": "https://fenwick.co.uk/products/lg-oled42c55-42-inch-oled-evo-ai-smart-tv-2025-no-colour"
     },
     {
@@ -218,8 +398,26 @@
       "percentage": 4.8,
       "old_price": "314.00",
       "new_price": "299.00",
-      "timestamp": "2026-01-20T00:13:10.752742",
+      "timestamp": "2026-01-20T00:18:07.354311",
       "url": "https://fenwick.co.uk/products/samsung-qe43q7f-43-inch-qled-4k-vision-ai-smart-tv-2025-0"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Thermos Disney Pixar Toy Story Stainless Steel Drinks Bottle, 470ml, Buzz",
+      "percentage": 4.0,
+      "old_price": "25.00",
+      "new_price": "24.00",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/thermos-disney-pixar-toy-story-stainless-steel-drinks-bottle-470ml-buzz/p114198119"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Thermos Disney Pixar Toy Story Stainless Steel Drinks Bottle, 470ml, Jessie",
+      "percentage": 4.0,
+      "old_price": "25.00",
+      "new_price": "24.00",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/thermos-disney-pixar-toy-story-stainless-steel-drinks-bottle-470ml-jessie/p114198120"
     },
     {
       "site": "fenwick_co_uk",
@@ -227,7 +425,7 @@
       "percentage": 3.2,
       "old_price": "949.00",
       "new_price": "919.00",
-      "timestamp": "2026-01-20T00:13:10.752742",
+      "timestamp": "2026-01-20T00:18:07.354311",
       "url": "https://fenwick.co.uk/products/samsung-qe55s90f-oled-55-inch-s90f-ai-smart-tv-2025-0"
     },
     {
@@ -236,7 +434,7 @@
       "percentage": 3.1,
       "old_price": "749.00",
       "new_price": "726.00",
-      "timestamp": "2026-01-20T00:13:25.017411",
+      "timestamp": "2026-01-20T00:18:26.679309",
       "url": "https://www.johnlewis.com/bosch-series-4-built-under-electric-double-oven-nbs533bs0b-nbs533bb0b/p110492843"
     },
     {
@@ -245,7 +443,7 @@
       "percentage": 3.1,
       "old_price": "1299.00",
       "new_price": "1259.00",
-      "timestamp": "2026-01-20T00:13:10.752742",
+      "timestamp": "2026-01-20T00:18:07.354311",
       "url": "https://fenwick.co.uk/products/samsung-qe65qn93f-65-inch-qn93f-neo-qled-mini-led-ai-smart-tv-glare-free-2025-0"
     },
     {
@@ -254,7 +452,7 @@
       "percentage": 3.1,
       "old_price": "1959.00",
       "new_price": "1899.00",
-      "timestamp": "2026-01-20T00:13:10.752742",
+      "timestamp": "2026-01-20T00:18:07.354311",
       "url": "https://fenwick.co.uk/products/samsung-qe77s90f-oled-77-inch-s90f-ai-smart-tv-2025-0"
     },
     {
@@ -263,7 +461,7 @@
       "percentage": 2.7,
       "old_price": "75.00",
       "new_price": "73.00",
-      "timestamp": "2026-01-20T00:13:10.752742",
+      "timestamp": "2026-01-20T00:18:07.354311",
       "url": "https://fenwick.co.uk/products/sony-wh-ch720-noise-cancelling-wireless-headphones-black-whch720nb-ce7"
     },
     {
@@ -272,7 +470,7 @@
       "percentage": 2.7,
       "old_price": "75.00",
       "new_price": "73.00",
-      "timestamp": "2026-01-20T00:13:10.752742",
+      "timestamp": "2026-01-20T00:18:07.354311",
       "url": "https://fenwick.co.uk/products/sony-whch720np-wireless-bluetooth-headband-headphones-no-colour"
     },
     {
@@ -281,7 +479,7 @@
       "percentage": 2.6,
       "old_price": "940.32",
       "new_price": "916.00",
-      "timestamp": "2026-01-20T00:13:25.017411",
+      "timestamp": "2026-01-20T00:18:26.679309",
       "url": "https://www.johnlewis.com/bugaboo-fox-5-renew-pushchair/p113241262"
     },
     {
@@ -290,8 +488,17 @@
       "percentage": 2.2,
       "old_price": "449.00",
       "new_price": "439.00",
-      "timestamp": "2026-01-20T00:13:10.752742",
+      "timestamp": "2026-01-20T00:18:07.354311",
       "url": "https://fenwick.co.uk/products/samsung-ue65u8020f-65-inch-crystal-uhd-4k-smart-tv-2025-0"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "LeapFrog LF2415 5inch Video Baby Monitor",
+      "percentage": 0.0,
+      "old_price": "75.00",
+      "new_price": "74.99",
+      "timestamp": "2026-01-20T00:18:26.679309",
+      "url": "https://www.johnlewis.com/leapfrog-lf2415-5inch-video-baby-monitor/p109345123"
     }
   ]
 }

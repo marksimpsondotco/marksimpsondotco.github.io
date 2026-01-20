@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T14:35:15.088351",
-  "total_drops": 1067,
+  "generated_at": "2026-01-20T14:40:30.527785",
+  "total_drops": 1069,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -8,6 +8,12 @@
       "count": 261,
       "max_drop": 100.0,
       "total_savings": 19051.43
+    },
+    {
+      "site": "leaderonline_com",
+      "count": 2,
+      "max_drop": 80.7,
+      "total_savings": 108.0
     },
     {
       "site": "johnlewis_com",
@@ -155,8 +161,17 @@
       "percentage": 100.0,
       "old_price": "9.00",
       "new_price": "0.00",
-      "timestamp": "2026-01-20T14:34:50.154793",
+      "timestamp": "2026-01-20T14:39:59.062332",
       "url": "https://fenwick.co.uk/products/le-creuset-wa125-drip-free-pourer-black"
+    },
+    {
+      "site": "leaderonline_com",
+      "product": "Clear Pine Internal Unfinished 2 Panel 2 Light Clear Glass Door (93642)",
+      "percentage": 80.7,
+      "old_price": "109.00",
+      "new_price": "21.00",
+      "timestamp": "2026-01-20T14:40:17.076686",
+      "url": "https://www.leaderonline.com/products/liberty-doors-clear-pine-internal-unfinished-2-panel-2-light-clear-glass-door-93642"
     },
     {
       "site": "johnlewis_com",
@@ -238,6 +253,15 @@
       "new_price": "14.00",
       "timestamp": "2026-01-20T11:42:54.289179",
       "url": "https://www.johnlewis.com/sweaty-betty-athlete-seamless-t-shirt/p114030189"
+    },
+    {
+      "site": "leaderonline_com",
+      "product": "White Oak Internal Fully Finished 2 Light Clear Glass Oregon Door (121757)",
+      "percentage": 66.7,
+      "old_price": "30.00",
+      "new_price": "10.00",
+      "timestamp": "2026-01-20T14:40:17.076686",
+      "url": "https://www.leaderonline.com/products/jeldwen-white-oak-internal-fully-finished-2-light-clear-glass-oregon-door-121757"
     },
     {
       "site": "origincoffee_co_uk",
@@ -326,7 +350,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T14:34:50.154793",
+      "timestamp": "2026-01-20T14:39:59.062332",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -740,7 +764,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T14:34:50.154793",
+      "timestamp": "2026-01-20T14:39:59.062332",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -749,7 +773,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T14:34:50.154793",
+      "timestamp": "2026-01-20T14:39:59.062332",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -857,7 +881,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T14:34:50.154793",
+      "timestamp": "2026-01-20T14:39:59.062332",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -947,7 +971,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T14:34:50.154793",
+      "timestamp": "2026-01-20T14:39:59.062332",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -1030,24 +1054,6 @@
       "new_price": "70.50",
       "timestamp": "2026-01-20T13:11:13.652359",
       "url": "https://www.johnlewis.com/polo-ralph-lauren-chester-performance-stretch-twill-suit-trouser/p114585641"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Ted Baker Eduard Geometric Pattern Short Sleeve Polo Shirt",
-      "percentage": 40.0,
-      "old_price": "37.50",
-      "new_price": "22.50",
-      "timestamp": "2026-01-20T13:11:13.652359",
-      "url": "https://www.johnlewis.com/ted-baker-eduard-geometric-pattern-short-sleeve-polo-shirt/p113888493"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Mini Boden Kids' Cotton Glow-in-the-Dark Long Sleeve T-Shirt, Dino Skeletons",
-      "percentage": 40.0,
-      "old_price": "17.00",
-      "new_price": "10.20",
-      "timestamp": "2026-01-20T07:07:54.375288",
-      "url": "https://www.johnlewis.com/mini-boden-kids-cotton-glow-in-the-dark-long-sleeve-t-shirt-dino-skeletons/p114328632"
     }
   ]
 }

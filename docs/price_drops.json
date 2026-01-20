@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T09:16:05.127681",
-  "total_drops": 778,
+  "generated_at": "2026-01-20T09:21:16.307670",
+  "total_drops": 782,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -20,6 +20,12 @@
       "count": 241,
       "max_drop": 51.2,
       "total_savings": 4995.95
+    },
+    {
+      "site": "condorcycles_com",
+      "count": 8,
+      "max_drop": 50.0,
+      "total_savings": 68.51
     },
     {
       "site": "hollandcooper_com",
@@ -62,12 +68,6 @@
       "count": 2,
       "max_drop": 12.1,
       "total_savings": 149.9
-    },
-    {
-      "site": "condorcycles_com",
-      "count": 4,
-      "max_drop": 12.0,
-      "total_savings": 35.0
     },
     {
       "site": "solarscooters_co_uk",
@@ -207,6 +207,15 @@
       "url": "https://fenwick.co.uk/products/whistles-black-black-hot-fix-jersey-midi-dress-39134"
     },
     {
+      "site": "condorcycles_com",
+      "product": "Tektro TR-35 Center Lock Rotor",
+      "percentage": 50.0,
+      "old_price": "24.99",
+      "new_price": "12.49",
+      "timestamp": "2026-01-20T09:20:55.230482",
+      "url": "https://www.condorcycles.com/products/trp-35-centrelock-rotor"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Serene Robe Spa-Inspired Comfort Collection",
       "percentage": 50.0,
@@ -302,7 +311,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T09:15:41.118052",
+      "timestamp": "2026-01-20T09:20:47.512184",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -464,7 +473,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T09:15:41.118052",
+      "timestamp": "2026-01-20T09:20:47.512184",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -563,7 +572,7 @@
       "percentage": 40.0,
       "old_price": "74.50",
       "new_price": "44.70",
-      "timestamp": "2026-01-20T09:15:58.138027",
+      "timestamp": "2026-01-20T09:21:07.938326",
       "url": "https://www.johnlewis.com/john-lewis-taia-suede-stretch-over-the-knee-boots-black/p114074867"
     },
     {
@@ -572,7 +581,7 @@
       "percentage": 40.0,
       "old_price": "135.00",
       "new_price": "81.00",
-      "timestamp": "2026-01-20T09:15:58.138027",
+      "timestamp": "2026-01-20T09:21:07.938326",
       "url": "https://www.johnlewis.com/anonymous-copenhagen-patricia-leather-calf-boots-brown/p114033307"
     },
     {
@@ -684,6 +693,15 @@
       "url": "https://fenwick.co.uk/products/whistles-green-millie-textured-dress-39052"
     },
     {
+      "site": "condorcycles_com",
+      "product": "TRP-25 Centerlock Rotor",
+      "percentage": 37.5,
+      "old_price": "39.99",
+      "new_price": "24.99",
+      "timestamp": "2026-01-20T09:20:55.230482",
+      "url": "https://www.condorcycles.com/products/trp-25-centerlock-rotor"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Lola Massage Gun",
       "percentage": 37.5,
@@ -743,7 +761,7 @@
       "percentage": 35.9,
       "old_price": "195.00",
       "new_price": "125.00",
-      "timestamp": "2026-01-20T09:15:58.138027",
+      "timestamp": "2026-01-20T09:21:07.938326",
       "url": "https://www.johnlewis.com/russell-bromley-nordic-lace-suede-trainers-black/p114577904"
     },
     {
@@ -970,24 +988,6 @@
       "new_price": "333.16",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/bramblecrest-3-seater-sofa-sandstone-rmsc3s"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "TOP ONLY FOR adjustable rectangle dining table- Sandstone",
-      "percentage": 33.3,
-      "old_price": "499.83",
-      "new_price": "333.16",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/bramblecrest-top-only-for-adjustable-rectangle-dining-table-sandstone-rmmt9cjstp"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Adjustable Rectangle Dining Table (Base)",
-      "percentage": 33.3,
-      "old_price": "499.85",
-      "new_price": "333.20",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/bramblecrest-base-only-for-adjustable-rectangle-dining-table-sandstone-rmmt9cjsba"
     }
   ]
 }

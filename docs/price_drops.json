@@ -1,19 +1,25 @@
 {
-  "generated_at": "2026-01-20T00:08:23.714243",
-  "total_drops": 19,
-  "top_drops_shown": 19,
+  "generated_at": "2026-01-20T00:13:25.656992",
+  "total_drops": 28,
+  "top_drops_shown": 28,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 2,
+      "count": 8,
       "max_drop": 27.5,
-      "total_savings": 56.95
+      "total_savings": 358.27
     },
     {
       "site": "dryrobe_com",
       "count": 1,
       "max_drop": 25.9,
       "total_savings": 35.0
+    },
+    {
+      "site": "dusk_com",
+      "count": 3,
+      "max_drop": 12.2,
+      "total_savings": 63.0
     },
     {
       "site": "chelseababy_com",
@@ -41,7 +47,7 @@
       "percentage": 27.5,
       "old_price": "79.95",
       "new_price": "58.00",
-      "timestamp": "2026-01-20T00:08:21.550867",
+      "timestamp": "2026-01-20T00:13:25.017411",
       "url": "https://www.johnlewis.com/barbour-tartan-trim-snuggle-dog-bed-multi-30-inch/p113937506"
     },
     {
@@ -59,8 +65,26 @@
       "percentage": 20.0,
       "old_price": "175.00",
       "new_price": "140.00",
-      "timestamp": "2026-01-20T00:08:21.550867",
+      "timestamp": "2026-01-20T00:13:25.017411",
       "url": "https://www.johnlewis.com/john-lewis-rattan-storage-bedside-table/p5274268"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "LG RHX7010TBB Freestanding Condenser Tumble Dryer, 10kg Load, Matte Black",
+      "percentage": 15.8,
+      "old_price": "949.00",
+      "new_price": "799.00",
+      "timestamp": "2026-01-20T00:13:25.017411",
+      "url": "https://www.johnlewis.com/lg-rhx7010tbb-freestanding-condenser-tumble-dryer-10kg-load-matte-black/p114098258"
+    },
+    {
+      "site": "dusk_com",
+      "product": "Ascot Ottoman Storage Bed - Natural",
+      "percentage": 12.2,
+      "old_price": "246.00",
+      "new_price": "216.00",
+      "timestamp": "2026-01-20T00:13:21.346652",
+      "url": "https://dusk.com/products/ascot-ottoman-bed-frame-natural"
     },
     {
       "site": "chelseababy_com",
@@ -68,8 +92,17 @@
       "percentage": 12.1,
       "old_price": "699.95",
       "new_price": "615.00",
-      "timestamp": "2026-01-20T00:08:22.795742",
+      "timestamp": "2026-01-20T00:13:21.280260",
       "url": "https://chelseababy.com/products/cybex-balios-s-lux-one-box-travel-system-moon-black"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "AEG IKX64301CB 60cm Induction Hob, Black",
+      "percentage": 11.4,
+      "old_price": "299.00",
+      "new_price": "265.00",
+      "timestamp": "2026-01-20T00:13:25.017411",
+      "url": "https://www.johnlewis.com/aeg-ikx64301cb-60cm-induction-hob-black/p112042069"
     },
     {
       "site": "fenwick_co_uk",
@@ -77,7 +110,7 @@
       "percentage": 10.5,
       "old_price": "949.00",
       "new_price": "849.00",
-      "timestamp": "2026-01-20T00:08:20.115694",
+      "timestamp": "2026-01-20T00:13:10.752742",
       "url": "https://fenwick.co.uk/products/samsung-qe75qn1ef-75-inch-4k-neo-qled-mini-led-vision-ai-smart-tv-2025-0"
     },
     {
@@ -95,7 +128,7 @@
       "percentage": 9.0,
       "old_price": "719.95",
       "new_price": "655.00",
-      "timestamp": "2026-01-20T00:08:22.795742",
+      "timestamp": "2026-01-20T00:13:21.280260",
       "url": "https://chelseababy.com/products/cybex-balios-s-lux-one-box-travel-system-almond-beige"
     },
     {
@@ -104,7 +137,7 @@
       "percentage": 8.7,
       "old_price": "2299.00",
       "new_price": "2099.00",
-      "timestamp": "2026-01-20T00:08:20.115694",
+      "timestamp": "2026-01-20T00:13:10.752742",
       "url": "https://fenwick.co.uk/products/lg-oled65g56-65-inch-oled-evo-ai-4k-hdr-ultra-smart-tv-with-dolby-atmos-2025-no-colour"
     },
     {
@@ -113,8 +146,17 @@
       "percentage": 8.7,
       "old_price": "2299.00",
       "new_price": "2099.00",
-      "timestamp": "2026-01-20T00:08:20.115694",
+      "timestamp": "2026-01-20T00:13:10.752742",
       "url": "https://fenwick.co.uk/products/lg-oled65g54lw-65-inch-oled-evo-ai-4k-hdr-ultra-smart-tv-with-dolby-atmos-and-one-wall-design-2025-no-colour"
+    },
+    {
+      "site": "dusk_com",
+      "product": "Hampshire Loveseat - Beige",
+      "percentage": 8.1,
+      "old_price": "284.00",
+      "new_price": "261.00",
+      "timestamp": "2026-01-20T00:13:21.346652",
+      "url": "https://dusk.com/products/hampshire-loveseat-beige"
     },
     {
       "site": "fenwick_co_uk",
@@ -122,8 +164,35 @@
       "percentage": 8.0,
       "old_price": "249.00",
       "new_price": "229.00",
-      "timestamp": "2026-01-20T00:08:20.115694",
+      "timestamp": "2026-01-20T00:13:10.752742",
       "url": "https://fenwick.co.uk/products/sony-pslx310b-turntable-no-colour-pslx310b"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Samsung Galaxy Book5 Laptop, Intel Core Ultra 7 Processor, 16GB RAM, 1TB SSD, 15.6” Full HD, Titan Grey",
+      "percentage": 6.7,
+      "old_price": "749.99",
+      "new_price": "699.99",
+      "timestamp": "2026-01-20T00:13:25.017411",
+      "url": "https://www.johnlewis.com/samsung-galaxy-book5-laptop-intel-core-ultra-7-processor-16gb-ram-1tb-ssd-15-6-full-hd-titan-grey/p114733505"
+    },
+    {
+      "site": "dusk_com",
+      "product": "Ascot Bed Frame - Natural",
+      "percentage": 6.3,
+      "old_price": "159.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-20T00:13:21.346652",
+      "url": "https://dusk.com/products/ascot-bed-frame-natural"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "AEG TN64IA04FB 60cm Induction Hob, Black",
+      "percentage": 5.7,
+      "old_price": "349.00",
+      "new_price": "329.00",
+      "timestamp": "2026-01-20T00:13:25.017411",
+      "url": "https://www.johnlewis.com/aeg-tn64ia04fb-60cm-induction-hob-black/p113577620"
     },
     {
       "site": "fenwick_co_uk",
@@ -131,7 +200,7 @@
       "percentage": 5.6,
       "old_price": "899.00",
       "new_price": "849.00",
-      "timestamp": "2026-01-20T00:08:20.115694",
+      "timestamp": "2026-01-20T00:13:10.752742",
       "url": "https://fenwick.co.uk/products/lg-oled42c55-42-inch-oled-evo-ai-smart-tv-2025-no-colour"
     },
     {
@@ -149,7 +218,7 @@
       "percentage": 4.8,
       "old_price": "314.00",
       "new_price": "299.00",
-      "timestamp": "2026-01-20T00:08:20.115694",
+      "timestamp": "2026-01-20T00:13:10.752742",
       "url": "https://fenwick.co.uk/products/samsung-qe43q7f-43-inch-qled-4k-vision-ai-smart-tv-2025-0"
     },
     {
@@ -158,8 +227,17 @@
       "percentage": 3.2,
       "old_price": "949.00",
       "new_price": "919.00",
-      "timestamp": "2026-01-20T00:08:20.115694",
+      "timestamp": "2026-01-20T00:13:10.752742",
       "url": "https://fenwick.co.uk/products/samsung-qe55s90f-oled-55-inch-s90f-ai-smart-tv-2025-0"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Bosch Series 4 Built Under Electric Double Oven, NBS533BS0B, NBS533BB0B",
+      "percentage": 3.1,
+      "old_price": "749.00",
+      "new_price": "726.00",
+      "timestamp": "2026-01-20T00:13:25.017411",
+      "url": "https://www.johnlewis.com/bosch-series-4-built-under-electric-double-oven-nbs533bs0b-nbs533bb0b/p110492843"
     },
     {
       "site": "fenwick_co_uk",
@@ -167,7 +245,7 @@
       "percentage": 3.1,
       "old_price": "1299.00",
       "new_price": "1259.00",
-      "timestamp": "2026-01-20T00:08:20.115694",
+      "timestamp": "2026-01-20T00:13:10.752742",
       "url": "https://fenwick.co.uk/products/samsung-qe65qn93f-65-inch-qn93f-neo-qled-mini-led-ai-smart-tv-glare-free-2025-0"
     },
     {
@@ -176,7 +254,7 @@
       "percentage": 3.1,
       "old_price": "1959.00",
       "new_price": "1899.00",
-      "timestamp": "2026-01-20T00:08:20.115694",
+      "timestamp": "2026-01-20T00:13:10.752742",
       "url": "https://fenwick.co.uk/products/samsung-qe77s90f-oled-77-inch-s90f-ai-smart-tv-2025-0"
     },
     {
@@ -185,7 +263,7 @@
       "percentage": 2.7,
       "old_price": "75.00",
       "new_price": "73.00",
-      "timestamp": "2026-01-20T00:08:20.115694",
+      "timestamp": "2026-01-20T00:13:10.752742",
       "url": "https://fenwick.co.uk/products/sony-wh-ch720-noise-cancelling-wireless-headphones-black-whch720nb-ce7"
     },
     {
@@ -194,8 +272,17 @@
       "percentage": 2.7,
       "old_price": "75.00",
       "new_price": "73.00",
-      "timestamp": "2026-01-20T00:08:20.115694",
+      "timestamp": "2026-01-20T00:13:10.752742",
       "url": "https://fenwick.co.uk/products/sony-whch720np-wireless-bluetooth-headband-headphones-no-colour"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Bugaboo Fox 5 Renew Pushchair",
+      "percentage": 2.6,
+      "old_price": "940.32",
+      "new_price": "916.00",
+      "timestamp": "2026-01-20T00:13:25.017411",
+      "url": "https://www.johnlewis.com/bugaboo-fox-5-renew-pushchair/p113241262"
     },
     {
       "site": "fenwick_co_uk",
@@ -203,7 +290,7 @@
       "percentage": 2.2,
       "old_price": "449.00",
       "new_price": "439.00",
-      "timestamp": "2026-01-20T00:08:20.115694",
+      "timestamp": "2026-01-20T00:13:10.752742",
       "url": "https://fenwick.co.uk/products/samsung-ue65u8020f-65-inch-crystal-uhd-4k-smart-tv-2025-0"
     }
   ]

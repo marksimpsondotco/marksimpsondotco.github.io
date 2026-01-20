@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-01-20T00:03:22.446321",
-  "total_drops": 5,
-  "top_drops_shown": 5,
+  "generated_at": "2026-01-20T00:08:23.714243",
+  "total_drops": 19,
+  "top_drops_shown": 19,
   "site_stats": [
+    {
+      "site": "johnlewis_com",
+      "count": 2,
+      "max_drop": 27.5,
+      "total_savings": 56.95
+    },
     {
       "site": "dryrobe_com",
       "count": 1,
@@ -16,6 +22,12 @@
       "total_savings": 149.9
     },
     {
+      "site": "fenwick_co_uk",
+      "count": 12,
+      "max_drop": 10.5,
+      "total_savings": 729.0
+    },
+    {
       "site": "solarscooters_co_uk",
       "count": 2,
       "max_drop": 10.0,
@@ -23,6 +35,15 @@
     }
   ],
   "drops": [
+    {
+      "site": "johnlewis_com",
+      "product": "Barbour Tartan Trim Snuggle Dog Bed, Multi, 30\"",
+      "percentage": 27.5,
+      "old_price": "79.95",
+      "new_price": "58.00",
+      "timestamp": "2026-01-20T00:08:21.550867",
+      "url": "https://www.johnlewis.com/barbour-tartan-trim-snuggle-dog-bed-multi-30-inch/p113937506"
+    },
     {
       "site": "dryrobe_com",
       "product": "REWORK - Black Grey Camo Advance Kids Changing Robe",
@@ -33,13 +54,31 @@
       "url": "https://dryrobe.com/products/rework-black-grey-camo-advance-kids-changing-robe"
     },
     {
+      "site": "johnlewis_com",
+      "product": "John Lewis Rattan Storage Bedside Table",
+      "percentage": 20.0,
+      "old_price": "175.00",
+      "new_price": "140.00",
+      "timestamp": "2026-01-20T00:08:21.550867",
+      "url": "https://www.johnlewis.com/john-lewis-rattan-storage-bedside-table/p5274268"
+    },
+    {
       "site": "chelseababy_com",
       "product": "Cybex Balios S Lux One Box Travel System - Moon Black",
       "percentage": 12.1,
       "old_price": "699.95",
       "new_price": "615.00",
-      "timestamp": "2026-01-20T00:03:10.355840",
+      "timestamp": "2026-01-20T00:08:22.795742",
       "url": "https://chelseababy.com/products/cybex-balios-s-lux-one-box-travel-system-moon-black"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "QE75QN1EF 75 Inch 4k Neo QLED Mini LED Vision AI Smart TV (2025)",
+      "percentage": 10.5,
+      "old_price": "949.00",
+      "new_price": "849.00",
+      "timestamp": "2026-01-20T00:08:20.115694",
+      "url": "https://fenwick.co.uk/products/samsung-qe75qn1ef-75-inch-4k-neo-qled-mini-led-vision-ai-smart-tv-2025-0"
     },
     {
       "site": "solarscooters_co_uk",
@@ -56,8 +95,44 @@
       "percentage": 9.0,
       "old_price": "719.95",
       "new_price": "655.00",
-      "timestamp": "2026-01-20T00:03:10.355840",
+      "timestamp": "2026-01-20T00:08:22.795742",
       "url": "https://chelseababy.com/products/cybex-balios-s-lux-one-box-travel-system-almond-beige"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "OLED65G56 65 Inch OLED Evo AI 4k HDR Ultra Smart TV with Dolby Atmos 2025",
+      "percentage": 8.7,
+      "old_price": "2299.00",
+      "new_price": "2099.00",
+      "timestamp": "2026-01-20T00:08:20.115694",
+      "url": "https://fenwick.co.uk/products/lg-oled65g56-65-inch-oled-evo-ai-4k-hdr-ultra-smart-tv-with-dolby-atmos-2025-no-colour"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "OLED65G54LW 65 Inch OLED Evo AI 4k HDR Ultra Smart TV with Dolby Atmos Wall Mount Version 2025",
+      "percentage": 8.7,
+      "old_price": "2299.00",
+      "new_price": "2099.00",
+      "timestamp": "2026-01-20T00:08:20.115694",
+      "url": "https://fenwick.co.uk/products/lg-oled65g54lw-65-inch-oled-evo-ai-4k-hdr-ultra-smart-tv-with-dolby-atmos-and-one-wall-design-2025-no-colour"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Turntable with Bluetooth Connectivity PSLX310B",
+      "percentage": 8.0,
+      "old_price": "249.00",
+      "new_price": "229.00",
+      "timestamp": "2026-01-20T00:08:20.115694",
+      "url": "https://fenwick.co.uk/products/sony-pslx310b-turntable-no-colour-pslx310b"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "OLED42C55  42 Inch OLED Evo AI Smart TV 2025",
+      "percentage": 5.6,
+      "old_price": "899.00",
+      "new_price": "849.00",
+      "timestamp": "2026-01-20T00:08:20.115694",
+      "url": "https://fenwick.co.uk/products/lg-oled42c55-42-inch-oled-evo-ai-smart-tv-2025-no-colour"
     },
     {
       "site": "solarscooters_co_uk",
@@ -67,6 +142,69 @@
       "new_price": "949.99",
       "timestamp": "2026-01-19T23:02:40.544620",
       "url": "https://solarscooters.co.uk/products/solar-eq-fast-electric-scooter"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "QE43Q7F 43 Inch QLED 4k Vision AI Smart TV (2025)",
+      "percentage": 4.8,
+      "old_price": "314.00",
+      "new_price": "299.00",
+      "timestamp": "2026-01-20T00:08:20.115694",
+      "url": "https://fenwick.co.uk/products/samsung-qe43q7f-43-inch-qled-4k-vision-ai-smart-tv-2025-0"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "QE55S90F OLED 55 Inch S90F AI Smart TV (2025)",
+      "percentage": 3.2,
+      "old_price": "949.00",
+      "new_price": "919.00",
+      "timestamp": "2026-01-20T00:08:20.115694",
+      "url": "https://fenwick.co.uk/products/samsung-qe55s90f-oled-55-inch-s90f-ai-smart-tv-2025-0"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "QE65QN93F 65 Inch QN93F  Neo QLED Mini LED AI Smart TV Glare Free (2025)",
+      "percentage": 3.1,
+      "old_price": "1299.00",
+      "new_price": "1259.00",
+      "timestamp": "2026-01-20T00:08:20.115694",
+      "url": "https://fenwick.co.uk/products/samsung-qe65qn93f-65-inch-qn93f-neo-qled-mini-led-ai-smart-tv-glare-free-2025-0"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "QE77S90F OLED 77 Inch S90F AI Smart TV 2025",
+      "percentage": 3.1,
+      "old_price": "1959.00",
+      "new_price": "1899.00",
+      "timestamp": "2026-01-20T00:08:20.115694",
+      "url": "https://fenwick.co.uk/products/samsung-qe77s90f-oled-77-inch-s90f-ai-smart-tv-2025-0"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "WH-CH720 Noise Cancelling Wireless Headphones",
+      "percentage": 2.7,
+      "old_price": "75.00",
+      "new_price": "73.00",
+      "timestamp": "2026-01-20T00:08:20.115694",
+      "url": "https://fenwick.co.uk/products/sony-wh-ch720-noise-cancelling-wireless-headphones-black-whch720nb-ce7"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "WHCH720NP Wireless Bluetooth Noise Cancelling Over-Ear Headphones",
+      "percentage": 2.7,
+      "old_price": "75.00",
+      "new_price": "73.00",
+      "timestamp": "2026-01-20T00:08:20.115694",
+      "url": "https://fenwick.co.uk/products/sony-whch720np-wireless-bluetooth-headband-headphones-no-colour"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "UE65U8020F 65 INCH Crystal UHD 4k Smart TV (2025)",
+      "percentage": 2.2,
+      "old_price": "449.00",
+      "new_price": "439.00",
+      "timestamp": "2026-01-20T00:08:20.115694",
+      "url": "https://fenwick.co.uk/products/samsung-ue65u8020f-65-inch-crystal-uhd-4k-smart-tv-2025-0"
     }
   ]
 }

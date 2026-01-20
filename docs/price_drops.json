@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T07:16:47.882999",
-  "total_drops": 460,
+  "generated_at": "2026-01-20T07:21:55.674769",
+  "total_drops": 475,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 174,
-      "max_drop": 44.0,
-      "total_savings": 3993.91
+      "count": 189,
+      "max_drop": 51.2,
+      "total_savings": 4243.23
     },
     {
       "site": "hollandcooper_com",
@@ -130,6 +130,15 @@
       "new_price": "42.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-white-ivory-lucie-boucle-tank-39724"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "French Connection Kady High Neck Metallic Jumper, Black/Gold",
+      "percentage": 51.2,
+      "old_price": "41.00",
+      "new_price": "20.00",
+      "timestamp": "2026-01-20T07:21:49.086601",
+      "url": "https://www.johnlewis.com/french-connection-kady-high-neck-metallic-jumper-black-gold/p114369962"
     },
     {
       "site": "fenwick_co_uk",
@@ -322,6 +331,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Tommy Hilfiger Fine Cable Knit Crew Neck Jumper",
+      "percentage": 44.0,
+      "old_price": "120.00",
+      "new_price": "67.20",
+      "timestamp": "2026-01-20T07:21:49.086601",
+      "url": "https://www.johnlewis.com/tommy-hilfiger-fine-cable-knit-crew-neck-jumper/p113166243"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Mango Point Lace Up Suede Trainers,  Medium Brown",
       "percentage": 44.0,
       "old_price": "49.99",
@@ -490,6 +508,15 @@
       "new_price": "101.40",
       "timestamp": "2026-01-20T05:42:14.194842",
       "url": "https://www.boden.com/products/women-heeled-buckled-ankle-boot-cognac-a2128tan"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "French Connection Meera Longline Round Neck Jersey Cardigan",
+      "percentage": 39.4,
+      "old_price": "33.00",
+      "new_price": "20.00",
+      "timestamp": "2026-01-20T07:21:49.086601",
+      "url": "https://www.johnlewis.com/french-connection-meera-longline-round-neck-jersey-cardigan/p113950648"
     },
     {
       "site": "fenwick_co_uk",
@@ -789,6 +816,15 @@
       "url": "https://fenwick.co.uk/products/bramblecrest-casual-dining-bench-sandstone-rmms14s"
     },
     {
+      "site": "johnlewis_com",
+      "product": "HUSH Gracey V-Neck Jumper",
+      "percentage": 32.5,
+      "old_price": "63.00",
+      "new_price": "42.50",
+      "timestamp": "2026-01-20T07:21:49.086601",
+      "url": "https://www.johnlewis.com/hush-gracey-v-neck-jumper/p114402549"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Green/Multi Kelly Tiger Flame Jumpsuit",
       "percentage": 31.7,
@@ -925,57 +961,21 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "SISLEY Regular Fit Cardigan",
+      "percentage": 28.6,
+      "old_price": "42.00",
+      "new_price": "29.98",
+      "timestamp": "2026-01-20T07:21:49.086601",
+      "url": "https://www.johnlewis.com/sisley-regular-fit-cardigan/p114430004"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Hackett London Kids' Cotton Knitted Embroidered Hoodie, Stone Beige",
       "percentage": 28.6,
       "old_price": "56.00",
       "new_price": "40.00",
       "timestamp": "2026-01-20T07:07:54.375288",
       "url": "https://www.johnlewis.com/hackett-london-kids-cotton-knitted-embroidered-hoodie-stone-beige/p114165585"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Hackett London Kids' Cotton Blend Regular Trousers",
-      "percentage": 28.6,
-      "old_price": "56.00",
-      "new_price": "40.00",
-      "timestamp": "2026-01-20T07:07:54.375288",
-      "url": "https://www.johnlewis.com/hackett-london-kids-cotton-blend-regular-trousers/p114043528"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Ralph Lauren Kids' Cotton Long Sleeved Checked Shirt, Red/Cream",
-      "percentage": 28.6,
-      "old_price": "52.50",
-      "new_price": "37.50",
-      "timestamp": "2026-01-20T07:07:54.375288",
-      "url": "https://www.johnlewis.com/ralph-lauren-kids-cotton-long-sleeved-checked-shirt-red-cream/p114247081"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Hackett London Kids' Classic Fit Trim Flannel Shirt, Midnight Blue",
-      "percentage": 28.6,
-      "old_price": "42.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-20T07:07:54.375288",
-      "url": "https://www.johnlewis.com/hackett-london-kids-classic-fit-trim-flannel-shirt-midnight-blue/p114043535"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Hackett London Kids' Brompton Cotton Oxford Shirt, Malt Beige",
-      "percentage": 28.6,
-      "old_price": "38.50",
-      "new_price": "27.50",
-      "timestamp": "2026-01-20T07:07:54.375288",
-      "url": "https://www.johnlewis.com/hackett-london-kids-brompton-cotton-oxford-shirt-malt-beige/p114165200"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Hackett London Kids' Cotton Long Sleeve Zip Neck Jersey Top",
-      "percentage": 28.6,
-      "old_price": "56.00",
-      "new_price": "40.00",
-      "timestamp": "2026-01-20T07:07:54.375288",
-      "url": "https://www.johnlewis.com/hackett-london-kids-cotton-long-sleeve-zip-neck-jersey-top/p114043517"
     }
   ]
 }

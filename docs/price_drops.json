@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-20T23:02:20.803064",
-  "total_drops": 20,
-  "top_drops_shown": 20,
+  "generated_at": "2026-01-20T23:07:22.875693",
+  "total_drops": 31,
+  "top_drops_shown": 31,
   "site_stats": [
+    {
+      "site": "fenwick_co_uk",
+      "count": 4,
+      "max_drop": 43.5,
+      "total_savings": 95.5
+    },
     {
       "site": "flannels_com",
       "count": 2,
       "max_drop": 34.3,
       "total_savings": 51.0
-    },
-    {
-      "site": "fenwick_co_uk",
-      "count": 2,
-      "max_drop": 29.0,
-      "total_savings": 45.5
     },
     {
       "site": "boden_com",
@@ -22,16 +22,16 @@
       "total_savings": 108.1
     },
     {
+      "site": "twentytwentyone_com",
+      "count": 10,
+      "max_drop": 20.3,
+      "total_savings": 76.0
+    },
+    {
       "site": "rehaus_co_uk",
       "count": 3,
       "max_drop": 20.3,
       "total_savings": 6350.0
-    },
-    {
-      "site": "twentytwentyone_com",
-      "count": 1,
-      "max_drop": 12.5,
-      "total_savings": 10.0
     },
     {
       "site": "dusk_com",
@@ -54,12 +54,21 @@
   ],
   "drops": [
     {
+      "site": "fenwick_co_uk",
+      "product": "SYMMETRY COURT VINYL 80",
+      "percentage": 43.5,
+      "old_price": "69.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-20T23:07:03.475214",
+      "url": "https://fenwick.co.uk/products/gold-symmetry-court-vinyl-80-2413561979"
+    },
+    {
       "site": "flannels_com",
       "product": "True Decadence - Women's Maxi Dress",
       "percentage": 34.3,
       "old_price": "35.00",
       "new_price": "23.00",
-      "timestamp": "2026-01-20T23:02:19.779388",
+      "timestamp": "2026-01-20T23:07:19.130663",
       "url": "https://www.flannels.com/true-decadence-womens-maxi-dress-655173"
     },
     {
@@ -68,8 +77,17 @@
       "percentage": 29.0,
       "old_price": "137.40",
       "new_price": "97.50",
-      "timestamp": "2026-01-20T23:02:04.789196",
+      "timestamp": "2026-01-20T23:07:03.475214",
       "url": "https://fenwick.co.uk/products/other-multicoloured-carlow-duvet-cover-hbcarldcmulticoloured"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Lovebird Vinyl Heels Navy",
+      "percentage": 29.0,
+      "old_price": "69.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-20T23:07:03.475214",
+      "url": "https://fenwick.co.uk/products/navy-lovebird-vinyl-9277284979"
     },
     {
       "site": "flannels_com",
@@ -77,7 +95,7 @@
       "percentage": 25.2,
       "old_price": "155.00",
       "new_price": "116.00",
-      "timestamp": "2026-01-20T23:02:19.779388",
+      "timestamp": "2026-01-20T23:07:19.130663",
       "url": "https://www.flannels.com/nike-pegasus-premium-trainers-womens-210842"
     },
     {
@@ -99,13 +117,31 @@
       "url": "https://fenwick.co.uk/products/lsa-collective-starter-pasta-bowl-x-2-white"
     },
     {
+      "site": "twentytwentyone_com",
+      "product": "Bokk Bottle Opener",
+      "percentage": 20.3,
+      "old_price": "59.00",
+      "new_price": "47.00",
+      "timestamp": "2026-01-20T23:06:59.251514",
+      "url": "https://www.twentytwentyone.com/products/nedre-foss-sigve-knutson-bokk-bottle-opener"
+    },
+    {
       "site": "rehaus_co_uk",
       "product": "Hermès Reeditions Dining Table by Jean-Michel Frank",
       "percentage": 20.3,
       "old_price": "13800.00",
       "new_price": "11000.00",
-      "timestamp": "2026-01-20T23:02:09.360857",
+      "timestamp": "2026-01-20T23:07:10.686405",
       "url": "https://rehaus.co.uk/products/2576939376"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Korg Tray",
+      "percentage": 20.0,
+      "old_price": "97.50",
+      "new_price": "78.00",
+      "timestamp": "2026-01-20T23:06:59.251514",
+      "url": "https://www.twentytwentyone.com/products/nedre-foss-paolo-lucidi-and-luca-pevere-korg-tray"
     },
     {
       "site": "rehaus_co_uk",
@@ -113,7 +149,7 @@
       "percentage": 18.8,
       "old_price": "17250.00",
       "new_price": "14000.00",
-      "timestamp": "2026-01-20T23:02:09.360857",
+      "timestamp": "2026-01-20T23:07:10.686405",
       "url": "https://rehaus.co.uk/products/2576934955"
     },
     {
@@ -135,6 +171,15 @@
       "url": "https://www.boden.com/products/boys-slim-pull-on-trousers-charcoal-cord-b2795gry"
     },
     {
+      "site": "twentytwentyone_com",
+      "product": "Bakers Brush",
+      "percentage": 14.3,
+      "old_price": "14.00",
+      "new_price": "12.00",
+      "timestamp": "2026-01-20T23:06:59.251514",
+      "url": "https://www.twentytwentyone.com/products/iris-hantverk-bakers-brush"
+    },
+    {
       "site": "boden_com",
       "product": "Marion Merino High Neck Jumper-Gladioli Orange",
       "percentage": 14.3,
@@ -153,13 +198,67 @@
       "url": "https://www.boden.com/products/boys-cosy-fleece-joggers-college-navy-b2844nav"
     },
     {
+      "site": "twentytwentyone_com",
+      "product": "Rectangle Cutting Board",
+      "percentage": 13.7,
+      "old_price": "25.50",
+      "new_price": "22.00",
+      "timestamp": "2026-01-20T23:06:59.251514",
+      "url": "https://www.twentytwentyone.com/products/side-by-side-jette-scheib-rectangle-cutting-board"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Quitterie Coin/Card Purse",
+      "percentage": 13.3,
+      "old_price": "15.00",
+      "new_price": "13.00",
+      "timestamp": "2026-01-20T23:06:59.251514",
+      "url": "https://www.twentytwentyone.com/products/quitterie-coin-purse"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Shoe Brush",
+      "percentage": 13.3,
+      "old_price": "15.00",
+      "new_price": "13.00",
+      "timestamp": "2026-01-20T23:06:59.251514",
+      "url": "https://www.twentytwentyone.com/products/iris-hantverk-shoe-brush"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Computer/Desktop Brush",
+      "percentage": 13.3,
+      "old_price": "15.00",
+      "new_price": "13.00",
+      "timestamp": "2026-01-20T23:06:59.251514",
+      "url": "https://www.twentytwentyone.com/products/iris-hantverk-computer-desktop-brush"
+    },
+    {
       "site": "rehaus_co_uk",
       "product": "Fritz Hansen Swan Chair by Arne Jacobsen",
       "percentage": 13.0,
       "old_price": "2300.00",
       "new_price": "2000.00",
-      "timestamp": "2026-01-20T23:02:09.360857",
+      "timestamp": "2026-01-20T23:07:10.686405",
       "url": "https://rehaus.co.uk/products/2573384601"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Sam Rug",
+      "percentage": 12.9,
+      "old_price": "163.00",
+      "new_price": "142.00",
+      "timestamp": "2026-01-20T23:06:59.251514",
+      "url": "https://www.twentytwentyone.com/products/pappelina-kim-froyen-lina-rickardson-sam-rug"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Base Red Wine Glass",
+      "percentage": 12.9,
+      "old_price": "15.50",
+      "new_price": "13.50",
+      "timestamp": "2026-01-20T23:06:59.251514",
+      "url": "https://www.twentytwentyone.com/products/serax-piet-boon-base-red-wine-glass"
     },
     {
       "site": "twentytwentyone_com",
@@ -167,7 +266,7 @@
       "percentage": 12.5,
       "old_price": "80.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-20T23:02:10.367970",
+      "timestamp": "2026-01-20T23:06:59.251514",
       "url": "https://www.twentytwentyone.com/products/alessi-keiji-takeuchi-slow-coffee-grinder"
     },
     {
@@ -194,7 +293,7 @@
       "percentage": 10.7,
       "old_price": "5.60",
       "new_price": "5.00",
-      "timestamp": "2026-01-20T23:02:13.243459",
+      "timestamp": "2026-01-20T23:07:17.521660",
       "url": "https://dusk.com/products/velvet-cushion-cover-burnt-orange"
     },
     {

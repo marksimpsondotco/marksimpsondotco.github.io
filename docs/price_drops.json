@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-20T23:07:22.875693",
-  "total_drops": 31,
-  "top_drops_shown": 31,
+  "generated_at": "2026-01-20T23:12:25.812284",
+  "total_drops": 39,
+  "top_drops_shown": 39,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
@@ -23,9 +23,9 @@
     },
     {
       "site": "twentytwentyone_com",
-      "count": 10,
+      "count": 18,
       "max_drop": 20.3,
-      "total_savings": 76.0
+      "total_savings": 115.5
     },
     {
       "site": "rehaus_co_uk",
@@ -59,7 +59,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T23:07:03.475214",
+      "timestamp": "2026-01-20T23:12:20.893574",
       "url": "https://fenwick.co.uk/products/gold-symmetry-court-vinyl-80-2413561979"
     },
     {
@@ -68,7 +68,7 @@
       "percentage": 34.3,
       "old_price": "35.00",
       "new_price": "23.00",
-      "timestamp": "2026-01-20T23:07:19.130663",
+      "timestamp": "2026-01-20T23:08:56.999361",
       "url": "https://www.flannels.com/true-decadence-womens-maxi-dress-655173"
     },
     {
@@ -77,7 +77,7 @@
       "percentage": 29.0,
       "old_price": "137.40",
       "new_price": "97.50",
-      "timestamp": "2026-01-20T23:07:03.475214",
+      "timestamp": "2026-01-20T23:12:20.893574",
       "url": "https://fenwick.co.uk/products/other-multicoloured-carlow-duvet-cover-hbcarldcmulticoloured"
     },
     {
@@ -86,7 +86,7 @@
       "percentage": 29.0,
       "old_price": "69.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T23:07:03.475214",
+      "timestamp": "2026-01-20T23:12:20.893574",
       "url": "https://fenwick.co.uk/products/navy-lovebird-vinyl-9277284979"
     },
     {
@@ -95,7 +95,7 @@
       "percentage": 25.2,
       "old_price": "155.00",
       "new_price": "116.00",
-      "timestamp": "2026-01-20T23:07:19.130663",
+      "timestamp": "2026-01-20T23:08:56.999361",
       "url": "https://www.flannels.com/nike-pegasus-premium-trainers-womens-210842"
     },
     {
@@ -122,7 +122,7 @@
       "percentage": 20.3,
       "old_price": "59.00",
       "new_price": "47.00",
-      "timestamp": "2026-01-20T23:06:59.251514",
+      "timestamp": "2026-01-20T23:11:55.591643",
       "url": "https://www.twentytwentyone.com/products/nedre-foss-sigve-knutson-bokk-bottle-opener"
     },
     {
@@ -131,7 +131,7 @@
       "percentage": 20.3,
       "old_price": "13800.00",
       "new_price": "11000.00",
-      "timestamp": "2026-01-20T23:07:10.686405",
+      "timestamp": "2026-01-20T23:08:39.174321",
       "url": "https://rehaus.co.uk/products/2576939376"
     },
     {
@@ -140,7 +140,7 @@
       "percentage": 20.0,
       "old_price": "97.50",
       "new_price": "78.00",
-      "timestamp": "2026-01-20T23:06:59.251514",
+      "timestamp": "2026-01-20T23:11:55.591643",
       "url": "https://www.twentytwentyone.com/products/nedre-foss-paolo-lucidi-and-luca-pevere-korg-tray"
     },
     {
@@ -149,8 +149,62 @@
       "percentage": 18.8,
       "old_price": "17250.00",
       "new_price": "14000.00",
-      "timestamp": "2026-01-20T23:07:10.686405",
+      "timestamp": "2026-01-20T23:08:39.174321",
       "url": "https://rehaus.co.uk/products/2576934955"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Bas Poster 01",
+      "percentage": 16.7,
+      "old_price": "36.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-20T23:11:55.591643",
+      "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bouroullec-bas-posters"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Window Posters",
+      "percentage": 16.7,
+      "old_price": "36.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-20T23:11:55.591643",
+      "url": "https://www.twentytwentyone.com/products/the-wrong-shop-richard-woods-window-posters"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Ronan Bouroullec Poster | Drawing 2",
+      "percentage": 16.7,
+      "old_price": "36.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-20T23:11:55.591643",
+      "url": "https://www.twentytwentyone.com/products/ronan-bouroullec-poster-drawing-2"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Ronan Bouroullec Poster | Drawing 9",
+      "percentage": 16.7,
+      "old_price": "36.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-20T23:11:55.591643",
+      "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bouroullec-poster-drawing-10"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Ronan Bouroullec Poster | Drawing 11",
+      "percentage": 16.7,
+      "old_price": "36.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-20T23:11:55.591643",
+      "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bouroullec-poster-drawing-11"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Bas Poster 03",
+      "percentage": 16.7,
+      "old_price": "36.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-20T23:11:55.591643",
+      "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bourollec-bas-poster-3"
     },
     {
       "site": "boden_com",
@@ -160,6 +214,15 @@
       "new_price": "79.50",
       "timestamp": "2026-01-20T21:28:52.576529",
       "url": "https://www.boden.com/products/women-pleated-wool-culottes-red-blue-and-green-check-r0786red"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Shanagarry Tea Light Holder",
+      "percentage": 15.8,
+      "old_price": "9.50",
+      "new_price": "8.00",
+      "timestamp": "2026-01-20T23:11:55.591643",
+      "url": "https://www.twentytwentyone.com/products/stephen-pearce-shanagarry-tea-light-holder"
     },
     {
       "site": "boden_com",
@@ -176,7 +239,7 @@
       "percentage": 14.3,
       "old_price": "14.00",
       "new_price": "12.00",
-      "timestamp": "2026-01-20T23:06:59.251514",
+      "timestamp": "2026-01-20T23:11:55.591643",
       "url": "https://www.twentytwentyone.com/products/iris-hantverk-bakers-brush"
     },
     {
@@ -203,7 +266,7 @@
       "percentage": 13.7,
       "old_price": "25.50",
       "new_price": "22.00",
-      "timestamp": "2026-01-20T23:06:59.251514",
+      "timestamp": "2026-01-20T23:11:55.591643",
       "url": "https://www.twentytwentyone.com/products/side-by-side-jette-scheib-rectangle-cutting-board"
     },
     {
@@ -212,7 +275,7 @@
       "percentage": 13.3,
       "old_price": "15.00",
       "new_price": "13.00",
-      "timestamp": "2026-01-20T23:06:59.251514",
+      "timestamp": "2026-01-20T23:11:55.591643",
       "url": "https://www.twentytwentyone.com/products/quitterie-coin-purse"
     },
     {
@@ -221,7 +284,7 @@
       "percentage": 13.3,
       "old_price": "15.00",
       "new_price": "13.00",
-      "timestamp": "2026-01-20T23:06:59.251514",
+      "timestamp": "2026-01-20T23:11:55.591643",
       "url": "https://www.twentytwentyone.com/products/iris-hantverk-shoe-brush"
     },
     {
@@ -230,7 +293,7 @@
       "percentage": 13.3,
       "old_price": "15.00",
       "new_price": "13.00",
-      "timestamp": "2026-01-20T23:06:59.251514",
+      "timestamp": "2026-01-20T23:11:55.591643",
       "url": "https://www.twentytwentyone.com/products/iris-hantverk-computer-desktop-brush"
     },
     {
@@ -239,7 +302,7 @@
       "percentage": 13.0,
       "old_price": "2300.00",
       "new_price": "2000.00",
-      "timestamp": "2026-01-20T23:07:10.686405",
+      "timestamp": "2026-01-20T23:08:39.174321",
       "url": "https://rehaus.co.uk/products/2573384601"
     },
     {
@@ -248,7 +311,7 @@
       "percentage": 12.9,
       "old_price": "163.00",
       "new_price": "142.00",
-      "timestamp": "2026-01-20T23:06:59.251514",
+      "timestamp": "2026-01-20T23:11:55.591643",
       "url": "https://www.twentytwentyone.com/products/pappelina-kim-froyen-lina-rickardson-sam-rug"
     },
     {
@@ -257,8 +320,17 @@
       "percentage": 12.9,
       "old_price": "15.50",
       "new_price": "13.50",
-      "timestamp": "2026-01-20T23:06:59.251514",
+      "timestamp": "2026-01-20T23:11:55.591643",
       "url": "https://www.twentytwentyone.com/products/serax-piet-boon-base-red-wine-glass"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Shanagarry Handled Beaker",
+      "percentage": 12.9,
+      "old_price": "15.50",
+      "new_price": "13.50",
+      "timestamp": "2026-01-20T23:11:55.591643",
+      "url": "https://www.twentytwentyone.com/products/stephen-pearce-shanagarry-handled-beaker"
     },
     {
       "site": "twentytwentyone_com",
@@ -266,7 +338,7 @@
       "percentage": 12.5,
       "old_price": "80.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-20T23:06:59.251514",
+      "timestamp": "2026-01-20T23:11:55.591643",
       "url": "https://www.twentytwentyone.com/products/alessi-keiji-takeuchi-slow-coffee-grinder"
     },
     {
@@ -293,7 +365,7 @@
       "percentage": 10.7,
       "old_price": "5.60",
       "new_price": "5.00",
-      "timestamp": "2026-01-20T23:07:17.521660",
+      "timestamp": "2026-01-20T23:12:23.541253",
       "url": "https://dusk.com/products/velvet-cushion-cover-burnt-orange"
     },
     {

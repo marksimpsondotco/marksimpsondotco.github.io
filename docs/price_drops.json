@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-20T07:37:21.137621",
-  "total_drops": 492,
+  "generated_at": "2026-01-20T07:42:28.970959",
+  "total_drops": 516,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
-      "count": 252,
+      "count": 253,
       "max_drop": 60.6,
-      "total_savings": 18732.48
+      "total_savings": 18742.48
     },
     {
       "site": "johnlewis_com",
-      "count": 206,
+      "count": 226,
       "max_drop": 51.2,
-      "total_savings": 4493.88
+      "total_savings": 4678.05
     },
     {
       "site": "hollandcooper_com",
@@ -47,9 +47,9 @@
     },
     {
       "site": "currys_com",
-      "count": 2,
+      "count": 5,
       "max_drop": 14.9,
-      "total_savings": 140.0
+      "total_savings": 143.0
     },
     {
       "site": "dusk_com",
@@ -137,7 +137,7 @@
       "percentage": 51.2,
       "old_price": "41.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-20T07:37:14.542530",
+      "timestamp": "2026-01-20T07:42:22.339180",
       "url": "https://www.johnlewis.com/french-connection-kady-high-neck-metallic-jumper-black-gold/p114369962"
     },
     {
@@ -335,7 +335,7 @@
       "percentage": 44.0,
       "old_price": "120.00",
       "new_price": "67.20",
-      "timestamp": "2026-01-20T07:37:14.542530",
+      "timestamp": "2026-01-20T07:42:22.339180",
       "url": "https://www.johnlewis.com/tommy-hilfiger-fine-cable-knit-crew-neck-jumper/p113166243"
     },
     {
@@ -380,8 +380,17 @@
       "percentage": 42.9,
       "old_price": "63.00",
       "new_price": "36.00",
-      "timestamp": "2026-01-20T07:37:14.542530",
+      "timestamp": "2026-01-20T07:42:22.339180",
       "url": "https://www.johnlewis.com/calvin-klein-cotton-melange-regular-fit-overshirt/p114463592"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Joules Kids' Crofton Colour Block Gilet, Multi",
+      "percentage": 41.4,
+      "old_price": "29.00",
+      "new_price": "17.00",
+      "timestamp": "2026-01-20T07:42:22.339180",
+      "url": "https://www.johnlewis.com/joules-kids-crofton-colour-block-gilet-multi/p114206247"
     },
     {
       "site": "fenwick_co_uk",
@@ -461,7 +470,7 @@
       "percentage": 40.0,
       "old_price": "64.50",
       "new_price": "38.70",
-      "timestamp": "2026-01-20T07:37:14.542530",
+      "timestamp": "2026-01-20T07:42:22.339180",
       "url": "https://www.johnlewis.com/ted-baker-sohoe-pure-cotton-long-sleeve-stripe-shirt-light-blue/p113888490"
     },
     {
@@ -470,7 +479,7 @@
       "percentage": 40.0,
       "old_price": "25.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-20T07:37:14.542530",
+      "timestamp": "2026-01-20T07:42:22.339180",
       "url": "https://www.johnlewis.com/selected-charlie-regular-fit-shirt/p113975692"
     },
     {
@@ -542,7 +551,7 @@
       "percentage": 39.4,
       "old_price": "33.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-20T07:37:14.542530",
+      "timestamp": "2026-01-20T07:42:22.339180",
       "url": "https://www.johnlewis.com/french-connection-meera-longline-round-neck-jersey-cardigan/p113950648"
     },
     {
@@ -654,6 +663,15 @@
       "url": "https://fenwick.co.uk/products/whistles-grey-marl-ultimate-cashmere-crew-neck-37201"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Reiss Kids' Prescott Jacket",
+      "percentage": 35.7,
+      "old_price": "28.00",
+      "new_price": "18.00",
+      "timestamp": "2026-01-20T07:42:22.339180",
+      "url": "https://www.johnlewis.com/reiss-kids-prescott-jacket/p114290378"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Maja Knitted Polo Neck Knit",
       "percentage": 35.3,
@@ -661,6 +679,15 @@
       "new_price": "55.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-black-maja-knitted-polo-neck-knit-37209"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Mini Boden Kids' Cotton Snug Long John Pyjama Set",
+      "percentage": 35.0,
+      "old_price": "23.00",
+      "new_price": "14.95",
+      "timestamp": "2026-01-20T07:42:22.339180",
+      "url": "https://www.johnlewis.com/mini-boden-kids-cotton-snug-long-john-pyjama-set/p114418418"
     },
     {
       "site": "fenwick_co_uk",
@@ -713,7 +740,7 @@
       "percentage": 33.8,
       "old_price": "77.00",
       "new_price": "51.00",
-      "timestamp": "2026-01-20T07:37:14.542530",
+      "timestamp": "2026-01-20T07:42:22.339180",
       "url": "https://www.johnlewis.com/dune-london-cohens-leather-chelsea-boots/p114423692"
     },
     {
@@ -857,8 +884,17 @@
       "percentage": 32.5,
       "old_price": "63.00",
       "new_price": "42.50",
-      "timestamp": "2026-01-20T07:37:14.542530",
+      "timestamp": "2026-01-20T07:42:22.339180",
       "url": "https://www.johnlewis.com/hush-gracey-v-neck-jumper/p114402549"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ralph Lauren Kids' Cotton Long Sleeved Rugby Shirt, Red/Blue",
+      "percentage": 32.0,
+      "old_price": "72.80",
+      "new_price": "49.50",
+      "timestamp": "2026-01-20T07:42:22.339180",
+      "url": "https://www.johnlewis.com/ralph-lauren-kids-cotton-long-sleeved-rugby-shirt-red-blue/p113626559"
     },
     {
       "site": "fenwick_co_uk",
@@ -934,48 +970,12 @@
     },
     {
       "site": "johnlewis_com",
-      "product": "SISLEY Cotton Blend Roll Neck Jumper, Night Blue",
-      "percentage": 30.0,
-      "old_price": "59.95",
-      "new_price": "41.97",
-      "timestamp": "2026-01-20T07:37:14.542530",
-      "url": "https://www.johnlewis.com/sisley-cotton-blend-roll-neck-jumper-night-blue/p114496482"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Benetton Wool Blend Zip-Through Knitted Vest, Beige",
-      "percentage": 30.0,
-      "old_price": "89.95",
-      "new_price": "62.95",
-      "timestamp": "2026-01-20T07:37:14.542530",
-      "url": "https://www.johnlewis.com/benetton-wool-blend-zip-through-knitted-vest-beige/p114635276"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "SISLEY Wool Blend Scarf, Taupe",
-      "percentage": 30.0,
-      "old_price": "39.95",
-      "new_price": "27.97",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/sisley-wool-blend-scarf-taupe/p114623613"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "OXO Good Grips Y-Shaped Peeler",
-      "percentage": 30.0,
-      "old_price": "10.00",
-      "new_price": "7.00",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/oxo-good-grips-y-shaped-peeler/p185427"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Reiss Voyager Shirt, Soft Blue",
-      "percentage": 29.4,
-      "old_price": "68.00",
-      "new_price": "48.00",
-      "timestamp": "2026-01-20T07:37:14.542530",
-      "url": "https://www.johnlewis.com/reiss-voyager-shirt-soft-blue/p112170703"
+      "product": "Ralph Lauren Kids' Athlete Cotton Drawstring Joggers, Classic Blue",
+      "percentage": 30.1,
+      "old_price": "53.62",
+      "new_price": "37.50",
+      "timestamp": "2026-01-20T07:42:22.339180",
+      "url": "https://www.johnlewis.com/ralph-lauren-kids-athlete-cotton-drawstring-joggers-classic-blue/p113626556"
     }
   ]
 }

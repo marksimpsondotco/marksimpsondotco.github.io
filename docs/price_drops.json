@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T07:21:55.674769",
-  "total_drops": 475,
+  "generated_at": "2026-01-20T07:27:03.934891",
+  "total_drops": 477,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 189,
+      "count": 191,
       "max_drop": 51.2,
-      "total_savings": 4243.23
+      "total_savings": 4258.08
     },
     {
       "site": "hollandcooper_com",
@@ -137,7 +137,7 @@
       "percentage": 51.2,
       "old_price": "41.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-20T07:21:49.086601",
+      "timestamp": "2026-01-20T07:26:56.445553",
       "url": "https://www.johnlewis.com/french-connection-kady-high-neck-metallic-jumper-black-gold/p114369962"
     },
     {
@@ -335,7 +335,7 @@
       "percentage": 44.0,
       "old_price": "120.00",
       "new_price": "67.20",
-      "timestamp": "2026-01-20T07:21:49.086601",
+      "timestamp": "2026-01-20T07:26:56.445553",
       "url": "https://www.johnlewis.com/tommy-hilfiger-fine-cable-knit-crew-neck-jumper/p113166243"
     },
     {
@@ -515,7 +515,7 @@
       "percentage": 39.4,
       "old_price": "33.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-20T07:21:49.086601",
+      "timestamp": "2026-01-20T07:26:56.445553",
       "url": "https://www.johnlewis.com/french-connection-meera-longline-round-neck-jersey-cardigan/p113950648"
     },
     {
@@ -821,7 +821,7 @@
       "percentage": 32.5,
       "old_price": "63.00",
       "new_price": "42.50",
-      "timestamp": "2026-01-20T07:21:49.086601",
+      "timestamp": "2026-01-20T07:26:56.445553",
       "url": "https://www.johnlewis.com/hush-gracey-v-neck-jumper/p114402549"
     },
     {
@@ -965,7 +965,7 @@
       "percentage": 28.6,
       "old_price": "42.00",
       "new_price": "29.98",
-      "timestamp": "2026-01-20T07:21:49.086601",
+      "timestamp": "2026-01-20T07:26:56.445553",
       "url": "https://www.johnlewis.com/sisley-regular-fit-cardigan/p114430004"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T12:45:00.807044",
-  "total_drops": 1033,
+  "generated_at": "2026-01-20T12:50:17.942344",
+  "total_drops": 1039,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 341,
+      "count": 345,
       "max_drop": 75.0,
-      "total_savings": 6974.45
+      "total_savings": 7063.65
     },
     {
       "site": "origincoffee_co_uk",
@@ -59,9 +59,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 28,
+      "count": 30,
       "max_drop": 40.0,
-      "total_savings": 1187.5
+      "total_savings": 1244.5
     },
     {
       "site": "boden_com",
@@ -149,7 +149,7 @@
       "percentage": 100.0,
       "old_price": "9.00",
       "new_price": "0.00",
-      "timestamp": "2026-01-20T12:44:50.756983",
+      "timestamp": "2026-01-20T12:49:52.600626",
       "url": "https://fenwick.co.uk/products/le-creuset-wa125-drip-free-pourer-black"
     },
     {
@@ -311,7 +311,7 @@
       "percentage": 56.5,
       "old_price": "1380.00",
       "new_price": "600.00",
-      "timestamp": "2026-01-20T12:44:05.862128",
+      "timestamp": "2026-01-20T12:50:10.275047",
       "url": "https://rehaus.co.uk/products/2577190538"
     },
     {
@@ -320,7 +320,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T12:44:50.756983",
+      "timestamp": "2026-01-20T12:49:52.600626",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -680,7 +680,7 @@
       "percentage": 49.5,
       "old_price": "99.00",
       "new_price": "49.95",
-      "timestamp": "2026-01-20T12:44:55.540111",
+      "timestamp": "2026-01-20T12:49:58.063198",
       "url": "https://ukbabycentre.com/products/junior-jones-changing-backpack-black"
     },
     {
@@ -734,7 +734,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T12:44:50.756983",
+      "timestamp": "2026-01-20T12:49:52.600626",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -743,7 +743,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T12:44:50.756983",
+      "timestamp": "2026-01-20T12:49:52.600626",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -851,7 +851,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T12:44:50.756983",
+      "timestamp": "2026-01-20T12:49:52.600626",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -941,7 +941,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T12:44:50.756983",
+      "timestamp": "2026-01-20T12:49:52.600626",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -1018,30 +1018,30 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Polo Ralph Lauren Chester Performance Stretch Twill Suit Trouser",
+      "percentage": 40.0,
+      "old_price": "117.50",
+      "new_price": "70.50",
+      "timestamp": "2026-01-20T12:50:06.348924",
+      "url": "https://www.johnlewis.com/polo-ralph-lauren-chester-performance-stretch-twill-suit-trouser/p114585641"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ted Baker Eduard Geometric Pattern Short Sleeve Polo Shirt",
+      "percentage": 40.0,
+      "old_price": "37.50",
+      "new_price": "22.50",
+      "timestamp": "2026-01-20T12:50:06.348924",
+      "url": "https://www.johnlewis.com/ted-baker-eduard-geometric-pattern-short-sleeve-polo-shirt/p113888493"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Mini Boden Kids' Cotton Glow-in-the-Dark Long Sleeve T-Shirt, Dino Skeletons",
       "percentage": 40.0,
       "old_price": "17.00",
       "new_price": "10.20",
       "timestamp": "2026-01-20T07:07:54.375288",
       "url": "https://www.johnlewis.com/mini-boden-kids-cotton-glow-in-the-dark-long-sleeve-t-shirt-dino-skeletons/p114328632"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' Wool Long Sleeve Unisex Sweater",
-      "percentage": 40.0,
-      "old_price": "28.00",
-      "new_price": "16.80",
-      "timestamp": "2026-01-20T07:07:54.375288",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-wool-long-sleeve-unisex-sweater/p113960797"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Taia Suede Stretch Over The Knee Boots, Black",
-      "percentage": 40.0,
-      "old_price": "74.50",
-      "new_price": "44.70",
-      "timestamp": "2026-01-20T09:24:45.793037",
-      "url": "https://www.johnlewis.com/john-lewis-taia-suede-stretch-over-the-knee-boots-black/p114074867"
     }
   ]
 }

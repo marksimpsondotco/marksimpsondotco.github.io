@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-20T00:38:38.050730",
-  "total_drops": 69,
-  "top_drops_shown": 69,
+  "generated_at": "2026-01-20T00:43:40.894359",
+  "total_drops": 97,
+  "top_drops_shown": 97,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 49,
+      "count": 77,
       "max_drop": 40.0,
-      "total_savings": 1318.21
+      "total_savings": 2041.77
     },
     {
       "site": "dryrobe_com",
@@ -79,6 +79,33 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis British Landscape Meadow Scented Candle, 315g",
+      "percentage": 28.6,
+      "old_price": "21.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/john-lewis-british-landscape-meadow-scented-candle-315g/p111147678"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Poole Pottery Keystone Earthenware Vase, H26cm, Celestial",
+      "percentage": 28.6,
+      "old_price": "133.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/poole-pottery-keystone-earthenware-vase-h26cm-celestial/p113794027"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "LSA International Folk Decorative Glass Bowl, 23.8cm, Blue/Orange",
+      "percentage": 28.6,
+      "old_price": "70.00",
+      "new_price": "50.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/lsa-international-folk-decorative-glass-bowl-23-8cm-blue-orange/p111560511"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Barbour Tartan Trim Snuggle Dog Bed, Multi, 30\"",
       "percentage": 27.5,
       "old_price": "79.95",
@@ -124,11 +151,20 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Boden Mila Long Sleeve Round Neck Velvet Blouse",
+      "percentage": 25.0,
+      "old_price": "52.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/boden-mila-long-sleeve-round-neck-velvet-blouse/p114303135"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Tutti Bambini CoZee Air Bedside Crib",
       "percentage": 22.9,
       "old_price": "219.00",
       "new_price": "168.75",
-      "timestamp": "2026-01-20T00:38:36.710764",
+      "timestamp": "2026-01-20T00:43:38.986529",
       "url": "https://www.johnlewis.com/tutti-bambini-cozee-air-bedside-crib/p112978493"
     },
     {
@@ -178,6 +214,24 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Rattan Dressing Table Stool",
+      "percentage": 20.0,
+      "old_price": "125.00",
+      "new_price": "100.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/john-lewis-rattan-dressing-table-stool/p4839371"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Nespresso Vertuo Pop Coffee Pod Machine by Krups",
+      "percentage": 18.4,
+      "old_price": "99.00",
+      "new_price": "80.81",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/nespresso-vertuo-pop-coffee-pod-machine-by-krups/p111959698"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "LSA International Borough Martini Glasses, Set of 4, 195ml, Clear",
       "percentage": 16.0,
       "old_price": "50.00",
@@ -220,6 +274,15 @@
       "new_price": "165.00",
       "timestamp": "2026-01-20T00:28:18.179517",
       "url": "https://www.johnlewis.com/silver-cross-slumber-3-in-1-travel-cot-stone/p114344647"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Samsung Series 8 WW11DB8B95GBU1 Freestanding Washing Machine, AI Energy, 11kg Load, 1400rpm Spin, Black",
+      "percentage": 15.3,
+      "old_price": "849.00",
+      "new_price": "719.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/samsung-series-8-ww11db8b95gbu1-freestanding-washing-machine-ai-energy-11kg-load-1400rpm-spin-black/p111972403"
     },
     {
       "site": "johnlewis_com",
@@ -313,6 +376,69 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Medela Silicone Nipple Shields, Pack of 2",
+      "percentage": 15.0,
+      "old_price": "9.99",
+      "new_price": "8.49",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/medela-silicone-nipple-shields-pack-of-2/p6348011"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "HUSH Matilda Cotton Raglan Top",
+      "percentage": 15.0,
+      "old_price": "23.00",
+      "new_price": "19.55",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/hush-matilda-cotton-raglan-top/p112888315"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "HUSH Animal Print Long Sleeve Top",
+      "percentage": 15.0,
+      "old_price": "29.00",
+      "new_price": "24.65",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/hush-animal-print-long-sleeve-top/p114227108"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "HUSH Jayde Italian Wool Blazer",
+      "percentage": 15.0,
+      "old_price": "100.00",
+      "new_price": "85.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/hush-jayde-italian-wool-blazer/p112584028"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "HUSH Nessa Wide Leg Jeans",
+      "percentage": 15.0,
+      "old_price": "55.00",
+      "new_price": "46.75",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/hush-nessa-wide-leg-jeans/p112504449"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "HUSH Cordelia Barrel Leg Jeans",
+      "percentage": 15.0,
+      "old_price": "55.00",
+      "new_price": "46.75",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/hush-cordelia-barrel-leg-jeans/p113443950"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Boden Stamford Velvet Blazer",
+      "percentage": 14.3,
+      "old_price": "125.30",
+      "new_price": "107.40",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/boden-stamford-velvet-blazer/p114303064"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Garmin Forerunner 265 Wrist Heart Rate GPS Fitness Watch, 46mm",
       "percentage": 13.2,
       "old_price": "379.99",
@@ -344,7 +470,7 @@
       "percentage": 12.2,
       "old_price": "246.00",
       "new_price": "216.00",
-      "timestamp": "2026-01-20T00:38:29.333733",
+      "timestamp": "2026-01-20T00:43:20.832839",
       "url": "https://dusk.com/products/ascot-ottoman-bed-frame-natural"
     },
     {
@@ -362,8 +488,17 @@
       "percentage": 12.1,
       "old_price": "699.95",
       "new_price": "615.00",
-      "timestamp": "2026-01-20T00:38:30.129696",
+      "timestamp": "2026-01-20T00:43:38.686554",
       "url": "https://chelseababy.com/products/cybex-balios-s-lux-one-box-travel-system-moon-black"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Shark AZ3900UKT PowerDetect Powered Lift-Away Upright Pet Vacuum Cleaner, Dark Teal",
+      "percentage": 11.7,
+      "old_price": "278.98",
+      "new_price": "246.42",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/shark-az3900ukt-powerdetect-powered-lift-away-upright-pet-vacuum-cleaner-dark-teal/p112561797"
     },
     {
       "site": "johnlewis_com",
@@ -380,8 +515,17 @@
       "percentage": 10.5,
       "old_price": "949.00",
       "new_price": "849.00",
-      "timestamp": "2026-01-20T00:38:13.479740",
+      "timestamp": "2026-01-20T00:43:26.734925",
       "url": "https://fenwick.co.uk/products/samsung-qe75qn1ef-75-inch-4k-neo-qled-mini-led-vision-ai-smart-tv-2025-0"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "BIBS Colour Round Baby Soothers, Pack of 2, Size 2",
+      "percentage": 10.1,
+      "old_price": "9.95",
+      "new_price": "8.95",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/bibs-colour-round-baby-soothers-pack-of-2-size-2/p111687320"
     },
     {
       "site": "solarscooters_co_uk",
@@ -416,8 +560,17 @@
       "percentage": 10.0,
       "old_price": "24.99",
       "new_price": "22.49",
-      "timestamp": "2026-01-20T00:38:36.710764",
+      "timestamp": "2026-01-20T00:43:38.986529",
       "url": "https://www.johnlewis.com/cheeky-chompers-6-in-1-multi-muslin-breastfeeding-cover-silver-stars/p110133991"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Dyson Supersonic Nural™ Hair Dryer,  Ceramic Patina/Topaz",
+      "percentage": 10.0,
+      "old_price": "299.00",
+      "new_price": "269.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/dyson-supersonic-nural-hair-dryer-ceramic-patina-topaz/p111928872"
     },
     {
       "site": "johnlewis_com",
@@ -429,12 +582,21 @@
       "url": "https://www.johnlewis.com/vtech-vm819-2-8inch-digital-video-baby-monitor-with-adjustable-camera/p6283039"
     },
     {
+      "site": "johnlewis_com",
+      "product": "LG RHX1009NWK Freestanding Heat Pump Tumble Dryer, 9kg Load, White",
+      "percentage": 9.1,
+      "old_price": "659.00",
+      "new_price": "599.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/lg-rhx1009nwk-freestanding-heat-pump-tumble-dryer-9kg-load-white/p114098259"
+    },
+    {
       "site": "chelseababy_com",
       "product": "Cybex Balios S Lux One Box Travel System - Almond Beige",
       "percentage": 9.0,
       "old_price": "719.95",
       "new_price": "655.00",
-      "timestamp": "2026-01-20T00:38:30.129696",
+      "timestamp": "2026-01-20T00:43:38.686554",
       "url": "https://chelseababy.com/products/cybex-balios-s-lux-one-box-travel-system-almond-beige"
     },
     {
@@ -443,7 +605,7 @@
       "percentage": 8.7,
       "old_price": "2299.00",
       "new_price": "2099.00",
-      "timestamp": "2026-01-20T00:38:13.479740",
+      "timestamp": "2026-01-20T00:43:26.734925",
       "url": "https://fenwick.co.uk/products/lg-oled65g56-65-inch-oled-evo-ai-4k-hdr-ultra-smart-tv-with-dolby-atmos-2025-no-colour"
     },
     {
@@ -452,7 +614,7 @@
       "percentage": 8.7,
       "old_price": "2299.00",
       "new_price": "2099.00",
-      "timestamp": "2026-01-20T00:38:13.479740",
+      "timestamp": "2026-01-20T00:43:26.734925",
       "url": "https://fenwick.co.uk/products/lg-oled65g54lw-65-inch-oled-evo-ai-4k-hdr-ultra-smart-tv-with-dolby-atmos-and-one-wall-design-2025-no-colour"
     },
     {
@@ -470,7 +632,7 @@
       "percentage": 8.1,
       "old_price": "284.00",
       "new_price": "261.00",
-      "timestamp": "2026-01-20T00:38:29.333733",
+      "timestamp": "2026-01-20T00:43:20.832839",
       "url": "https://dusk.com/products/hampshire-loveseat-beige"
     },
     {
@@ -492,13 +654,31 @@
       "url": "https://www.johnlewis.com/fitbit-inspire-3-health-and-fitness-tracker-with-heart-rate-monitor/p109357829"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Samsung Series 9 AI Home WF90F09C4SU1 Smart Washing Machine, 9kg Load, 1400rpm Spin, Dark Silver",
+      "percentage": 8.0,
+      "old_price": "899.00",
+      "new_price": "827.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/samsung-series-9-ai-home-wf90f09c4su1-smart-washing-machine-9kg-load-1400rpm-spin-dark-silver/p113598431"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Turntable with Bluetooth Connectivity PSLX310B",
       "percentage": 8.0,
       "old_price": "249.00",
       "new_price": "229.00",
-      "timestamp": "2026-01-20T00:38:13.479740",
+      "timestamp": "2026-01-20T00:43:26.734925",
       "url": "https://fenwick.co.uk/products/sony-pslx310b-turntable-no-colour-pslx310b"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Maxi-Cosi Fame Pushchair and Carrycot with Maxi-Cosi Pebble 360 Pro2 i-Size Car Seat and FamilyFix Pro ISOFIX Base Bundle, Truffle/Black",
+      "percentage": 6.8,
+      "old_price": "1359.99",
+      "new_price": "1266.99",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/maxi-cosi-fame-pushchair-and-carrycot-with-maxi-cosi-pebble-360-pro2-i-size-car-seat-and-familyfix-pro-isofix-base-bundle-truffle-black/p241554688"
     },
     {
       "site": "johnlewis_com",
@@ -515,8 +695,17 @@
       "percentage": 6.5,
       "old_price": "1422.45",
       "new_price": "1329.45",
-      "timestamp": "2026-01-20T00:38:36.710764",
+      "timestamp": "2026-01-20T00:43:38.986529",
       "url": "https://www.johnlewis.com/maxi-cosi-fame-pushchair-carrycot-and-accessories-with-maxi-cosi-pebble-360-pro2-car-seat-and-base-premium-bundle-twillic-truffle-black/p241554689"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Samsung WD80TA046BE Freestanding Washer Dryer, 8kg Wash/5kg Dry Load, 1400rpm, White",
+      "percentage": 6.3,
+      "old_price": "479.00",
+      "new_price": "449.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/samsung-wd80ta046be-freestanding-washer-dryer-8kg-wash-5kg-dry-load-1400rpm-white/p5135883"
     },
     {
       "site": "dusk_com",
@@ -524,7 +713,7 @@
       "percentage": 6.3,
       "old_price": "159.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-20T00:38:29.333733",
+      "timestamp": "2026-01-20T00:43:20.832839",
       "url": "https://dusk.com/products/ascot-bed-frame-natural"
     },
     {
@@ -542,7 +731,7 @@
       "percentage": 5.6,
       "old_price": "899.00",
       "new_price": "849.00",
-      "timestamp": "2026-01-20T00:38:13.479740",
+      "timestamp": "2026-01-20T00:43:26.734925",
       "url": "https://fenwick.co.uk/products/lg-oled42c55-42-inch-oled-evo-ai-smart-tv-2025-no-colour"
     },
     {
@@ -560,7 +749,7 @@
       "percentage": 4.8,
       "old_price": "314.00",
       "new_price": "299.00",
-      "timestamp": "2026-01-20T00:38:13.479740",
+      "timestamp": "2026-01-20T00:43:26.734925",
       "url": "https://fenwick.co.uk/products/samsung-qe43q7f-43-inch-qled-4k-vision-ai-smart-tv-2025-0"
     },
     {
@@ -582,12 +771,21 @@
       "url": "https://www.johnlewis.com/thermos-disney-pixar-toy-story-stainless-steel-drinks-bottle-470ml-jessie/p114198120"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Bosch Series 6 WGG254Z1GB Freestanding Washing Machine, 10kg Load, 1400rpm Spin, White",
+      "percentage": 3.7,
+      "old_price": "539.00",
+      "new_price": "519.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/bosch-series-6-wgg254z1gb-freestanding-washing-machine-10kg-load-1400rpm-spin-white/p113822670"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "QE55S90F OLED 55 Inch S90F AI Smart TV (2025)",
       "percentage": 3.2,
       "old_price": "949.00",
       "new_price": "919.00",
-      "timestamp": "2026-01-20T00:38:13.479740",
+      "timestamp": "2026-01-20T00:43:26.734925",
       "url": "https://fenwick.co.uk/products/samsung-qe55s90f-oled-55-inch-s90f-ai-smart-tv-2025-0"
     },
     {
@@ -605,7 +803,7 @@
       "percentage": 3.1,
       "old_price": "1299.00",
       "new_price": "1259.00",
-      "timestamp": "2026-01-20T00:38:13.479740",
+      "timestamp": "2026-01-20T00:43:26.734925",
       "url": "https://fenwick.co.uk/products/samsung-qe65qn93f-65-inch-qn93f-neo-qled-mini-led-ai-smart-tv-glare-free-2025-0"
     },
     {
@@ -614,7 +812,7 @@
       "percentage": 3.1,
       "old_price": "1959.00",
       "new_price": "1899.00",
-      "timestamp": "2026-01-20T00:38:13.479740",
+      "timestamp": "2026-01-20T00:43:26.734925",
       "url": "https://fenwick.co.uk/products/samsung-qe77s90f-oled-77-inch-s90f-ai-smart-tv-2025-0"
     },
     {
@@ -623,7 +821,7 @@
       "percentage": 2.7,
       "old_price": "75.00",
       "new_price": "73.00",
-      "timestamp": "2026-01-20T00:38:13.479740",
+      "timestamp": "2026-01-20T00:43:26.734925",
       "url": "https://fenwick.co.uk/products/sony-wh-ch720-noise-cancelling-wireless-headphones-black-whch720nb-ce7"
     },
     {
@@ -632,7 +830,7 @@
       "percentage": 2.7,
       "old_price": "75.00",
       "new_price": "73.00",
-      "timestamp": "2026-01-20T00:38:13.479740",
+      "timestamp": "2026-01-20T00:43:26.734925",
       "url": "https://fenwick.co.uk/products/sony-whch720np-wireless-bluetooth-headband-headphones-no-colour"
     },
     {
@@ -645,13 +843,58 @@
       "url": "https://www.johnlewis.com/bugaboo-fox-5-renew-pushchair/p113241262"
     },
     {
+      "site": "johnlewis_com",
+      "product": "LG F4Y510WBLN1 Freestanding Washing Machine, 10kg Load, 1400rpm Spin, White",
+      "percentage": 2.6,
+      "old_price": "389.00",
+      "new_price": "379.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/lg-f4y510wbln1-freestanding-washing-machine-10kg-load-1400rpm-spin-white/p110730730"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "2025 Apple MacBook Air 13.6\", M4 Processor, 24GB RAM, 512GB SSD",
+      "percentage": 2.4,
+      "old_price": "1249.97",
+      "new_price": "1219.97",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/2025-apple-macbook-air-13-6-inch-m4-processor-24gb-ram-512gb-ssd/p113473416"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "UE65U8020F 65 INCH Crystal UHD 4k Smart TV (2025)",
       "percentage": 2.2,
       "old_price": "449.00",
       "new_price": "439.00",
-      "timestamp": "2026-01-20T00:38:13.479740",
+      "timestamp": "2026-01-20T00:43:26.734925",
       "url": "https://fenwick.co.uk/products/samsung-ue65u8020f-65-inch-crystal-uhd-4k-smart-tv-2025-0"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "2025 Apple MacBook Air 15.3”, M4 Processor, 24GB RAM, 512GB SSD",
+      "percentage": 2.0,
+      "old_price": "1480.00",
+      "new_price": "1450.00",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/2025-apple-macbook-air-15-3-m4-processor-24gb-ram-512gb-ssd/p113473412"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Samsung Jet™ 85 Pet Cordless Vacuum Cleaner with Pet Tool+, Woody Green",
+      "percentage": 0.7,
+      "old_price": "296.98",
+      "new_price": "295.01",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/samsung-jet-85-pet-cordless-vacuum-cleaner-with-pet-tool-woody-green/p110983452"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "2025 Apple MacBook Air 15.3”, M4 Processor, 16GB RAM, 512GB SSD",
+      "percentage": 0.3,
+      "old_price": "1279.00",
+      "new_price": "1274.97",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/2025-apple-macbook-air-15-3-m4-processor-16gb-ram-512gb-ssd/p113473411"
     },
     {
       "site": "johnlewis_com",
@@ -661,6 +904,15 @@
       "new_price": "74.99",
       "timestamp": "2026-01-20T00:28:18.179517",
       "url": "https://www.johnlewis.com/leapfrog-lf2415-5inch-video-baby-monitor/p109345123"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Dyson UP34 Ball Animal Multi-floor Upright Vacuum Cleaner",
+      "percentage": 0.0,
+      "old_price": "361.71",
+      "new_price": "361.60",
+      "timestamp": "2026-01-20T00:43:38.986529",
+      "url": "https://www.johnlewis.com/dyson-up34-ball-animal-multi-floor-upright-vacuum-cleaner/p6218229"
     }
   ]
 }

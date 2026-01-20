@@ -1,39 +1,7 @@
 {
-  "generated_at": "2026-01-20T19:55:38.030153",
-  "total_drops": 2,
-  "top_drops_shown": 2,
-  "site_stats": [
-    {
-      "site": "boden_com",
-      "count": 1,
-      "max_drop": 25.0,
-      "total_savings": 71.8
-    },
-    {
-      "site": "fenwick_co_uk",
-      "count": 1,
-      "max_drop": 21.9,
-      "total_savings": 5.6
-    }
-  ],
-  "drops": [
-    {
-      "site": "boden_com",
-      "product": "Suede Jacket-Dark Chocolate",
-      "percentage": 25.0,
-      "old_price": "287.20",
-      "new_price": "215.40",
-      "timestamp": "2026-01-20T19:55:12.168236",
-      "url": "https://www.boden.com/products/women-suede-jacket-dark-chocolate-u0358brn"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Collective Starter Pasta Bowl x 2 White 20cm",
-      "percentage": 21.9,
-      "old_price": "25.60",
-      "new_price": "20.00",
-      "timestamp": "2026-01-20T19:55:23.518981",
-      "url": "https://fenwick.co.uk/products/lsa-collective-starter-pasta-bowl-x-2-white"
-    }
-  ]
+  "generated_at": "2026-01-20T19:59:55.482215",
+  "total_drops": 0,
+  "top_drops_shown": 0,
+  "site_stats": [],
+  "drops": []
 }

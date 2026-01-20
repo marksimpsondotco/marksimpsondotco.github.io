@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-20T10:28:44.943524",
-  "total_drops": 960,
+  "generated_at": "2026-01-20T10:33:55.383001",
+  "total_drops": 968,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 314,
+      "count": 321,
       "max_drop": 75.0,
-      "total_savings": 6216.49
+      "total_savings": 6312.19
     },
     {
       "site": "fenwick_co_uk",
@@ -17,9 +17,9 @@
     },
     {
       "site": "currys_com",
-      "count": 235,
+      "count": 236,
       "max_drop": 58.8,
-      "total_savings": 7287.82
+      "total_savings": 7288.82
     },
     {
       "site": "condorcycles_com",
@@ -113,7 +113,7 @@
       "percentage": 75.0,
       "old_price": "19.00",
       "new_price": "4.75",
-      "timestamp": "2026-01-20T10:28:38.288842",
+      "timestamp": "2026-01-20T10:33:50.276978",
       "url": "https://www.johnlewis.com/falke-soft-merino-wool-blend-socks/p110651187"
     },
     {
@@ -149,7 +149,7 @@
       "percentage": 70.0,
       "old_price": "59.00",
       "new_price": "17.70",
-      "timestamp": "2026-01-20T10:28:38.288842",
+      "timestamp": "2026-01-20T10:33:50.276978",
       "url": "https://www.johnlewis.com/john-lewis-olivia-microfibre-stretch-stiletto-heel-ankle-boots/p110855285"
     },
     {
@@ -158,7 +158,7 @@
       "percentage": 70.0,
       "old_price": "69.00",
       "new_price": "20.70",
-      "timestamp": "2026-01-20T10:28:38.288842",
+      "timestamp": "2026-01-20T10:33:50.276978",
       "url": "https://www.johnlewis.com/john-lewis-helm-suede-high-vamp-ballerina-pumps/p113907299"
     },
     {
@@ -230,7 +230,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T10:28:27.276405",
+      "timestamp": "2026-01-20T10:33:33.126914",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -257,7 +257,7 @@
       "percentage": 54.5,
       "old_price": "55.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-20T10:28:38.288842",
+      "timestamp": "2026-01-20T10:33:50.276978",
       "url": "https://www.johnlewis.com/adidas-breaknet-suede-trainers/p112032952"
     },
     {
@@ -293,7 +293,7 @@
       "percentage": 50.8,
       "old_price": "120.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T10:28:38.288842",
+      "timestamp": "2026-01-20T10:33:50.276978",
       "url": "https://www.johnlewis.com/mint-velvet-strappy-kitten-heels/p114221987"
     },
     {
@@ -419,7 +419,7 @@
       "percentage": 50.0,
       "old_price": "100.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-20T10:28:38.288842",
+      "timestamp": "2026-01-20T10:33:50.276978",
       "url": "https://www.johnlewis.com/herschel-supply-co-retreat-backpack/p110710185"
     },
     {
@@ -428,7 +428,7 @@
       "percentage": 50.0,
       "old_price": "60.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T10:28:38.288842",
+      "timestamp": "2026-01-20T10:33:50.276978",
       "url": "https://www.johnlewis.com/adidas-vl-court-contrast-sole-trainers/p111331988"
     },
     {
@@ -437,8 +437,35 @@
       "percentage": 50.0,
       "old_price": "20.00",
       "new_price": "10.00",
-      "timestamp": "2026-01-20T10:28:38.288842",
+      "timestamp": "2026-01-20T10:33:50.276978",
       "url": "https://www.johnlewis.com/falke-cosy-wool-cashmere-blend-socks/p112090754"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "FALKE Soft Merino Wool Blend Opaque Tights",
+      "percentage": 50.0,
+      "old_price": "44.00",
+      "new_price": "22.00",
+      "timestamp": "2026-01-20T10:33:50.276978",
+      "url": "https://www.johnlewis.com/falke-soft-merino-wool-blend-opaque-tights/p3111060"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "GANT Regular Fit Oxford Shirt",
+      "percentage": 50.0,
+      "old_price": "70.00",
+      "new_price": "35.00",
+      "timestamp": "2026-01-20T10:33:50.276978",
+      "url": "https://www.johnlewis.com/gant-regular-fit-oxford-shirt/p110736209"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Kin Logo Regular Fit Short Sleeve Cotton T-Shirt",
+      "percentage": 50.0,
+      "old_price": "18.00",
+      "new_price": "9.00",
+      "timestamp": "2026-01-20T10:33:50.276978",
+      "url": "https://www.johnlewis.com/kin-logo-regular-fit-short-sleeve-cotton-t-shirt/p110773536"
     },
     {
       "site": "fenwick_co_uk",
@@ -554,7 +581,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T10:28:27.276405",
+      "timestamp": "2026-01-20T10:33:33.126914",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -563,7 +590,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T10:28:27.276405",
+      "timestamp": "2026-01-20T10:33:33.126914",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -671,7 +698,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T10:28:27.276405",
+      "timestamp": "2026-01-20T10:33:33.126914",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -752,7 +779,7 @@
       "percentage": 40.4,
       "old_price": "109.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-20T10:28:38.288842",
+      "timestamp": "2026-01-20T10:33:50.276978",
       "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
     },
     {
@@ -761,7 +788,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T10:28:27.276405",
+      "timestamp": "2026-01-20T10:33:33.126914",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -932,7 +959,7 @@
       "percentage": 40.0,
       "old_price": "59.50",
       "new_price": "35.70",
-      "timestamp": "2026-01-20T10:28:38.288842",
+      "timestamp": "2026-01-20T10:33:50.276978",
       "url": "https://www.johnlewis.com/ted-baker-prinell-floral-pattern-leather-trainers/p114208992"
     },
     {
@@ -941,7 +968,7 @@
       "percentage": 40.0,
       "old_price": "62.50",
       "new_price": "37.50",
-      "timestamp": "2026-01-20T10:28:38.288842",
+      "timestamp": "2026-01-20T10:33:50.276978",
       "url": "https://www.johnlewis.com/gabor-dolly-suede-chunky-lace-up-leopard-print-trainers-grey/p113648154"
     },
     {
@@ -950,7 +977,7 @@
       "percentage": 40.0,
       "old_price": "55.00",
       "new_price": "33.00",
-      "timestamp": "2026-01-20T10:28:38.053448",
+      "timestamp": "2026-01-20T10:33:46.059326",
       "url": "https://www.flannels.com/kenzo-kids-closed-hem-jersey-joggers-480118"
     },
     {
@@ -979,33 +1006,6 @@
       "new_price": "16.97",
       "timestamp": "2026-01-20T08:45:02.859142",
       "url": "https://www.currys.co.uk/products/10276698.html"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Spot Shirred Cuff Blouse Black",
-      "percentage": 38.2,
-      "old_price": "89.00",
-      "new_price": "55.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/black-spot-shirred-cuff-blouse-40468"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Blue/Multi Bamboo Leaves Tie Neck Blouse",
-      "percentage": 38.2,
-      "old_price": "89.00",
-      "new_price": "55.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-blue-blue-multi-bamboo-leaves-tie-neck-blouse-40001"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Ivory Lucie Boucle Jacket",
-      "percentage": 37.7,
-      "old_price": "159.00",
-      "new_price": "99.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-white-ivory-lucie-boucle-jacket-39710"
     }
   ]
 }

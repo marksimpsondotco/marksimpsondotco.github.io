@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:26:16.205032",
-  "total_drops": 1005,
+  "generated_at": "2026-01-20T11:31:26.695959",
+  "total_drops": 1010,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -56,6 +56,12 @@
       "count": 12,
       "max_drop": 40.0,
       "total_savings": 138.3
+    },
+    {
+      "site": "ukbabycentre_com",
+      "count": 5,
+      "max_drop": 34.5,
+      "total_savings": 43.55
     },
     {
       "site": "saltrock_com",
@@ -155,7 +161,7 @@
       "percentage": 72.8,
       "old_price": "65.00",
       "new_price": "17.70",
-      "timestamp": "2026-01-20T11:26:09.730473",
+      "timestamp": "2026-01-20T11:31:18.353842",
       "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
     },
     {
@@ -164,7 +170,7 @@
       "percentage": 72.2,
       "old_price": "18.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-20T11:26:09.730473",
+      "timestamp": "2026-01-20T11:31:18.353842",
       "url": "https://www.johnlewis.com/john-lewis-helenca-lace-bikini-knickers-pack-of-3/p111801639"
     },
     {
@@ -281,7 +287,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T11:26:00.449053",
+      "timestamp": "2026-01-20T11:31:17.097126",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -398,7 +404,7 @@
       "percentage": 50.1,
       "old_price": "89.50",
       "new_price": "44.70",
-      "timestamp": "2026-01-20T11:26:09.730473",
+      "timestamp": "2026-01-20T11:31:18.353842",
       "url": "https://www.johnlewis.com/john-lewis-woven-leather-tote-bag/p113892391"
     },
     {
@@ -416,7 +422,7 @@
       "percentage": 50.0,
       "old_price": "165.00",
       "new_price": "82.50",
-      "timestamp": "2026-01-20T11:26:09.730473",
+      "timestamp": "2026-01-20T11:31:18.353842",
       "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
     },
     {
@@ -425,7 +431,7 @@
       "percentage": 50.0,
       "old_price": "60.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T11:26:09.730473",
+      "timestamp": "2026-01-20T11:31:18.353842",
       "url": "https://www.johnlewis.com/under-armour-essential-fleece-hoodie/p110654158"
     },
     {
@@ -659,7 +665,7 @@
       "percentage": 49.0,
       "old_price": "259.00",
       "new_price": "132.09",
-      "timestamp": "2026-01-20T11:26:09.730473",
+      "timestamp": "2026-01-20T11:31:18.353842",
       "url": "https://www.johnlewis.com/radley-dukes-place-leather-grab-bag/p113917130"
     },
     {
@@ -686,7 +692,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T11:26:00.449053",
+      "timestamp": "2026-01-20T11:31:17.097126",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -695,7 +701,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T11:26:00.449053",
+      "timestamp": "2026-01-20T11:31:17.097126",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -803,7 +809,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T11:26:00.449053",
+      "timestamp": "2026-01-20T11:31:17.097126",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -893,7 +899,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T11:26:00.449053",
+      "timestamp": "2026-01-20T11:31:17.097126",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -1028,7 +1034,7 @@
       "percentage": 40.0,
       "old_price": "49.99",
       "new_price": "29.99",
-      "timestamp": "2026-01-20T11:26:09.730473",
+      "timestamp": "2026-01-20T11:31:18.353842",
       "url": "https://www.johnlewis.com/mango-super-suede-ankle-boots/p114037890"
     }
   ]

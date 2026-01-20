@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T16:36:43.785986",
-  "total_drops": 1096,
+  "generated_at": "2026-01-20T16:42:00.498643",
+  "total_drops": 1100,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -94,6 +94,12 @@
       "total_savings": 330.98
     },
     {
+      "site": "mansurgavriel_com",
+      "count": 4,
+      "max_drop": 28.1,
+      "total_savings": 625.0
+    },
+    {
       "site": "twentytwentyone_com",
       "count": 18,
       "max_drop": 26.2,
@@ -161,7 +167,7 @@
       "percentage": 100.0,
       "old_price": "9.00",
       "new_price": "0.00",
-      "timestamp": "2026-01-20T16:36:09.815972",
+      "timestamp": "2026-01-20T16:41:50.619026",
       "url": "https://fenwick.co.uk/products/le-creuset-wa125-drip-free-pourer-black"
     },
     {
@@ -350,7 +356,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T16:36:09.815972",
+      "timestamp": "2026-01-20T16:41:50.619026",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -458,7 +464,7 @@
       "percentage": 50.3,
       "old_price": "159.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-20T16:36:09.815972",
+      "timestamp": "2026-01-20T16:41:50.619026",
       "url": "https://fenwick.co.uk/products/dune-london-black-ollave-9-1510780002e13"
     },
     {
@@ -773,7 +779,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T16:36:09.815972",
+      "timestamp": "2026-01-20T16:41:50.619026",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -782,7 +788,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T16:36:09.815972",
+      "timestamp": "2026-01-20T16:41:50.619026",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -899,7 +905,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T16:36:09.815972",
+      "timestamp": "2026-01-20T16:41:50.619026",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -935,7 +941,7 @@
       "percentage": 41.4,
       "old_price": "413.00",
       "new_price": "242.00",
-      "timestamp": "2026-01-20T16:36:28.800627",
+      "timestamp": "2026-01-20T16:41:58.533930",
       "url": "https://dusk.com/products/hebden-ottoman-storage-bed-light-taupe"
     },
     {
@@ -998,7 +1004,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T16:36:09.815972",
+      "timestamp": "2026-01-20T16:41:50.619026",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {

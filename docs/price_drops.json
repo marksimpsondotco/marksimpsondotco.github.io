@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-20T09:21:16.307670",
-  "total_drops": 782,
+  "generated_at": "2026-01-20T09:26:26.712756",
+  "total_drops": 786,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
-      "count": 255,
+      "count": 257,
       "max_drop": 60.6,
-      "total_savings": 18862.48
+      "total_savings": 18932.48
     },
     {
       "site": "currys_com",
-      "count": 223,
+      "count": 224,
       "max_drop": 58.8,
-      "total_savings": 6967.89
+      "total_savings": 6968.89
     },
     {
       "site": "johnlewis_com",
@@ -41,9 +41,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 19,
+      "count": 20,
       "max_drop": 28.6,
-      "total_savings": 1023.5
+      "total_savings": 1031.5
     },
     {
       "site": "twentytwentyone_com",
@@ -124,6 +124,15 @@
       "new_price": "2.47",
       "timestamp": "2026-01-20T08:45:02.859142",
       "url": "https://www.currys.co.uk/products/10283564.html"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "SWIFT JEWEL RUNNER",
+      "percentage": 56.2,
+      "old_price": "89.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-20T09:26:07.354325",
+      "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
       "site": "fenwick_co_uk",
@@ -212,7 +221,7 @@
       "percentage": 50.0,
       "old_price": "24.99",
       "new_price": "12.49",
-      "timestamp": "2026-01-20T09:20:55.230482",
+      "timestamp": "2026-01-20T09:25:45.553923",
       "url": "https://www.condorcycles.com/products/trp-35-centrelock-rotor"
     },
     {
@@ -311,7 +320,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T09:20:47.512184",
+      "timestamp": "2026-01-20T09:26:07.354325",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -473,7 +482,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T09:20:47.512184",
+      "timestamp": "2026-01-20T09:26:07.354325",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -572,7 +581,7 @@
       "percentage": 40.0,
       "old_price": "74.50",
       "new_price": "44.70",
-      "timestamp": "2026-01-20T09:21:07.938326",
+      "timestamp": "2026-01-20T09:24:45.793037",
       "url": "https://www.johnlewis.com/john-lewis-taia-suede-stretch-over-the-knee-boots-black/p114074867"
     },
     {
@@ -581,7 +590,7 @@
       "percentage": 40.0,
       "old_price": "135.00",
       "new_price": "81.00",
-      "timestamp": "2026-01-20T09:21:07.938326",
+      "timestamp": "2026-01-20T09:24:45.793037",
       "url": "https://www.johnlewis.com/anonymous-copenhagen-patricia-leather-calf-boots-brown/p114033307"
     },
     {
@@ -698,7 +707,7 @@
       "percentage": 37.5,
       "old_price": "39.99",
       "new_price": "24.99",
-      "timestamp": "2026-01-20T09:20:55.230482",
+      "timestamp": "2026-01-20T09:25:45.553923",
       "url": "https://www.condorcycles.com/products/trp-25-centerlock-rotor"
     },
     {
@@ -761,7 +770,7 @@
       "percentage": 35.9,
       "old_price": "195.00",
       "new_price": "125.00",
-      "timestamp": "2026-01-20T09:21:07.938326",
+      "timestamp": "2026-01-20T09:24:45.793037",
       "url": "https://www.johnlewis.com/russell-bromley-nordic-lace-suede-trainers-black/p114577904"
     },
     {
@@ -844,6 +853,15 @@
       "new_price": "85.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-blue-dark-green-annie-sparkle-knit-dress-35679"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "TRIUMPH SNEAKER",
+      "percentage": 33.9,
+      "old_price": "59.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-20T09:26:07.354325",
+      "url": "https://fenwick.co.uk/products/white-triumph-sneaker-4418110979"
     },
     {
       "site": "fenwick_co_uk",
@@ -970,24 +988,6 @@
       "new_price": "149.00",
       "timestamp": "2026-01-20T08:45:02.859142",
       "url": "https://www.currys.co.uk/products/10268526.html"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Sofa armchair- Sandstone",
-      "percentage": 33.3,
-      "old_price": "499.83",
-      "new_price": "333.16",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/bramblecrest-sofa-armchair-sandstone-rmsc1s"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "3 Seater Sofa",
-      "percentage": 33.3,
-      "old_price": "499.83",
-      "new_price": "333.16",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/bramblecrest-3-seater-sofa-sandstone-rmsc3s"
     }
   ]
 }

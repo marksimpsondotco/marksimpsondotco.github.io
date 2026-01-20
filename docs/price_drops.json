@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T09:26:26.712756",
-  "total_drops": 786,
+  "generated_at": "2026-01-20T09:31:38.090723",
+  "total_drops": 793,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "currys_com",
-      "count": 224,
+      "count": 226,
       "max_drop": 58.8,
-      "total_savings": 6968.89
+      "total_savings": 6996.89
     },
     {
       "site": "johnlewis_com",
@@ -23,9 +23,9 @@
     },
     {
       "site": "condorcycles_com",
-      "count": 8,
+      "count": 11,
       "max_drop": 50.0,
-      "total_savings": 68.51
+      "total_savings": 96.51
     },
     {
       "site": "hollandcooper_com",
@@ -41,9 +41,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 20,
-      "max_drop": 28.6,
-      "total_savings": 1031.5
+      "count": 22,
+      "max_drop": 30.8,
+      "total_savings": 1058.5
     },
     {
       "site": "twentytwentyone_com",
@@ -131,7 +131,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T09:26:07.354325",
+      "timestamp": "2026-01-20T09:31:20.526444",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -221,7 +221,7 @@
       "percentage": 50.0,
       "old_price": "24.99",
       "new_price": "12.49",
-      "timestamp": "2026-01-20T09:25:45.553923",
+      "timestamp": "2026-01-20T09:31:16.426180",
       "url": "https://www.condorcycles.com/products/trp-35-centrelock-rotor"
     },
     {
@@ -320,7 +320,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T09:26:07.354325",
+      "timestamp": "2026-01-20T09:31:20.526444",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -482,7 +482,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T09:26:07.354325",
+      "timestamp": "2026-01-20T09:31:20.526444",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -707,7 +707,7 @@
       "percentage": 37.5,
       "old_price": "39.99",
       "new_price": "24.99",
-      "timestamp": "2026-01-20T09:25:45.553923",
+      "timestamp": "2026-01-20T09:31:16.426180",
       "url": "https://www.condorcycles.com/products/trp-25-centerlock-rotor"
     },
     {
@@ -860,7 +860,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T09:26:07.354325",
+      "timestamp": "2026-01-20T09:31:20.526444",
       "url": "https://fenwick.co.uk/products/white-triumph-sneaker-4418110979"
     },
     {

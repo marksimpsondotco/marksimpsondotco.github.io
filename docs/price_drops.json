@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T08:29:17.606749",
-  "total_drops": 714,
+  "generated_at": "2026-01-20T08:34:26.524085",
+  "total_drops": 734,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -10,16 +10,16 @@
       "total_savings": 18742.48
     },
     {
+      "site": "currys_com",
+      "count": 201,
+      "max_drop": 58.8,
+      "total_savings": 6575.87
+    },
+    {
       "site": "johnlewis_com",
       "count": 235,
       "max_drop": 51.2,
       "total_savings": 4771.15
-    },
-    {
-      "site": "currys_com",
-      "count": 181,
-      "max_drop": 43.7,
-      "total_savings": 6503.76
     },
     {
       "site": "hollandcooper_com",
@@ -109,6 +109,15 @@
       "new_price": "32.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-multi-leopard-print-animal-spot-print-blouse-39725"
+    },
+    {
+      "site": "currys_com",
+      "product": "CURRYS Tech Expert Socks",
+      "percentage": 58.8,
+      "old_price": "5.99",
+      "new_price": "2.47",
+      "timestamp": "2026-01-20T08:34:15.235229",
+      "url": "https://www.currys.co.uk/products/10283564.html"
     },
     {
       "site": "fenwick_co_uk",
@@ -377,7 +386,7 @@
       "percentage": 43.7,
       "old_price": "19.99",
       "new_price": "11.25",
-      "timestamp": "2026-01-20T08:29:14.496068",
+      "timestamp": "2026-01-20T08:34:15.235229",
       "url": "https://www.currys.co.uk/products/10226606.html"
     },
     {
@@ -413,7 +422,7 @@
       "percentage": 41.2,
       "old_price": "16.99",
       "new_price": "9.99",
-      "timestamp": "2026-01-20T08:29:14.496068",
+      "timestamp": "2026-01-20T08:34:15.235229",
       "url": "https://www.currys.co.uk/products/10289857.html"
     },
     {
@@ -584,7 +593,7 @@
       "percentage": 39.2,
       "old_price": "27.90",
       "new_price": "16.97",
-      "timestamp": "2026-01-20T08:29:14.496068",
+      "timestamp": "2026-01-20T08:34:15.235229",
       "url": "https://www.currys.co.uk/products/10276698.html"
     },
     {
@@ -737,7 +746,7 @@
       "percentage": 34.8,
       "old_price": "22.97",
       "new_price": "14.97",
-      "timestamp": "2026-01-20T08:29:14.496068",
+      "timestamp": "2026-01-20T08:34:15.235229",
       "url": "https://www.currys.co.uk/products/10235192.html"
     },
     {
@@ -746,7 +755,7 @@
       "percentage": 34.8,
       "old_price": "22.97",
       "new_price": "14.97",
-      "timestamp": "2026-01-20T08:29:14.496068",
+      "timestamp": "2026-01-20T08:34:15.235229",
       "url": "https://www.currys.co.uk/products/10286559.html"
     },
     {
@@ -890,7 +899,7 @@
       "percentage": 33.5,
       "old_price": "224.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-20T08:29:14.496068",
+      "timestamp": "2026-01-20T08:34:15.235229",
       "url": "https://www.currys.co.uk/products/10268526.html"
     },
     {
@@ -973,15 +982,6 @@
       "new_price": "95.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-blue-blue-multi-stripe-print-zip-jumpsuit-39749"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Blue Slim Jersey Jacket",
-      "percentage": 31.6,
-      "old_price": "95.00",
-      "new_price": "65.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-blue-blue-slim-jersey-jacket-34715"
     }
   ]
 }

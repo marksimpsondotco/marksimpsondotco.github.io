@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T07:58:16.454855",
-  "total_drops": 533,
+  "generated_at": "2026-01-20T08:03:26.087216",
+  "total_drops": 578,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -16,6 +16,12 @@
       "total_savings": 4678.05
     },
     {
+      "site": "currys_com",
+      "count": 67,
+      "max_drop": 43.7,
+      "total_savings": 1774.33
+    },
+    {
       "site": "hollandcooper_com",
       "count": 1,
       "max_drop": 40.3,
@@ -26,12 +32,6 @@
       "count": 1,
       "max_drop": 40.0,
       "total_savings": 67.6
-    },
-    {
-      "site": "currys_com",
-      "count": 22,
-      "max_drop": 30.7,
-      "total_savings": 256.52
     },
     {
       "site": "flannels_com",
@@ -364,6 +364,15 @@
       "new_price": "129.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/zwilling-zwilling-joy-cookware-set"
+    },
+    {
+      "site": "currys_com",
+      "product": "TOMMEE TIPPEE Digital 2-in-1 Pen Thermometer - White &",
+      "percentage": 43.7,
+      "old_price": "19.99",
+      "new_price": "11.25",
+      "timestamp": "2026-01-20T08:03:23.324347",
+      "url": "https://www.currys.co.uk/products/10226606.html"
     },
     {
       "site": "fenwick_co_uk",
@@ -699,6 +708,15 @@
       "url": "https://fenwick.co.uk/products/whistles-blue-zebra-button-through-shirt-40223"
     },
     {
+      "site": "currys_com",
+      "product": "LOGIK LMWL3B23 Wireless Blue Trace Mouse",
+      "percentage": 34.8,
+      "old_price": "22.97",
+      "new_price": "14.97",
+      "timestamp": "2026-01-20T08:03:23.324347",
+      "url": "https://www.currys.co.uk/products/10235192.html"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Blue/Multi Stripe Print Cropped Trouser",
       "percentage": 34.3,
@@ -956,26 +974,8 @@
       "percentage": 30.7,
       "old_price": "12.99",
       "new_price": "9.00",
-      "timestamp": "2026-01-20T07:58:04.885259",
+      "timestamp": "2026-01-20T08:03:23.324347",
       "url": "https://www.currys.co.uk/products/10267464.html"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Black Molly Linen Waistcoat",
-      "percentage": 30.3,
-      "old_price": "99.00",
-      "new_price": "69.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-black-black-molly-linen-waistcoat-39711"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Cashmere Funnel Neck",
-      "percentage": 30.2,
-      "old_price": "199.00",
-      "new_price": "139.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-dark-grey-cashmere-funnel-neck-38931"
     }
   ]
 }

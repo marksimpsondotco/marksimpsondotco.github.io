@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T13:05:59.482866",
-  "total_drops": 1041,
+  "generated_at": "2026-01-20T13:11:12.733959",
+  "total_drops": 1045,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "condorcycles_com",
-      "count": 13,
+      "count": 16,
       "max_drop": 50.0,
-      "total_savings": 106.52
+      "total_savings": 117.55
     },
     {
       "site": "trunkclothiers_com",
@@ -89,9 +89,9 @@
     },
     {
       "site": "chelseababy_com",
-      "count": 4,
+      "count": 5,
       "max_drop": 25.4,
-      "total_savings": 284.9
+      "total_savings": 384.9
     },
     {
       "site": "hoxtonmacs_co_uk",
@@ -149,7 +149,7 @@
       "percentage": 100.0,
       "old_price": "9.00",
       "new_price": "0.00",
-      "timestamp": "2026-01-20T13:05:38.370288",
+      "timestamp": "2026-01-20T13:10:51.296506",
       "url": "https://fenwick.co.uk/products/le-creuset-wa125-drip-free-pourer-black"
     },
     {
@@ -311,7 +311,7 @@
       "percentage": 56.5,
       "old_price": "1380.00",
       "new_price": "600.00",
-      "timestamp": "2026-01-20T13:05:44.195579",
+      "timestamp": "2026-01-20T13:11:09.759312",
       "url": "https://rehaus.co.uk/products/2577190538"
     },
     {
@@ -320,7 +320,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T13:05:38.370288",
+      "timestamp": "2026-01-20T13:10:51.296506",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -680,7 +680,7 @@
       "percentage": 49.5,
       "old_price": "99.00",
       "new_price": "49.95",
-      "timestamp": "2026-01-20T13:05:55.150210",
+      "timestamp": "2026-01-20T13:10:41.289689",
       "url": "https://ukbabycentre.com/products/junior-jones-changing-backpack-black"
     },
     {
@@ -734,7 +734,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T13:05:38.370288",
+      "timestamp": "2026-01-20T13:10:51.296506",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -743,7 +743,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T13:05:38.370288",
+      "timestamp": "2026-01-20T13:10:51.296506",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -851,7 +851,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T13:05:38.370288",
+      "timestamp": "2026-01-20T13:10:51.296506",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -941,7 +941,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T13:05:38.370288",
+      "timestamp": "2026-01-20T13:10:51.296506",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -1022,7 +1022,7 @@
       "percentage": 40.0,
       "old_price": "117.50",
       "new_price": "70.50",
-      "timestamp": "2026-01-20T13:05:47.245048",
+      "timestamp": "2026-01-20T13:10:59.237598",
       "url": "https://www.johnlewis.com/polo-ralph-lauren-chester-performance-stretch-twill-suit-trouser/p114585641"
     },
     {
@@ -1031,7 +1031,7 @@
       "percentage": 40.0,
       "old_price": "37.50",
       "new_price": "22.50",
-      "timestamp": "2026-01-20T13:05:47.245048",
+      "timestamp": "2026-01-20T13:10:59.237598",
       "url": "https://www.johnlewis.com/ted-baker-eduard-geometric-pattern-short-sleeve-polo-shirt/p113888493"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T08:08:41.865024",
-  "total_drops": 620,
+  "generated_at": "2026-01-20T08:13:50.585593",
+  "total_drops": 655,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,15 +11,15 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 226,
+      "count": 235,
       "max_drop": 51.2,
-      "total_savings": 4678.05
+      "total_savings": 4771.15
     },
     {
       "site": "currys_com",
-      "count": 102,
+      "count": 127,
       "max_drop": 43.7,
-      "total_savings": 2495.9
+      "total_savings": 3916.91
     },
     {
       "site": "hollandcooper_com",
@@ -77,9 +77,9 @@
     },
     {
       "site": "ullajohnson_com",
-      "count": 7,
+      "count": 8,
       "max_drop": 2.3,
-      "total_savings": 35.0
+      "total_savings": 40.0
     }
   ],
   "drops": [
@@ -377,7 +377,7 @@
       "percentage": 43.7,
       "old_price": "19.99",
       "new_price": "11.25",
-      "timestamp": "2026-01-20T08:08:33.079929",
+      "timestamp": "2026-01-20T08:13:45.254856",
       "url": "https://www.currys.co.uk/products/10226606.html"
     },
     {
@@ -413,7 +413,7 @@
       "percentage": 41.2,
       "old_price": "16.99",
       "new_price": "9.99",
-      "timestamp": "2026-01-20T08:08:33.079929",
+      "timestamp": "2026-01-20T08:13:45.254856",
       "url": "https://www.currys.co.uk/products/10289857.html"
     },
     {
@@ -584,7 +584,7 @@
       "percentage": 39.2,
       "old_price": "27.90",
       "new_price": "16.97",
-      "timestamp": "2026-01-20T08:08:33.079929",
+      "timestamp": "2026-01-20T08:13:45.254856",
       "url": "https://www.currys.co.uk/products/10276698.html"
     },
     {
@@ -737,7 +737,7 @@
       "percentage": 34.8,
       "old_price": "22.97",
       "new_price": "14.97",
-      "timestamp": "2026-01-20T08:08:33.079929",
+      "timestamp": "2026-01-20T08:13:45.254856",
       "url": "https://www.currys.co.uk/products/10235192.html"
     },
     {
@@ -746,7 +746,7 @@
       "percentage": 34.8,
       "old_price": "22.97",
       "new_price": "14.97",
-      "timestamp": "2026-01-20T08:08:33.079929",
+      "timestamp": "2026-01-20T08:13:45.254856",
       "url": "https://www.currys.co.uk/products/10286559.html"
     },
     {

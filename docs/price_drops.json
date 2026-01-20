@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T06:46:04.971177",
-  "total_drops": 421,
+  "generated_at": "2026-01-20T06:51:11.360630",
+  "total_drops": 423,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 137,
+      "count": 139,
       "max_drop": 44.0,
-      "total_savings": 3677.34
+      "total_savings": 3679.84
     },
     {
       "site": "hollandcooper_com",

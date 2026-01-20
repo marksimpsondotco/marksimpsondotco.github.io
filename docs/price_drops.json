@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-20T11:15:51.644513",
-  "total_drops": 999,
+  "generated_at": "2026-01-20T11:21:04.421857",
+  "total_drops": 1005,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 335,
+      "count": 340,
       "max_drop": 75.0,
-      "total_savings": 6863.35
+      "total_savings": 6943.45
     },
     {
       "site": "origincoffee_co_uk",
@@ -119,9 +119,9 @@
     },
     {
       "site": "hauslondon_com",
-      "count": 2,
+      "count": 3,
       "max_drop": 3.2,
-      "total_savings": 7.0
+      "total_savings": 13.0
     },
     {
       "site": "ullajohnson_com",
@@ -155,7 +155,7 @@
       "percentage": 72.8,
       "old_price": "65.00",
       "new_price": "17.70",
-      "timestamp": "2026-01-20T11:15:42.446698",
+      "timestamp": "2026-01-20T11:20:54.959791",
       "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
     },
     {
@@ -164,7 +164,7 @@
       "percentage": 72.2,
       "old_price": "18.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-20T11:15:42.446698",
+      "timestamp": "2026-01-20T11:20:54.959791",
       "url": "https://www.johnlewis.com/john-lewis-helenca-lace-bikini-knickers-pack-of-3/p111801639"
     },
     {
@@ -209,7 +209,7 @@
       "percentage": 66.4,
       "old_price": "38.50",
       "new_price": "12.95",
-      "timestamp": "2026-01-20T11:14:43.529137",
+      "timestamp": "2026-01-20T11:19:57.162049",
       "url": "https://www.origincoffee.co.uk/products/pathfinder"
     },
     {
@@ -281,7 +281,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T11:15:17.460295",
+      "timestamp": "2026-01-20T11:20:38.543806",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -398,7 +398,7 @@
       "percentage": 50.1,
       "old_price": "89.50",
       "new_price": "44.70",
-      "timestamp": "2026-01-20T11:15:42.446698",
+      "timestamp": "2026-01-20T11:20:54.959791",
       "url": "https://www.johnlewis.com/john-lewis-woven-leather-tote-bag/p113892391"
     },
     {
@@ -416,8 +416,17 @@
       "percentage": 50.0,
       "old_price": "165.00",
       "new_price": "82.50",
-      "timestamp": "2026-01-20T11:15:42.446698",
+      "timestamp": "2026-01-20T11:20:54.959791",
       "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Under Armour Essential Fleece Hoodie",
+      "percentage": 50.0,
+      "old_price": "60.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-20T11:20:54.959791",
+      "url": "https://www.johnlewis.com/under-armour-essential-fleece-hoodie/p110654158"
     },
     {
       "site": "johnlewis_com",
@@ -650,7 +659,7 @@
       "percentage": 49.0,
       "old_price": "259.00",
       "new_price": "132.09",
-      "timestamp": "2026-01-20T11:15:42.446698",
+      "timestamp": "2026-01-20T11:20:54.959791",
       "url": "https://www.johnlewis.com/radley-dukes-place-leather-grab-bag/p113917130"
     },
     {
@@ -677,7 +686,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T11:15:17.460295",
+      "timestamp": "2026-01-20T11:20:38.543806",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -686,7 +695,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T11:15:17.460295",
+      "timestamp": "2026-01-20T11:20:38.543806",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -794,7 +803,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T11:15:17.460295",
+      "timestamp": "2026-01-20T11:20:38.543806",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -884,7 +893,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T11:15:17.460295",
+      "timestamp": "2026-01-20T11:20:38.543806",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -1019,17 +1028,8 @@
       "percentage": 40.0,
       "old_price": "49.99",
       "new_price": "29.99",
-      "timestamp": "2026-01-20T11:15:42.446698",
+      "timestamp": "2026-01-20T11:20:54.959791",
       "url": "https://www.johnlewis.com/mango-super-suede-ankle-boots/p114037890"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Triumph Amourette Underwired Padded Spacer Cup Bra",
-      "percentage": 40.0,
-      "old_price": "23.00",
-      "new_price": "13.80",
-      "timestamp": "2026-01-20T01:17:00.280502",
-      "url": "https://www.johnlewis.com/triumph-amourette-underwired-padded-spacer-cup-bra/p112911504"
     }
   ]
 }

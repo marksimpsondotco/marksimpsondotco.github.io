@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-01-20T09:41:57.146935",
-  "total_drops": 867,
+  "generated_at": "2026-01-20T09:47:07.864206",
+  "total_drops": 884,
   "top_drops_shown": 100,
   "site_stats": [
+    {
+      "site": "johnlewis_com",
+      "count": 264,
+      "max_drop": 70.0,
+      "total_savings": 5454.11
+    },
     {
       "site": "fenwick_co_uk",
       "count": 257,
@@ -14,12 +20,6 @@
       "count": 227,
       "max_drop": 58.8,
       "total_savings": 7016.89
-    },
-    {
-      "site": "johnlewis_com",
-      "count": 250,
-      "max_drop": 51.2,
-      "total_savings": 5128.5
     },
     {
       "site": "condorcycles_com",
@@ -64,6 +64,12 @@
       "total_savings": 35.0
     },
     {
+      "site": "pureelectric_com",
+      "count": 3,
+      "max_drop": 20.1,
+      "total_savings": 120.0
+    },
+    {
       "site": "dusk_com",
       "count": 5,
       "max_drop": 12.2,
@@ -95,6 +101,33 @@
     }
   ],
   "drops": [
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Essential Straight Cut Chinos",
+      "percentage": 70.0,
+      "old_price": "55.00",
+      "new_price": "16.50",
+      "timestamp": "2026-01-20T09:46:59.437532",
+      "url": "https://www.johnlewis.com/john-lewis-essential-straight-cut-chinos/p5167664"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Crisp & Fresh Egyptian Cotton Percale 200 Thread Count Bedding",
+      "percentage": 70.0,
+      "old_price": "12.00",
+      "new_price": "3.60",
+      "timestamp": "2026-01-20T09:46:59.437532",
+      "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-egyptian-cotton-percale-200-thread-count-bedding/p5417600"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Crocs Classic Clogs",
+      "percentage": 64.3,
+      "old_price": "42.00",
+      "new_price": "14.99",
+      "timestamp": "2026-01-20T09:46:59.437532",
+      "url": "https://www.johnlewis.com/crocs-classic-clogs/p111547583"
+    },
     {
       "site": "fenwick_co_uk",
       "product": "Linear Leaf Wrap Midi Skirt",
@@ -137,7 +170,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T09:41:35.165339",
+      "timestamp": "2026-01-20T09:46:46.978175",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -236,8 +269,26 @@
       "percentage": 50.0,
       "old_price": "43.00",
       "new_price": "21.50",
-      "timestamp": "2026-01-20T09:41:49.619613",
+      "timestamp": "2026-01-20T09:46:59.437532",
       "url": "https://www.johnlewis.com/le-creuset-classic-pepper-mill/p5067050"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lacoste Core Essential Sweater Vest, Lland/Clthea-Yellow",
+      "percentage": 50.0,
+      "old_price": "96.00",
+      "new_price": "48.00",
+      "timestamp": "2026-01-20T09:46:59.437532",
+      "url": "https://www.johnlewis.com/lacoste-core-essential-sweater-vest-lland-clthea-yellow/p112888512"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Supima Cotton Regular Fit Crew Neck T-Shirt",
+      "percentage": 50.0,
+      "old_price": "19.00",
+      "new_price": "9.50",
+      "timestamp": "2026-01-20T09:46:59.437532",
+      "url": "https://www.johnlewis.com/john-lewis-supima-cotton-regular-fit-crew-neck-t-shirt/p6030384"
     },
     {
       "site": "fenwick_co_uk",
@@ -335,7 +386,7 @@
       "percentage": 48.1,
       "old_price": "159.00",
       "new_price": "82.50",
-      "timestamp": "2026-01-20T09:41:49.619613",
+      "timestamp": "2026-01-20T09:46:59.437532",
       "url": "https://www.johnlewis.com/le-creuset-cast-iron-signature-square-grillit-26cm/p3911266"
     },
     {
@@ -344,7 +395,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T09:41:35.165339",
+      "timestamp": "2026-01-20T09:46:46.978175",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -492,6 +543,15 @@
       "url": "https://fenwick.co.uk/products/whistles-black-faux-fur-aviator-37444"
     },
     {
+      "site": "johnlewis_com",
+      "product": "John Lewis Tansy Duvet Cover Set",
+      "percentage": 40.9,
+      "old_price": "55.00",
+      "new_price": "32.50",
+      "timestamp": "2026-01-20T09:46:59.437532",
+      "url": "https://www.johnlewis.com/john-lewis-tansy-duvet-cover-set/p112440888"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Twist Front Detail Tee",
       "percentage": 40.7,
@@ -506,7 +566,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T09:41:35.165339",
+      "timestamp": "2026-01-20T09:46:46.978175",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -654,12 +714,21 @@
       "url": "https://www.johnlewis.com/john-lewis-mens-leather-loafers/p109856422"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Selected Wool Blend Knitted Vest, Coffee Bean",
+      "percentage": 40.0,
+      "old_price": "32.50",
+      "new_price": "19.50",
+      "timestamp": "2026-01-20T09:46:59.437532",
+      "url": "https://www.johnlewis.com/selected-wool-blend-knitted-vest-coffee-bean/p113981458"
+    },
+    {
       "site": "flannels_com",
       "product": "KENZO - Kids' Closed Hem Jersey Joggers",
       "percentage": 40.0,
       "old_price": "55.00",
       "new_price": "33.00",
-      "timestamp": "2026-01-20T09:41:47.669609",
+      "timestamp": "2026-01-20T09:47:01.994181",
       "url": "https://www.flannels.com/kenzo-kids-closed-hem-jersey-joggers-480118"
     },
     {
@@ -830,7 +899,7 @@
       "percentage": 35.3,
       "old_price": "68.00",
       "new_price": "44.00",
-      "timestamp": "2026-01-20T09:41:47.669609",
+      "timestamp": "2026-01-20T09:47:01.994181",
       "url": "https://www.flannels.com/off-white-kids-closed-hem-fleece-jogging-bottoms-322347"
     },
     {
@@ -902,7 +971,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T09:41:35.165339",
+      "timestamp": "2026-01-20T09:46:46.978175",
       "url": "https://fenwick.co.uk/products/white-triumph-sneaker-4418110979"
     },
     {
@@ -931,69 +1000,6 @@
       "new_price": "51.00",
       "timestamp": "2026-01-20T07:55:45.721418",
       "url": "https://www.johnlewis.com/dune-london-cohens-leather-chelsea-boots/p114423692"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Stripe Textured Tank",
-      "percentage": 33.7,
-      "old_price": "89.00",
-      "new_price": "59.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-ivorymulti-stripe-textured-tank-39036"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Cotton Back Detail Ribbed Tank",
-      "percentage": 33.7,
-      "old_price": "89.00",
-      "new_price": "59.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-green-cotton-back-detail-ribbed-tank-39981"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "White Hannah Textured Shirt",
-      "percentage": 33.7,
-      "old_price": "89.00",
-      "new_price": "59.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-white-white-hannah-textured-shirt-39533"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Navy Eva Elasticated Waist Skirt",
-      "percentage": 33.7,
-      "old_price": "89.00",
-      "new_price": "59.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-blue-navy-eva-elasticated-waist-skirt-38469"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Tie Waist Trouser Black",
-      "percentage": 33.7,
-      "old_price": "89.00",
-      "new_price": "59.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-black-black-tie-waist-trouser-38337"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Blue/Multi Abstract Blooms Linen Dress",
-      "percentage": 33.6,
-      "old_price": "149.00",
-      "new_price": "99.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-blue-blue-multi-abstract-blooms-linen-dress-39701"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Olive Abby Linen Casual Jacket",
-      "percentage": 33.6,
-      "old_price": "119.00",
-      "new_price": "79.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-green-olive-abby-linen-casual-jacket-39678"
     }
   ]
 }

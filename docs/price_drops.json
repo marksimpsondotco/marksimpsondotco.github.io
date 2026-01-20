@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-20T23:42:44.044646",
-  "total_drops": 88,
-  "top_drops_shown": 88,
+  "generated_at": "2026-01-20T23:47:46.786399",
+  "total_drops": 157,
+  "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
@@ -35,9 +35,9 @@
     },
     {
       "site": "hauslondon_com",
-      "count": 15,
-      "max_drop": 15.2,
-      "total_savings": 1066.0
+      "count": 84,
+      "max_drop": 15.4,
+      "total_savings": 15197.0
     },
     {
       "site": "dusk_com",
@@ -65,7 +65,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T23:42:36.080527",
+      "timestamp": "2026-01-20T23:47:40.331834",
       "url": "https://fenwick.co.uk/products/gold-symmetry-court-vinyl-80-2413561979"
     },
     {
@@ -83,7 +83,7 @@
       "percentage": 29.0,
       "old_price": "137.40",
       "new_price": "97.50",
-      "timestamp": "2026-01-20T23:42:36.080527",
+      "timestamp": "2026-01-20T23:47:40.331834",
       "url": "https://fenwick.co.uk/products/other-multicoloured-carlow-duvet-cover-hbcarldcmulticoloured"
     },
     {
@@ -92,7 +92,7 @@
       "percentage": 29.0,
       "old_price": "69.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-20T23:42:36.080527",
+      "timestamp": "2026-01-20T23:47:40.331834",
       "url": "https://fenwick.co.uk/products/navy-lovebird-vinyl-9277284979"
     },
     {
@@ -101,7 +101,7 @@
       "percentage": 28.6,
       "old_price": "17.50",
       "new_price": "12.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/hay-column-candleholder"
     },
     {
@@ -110,7 +110,7 @@
       "percentage": 26.5,
       "old_price": "17.00",
       "new_price": "12.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/paperian-lists-to-live-by-daily-weekly-light-planner"
     },
     {
@@ -119,7 +119,7 @@
       "percentage": 25.9,
       "old_price": "29.00",
       "new_price": "21.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/form-and-refine-herman-studio-angle-hook"
     },
     {
@@ -128,7 +128,7 @@
       "percentage": 25.5,
       "old_price": "25.50",
       "new_price": "19.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/waks-white-clay-candle-citrus"
     },
     {
@@ -137,7 +137,7 @@
       "percentage": 25.3,
       "old_price": "77.00",
       "new_price": "57.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/doris-cushion"
     },
     {
@@ -173,7 +173,7 @@
       "percentage": 21.4,
       "old_price": "7.00",
       "new_price": "5.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/midori-mini-scissors-with-guard"
     },
     {
@@ -182,7 +182,7 @@
       "percentage": 20.3,
       "old_price": "59.00",
       "new_price": "47.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/nedre-foss-sigve-knutson-bokk-bottle-opener"
     },
     {
@@ -200,7 +200,7 @@
       "percentage": 20.0,
       "old_price": "97.50",
       "new_price": "78.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/nedre-foss-paolo-lucidi-and-luca-pevere-korg-tray"
     },
     {
@@ -218,7 +218,7 @@
       "percentage": 18.2,
       "old_price": "5.50",
       "new_price": "4.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/studio-arhoj-organic-soap-cloud"
     },
     {
@@ -227,7 +227,7 @@
       "percentage": 18.2,
       "old_price": "5.50",
       "new_price": "4.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/studio-arhoj-organic-soap-beer-mud"
     },
     {
@@ -236,7 +236,7 @@
       "percentage": 16.7,
       "old_price": "36.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bouroullec-bas-posters"
     },
     {
@@ -245,7 +245,7 @@
       "percentage": 16.7,
       "old_price": "36.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/the-wrong-shop-richard-woods-window-posters"
     },
     {
@@ -254,7 +254,7 @@
       "percentage": 16.7,
       "old_price": "36.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/ronan-bouroullec-poster-drawing-2"
     },
     {
@@ -263,7 +263,7 @@
       "percentage": 16.7,
       "old_price": "36.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bouroullec-poster-drawing-10"
     },
     {
@@ -272,7 +272,7 @@
       "percentage": 16.7,
       "old_price": "36.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bouroullec-poster-drawing-11"
     },
     {
@@ -281,7 +281,7 @@
       "percentage": 16.7,
       "old_price": "36.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bourollec-bas-poster-3"
     },
     {
@@ -290,7 +290,7 @@
       "percentage": 16.7,
       "old_price": "6.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/kinfill-kitchen-cleaner-refill"
     },
     {
@@ -308,7 +308,7 @@
       "percentage": 15.8,
       "old_price": "9.50",
       "new_price": "8.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/stephen-pearce-shanagarry-tea-light-holder"
     },
     {
@@ -317,7 +317,7 @@
       "percentage": 15.8,
       "old_price": "9.50",
       "new_price": "8.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/urban-layers-card-holder-matone"
     },
     {
@@ -331,11 +331,20 @@
     },
     {
       "site": "hauslondon_com",
+      "product": "Rime Pendant by Muuto",
+      "percentage": 15.4,
+      "old_price": "195.00",
+      "new_price": "165.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/rime-pendant-by-taf-studio-for-muuto"
+    },
+    {
+      "site": "hauslondon_com",
       "product": "Loft Chair by Muuto",
       "percentage": 15.2,
       "old_price": "355.00",
       "new_price": "301.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/loft-chair-by-thomas-bentzen-for-muuto"
     },
     {
@@ -344,7 +353,7 @@
       "percentage": 15.2,
       "old_price": "329.00",
       "new_price": "279.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/fiber-chair-wood-base-by-iskos-berlin"
     },
     {
@@ -353,7 +362,7 @@
       "percentage": 15.2,
       "old_price": "315.00",
       "new_price": "267.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/visu-chair-wood-frame-by-mika-tolvanen"
     },
     {
@@ -362,8 +371,35 @@
       "percentage": 15.2,
       "old_price": "329.00",
       "new_price": "279.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/fibre-side-chair-with-wood-base-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Linear Steel Armchair by Thomas Bentzen for Muuto",
+      "percentage": 15.2,
+      "old_price": "329.00",
+      "new_price": "279.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/linear-steel-armchair-by-thomas-bentzen-for-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Linear Steel Bar Stool H75cm by Thomas Bentzen for Muuto",
+      "percentage": 15.2,
+      "old_price": "355.00",
+      "new_price": "301.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/linear-steel-bar-stool-h75cm-by-thomas-bentzen-for-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Linear Steel Counter Stool H65cm by Thomas Bentzen for Muuto",
+      "percentage": 15.2,
+      "old_price": "355.00",
+      "new_price": "301.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/linear-steel-counter-stool-by-thomas-bentzen-for-muuto"
     },
     {
       "site": "hauslondon_com",
@@ -371,7 +407,7 @@
       "percentage": 15.1,
       "old_price": "385.00",
       "new_price": "327.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/nerd-chair-by-david-geckeler"
     },
     {
@@ -380,7 +416,7 @@
       "percentage": 15.1,
       "old_price": "449.00",
       "new_price": "381.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/cover-chair-by-thomas-bentzen"
     },
     {
@@ -389,7 +425,7 @@
       "percentage": 15.1,
       "old_price": "225.00",
       "new_price": "191.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/fiber-chair-tube-base-by-iskos-berlin"
     },
     {
@@ -398,7 +434,7 @@
       "percentage": 15.1,
       "old_price": "405.00",
       "new_price": "344.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/workshop-chair-by-cecilie-manz"
     },
     {
@@ -407,7 +443,7 @@
       "percentage": 15.1,
       "old_price": "225.00",
       "new_price": "191.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/fiber-chair-sled-base-muuto-iskos-berlin"
     },
     {
@@ -416,7 +452,7 @@
       "percentage": 15.1,
       "old_price": "555.00",
       "new_price": "471.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/cover-chair-upholstered-by-thomas-bentzen"
     },
     {
@@ -425,7 +461,7 @@
       "percentage": 15.1,
       "old_price": "449.00",
       "new_price": "381.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/cover-side-chair-by-muuto"
     },
     {
@@ -434,8 +470,260 @@
       "percentage": 15.1,
       "old_price": "895.00",
       "new_price": "760.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/fiber-lounge-chair-wood-base-by-iskos-berlin-for-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "70/70 Table by Muuto",
+      "percentage": 15.1,
+      "old_price": "1495.00",
+      "new_price": "1270.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/70-70-table-by-taf-architects"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Linear Wood Table by Muuto",
+      "percentage": 15.1,
+      "old_price": "1149.00",
+      "new_price": "976.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/linear-table-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Post Floor Lamp by Muuto",
+      "percentage": 15.1,
+      "old_price": "629.00",
+      "new_price": "534.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/post-floor-lamp-by-earnest-studio-for-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Tip Floor Lamp by Muuto",
+      "percentage": 15.1,
+      "old_price": "425.00",
+      "new_price": "361.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/tip-floor-lamp-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Pull Lamp by Muuto",
+      "percentage": 15.1,
+      "old_price": "529.00",
+      "new_price": "449.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/pull-lamp-by-whatswhat"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Dedicate Floor Lamp by Muuto",
+      "percentage": 15.1,
+      "old_price": "535.00",
+      "new_price": "454.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/dedicate-floor-lamp-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Cover Lounge Chair by Muuto",
+      "percentage": 15.1,
+      "old_price": "809.00",
+      "new_price": "687.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/cover-lounge-chair-by-thomas-bentzen-for-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Fiber Lounge Chair Tube Base by Muuto",
+      "percentage": 15.1,
+      "old_price": "750.00",
+      "new_price": "637.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/fiber-lounge-chair-tube-base-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Visu Lounge Chair by Muuto",
+      "percentage": 15.1,
+      "old_price": "449.00",
+      "new_price": "381.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/visu-lounge-by-mika-tolvanen"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Linear Steel Coffee Table by Thomas Bentzen for Muuto",
+      "percentage": 15.1,
+      "old_price": "445.00",
+      "new_price": "378.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/linear-steel-coffee-table-by-thomas-bentzen-for-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Relate Side Table by Big Game for Muuto",
+      "percentage": 15.1,
+      "old_price": "385.00",
+      "new_price": "327.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/relate-side-table-by-big-game-for-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Workshop Coffee Table - Square by Muuto",
+      "percentage": 15.1,
+      "old_price": "695.00",
+      "new_price": "590.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/workshop-coffee-table-square-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Airy Coffee Table by Muuto",
+      "percentage": 15.1,
+      "old_price": "225.00",
+      "new_price": "191.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/airy-coffee-table-by-cecilie-manz"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Around Coffee Table by Muuto",
+      "percentage": 15.1,
+      "old_price": "385.00",
+      "new_price": "327.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/around-table-by-thomas-bentzen"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Soft Side Table Round by Muuto",
+      "percentage": 15.1,
+      "old_price": "365.00",
+      "new_price": "310.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/soft-side-table-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Assemble Outdoor Coffee Table by Muuto",
+      "percentage": 15.1,
+      "old_price": "445.00",
+      "new_price": "378.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/assemble-outdoor-coffee-table-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Dedicate Table Lamp by Thomas Bentzen",
+      "percentage": 15.1,
+      "old_price": "425.00",
+      "new_price": "361.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/dedicate-table-lamp-by-thomas-bentzen"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Linear Steel Side Chair by Thomas Bentzen for Muuto",
+      "percentage": 15.1,
+      "old_price": "305.00",
+      "new_price": "259.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/linear-steel-side-chair-by-thomas-bentzen-for-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Linear Steel Café Table by Thomas Bentzen for Muuto",
+      "percentage": 15.1,
+      "old_price": "629.00",
+      "new_price": "534.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/linear-steel-cafe-table-by-thomas-bentzen-for-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Fiber Outdoor Armchair by Muuto",
+      "percentage": 15.1,
+      "old_price": "279.00",
+      "new_price": "237.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/fiber-outdoor-armchair-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Fiber Outdoor Side Chair by Muuto",
+      "percentage": 15.1,
+      "old_price": "259.00",
+      "new_price": "220.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/fiber-outdoor-chair-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Linear Steel Table by Muuto",
+      "percentage": 15.1,
+      "old_price": "1149.00",
+      "new_price": "976.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/linear-steel-table-by-thomas-bentzen-for-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Linear Steel Bench With Back by Muuto",
+      "percentage": 15.1,
+      "old_price": "895.00",
+      "new_price": "760.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/linear-steel-bench-with-back-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Assemble Outdoor Bench by Muuto",
+      "percentage": 15.1,
+      "old_price": "715.00",
+      "new_price": "607.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/assemble-outdoor-bench-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Rime Rail Pendant by Muuto",
+      "percentage": 15.1,
+      "old_price": "895.00",
+      "new_price": "760.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/rime-rail-pendant-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Fine Suspension Lamp by Muuto",
+      "percentage": 15.1,
+      "old_price": "365.00",
+      "new_price": "310.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/fine-suspension-lamp-by-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Two-Layer Pendant by Thomas Bentzen for Muuto",
+      "percentage": 15.1,
+      "old_price": "445.00",
+      "new_price": "378.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/two-layer-pendant-by-thomas-bentzen-for-muuto"
+    },
+    {
+      "site": "hauslondon_com",
+      "product": "Strand Pendant Lamp Closed by Muuto",
+      "percentage": 15.1,
+      "old_price": "535.00",
+      "new_price": "454.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/strand-pendant-lamp-closed-by-muuto"
     },
     {
       "site": "twentytwentyone_com",
@@ -443,7 +731,7 @@
       "percentage": 15.0,
       "old_price": "30.00",
       "new_price": "25.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
+      "timestamp": "2026-01-20T23:47:28.451756",
       "url": "https://www.twentytwentyone.com/products/kinfill-hand-lotion-santal-cedar"
     },
     {
@@ -452,7 +740,7 @@
       "percentage": 15.0,
       "old_price": "539.00",
       "new_price": "458.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/cover-side-chair-upholstered-by-muuto"
     },
     {
@@ -461,7 +749,7 @@
       "percentage": 15.0,
       "old_price": "705.00",
       "new_price": "599.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/oslo-side-chair-by-muuto"
     },
     {
@@ -470,386 +758,206 @@
       "percentage": 15.0,
       "old_price": "899.00",
       "new_price": "764.00",
-      "timestamp": "2026-01-20T23:42:28.845132",
+      "timestamp": "2026-01-20T23:47:35.590764",
       "url": "https://hauslondon.com/products/fiber-conference-armchair-swivel-base-by-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Bakers Brush",
-      "percentage": 14.3,
-      "old_price": "14.00",
-      "new_price": "12.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/iris-hantverk-bakers-brush"
+      "site": "hauslondon_com",
+      "product": "Midst Table by TAF Studio for Muuto",
+      "percentage": 15.0,
+      "old_price": "2795.00",
+      "new_price": "2375.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/midst-table-by-taf-studio-for-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Urban Notes",
-      "percentage": 14.3,
-      "old_price": "7.00",
-      "new_price": "6.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/stefi-orazi-studio-urban-notes-perambulations-notebook"
+      "site": "hauslondon_com",
+      "product": "Workshop Dining Table by Muuto",
+      "percentage": 15.0,
+      "old_price": "1849.00",
+      "new_price": "1571.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/workshop-dining-table-by-muuto"
     },
     {
-      "site": "boden_com",
-      "product": "Marion Merino High Neck Jumper-Gladioli Orange",
-      "percentage": 14.3,
-      "old_price": "69.30",
-      "new_price": "59.40",
-      "timestamp": "2026-01-20T21:28:52.576529",
-      "url": "https://www.boden.com/products/women-marion-merino-high-neck-jumper-gladioli-orange-k1168ora"
+      "site": "hauslondon_com",
+      "product": "Soft Dining Table by Muuto",
+      "percentage": 15.0,
+      "old_price": "945.00",
+      "new_price": "803.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/soft-dining-table-by-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Hand Wash Santal + Cedar",
-      "percentage": 14.0,
-      "old_price": "25.00",
-      "new_price": "21.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/kinfill-hand-wash-santal-cedar"
+      "site": "hauslondon_com",
+      "product": "Earnest Extendable Table by John Tree for Muuto",
+      "percentage": 15.0,
+      "old_price": "3595.00",
+      "new_price": "3055.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/earnest-extendable-table-by-john-tree-for-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Hand Lotion Refill Santal + Cedar",
-      "percentage": 13.9,
-      "old_price": "18.00",
-      "new_price": "15.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/kinfill-hand-lotion-refill-santal-cedar"
+      "site": "hauslondon_com",
+      "product": "Midst Table Marble by TAF Studio for Muuto",
+      "percentage": 15.0,
+      "old_price": "3895.00",
+      "new_price": "3310.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/midst-table-marble-by-taf-studio-for-muuto"
     },
     {
-      "site": "boden_com",
-      "product": "Cosy Fleece Joggers-College Navy",
-      "percentage": 13.8,
-      "old_price": "17.40",
-      "new_price": "15.00",
-      "timestamp": "2026-01-20T21:28:52.576529",
-      "url": "https://www.boden.com/products/boys-cosy-fleece-joggers-college-navy-b2844nav"
+      "site": "hauslondon_com",
+      "product": "Re-Norm Table by Maria Bruun for Muuto",
+      "percentage": 15.0,
+      "old_price": "1749.00",
+      "new_price": "1486.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/re-norm-table-by-maria-bruun-for-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Rectangle Cutting Board",
-      "percentage": 13.7,
-      "old_price": "25.50",
-      "new_price": "22.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/side-by-side-jette-scheib-rectangle-cutting-board"
+      "site": "hauslondon_com",
+      "product": "Assemble Outdoor Table by Muuto",
+      "percentage": 15.0,
+      "old_price": "1795.00",
+      "new_price": "1525.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/assemble-outdoor-table-by-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Singles Measuring Cup",
-      "percentage": 13.6,
-      "old_price": "11.00",
-      "new_price": "9.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/zone-denmark-ve2-singles-measuring-cup"
+      "site": "hauslondon_com",
+      "product": "Leaf Floor Lamp by Muuto",
+      "percentage": 15.0,
+      "old_price": "359.00",
+      "new_price": "305.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/leaf-floor-lamp-by-broberg-ridderstale"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Quitterie Coin/Card Purse",
-      "percentage": 13.3,
-      "old_price": "15.00",
-      "new_price": "13.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/quitterie-coin-purse"
+      "site": "hauslondon_com",
+      "product": "Settle Lounge Bed With Arms by Muuto",
+      "percentage": 15.0,
+      "old_price": "5249.00",
+      "new_price": "4461.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": null
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Shoe Brush",
-      "percentage": 13.3,
-      "old_price": "15.00",
-      "new_price": "13.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/iris-hantverk-shoe-brush"
+      "site": "hauslondon_com",
+      "product": "Doze Lounge Chair High Back by Muuto",
+      "percentage": 15.0,
+      "old_price": "2295.00",
+      "new_price": "1950.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/doze-lounge-chair-by-anderssen-voll-for-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Computer/Desktop Brush",
-      "percentage": 13.3,
-      "old_price": "15.00",
-      "new_price": "13.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/iris-hantverk-computer-desktop-brush"
+      "site": "hauslondon_com",
+      "product": "Outline Chair by Muuto",
+      "percentage": 15.0,
+      "old_price": "2249.00",
+      "new_price": "1911.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/outline-chair-muuto-anderssen-voll"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Due la Pera Pear Screen Print | Small",
-      "percentage": 13.0,
-      "old_price": "115.00",
-      "new_price": "100.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/danese-enzo-mari-due-la-pera-pear-screen-print"
+      "site": "hauslondon_com",
+      "product": "Outline Studio Chair by Muuto",
+      "percentage": 15.0,
+      "old_price": "2095.00",
+      "new_price": "1780.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/outline-studio-chair-by-anderssen-and-voll-for-muuto"
     },
     {
-      "site": "rehaus_co_uk",
-      "product": "Fritz Hansen Swan Chair by Arne Jacobsen",
-      "percentage": 13.0,
-      "old_price": "2300.00",
-      "new_price": "2000.00",
-      "timestamp": "2026-01-20T23:08:39.174321",
-      "url": "https://rehaus.co.uk/products/2573384601"
+      "site": "hauslondon_com",
+      "product": "Outline Daybed by Muuto",
+      "percentage": 15.0,
+      "old_price": "2495.00",
+      "new_price": "2120.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/outline-daybed-by-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Sam Rug",
-      "percentage": 12.9,
-      "old_price": "163.00",
-      "new_price": "142.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/pappelina-kim-froyen-lina-rickardson-sam-rug"
+      "site": "hauslondon_com",
+      "product": "Doze Ottoman by Muuto",
+      "percentage": 15.0,
+      "old_price": "765.00",
+      "new_price": "650.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/doze-ottoman-by-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Base Red Wine Glass",
-      "percentage": 12.9,
-      "old_price": "15.50",
-      "new_price": "13.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/serax-piet-boon-base-red-wine-glass"
+      "site": "hauslondon_com",
+      "product": "Oslo Lounge Chair by Muuto",
+      "percentage": 15.0,
+      "old_price": "1749.00",
+      "new_price": "1486.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/oslo-lounge-chair-by-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Shanagarry Handled Beaker",
-      "percentage": 12.9,
-      "old_price": "15.50",
-      "new_price": "13.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/stephen-pearce-shanagarry-handled-beaker"
+      "site": "hauslondon_com",
+      "product": "Wrap Lounge Chair By Normal Studio for Muuto",
+      "percentage": 15.0,
+      "old_price": "2095.00",
+      "new_price": "1780.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/wrap-lounge-chair-by-normal-studio-for-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Folding Compact Umbrella",
-      "percentage": 12.9,
-      "old_price": "31.00",
-      "new_price": "27.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/anatole-paris-folding-compact-umbrella"
+      "site": "hauslondon_com",
+      "product": "Fiber Lounge Armchair by Muuto",
+      "percentage": 15.0,
+      "old_price": "1349.00",
+      "new_price": "1146.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/fiber-lounge-armchair-by-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Slow Coffee Grinder",
-      "percentage": 12.5,
-      "old_price": "80.00",
-      "new_price": "70.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/alessi-keiji-takeuchi-slow-coffee-grinder"
+      "site": "hauslondon_com",
+      "product": "Doze Lounge Chair Low Back by Muuto",
+      "percentage": 15.0,
+      "old_price": "1895.00",
+      "new_price": "1610.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/doze-lounge-chair-low-back-by-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Monoware Flat White Cup + Saucer",
-      "percentage": 12.5,
-      "old_price": "24.00",
-      "new_price": "21.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/monoware-ian-mcintyre-flat-white-cup-with-saucer"
+      "site": "hauslondon_com",
+      "product": "Settle Lounge Chair With Arms by Muuto",
+      "percentage": 15.0,
+      "old_price": "1995.00",
+      "new_price": "1695.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": null
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Wooden Toothbrush",
-      "percentage": 12.5,
-      "old_price": "4.00",
-      "new_price": "3.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/iris-hantverk-wooden-toothbrush"
+      "site": "hauslondon_com",
+      "product": "Outline Soft Chair by Muuto",
+      "percentage": 15.0,
+      "old_price": "2095.00",
+      "new_price": "1780.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/outline-soft-chair-by-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Soap On A Rope",
-      "percentage": 12.5,
-      "old_price": "8.00",
-      "new_price": "7.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/iris-hantverk-soap-on-a-rope"
+      "site": "hauslondon_com",
+      "product": "Settle Lounge Bed by Muuto",
+      "percentage": 15.0,
+      "old_price": "5049.00",
+      "new_price": "4291.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/settle-lounge-bed-by-muuto"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Monoware Serving Platter",
-      "percentage": 12.3,
-      "old_price": "36.50",
-      "new_price": "32.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/monoware-ian-mcintyre-serving-platter"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Monoware Side Plate",
-      "percentage": 12.0,
-      "old_price": "12.50",
-      "new_price": "11.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/monoware-ian-mcintyre-side-plate"
-    },
-    {
-      "site": "boden_com",
-      "product": "Cord Leggings-College Navy",
-      "percentage": 12.0,
-      "old_price": "17.50",
-      "new_price": "15.40",
-      "timestamp": "2026-01-20T21:28:52.576529",
-      "url": "https://www.boden.com/products/girls-cord-leggings-college-navy-g5637nav"
-    },
-    {
-      "site": "boden_com",
-      "product": "Tulle Mix Dress-Starboard Blue Berry Floral",
-      "percentage": 11.9,
-      "old_price": "25.20",
-      "new_price": "22.20",
-      "timestamp": "2026-01-20T21:28:52.576529",
-      "url": "https://www.boden.com/products/girls-tulle-mix-dress-starboard-blue-berry-floral-g5557nav"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Portable Multi-Scissors",
-      "percentage": 11.5,
-      "old_price": "13.00",
-      "new_price": "11.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/midori-portable-multi-scissors"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Monoware Dinner Plate",
-      "percentage": 10.7,
-      "old_price": "14.00",
-      "new_price": "12.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/monoware-ian-mcintyre-dinner-plate"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Monoware Grain Bowl",
-      "percentage": 10.7,
-      "old_price": "14.00",
-      "new_price": "12.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/monoware-ian-mcintyre-grain-bowl"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Velvet Cushion Cover - Burnt Orange",
-      "percentage": 10.7,
-      "old_price": "5.60",
-      "new_price": "5.00",
-      "timestamp": "2026-01-20T23:42:27.515265",
-      "url": "https://dusk.com/products/velvet-cushion-cover-burnt-orange"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Baby Stripe Long Sleeve Top & Ribbed Leggings Set, Natural",
-      "percentage": 7.7,
-      "old_price": "6.50",
-      "new_price": "6.00",
-      "timestamp": "2026-01-20T22:38:44.472042",
-      "url": "https://www.johnlewis.com/john-lewis-baby-stripe-long-sleeve-top-ribbed-leggings-set-natural/p114221546"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Bits Incense Holder | Trumpet",
-      "percentage": 7.7,
-      "old_price": "19.50",
-      "new_price": "18.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/studio-arhoj-bits-incense-holder-trumpet"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Bits Incense Holder | Portobello",
-      "percentage": 7.7,
-      "old_price": "19.50",
-      "new_price": "18.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/studio-arhoj-bits-incense-holder-portobello"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Bits Incense Holder | Peak",
-      "percentage": 7.7,
-      "old_price": "19.50",
-      "new_price": "18.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/studio-arhoj-bits-incense-holder-peak"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Stoneware Candlestick",
-      "percentage": 7.1,
-      "old_price": "28.00",
-      "new_price": "26.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/pat-oleary-stoneware-candlestick"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Stoneware Tealight Holder",
-      "percentage": 6.1,
-      "old_price": "24.50",
-      "new_price": "23.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/pat-oleary-tealight-holder"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Stoneware Garlic Pot",
-      "percentage": 6.0,
-      "old_price": "41.50",
-      "new_price": "39.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/pat-oleary-stoneware-garlic-pot"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Stoneware Bird Feeder",
-      "percentage": 6.0,
-      "old_price": "58.50",
-      "new_price": "55.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/pat-oleary-stoneware-bird-feeder"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Stoneware Pourer",
-      "percentage": 5.8,
-      "old_price": "26.00",
-      "new_price": "24.50",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/pat-oleary-stoneware-pourer"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "UPPAbaby Minu V2 Stroller Bundle - Jake",
-      "percentage": 5.4,
-      "old_price": "295.00",
-      "new_price": "279.00",
-      "timestamp": "2026-01-20T21:58:13.683154",
-      "url": "https://ukbabycentre.com/products/uppababy-minu-v2-stroller-bundle-jake"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Pillar Candle Holder",
-      "percentage": 5.3,
-      "old_price": "38.00",
-      "new_price": "36.00",
-      "timestamp": "2026-01-20T23:42:28.789689",
-      "url": "https://www.twentytwentyone.com/products/pat-oleary-pillar-candle-holder"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "Bugaboo Fox 5 Essential Bundle, Noir Limited Edition - Midnight Green",
-      "percentage": 5.1,
-      "old_price": "999.99",
-      "new_price": "949.00",
-      "timestamp": "2026-01-20T21:58:13.683154",
-      "url": "https://ukbabycentre.com/products/bugaboo-fox-5-essential-bundle-noir-limited-edition-midnight-green"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LEGO Wicked Elphaba & Glinda Figures Building Toy Set 75682",
-      "percentage": 0.0,
-      "old_price": "50.00",
-      "new_price": "49.99",
-      "timestamp": "2026-01-20T22:38:44.472042",
-      "url": "https://www.johnlewis.com/lego-wicked-elphaba-glinda-figures-building-toy-set-75682/p112252774"
+      "site": "hauslondon_com",
+      "product": "Settle Lounge Chair by Muuto",
+      "percentage": 15.0,
+      "old_price": "1895.00",
+      "new_price": "1610.00",
+      "timestamp": "2026-01-20T23:47:35.590764",
+      "url": "https://hauslondon.com/products/settle-lounge-chair-by-muuto"
     }
   ]
 }

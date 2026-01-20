@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T07:11:40.774697",
-  "total_drops": 459,
+  "generated_at": "2026-01-20T07:16:47.882999",
+  "total_drops": 460,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "currys_com",
-      "count": 1,
+      "count": 2,
       "max_drop": 14.9,
-      "total_savings": 70.0
+      "total_savings": 140.0
     },
     {
       "site": "dusk_com",

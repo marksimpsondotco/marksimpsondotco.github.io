@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-01-20T22:26:58.433254",
-  "total_drops": 16,
-  "top_drops_shown": 16,
+  "generated_at": "2026-01-20T22:32:00.956299",
+  "total_drops": 18,
+  "top_drops_shown": 18,
   "site_stats": [
+    {
+      "site": "flannels_com",
+      "count": 1,
+      "max_drop": 34.3,
+      "total_savings": 12.0
+    },
     {
       "site": "fenwick_co_uk",
       "count": 2,
@@ -29,9 +35,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 1,
+      "count": 2,
       "max_drop": 7.7,
-      "total_savings": 0.5
+      "total_savings": 0.51
     },
     {
       "site": "ukbabycentre_com",
@@ -42,12 +48,21 @@
   ],
   "drops": [
     {
+      "site": "flannels_com",
+      "product": "True Decadence - Women's Maxi Dress",
+      "percentage": 34.3,
+      "old_price": "35.00",
+      "new_price": "23.00",
+      "timestamp": "2026-01-20T22:31:53.409663",
+      "url": "https://www.flannels.com/true-decadence-womens-maxi-dress-655173"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Carlow Duvet Cover",
       "percentage": 29.0,
       "old_price": "137.40",
       "new_price": "97.50",
-      "timestamp": "2026-01-20T22:26:44.376783",
+      "timestamp": "2026-01-20T22:31:44.393703",
       "url": "https://fenwick.co.uk/products/other-multicoloured-carlow-duvet-cover-hbcarldcmulticoloured"
     },
     {
@@ -74,7 +89,7 @@
       "percentage": 20.3,
       "old_price": "13800.00",
       "new_price": "11000.00",
-      "timestamp": "2026-01-20T22:26:33.526237",
+      "timestamp": "2026-01-20T22:31:49.992524",
       "url": "https://rehaus.co.uk/products/2576939376"
     },
     {
@@ -83,7 +98,7 @@
       "percentage": 18.8,
       "old_price": "17250.00",
       "new_price": "14000.00",
-      "timestamp": "2026-01-20T22:26:33.526237",
+      "timestamp": "2026-01-20T22:31:49.992524",
       "url": "https://rehaus.co.uk/products/2576934955"
     },
     {
@@ -128,7 +143,7 @@
       "percentage": 13.0,
       "old_price": "2300.00",
       "new_price": "2000.00",
-      "timestamp": "2026-01-20T22:26:33.526237",
+      "timestamp": "2026-01-20T22:31:49.992524",
       "url": "https://rehaus.co.uk/products/2573384601"
     },
     {
@@ -155,7 +170,7 @@
       "percentage": 10.7,
       "old_price": "5.60",
       "new_price": "5.00",
-      "timestamp": "2026-01-20T22:26:43.625486",
+      "timestamp": "2026-01-20T22:31:54.190047",
       "url": "https://dusk.com/products/velvet-cushion-cover-burnt-orange"
     },
     {
@@ -164,7 +179,7 @@
       "percentage": 7.7,
       "old_price": "6.50",
       "new_price": "6.00",
-      "timestamp": "2026-01-20T22:26:57.114182",
+      "timestamp": "2026-01-20T22:31:57.165176",
       "url": "https://www.johnlewis.com/john-lewis-baby-stripe-long-sleeve-top-ribbed-leggings-set-natural/p114221546"
     },
     {
@@ -184,6 +199,15 @@
       "new_price": "949.00",
       "timestamp": "2026-01-20T21:58:13.683154",
       "url": "https://ukbabycentre.com/products/bugaboo-fox-5-essential-bundle-noir-limited-edition-midnight-green"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "LEGO Wicked Elphaba & Glinda Figures Building Toy Set 75682",
+      "percentage": 0.0,
+      "old_price": "50.00",
+      "new_price": "49.99",
+      "timestamp": "2026-01-20T22:31:57.165176",
+      "url": "https://www.johnlewis.com/lego-wicked-elphaba-glinda-figures-building-toy-set-75682/p112252774"
     }
   ]
 }

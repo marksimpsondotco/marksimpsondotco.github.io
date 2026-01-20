@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-01-20T12:18:46.531403",
-  "total_drops": 1031,
+  "generated_at": "2026-01-20T12:24:01.628183",
+  "total_drops": 1032,
   "top_drops_shown": 100,
   "site_stats": [
+    {
+      "site": "fenwick_co_uk",
+      "count": 261,
+      "max_drop": 100.0,
+      "total_savings": 19051.43
+    },
     {
       "site": "johnlewis_com",
       "count": 341,
@@ -14,12 +20,6 @@
       "count": 1,
       "max_drop": 66.4,
       "total_savings": 25.55
-    },
-    {
-      "site": "fenwick_co_uk",
-      "count": 260,
-      "max_drop": 60.6,
-      "total_savings": 19042.43
     },
     {
       "site": "currys_com",
@@ -143,6 +143,15 @@
     }
   ],
   "drops": [
+    {
+      "site": "fenwick_co_uk",
+      "product": "WA125 Drip Free Pourer",
+      "percentage": 100.0,
+      "old_price": "9.00",
+      "new_price": "0.00",
+      "timestamp": "2026-01-20T12:23:36.799674",
+      "url": "https://fenwick.co.uk/products/le-creuset-wa125-drip-free-pourer-black"
+    },
     {
       "site": "johnlewis_com",
       "product": "FALKE Soft Merino Wool Blend Socks",
@@ -302,7 +311,7 @@
       "percentage": 56.5,
       "old_price": "1380.00",
       "new_price": "600.00",
-      "timestamp": "2026-01-20T12:18:35.827039",
+      "timestamp": "2026-01-20T12:23:29.205404",
       "url": "https://rehaus.co.uk/products/2577190538"
     },
     {
@@ -311,7 +320,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T12:18:30.738124",
+      "timestamp": "2026-01-20T12:23:36.799674",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -671,7 +680,7 @@
       "percentage": 49.5,
       "old_price": "99.00",
       "new_price": "49.95",
-      "timestamp": "2026-01-20T12:18:33.118078",
+      "timestamp": "2026-01-20T12:23:29.310681",
       "url": "https://ukbabycentre.com/products/junior-jones-changing-backpack-black"
     },
     {
@@ -725,7 +734,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T12:18:30.738124",
+      "timestamp": "2026-01-20T12:23:36.799674",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -734,7 +743,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T12:18:30.738124",
+      "timestamp": "2026-01-20T12:23:36.799674",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -842,7 +851,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T12:18:30.738124",
+      "timestamp": "2026-01-20T12:23:36.799674",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -932,7 +941,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T12:18:30.738124",
+      "timestamp": "2026-01-20T12:23:36.799674",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -1033,15 +1042,6 @@
       "new_price": "44.70",
       "timestamp": "2026-01-20T09:24:45.793037",
       "url": "https://www.johnlewis.com/john-lewis-taia-suede-stretch-over-the-knee-boots-black/p114074867"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Anonymous Copenhagen Patricia Leather Calf Boots, Brown",
-      "percentage": 40.0,
-      "old_price": "135.00",
-      "new_price": "81.00",
-      "timestamp": "2026-01-20T09:24:45.793037",
-      "url": "https://www.johnlewis.com/anonymous-copenhagen-patricia-leather-calf-boots-brown/p114033307"
     }
   ]
 }

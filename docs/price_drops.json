@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T13:27:05.428614",
-  "total_drops": 1046,
+  "generated_at": "2026-01-20T13:32:18.086619",
+  "total_drops": 1052,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "ukbabycentre_com",
-      "count": 21,
+      "count": 22,
       "max_drop": 49.5,
-      "total_savings": 266.63
+      "total_savings": 276.63
     },
     {
       "site": "hollandcooper_com",
@@ -59,9 +59,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 30,
+      "count": 31,
       "max_drop": 40.0,
-      "total_savings": 1244.5
+      "total_savings": 1260.5
     },
     {
       "site": "boden_com",
@@ -112,6 +112,12 @@
       "total_savings": 64.6
     },
     {
+      "site": "mamasandpapas_com",
+      "count": 5,
+      "max_drop": 12.0,
+      "total_savings": 233.34
+    },
+    {
       "site": "solarscooters_co_uk",
       "count": 2,
       "max_drop": 10.0,
@@ -122,12 +128,6 @@
       "count": 11,
       "max_drop": 9.1,
       "total_savings": 33.0
-    },
-    {
-      "site": "mamasandpapas_com",
-      "count": 1,
-      "max_drop": 6.3,
-      "total_savings": 6.5
     },
     {
       "site": "hauslondon_com",
@@ -149,7 +149,7 @@
       "percentage": 100.0,
       "old_price": "9.00",
       "new_price": "0.00",
-      "timestamp": "2026-01-20T13:26:31.029725",
+      "timestamp": "2026-01-20T13:32:04.948527",
       "url": "https://fenwick.co.uk/products/le-creuset-wa125-drip-free-pourer-black"
     },
     {
@@ -320,7 +320,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T13:26:31.029725",
+      "timestamp": "2026-01-20T13:32:04.948527",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -680,7 +680,7 @@
       "percentage": 49.5,
       "old_price": "99.00",
       "new_price": "49.95",
-      "timestamp": "2026-01-20T13:26:26.710055",
+      "timestamp": "2026-01-20T13:31:50.823619",
       "url": "https://ukbabycentre.com/products/junior-jones-changing-backpack-black"
     },
     {
@@ -734,7 +734,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T13:26:31.029725",
+      "timestamp": "2026-01-20T13:32:04.948527",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -743,7 +743,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T13:26:31.029725",
+      "timestamp": "2026-01-20T13:32:04.948527",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -851,7 +851,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T13:26:31.029725",
+      "timestamp": "2026-01-20T13:32:04.948527",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -941,7 +941,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T13:26:31.029725",
+      "timestamp": "2026-01-20T13:32:04.948527",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {

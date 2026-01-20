@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-20T17:24:27.632373",
-  "total_drops": 1106,
+  "generated_at": "2026-01-20T17:29:40.880171",
+  "total_drops": 1107,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
-      "count": 262,
+      "count": 263,
       "max_drop": 100.0,
-      "total_savings": 19131.43
+      "total_savings": 19142.43
     },
     {
       "site": "leaderonline_com",
@@ -167,7 +167,7 @@
       "percentage": 100.0,
       "old_price": "9.00",
       "new_price": "0.00",
-      "timestamp": "2026-01-20T17:24:15.047323",
+      "timestamp": "2026-01-20T17:29:16.680419",
       "url": "https://fenwick.co.uk/products/le-creuset-wa125-drip-free-pourer-black"
     },
     {
@@ -356,7 +356,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T17:24:15.047323",
+      "timestamp": "2026-01-20T17:29:16.680419",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -464,7 +464,7 @@
       "percentage": 50.3,
       "old_price": "159.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-20T17:24:15.047323",
+      "timestamp": "2026-01-20T17:29:16.680419",
       "url": "https://fenwick.co.uk/products/dune-london-black-ollave-9-1510780002e13"
     },
     {
@@ -640,6 +640,15 @@
     },
     {
       "site": "fenwick_co_uk",
+      "product": "Kids’ Cotton T-Shirt Blue",
+      "percentage": 50.0,
+      "old_price": "22.00",
+      "new_price": "11.00",
+      "timestamp": "2026-01-20T17:29:16.680419",
+      "url": "https://fenwick.co.uk/products/lylescott-plain-t-shirt-navy-tsb2000v"
+    },
+    {
+      "site": "fenwick_co_uk",
       "product": "Serene Robe Spa-Inspired Comfort Collection",
       "percentage": 50.0,
       "old_price": "49.00",
@@ -779,7 +788,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T17:24:15.047323",
+      "timestamp": "2026-01-20T17:29:16.680419",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -788,7 +797,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T17:24:15.047323",
+      "timestamp": "2026-01-20T17:29:16.680419",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -905,7 +914,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T17:24:15.047323",
+      "timestamp": "2026-01-20T17:29:16.680419",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -941,7 +950,7 @@
       "percentage": 41.4,
       "old_price": "413.00",
       "new_price": "242.00",
-      "timestamp": "2026-01-20T17:24:13.576501",
+      "timestamp": "2026-01-20T17:29:25.993524",
       "url": "https://dusk.com/products/hebden-ottoman-storage-bed-light-taupe"
     },
     {
@@ -1004,7 +1013,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T17:24:15.047323",
+      "timestamp": "2026-01-20T17:29:16.680419",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -1051,15 +1060,6 @@
       "new_price": "89.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-grey-ava-round-neck-knitted-dress-38932"
-    },
-    {
-      "site": "hollandcooper_com",
-      "product": "Oversized Cotton Lace Shirt (Tick Stripe Sky Blue)",
-      "percentage": 40.3,
-      "old_price": "149.00",
-      "new_price": "89.00",
-      "timestamp": "2026-01-20T03:40:54.981699",
-      "url": "https://www.hollandcooper.com/products/oversized-cotton-lace-shirt-tick-stripe-sky-blue"
     }
   ]
 }

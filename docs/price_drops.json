@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T17:34:54.195885",
-  "total_drops": 1109,
+  "generated_at": "2026-01-20T17:40:07.392889",
+  "total_drops": 1113,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -58,6 +58,12 @@
       "total_savings": 405.63
     },
     {
+      "site": "pigletinbed_com",
+      "count": 6,
+      "max_drop": 42.4,
+      "total_savings": 155.0
+    },
+    {
       "site": "dusk_com",
       "count": 23,
       "max_drop": 41.4,
@@ -92,12 +98,6 @@
       "count": 11,
       "max_drop": 33.3,
       "total_savings": 330.98
-    },
-    {
-      "site": "pigletinbed_com",
-      "count": 2,
-      "max_drop": 28.8,
-      "total_savings": 75.0
     },
     {
       "site": "mansurgavriel_com",
@@ -173,7 +173,7 @@
       "percentage": 100.0,
       "old_price": "9.00",
       "new_price": "0.00",
-      "timestamp": "2026-01-20T17:34:37.882903",
+      "timestamp": "2026-01-20T17:39:56.018390",
       "url": "https://fenwick.co.uk/products/le-creuset-wa125-drip-free-pourer-black"
     },
     {
@@ -362,7 +362,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T17:34:37.882903",
+      "timestamp": "2026-01-20T17:39:56.018390",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -470,7 +470,7 @@
       "percentage": 50.3,
       "old_price": "159.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-20T17:34:37.882903",
+      "timestamp": "2026-01-20T17:39:56.018390",
       "url": "https://fenwick.co.uk/products/dune-london-black-ollave-9-1510780002e13"
     },
     {
@@ -650,7 +650,7 @@
       "percentage": 50.0,
       "old_price": "22.00",
       "new_price": "11.00",
-      "timestamp": "2026-01-20T17:34:37.882903",
+      "timestamp": "2026-01-20T17:39:56.018390",
       "url": "https://fenwick.co.uk/products/lylescott-plain-t-shirt-navy-tsb2000v"
     },
     {
@@ -794,7 +794,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T17:34:37.882903",
+      "timestamp": "2026-01-20T17:39:56.018390",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -803,7 +803,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T17:34:37.882903",
+      "timestamp": "2026-01-20T17:39:56.018390",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -920,7 +920,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T17:34:37.882903",
+      "timestamp": "2026-01-20T17:39:56.018390",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -942,6 +942,15 @@
       "url": "https://www.johnlewis.com/calvin-klein-cotton-melange-regular-fit-overshirt/p114463592"
     },
     {
+      "site": "pigletinbed_com",
+      "product": "Rhubarb & Rose Pembroke Stripe 100% Linen Pillowcases (Pair)",
+      "percentage": 42.4,
+      "old_price": "59.00",
+      "new_price": "34.00",
+      "timestamp": "2026-01-20T17:39:32.216617",
+      "url": "https://www.pigletinbed.com/products/rhubarb-rose-pembroke-stripe-100-linen-pillowcases-pair"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Joules Kids' Crofton Colour Block Gilet, Multi",
       "percentage": 41.4,
@@ -956,7 +965,7 @@
       "percentage": 41.4,
       "old_price": "413.00",
       "new_price": "242.00",
-      "timestamp": "2026-01-20T17:34:51.307746",
+      "timestamp": "2026-01-20T17:39:56.400807",
       "url": "https://dusk.com/products/hebden-ottoman-storage-bed-light-taupe"
     },
     {
@@ -1019,7 +1028,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T17:34:37.882903",
+      "timestamp": "2026-01-20T17:39:56.018390",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -1057,15 +1066,6 @@
       "new_price": "65.00",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/whistles-multi-floral-dobby-blouse-40466"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Ava Round Neck Knitted Dress",
-      "percentage": 40.3,
-      "old_price": "149.00",
-      "new_price": "89.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-grey-ava-round-neck-knitted-dress-38932"
     }
   ]
 }

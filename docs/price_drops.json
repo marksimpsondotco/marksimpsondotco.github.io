@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:42:03.351695",
-  "total_drops": 1018,
+  "generated_at": "2026-01-20T11:47:16.156528",
+  "total_drops": 1019,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -89,9 +89,9 @@
     },
     {
       "site": "pureelectric_com",
-      "count": 3,
+      "count": 4,
       "max_drop": 20.1,
-      "total_savings": 120.0
+      "total_savings": 140.0
     },
     {
       "site": "dusk_com",
@@ -161,7 +161,7 @@
       "percentage": 72.8,
       "old_price": "65.00",
       "new_price": "17.70",
-      "timestamp": "2026-01-20T11:41:53.793168",
+      "timestamp": "2026-01-20T11:42:54.289179",
       "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
     },
     {
@@ -170,7 +170,7 @@
       "percentage": 72.2,
       "old_price": "18.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-20T11:41:53.793168",
+      "timestamp": "2026-01-20T11:42:54.289179",
       "url": "https://www.johnlewis.com/john-lewis-helenca-lace-bikini-knickers-pack-of-3/p111801639"
     },
     {
@@ -215,7 +215,7 @@
       "percentage": 68.9,
       "old_price": "45.00",
       "new_price": "14.00",
-      "timestamp": "2026-01-20T11:41:53.793168",
+      "timestamp": "2026-01-20T11:42:54.289179",
       "url": "https://www.johnlewis.com/sweaty-betty-athlete-seamless-t-shirt/p114030189"
     },
     {
@@ -296,7 +296,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T11:41:44.393616",
+      "timestamp": "2026-01-20T11:47:02.112381",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -413,7 +413,7 @@
       "percentage": 50.1,
       "old_price": "89.50",
       "new_price": "44.70",
-      "timestamp": "2026-01-20T11:41:53.793168",
+      "timestamp": "2026-01-20T11:42:54.289179",
       "url": "https://www.johnlewis.com/john-lewis-woven-leather-tote-bag/p113892391"
     },
     {
@@ -431,7 +431,7 @@
       "percentage": 50.0,
       "old_price": "165.00",
       "new_price": "82.50",
-      "timestamp": "2026-01-20T11:41:53.793168",
+      "timestamp": "2026-01-20T11:42:54.289179",
       "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
     },
     {
@@ -440,7 +440,7 @@
       "percentage": 50.0,
       "old_price": "60.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-20T11:41:53.793168",
+      "timestamp": "2026-01-20T11:42:54.289179",
       "url": "https://www.johnlewis.com/under-armour-essential-fleece-hoodie/p110654158"
     },
     {
@@ -674,7 +674,7 @@
       "percentage": 49.0,
       "old_price": "259.00",
       "new_price": "132.09",
-      "timestamp": "2026-01-20T11:41:53.793168",
+      "timestamp": "2026-01-20T11:42:54.289179",
       "url": "https://www.johnlewis.com/radley-dukes-place-leather-grab-bag/p113917130"
     },
     {
@@ -701,7 +701,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T11:41:44.393616",
+      "timestamp": "2026-01-20T11:47:02.112381",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -710,7 +710,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T11:41:44.393616",
+      "timestamp": "2026-01-20T11:47:02.112381",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -818,7 +818,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T11:41:44.393616",
+      "timestamp": "2026-01-20T11:47:02.112381",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -908,7 +908,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T11:41:44.393616",
+      "timestamp": "2026-01-20T11:47:02.112381",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {

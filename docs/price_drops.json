@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T08:50:03.338446",
-  "total_drops": 753,
+  "generated_at": "2026-01-20T08:55:15.771624",
+  "total_drops": 761,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 235,
+      "count": 241,
       "max_drop": 51.2,
-      "total_savings": 4771.15
+      "total_savings": 4995.95
     },
     {
       "site": "hollandcooper_com",
@@ -29,9 +29,9 @@
     },
     {
       "site": "boden_com",
-      "count": 5,
+      "count": 7,
       "max_drop": 40.0,
-      "total_savings": 102.0
+      "total_savings": 122.7
     },
     {
       "site": "flannels_com",
@@ -296,7 +296,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T08:49:54.485712",
+      "timestamp": "2026-01-20T08:54:59.717442",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -458,7 +458,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T08:49:54.485712",
+      "timestamp": "2026-01-20T08:54:59.717442",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -550,6 +550,24 @@
       "new_price": "16.80",
       "timestamp": "2026-01-20T07:07:54.375288",
       "url": "https://www.johnlewis.com/polarn-o-pyret-kids-wool-long-sleeve-unisex-sweater/p113960797"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Taia Suede Stretch Over The Knee Boots, Black",
+      "percentage": 40.0,
+      "old_price": "74.50",
+      "new_price": "44.70",
+      "timestamp": "2026-01-20T08:55:07.047077",
+      "url": "https://www.johnlewis.com/john-lewis-taia-suede-stretch-over-the-knee-boots-black/p114074867"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Anonymous Copenhagen Patricia Leather Calf Boots, Brown",
+      "percentage": 40.0,
+      "old_price": "135.00",
+      "new_price": "81.00",
+      "timestamp": "2026-01-20T08:55:07.047077",
+      "url": "https://www.johnlewis.com/anonymous-copenhagen-patricia-leather-calf-boots-brown/p114033307"
     },
     {
       "site": "johnlewis_com",
@@ -712,6 +730,15 @@
       "new_price": "175.00",
       "timestamp": "2026-01-20T00:28:18.179517",
       "url": "https://www.johnlewis.com/therabody-theragun-sense/p111769755"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Russell & Bromley Nordic Lace Suede Trainers, Black",
+      "percentage": 35.9,
+      "old_price": "195.00",
+      "new_price": "125.00",
+      "timestamp": "2026-01-20T08:55:07.047077",
+      "url": "https://www.johnlewis.com/russell-bromley-nordic-lace-suede-trainers-black/p114577904"
     },
     {
       "site": "fenwick_co_uk",
@@ -955,33 +982,6 @@
       "new_price": "333.20",
       "timestamp": "2026-01-20T06:40:52.516544",
       "url": "https://fenwick.co.uk/products/bramblecrest-base-only-for-adjustable-rectangle-dining-table-sandstone-rmmt9cjsba"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Casual dining bench- Sandstone",
-      "percentage": 33.3,
-      "old_price": "499.83",
-      "new_price": "333.16",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/bramblecrest-casual-dining-bench-sandstone-rmms14s"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "HUSH Gracey V-Neck Jumper",
-      "percentage": 32.5,
-      "old_price": "63.00",
-      "new_price": "42.50",
-      "timestamp": "2026-01-20T07:55:45.721418",
-      "url": "https://www.johnlewis.com/hush-gracey-v-neck-jumper/p114402549"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Ralph Lauren Kids' Cotton Long Sleeved Rugby Shirt, Red/Blue",
-      "percentage": 32.0,
-      "old_price": "72.80",
-      "new_price": "49.50",
-      "timestamp": "2026-01-20T07:55:45.721418",
-      "url": "https://www.johnlewis.com/ralph-lauren-kids-cotton-long-sleeved-rugby-shirt-red-blue/p113626559"
     }
   ]
 }

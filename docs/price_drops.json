@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-20T09:52:17.506617",
-  "total_drops": 891,
+  "generated_at": "2026-01-20T09:57:28.662079",
+  "total_drops": 909,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 268,
+      "count": 285,
       "max_drop": 70.0,
-      "total_savings": 5550.61
+      "total_savings": 5667.43
     },
     {
       "site": "fenwick_co_uk",
@@ -41,9 +41,9 @@
     },
     {
       "site": "boden_com",
-      "count": 11,
+      "count": 12,
       "max_drop": 40.0,
-      "total_savings": 136.2
+      "total_savings": 138.3
     },
     {
       "site": "saltrock_com",
@@ -107,7 +107,7 @@
       "percentage": 70.0,
       "old_price": "55.00",
       "new_price": "16.50",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/john-lewis-essential-straight-cut-chinos/p5167664"
     },
     {
@@ -116,7 +116,7 @@
       "percentage": 70.0,
       "old_price": "12.00",
       "new_price": "3.60",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-egyptian-cotton-percale-200-thread-count-bedding/p5417600"
     },
     {
@@ -125,7 +125,7 @@
       "percentage": 66.0,
       "old_price": "25.00",
       "new_price": "8.50",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/john-lewis-scalloped-linen-cushion/p110963470"
     },
     {
@@ -134,7 +134,7 @@
       "percentage": 64.3,
       "old_price": "42.00",
       "new_price": "14.99",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/crocs-classic-clogs/p111547583"
     },
     {
@@ -179,7 +179,7 @@
       "percentage": 56.2,
       "old_price": "89.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T09:52:05.289131",
+      "timestamp": "2026-01-20T09:57:22.426904",
       "url": "https://fenwick.co.uk/products/black-swift-jewel-runner-4120700609"
     },
     {
@@ -278,7 +278,7 @@
       "percentage": 50.0,
       "old_price": "43.00",
       "new_price": "21.50",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/le-creuset-classic-pepper-mill/p5067050"
     },
     {
@@ -287,7 +287,7 @@
       "percentage": 50.0,
       "old_price": "96.00",
       "new_price": "48.00",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/lacoste-core-essential-sweater-vest-lland-clthea-yellow/p112888512"
     },
     {
@@ -296,7 +296,7 @@
       "percentage": 50.0,
       "old_price": "19.00",
       "new_price": "9.50",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/john-lewis-supima-cotton-regular-fit-crew-neck-t-shirt/p6030384"
     },
     {
@@ -305,7 +305,7 @@
       "percentage": 50.0,
       "old_price": "15.00",
       "new_price": "7.50",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/john-lewis-ambleside-stripe-towels/p113373922"
     },
     {
@@ -314,7 +314,7 @@
       "percentage": 50.0,
       "old_price": "110.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/john-lewis-2-section-recycling-bin-with-handles-60l/p5971630"
     },
     {
@@ -323,7 +323,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/john-lewis-fringed-velvet-cushion/p112452017"
     },
     {
@@ -422,8 +422,17 @@
       "percentage": 48.1,
       "old_price": "159.00",
       "new_price": "82.50",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/le-creuset-cast-iron-signature-square-grillit-26cm/p3911266"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Le Creuset Traditional Stovetop Whistling Kettle, 2.1L",
+      "percentage": 47.5,
+      "old_price": "119.00",
+      "new_price": "62.50",
+      "timestamp": "2026-01-20T09:57:20.425518",
+      "url": "https://www.johnlewis.com/le-creuset-traditional-stovetop-whistling-kettle-2-1l/p4851674"
     },
     {
       "site": "fenwick_co_uk",
@@ -431,7 +440,7 @@
       "percentage": 47.3,
       "old_price": "169.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-20T09:52:05.289131",
+      "timestamp": "2026-01-20T09:57:22.426904",
       "url": "https://fenwick.co.uk/products/black-headline-3812400109"
     },
     {
@@ -440,7 +449,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-20T09:52:05.289131",
+      "timestamp": "2026-01-20T09:57:22.426904",
       "url": "https://fenwick.co.uk/products/black-paparazzi-8874300979"
     },
     {
@@ -548,7 +557,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-20T09:52:05.289131",
+      "timestamp": "2026-01-20T09:57:22.426904",
       "url": "https://fenwick.co.uk/products/black-kross-1199700609"
     },
     {
@@ -602,7 +611,7 @@
       "percentage": 40.9,
       "old_price": "55.00",
       "new_price": "32.50",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/john-lewis-tansy-duvet-cover-set/p112440888"
     },
     {
@@ -620,7 +629,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-20T09:52:05.289131",
+      "timestamp": "2026-01-20T09:57:22.426904",
       "url": "https://fenwick.co.uk/products/black-boulder-heeeled-ankle-3809700979"
     },
     {
@@ -773,7 +782,7 @@
       "percentage": 40.0,
       "old_price": "32.50",
       "new_price": "19.50",
-      "timestamp": "2026-01-20T09:52:11.097580",
+      "timestamp": "2026-01-20T09:57:20.425518",
       "url": "https://www.johnlewis.com/selected-wool-blend-knitted-vest-coffee-bean/p113981458"
     },
     {
@@ -782,7 +791,7 @@
       "percentage": 40.0,
       "old_price": "55.00",
       "new_price": "33.00",
-      "timestamp": "2026-01-20T09:52:05.856797",
+      "timestamp": "2026-01-20T09:57:22.063939",
       "url": "https://www.flannels.com/kenzo-kids-closed-hem-jersey-joggers-480118"
     },
     {
@@ -948,12 +957,30 @@
       "url": "https://www.johnlewis.com/reiss-kids-prescott-jacket/p114290378"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Reiss Kids' Dahlia Dress, Navy",
+      "percentage": 35.7,
+      "old_price": "28.00",
+      "new_price": "18.00",
+      "timestamp": "2026-01-20T09:57:20.425518",
+      "url": "https://www.johnlewis.com/reiss-kids-dahlia-dress-navy/p114403857"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Reiss Kids' Celia Metallic Jacquard Shift Dress, Silver",
+      "percentage": 35.7,
+      "old_price": "28.00",
+      "new_price": "18.00",
+      "timestamp": "2026-01-20T09:57:20.425518",
+      "url": "https://www.johnlewis.com/reiss-kids-celia-metallic-jacquard-shift-dress-silver/p114492637"
+    },
+    {
       "site": "flannels_com",
       "product": "OFF WHITE - Kids Closed Hem Fleece Jogging Bottoms",
       "percentage": 35.3,
       "old_price": "68.00",
       "new_price": "44.00",
-      "timestamp": "2026-01-20T09:52:05.856797",
+      "timestamp": "2026-01-20T09:57:22.063939",
       "url": "https://www.flannels.com/off-white-kids-closed-hem-fleece-jogging-bottoms-322347"
     },
     {
@@ -967,39 +994,12 @@
     },
     {
       "site": "johnlewis_com",
-      "product": "Mini Boden Kids' Cotton Snug Long John Pyjama Set",
-      "percentage": 35.0,
-      "old_price": "23.00",
-      "new_price": "14.95",
-      "timestamp": "2026-01-20T07:55:45.721418",
-      "url": "https://www.johnlewis.com/mini-boden-kids-cotton-snug-long-john-pyjama-set/p114418418"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Zebra Button Through Shirt",
-      "percentage": 34.8,
-      "old_price": "69.00",
-      "new_price": "45.00",
-      "timestamp": "2026-01-20T06:40:52.516544",
-      "url": "https://fenwick.co.uk/products/whistles-blue-zebra-button-through-shirt-40223"
-    },
-    {
-      "site": "currys_com",
-      "product": "LOGIK LMWL3B23 Wireless Blue Trace Mouse",
-      "percentage": 34.8,
-      "old_price": "22.97",
-      "new_price": "14.97",
-      "timestamp": "2026-01-20T08:45:02.859142",
-      "url": "https://www.currys.co.uk/products/10235192.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "BRAUN Series 8 8603s Electric Shaver - Grey",
-      "percentage": 34.8,
-      "old_price": "22.97",
-      "new_price": "14.97",
-      "timestamp": "2026-01-20T08:45:02.859142",
-      "url": "https://www.currys.co.uk/products/10286559.html"
+      "product": "Molo Kids' Cyrilli Velour Long Sleeved Dress, Mystic Blue",
+      "percentage": 35.2,
+      "old_price": "50.17",
+      "new_price": "32.50",
+      "timestamp": "2026-01-20T09:57:20.425518",
+      "url": "https://www.johnlewis.com/molo-kids-cyrilli-velour-long-sleeved-dress-mystic-blue/p113802348"
     }
   ]
 }

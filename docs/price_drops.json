@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-20T20:05:42.276156",
-  "total_drops": 2,
-  "top_drops_shown": 2,
+  "generated_at": "2026-01-20T20:10:44.021310",
+  "total_drops": 3,
+  "top_drops_shown": 3,
   "site_stats": [
     {
       "site": "boden_com",
-      "count": 1,
+      "count": 2,
       "max_drop": 25.0,
-      "total_savings": 71.8
+      "total_savings": 74.8
     },
     {
       "site": "fenwick_co_uk",
@@ -23,7 +23,7 @@
       "percentage": 25.0,
       "old_price": "287.20",
       "new_price": "215.40",
-      "timestamp": "2026-01-20T20:05:07.092656",
+      "timestamp": "2026-01-20T20:10:23.532295",
       "url": "https://www.boden.com/products/women-suede-jacket-dark-chocolate-u0358brn"
     },
     {
@@ -34,6 +34,15 @@
       "new_price": "20.00",
       "timestamp": "2026-01-20T20:04:53.187002",
       "url": "https://fenwick.co.uk/products/lsa-collective-starter-pasta-bowl-x-2-white"
+    },
+    {
+      "site": "boden_com",
+      "product": "Slim Pull-On Trousers-Charcoal Cord",
+      "percentage": 15.6,
+      "old_price": "19.20",
+      "new_price": "16.20",
+      "timestamp": "2026-01-20T20:10:23.532295",
+      "url": "https://www.boden.com/products/boys-slim-pull-on-trousers-charcoal-cord-b2795gry"
     }
   ]
 }

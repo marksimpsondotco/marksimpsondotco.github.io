@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T11:13:12.521913",
-  "total_drops": 2716,
+  "generated_at": "2026-01-21T11:18:34.350891",
+  "total_drops": 2717,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "rehaus_co_uk",
-      "count": 7,
+      "count": 8,
       "max_drop": 40.6,
-      "total_savings": 24793.0
+      "total_savings": 25383.0
     },
     {
       "site": "apcstore_co_uk",
@@ -242,7 +242,7 @@
       "percentage": 53.6,
       "old_price": "27.99",
       "new_price": "12.99",
-      "timestamp": "2026-01-21T11:13:00.419699",
+      "timestamp": "2026-01-21T11:18:26.745661",
       "url": "https://www.currys.co.uk/products/10278908.html"
     },
     {
@@ -269,7 +269,7 @@
       "percentage": 50.2,
       "old_price": "215.00",
       "new_price": "107.00",
-      "timestamp": "2026-01-21T08:38:23.174348",
+      "timestamp": "2026-01-21T11:18:26.745661",
       "url": "https://www.currys.co.uk/products/10246800.html"
     },
     {
@@ -557,7 +557,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T11:13:00.419699",
+      "timestamp": "2026-01-21T11:18:26.745661",
       "url": "https://www.currys.co.uk/products/10194637.html"
     },
     {
@@ -566,7 +566,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T11:13:00.419699",
+      "timestamp": "2026-01-21T11:18:26.745661",
       "url": "https://www.currys.co.uk/products/10283952.html"
     },
     {
@@ -575,7 +575,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T11:13:00.419699",
+      "timestamp": "2026-01-21T11:18:26.745661",
       "url": "https://www.currys.co.uk/products/10283209.html"
     },
     {
@@ -998,7 +998,7 @@
       "percentage": 42.9,
       "old_price": "174.99",
       "new_price": "99.99",
-      "timestamp": "2026-01-21T11:13:00.419699",
+      "timestamp": "2026-01-21T11:18:26.745661",
       "url": "https://www.currys.co.uk/products/10261518.html"
     },
     {

@@ -1,13 +1,19 @@
 {
-  "generated_at": "2026-01-21T12:28:58.624452",
-  "total_drops": 2725,
+  "generated_at": "2026-01-21T12:34:21.261896",
+  "total_drops": 2727,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 214,
+      "count": 215,
       "max_drop": 67.4,
-      "total_savings": 5437.69
+      "total_savings": 5438.39
+    },
+    {
+      "site": "leaderonline_com",
+      "count": 7,
+      "max_drop": 66.7,
+      "total_savings": 60.0
     },
     {
       "site": "currys_com",
@@ -118,12 +124,6 @@
       "total_savings": 493.6
     },
     {
-      "site": "leaderonline_com",
-      "count": 6,
-      "max_drop": 11.7,
-      "total_savings": 58.0
-    },
-    {
       "site": "mamasandpapas_com",
       "count": 4,
       "max_drop": 10.0,
@@ -181,6 +181,15 @@
       "new_price": "29.00",
       "timestamp": "2026-01-21T08:23:09.193230",
       "url": "https://www.johnlewis.com/ro-zo-cotton-poplin-maxi-skirt-black/p113694745"
+    },
+    {
+      "site": "leaderonline_com",
+      "product": "2.4m White Painted Skirting Board (LEADT)",
+      "percentage": 66.7,
+      "old_price": "3.00",
+      "new_price": "1.00",
+      "timestamp": "2026-01-21T12:33:51.608607",
+      "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
       "site": "johnlewis_com",
@@ -1063,15 +1072,6 @@
       "new_price": "5.50",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/great-pretenders-the-elizabeth-5-piece-set-elizabeth-85012"
-    },
-    {
-      "site": "currys_com",
-      "product": "RENPHO Elis Chroma Smart Body Scale - Black",
-      "percentage": 42.0,
-      "old_price": "59.99",
-      "new_price": "34.79",
-      "timestamp": "2026-01-21T09:33:39.759843",
-      "url": "https://www.currys.co.uk/products/10275235.html"
     }
   ]
 }

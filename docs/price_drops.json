@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T10:46:03.686725",
-  "total_drops": 2664,
+  "generated_at": "2026-01-21T10:51:25.579742",
+  "total_drops": 2674,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "currys_com",
-      "count": 896,
+      "count": 906,
       "max_drop": 61.4,
-      "total_savings": 60581.78
+      "total_savings": 61050.86
     },
     {
       "site": "fenwick_co_uk",
@@ -229,6 +229,15 @@
       "new_price": "8.00",
       "timestamp": "2026-01-21T07:39:46.387484",
       "url": "https://www.johnlewis.com/reiss-kids-kayo-cotton-blend-embroidered-palm-shorts/p113795147"
+    },
+    {
+      "site": "currys_com",
+      "product": "APPLE 13\" iPad Air Cellular (2025) - 256 GB, Space Grey",
+      "percentage": 53.6,
+      "old_price": "27.99",
+      "new_price": "12.99",
+      "timestamp": "2026-01-21T10:51:20.151851",
+      "url": "https://www.currys.co.uk/products/10278908.html"
     },
     {
       "site": "currys_com",
@@ -542,7 +551,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T08:38:23.174348",
+      "timestamp": "2026-01-21T10:51:20.151851",
       "url": "https://www.currys.co.uk/products/10194637.html"
     },
     {
@@ -551,7 +560,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T08:38:23.174348",
+      "timestamp": "2026-01-21T10:51:20.151851",
       "url": "https://www.currys.co.uk/products/10283952.html"
     },
     {
@@ -1057,15 +1066,6 @@
       "new_price": "3.50",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-rainbowstar-double-alice-bright-multi-162045"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "The Audrey 5 piece Set",
-      "percentage": 41.7,
-      "old_price": "18.00",
-      "new_price": "10.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/great-pretenders-the-audrey-5-piece-set-audrey-85014"
     }
   ]
 }

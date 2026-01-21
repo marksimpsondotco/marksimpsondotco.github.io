@@ -1,24 +1,48 @@
 {
-  "generated_at": "2026-01-21T22:45:49.911934",
-  "total_drops": 1,
-  "top_drops_shown": 1,
+  "generated_at": "2026-01-21T22:50:56.268560",
+  "total_drops": 3,
+  "top_drops_shown": 3,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
+      "count": 2,
+      "max_drop": 55.0,
+      "total_savings": 83.0
+    },
+    {
+      "site": "flannels_com",
       "count": 1,
-      "max_drop": 50.5,
-      "total_savings": 50.0
+      "max_drop": 20.1,
+      "total_savings": 70.0
     }
   ],
   "drops": [
+    {
+      "site": "fenwick_co_uk",
+      "product": "Jolene Waistcoat",
+      "percentage": 55.0,
+      "old_price": "60.00",
+      "new_price": "27.00",
+      "timestamp": "2026-01-21T22:50:54.518510",
+      "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
+    },
     {
       "site": "fenwick_co_uk",
       "product": "KGL LIVIAH",
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-21T22:45:48.425127",
+      "timestamp": "2026-01-21T22:50:54.518510",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Hugo - Antegi 10272041 01",
+      "percentage": 20.1,
+      "old_price": "349.00",
+      "new_price": "279.00",
+      "timestamp": "2026-01-21T22:50:50.040377",
+      "url": "https://www.flannels.com/hugo-womens-antegi-red-blazer-558061"
     }
   ]
 }

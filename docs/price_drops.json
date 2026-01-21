@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T19:51:28.428913",
-  "total_drops": 2962,
+  "generated_at": "2026-01-21T19:56:52.147191",
+  "total_drops": 2963,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -143,9 +143,9 @@
     },
     {
       "site": "baby-nest_co_uk",
-      "count": 6,
+      "count": 7,
       "max_drop": 11.8,
-      "total_savings": 78.14
+      "total_savings": 80.64
     },
     {
       "site": "condorcycles_com",
@@ -503,7 +503,7 @@
       "percentage": 50.0,
       "old_price": "75.95",
       "new_price": "37.95",
-      "timestamp": "2026-01-21T19:51:09.946897",
+      "timestamp": "2026-01-21T19:56:32.724015",
       "url": "https://www.johnlewis.com/sisley-cotton-regular-fit-corduroy-shirt/p114708573"
     },
     {
@@ -782,7 +782,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T19:50:51.272509",
+      "timestamp": "2026-01-21T19:56:43.000225",
       "url": "https://fenwick.co.uk/products/libra-interiors-smoke-mandala-pattern-smoked-mirrored-box-705997"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T14:28:19.712130",
-  "total_drops": 2818,
+  "generated_at": "2026-01-21T14:33:43.513376",
+  "total_drops": 2828,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 255,
+      "count": 264,
       "max_drop": 72.8,
-      "total_savings": 6427.79
+      "total_savings": 6629.29
     },
     {
       "site": "leaderonline_com",
@@ -95,9 +95,9 @@
     },
     {
       "site": "boden_com",
-      "count": 36,
+      "count": 37,
       "max_drop": 25.0,
-      "total_savings": 405.55
+      "total_savings": 408.8
     },
     {
       "site": "uk_renogy_com",
@@ -185,7 +185,7 @@
       "percentage": 78.4,
       "old_price": "37.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-21T14:28:11.094639",
+      "timestamp": "2026-01-21T14:33:26.348912",
       "url": "https://dusk.com/products/axel-handwoven-stripe-natural"
     },
     {
@@ -304,6 +304,24 @@
       "new_price": "12.99",
       "timestamp": "2026-01-21T11:35:30.511418",
       "url": "https://www.currys.co.uk/products/10278908.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lauren Ralph Lauren Keaton Tote Bag",
+      "percentage": 52.2,
+      "old_price": "135.00",
+      "new_price": "64.50",
+      "timestamp": "2026-01-21T14:33:21.629668",
+      "url": "https://www.johnlewis.com/lauren-ralph-lauren-keaton-tote-bag/p113887158"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Dune London Greysons Leather Tassle Loafers",
+      "percentage": 50.9,
+      "old_price": "53.00",
+      "new_price": "26.00",
+      "timestamp": "2026-01-21T14:33:21.629668",
+      "url": "https://www.johnlewis.com/dune-london-greysons-leather-tassle-loafers/p113118994"
     },
     {
       "site": "currys_com",
@@ -864,6 +882,15 @@
       "url": "https://www.johnlewis.com/brora-sheer-panel-knitted-midi-skirt-black/p114492586"
     },
     {
+      "site": "johnlewis_com",
+      "product": "HUSH Emily Puff Sleeve Cotton Jersey Top",
+      "percentage": 45.5,
+      "old_price": "39.00",
+      "new_price": "21.25",
+      "timestamp": "2026-01-21T14:33:21.629668",
+      "url": "https://www.johnlewis.com/hush-emily-puff-sleeve-cotton-jersey-top/p109960287"
+    },
+    {
       "site": "currys_com",
       "product": "KENSINGTON ValuMouse Optical Mouse",
       "percentage": 45.5,
@@ -1051,33 +1078,6 @@
       "new_price": "6.50",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/name-it-mini-nmfbella-mom-emb-jeans-1224-sm-noos-medium-blue-denim-13242772"
-    },
-    {
-      "site": "currys_com",
-      "product": "JUST EAT Gift Card - £25",
-      "percentage": 43.4,
-      "old_price": "30.00",
-      "new_price": "16.99",
-      "timestamp": "2026-01-21T08:38:23.174348",
-      "url": "https://www.currys.co.uk/products/10217136.html"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Rainbow Tutu",
-      "percentage": 42.9,
-      "old_price": "14.00",
-      "new_price": "8.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/mimi-and-lula-rainbow-tutu-beige-165005"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Flower Kitty And Unicorn Ring Set",
-      "percentage": 42.9,
-      "old_price": "3.50",
-      "new_price": "2.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/great-pretenders-flower-kittyunicorn-ring-set-flower-kittyunicorn-84522"
     }
   ]
 }

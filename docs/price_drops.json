@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T16:39:22.058673",
-  "total_drops": 2891,
+  "generated_at": "2026-01-21T16:44:43.755289",
+  "total_drops": 2897,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 1007,
+      "count": 1013,
       "max_drop": 56.2,
-      "total_savings": 18374.92
+      "total_savings": 18428.17
     },
     {
       "site": "victoriabeckham_com",
@@ -200,7 +200,7 @@
       "percentage": 75.0,
       "old_price": "4.00",
       "new_price": "1.00",
-      "timestamp": "2026-01-21T16:38:59.691441",
+      "timestamp": "2026-01-21T16:44:14.694623",
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
@@ -749,7 +749,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T16:38:49.800842",
+      "timestamp": "2026-01-21T16:44:22.332426",
       "url": "https://fenwick.co.uk/products/libra-interiors-smoke-mandala-pattern-smoked-mirrored-box-705997"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T15:17:40.096204",
-  "total_drops": 2865,
+  "generated_at": "2026-01-21T15:23:06.195635",
+  "total_drops": 2868,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 278,
+      "count": 280,
       "max_drop": 72.8,
-      "total_savings": 6996.09
+      "total_savings": 7016.59
     },
     {
       "site": "leaderonline_com",
@@ -124,6 +124,12 @@
       "total_savings": 1022.5
     },
     {
+      "site": "pendletonwoolenmills_eu",
+      "count": 1,
+      "max_drop": 16.3,
+      "total_savings": 56.0
+    },
+    {
       "site": "hauslondon_com",
       "count": 150,
       "max_drop": 15.7,
@@ -203,7 +209,7 @@
       "percentage": 70.0,
       "old_price": "65.00",
       "new_price": "19.50",
-      "timestamp": "2026-01-21T15:17:17.536445",
+      "timestamp": "2026-01-21T15:22:43.030882",
       "url": "https://www.johnlewis.com/john-lewis-straight-relaxed-leg-jean/p114103538"
     },
     {
@@ -212,7 +218,7 @@
       "percentage": 70.0,
       "old_price": "90.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-21T15:17:17.536445",
+      "timestamp": "2026-01-21T15:22:43.030882",
       "url": "https://www.johnlewis.com/gola-classics-womens-viper-metallic-leather-trainers-silver-off-white-gum/p113769158"
     },
     {
@@ -410,7 +416,7 @@
       "percentage": 50.0,
       "old_price": "110.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-21T15:17:17.536445",
+      "timestamp": "2026-01-21T15:22:43.030882",
       "url": "https://www.johnlewis.com/levis-725-kick-boot-jeans/p112906808"
     },
     {
@@ -419,7 +425,7 @@
       "percentage": 50.0,
       "old_price": "14.00",
       "new_price": "7.00",
-      "timestamp": "2026-01-21T15:17:17.536445",
+      "timestamp": "2026-01-21T15:22:43.030882",
       "url": "https://www.johnlewis.com/fantasie-smoothease-full-knickers/p3825340"
     },
     {

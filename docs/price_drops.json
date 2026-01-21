@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T10:51:25.579742",
-  "total_drops": 2674,
+  "generated_at": "2026-01-21T10:56:48.920850",
+  "total_drops": 2690,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "currys_com",
-      "count": 906,
+      "count": 921,
       "max_drop": 61.4,
-      "total_savings": 61050.86
+      "total_savings": 61468.3
     },
     {
       "site": "fenwick_co_uk",
@@ -148,6 +148,12 @@
       "total_savings": 66.99
     },
     {
+      "site": "saltrock_com",
+      "count": 1,
+      "max_drop": 2.2,
+      "total_savings": 0.25
+    },
+    {
       "site": "ullajohnson_com",
       "count": 6,
       "max_drop": 1.6,
@@ -236,7 +242,7 @@
       "percentage": 53.6,
       "old_price": "27.99",
       "new_price": "12.99",
-      "timestamp": "2026-01-21T10:51:20.151851",
+      "timestamp": "2026-01-21T10:56:36.332634",
       "url": "https://www.currys.co.uk/products/10278908.html"
     },
     {
@@ -551,7 +557,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T10:51:20.151851",
+      "timestamp": "2026-01-21T10:56:36.332634",
       "url": "https://www.currys.co.uk/products/10194637.html"
     },
     {
@@ -560,8 +566,17 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T10:51:20.151851",
+      "timestamp": "2026-01-21T10:56:36.332634",
       "url": "https://www.currys.co.uk/products/10283952.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "STEELSERIES QcK Performance Speed Gaming Mouse Mat - Bl",
+      "percentage": 50.0,
+      "old_price": "89.99",
+      "new_price": "44.99",
+      "timestamp": "2026-01-21T10:56:36.332634",
+      "url": "https://www.currys.co.uk/products/10283209.html"
     },
     {
       "site": "currys_com",
@@ -1057,15 +1072,6 @@
       "new_price": "34.79",
       "timestamp": "2026-01-21T09:33:39.759843",
       "url": "https://www.currys.co.uk/products/10275235.html"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Rainbow And Star Alice Band Bright",
-      "percentage": 41.7,
-      "old_price": "6.00",
-      "new_price": "3.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/mimi-and-lula-rainbowstar-double-alice-bright-multi-162045"
     }
   ]
 }

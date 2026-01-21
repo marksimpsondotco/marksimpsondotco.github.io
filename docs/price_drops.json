@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T03:32:52.886296",
-  "total_drops": 1167,
+  "generated_at": "2026-01-21T03:38:01.594615",
+  "total_drops": 1190,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 726,
+      "count": 747,
       "max_drop": 50.0,
-      "total_savings": 13137.99
+      "total_savings": 13267.99
     },
     {
       "site": "flannels_com",
@@ -53,9 +53,9 @@
     },
     {
       "site": "boden_com",
-      "count": 10,
+      "count": 12,
       "max_drop": 25.0,
-      "total_savings": 142.6
+      "total_savings": 145.0
     },
     {
       "site": "uk_renogy_com",
@@ -137,7 +137,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/joma-jewellery-necklace-christmas-cracker-merry-xmas-silver-9321"
     },
     {
@@ -146,7 +146,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/joma-jewellery-necklace-christmas-cracker-xmas-wishes-silver-9323"
     },
     {
@@ -155,7 +155,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/joma-jewellery-necklace-christmas-cracker-with-love-silver-9322"
     },
     {
@@ -164,7 +164,7 @@
       "percentage": 50.0,
       "old_price": "125.00",
       "new_price": "62.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/icecream-running-dog-sweatpants-black-ic23211"
     },
     {
@@ -173,7 +173,7 @@
       "percentage": 50.0,
       "old_price": "9.50",
       "new_price": "4.75",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/joma-jewellery-christmas-wishes-silver-plated-bracelet-silver-9175"
     },
     {
@@ -182,7 +182,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/joma-jewellery-bracelet-christmas-cracker-fab-friend-silver-9329"
     },
     {
@@ -191,7 +191,7 @@
       "percentage": 50.0,
       "old_price": "4.00",
       "new_price": "2.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-betty-butterfly-clic-clacs-multi-162038"
     },
     {
@@ -200,7 +200,7 @@
       "percentage": 50.0,
       "old_price": "4.00",
       "new_price": "2.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-scalloped-sparkle-mini-clic-clacs-bright-multi-162050"
     },
     {
@@ -209,7 +209,7 @@
       "percentage": 50.0,
       "old_price": "4.00",
       "new_price": "2.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-pony-mini-clic-clacs-multi-162077"
     },
     {
@@ -218,7 +218,7 @@
       "percentage": 50.0,
       "old_price": "3.00",
       "new_price": "1.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-stripe-butterfly-clic-clacs-pastels-162002"
     },
     {
@@ -227,7 +227,7 @@
       "percentage": 50.0,
       "old_price": "4.00",
       "new_price": "2.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-lemon-blossom-clic-clacs-multi-162103"
     },
     {
@@ -236,7 +236,7 @@
       "percentage": 50.0,
       "old_price": "4.00",
       "new_price": "2.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/great-pretenders-flower-gem-fluffy-pen-gem-83800"
     },
     {
@@ -245,7 +245,7 @@
       "percentage": 50.0,
       "old_price": "3.00",
       "new_price": "1.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/great-pretenders-boutique-holo-crystal-bracelet-holo-crystal-90013"
     },
     {
@@ -254,7 +254,7 @@
       "percentage": 50.0,
       "old_price": "3.00",
       "new_price": "1.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/great-pretenders-boutique-shimmer-butterfly-bracelet-shimmer-butterfly-90011"
     },
     {
@@ -263,7 +263,7 @@
       "percentage": 50.0,
       "old_price": "4.00",
       "new_price": "2.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mamas-papas-plush-tree-dec-bear-2025-xmas-multi-25-48069xm03"
     },
     {
@@ -272,7 +272,7 @@
       "percentage": 50.0,
       "old_price": "4.00",
       "new_price": "2.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mamas-papas-plush-tree-dec-beau-bunny-2025-xmas-multi-25-48069xm04"
     },
     {
@@ -281,7 +281,7 @@
       "percentage": 50.0,
       "old_price": "4.00",
       "new_price": "2.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mamas-papas-xmas-hanging-wood-dec-letter-xmas-white-neutral-25-48068xm00"
     },
     {
@@ -290,7 +290,7 @@
       "percentage": 50.0,
       "old_price": "4.00",
       "new_price": "2.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mamas-papas-xmas-hanging-wood-dec-daddy-xmas-white-neutral-25-48068xm02"
     },
     {
@@ -299,7 +299,7 @@
       "percentage": 50.0,
       "old_price": "4.00",
       "new_price": "2.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mamas-papas-xmas-hanging-wood-dec-mummy-xmas-white-neutral-25-48068xm01"
     },
     {
@@ -326,7 +326,7 @@
       "percentage": 44.4,
       "old_price": "9.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/name-it-nbnralko-ls-knit-peyote-melange-13247845"
     },
     {
@@ -344,7 +344,7 @@
       "percentage": 43.8,
       "old_price": "8.00",
       "new_price": "4.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmleila-mini-sl-top-jrs-girl-navy-blazer-10326471"
     },
     {
@@ -353,7 +353,7 @@
       "percentage": 43.8,
       "old_price": "8.00",
       "new_price": "4.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmclara-francis-ss-top-jrs-ga-girl-snow-white-10337068"
     },
     {
@@ -362,7 +362,7 @@
       "percentage": 43.8,
       "old_price": "8.00",
       "new_price": "4.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/name-it-nbforegon-sweat-pant-box-bru-peyote-melange-13247496"
     },
     {
@@ -371,7 +371,7 @@
       "percentage": 43.8,
       "old_price": "8.00",
       "new_price": "4.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/name-it-nbfolpa-ls-teddy-sweat-cloud-dancer-13247490"
     },
     {
@@ -380,8 +380,17 @@
       "percentage": 43.8,
       "old_price": "8.00",
       "new_price": "4.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mamas-papas-activity-book-sprinkle-of-xmas-xmas-red-25-75587xm00"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Then I Met You Activity Book",
+      "percentage": 43.8,
+      "old_price": "8.00",
+      "new_price": "4.50",
+      "timestamp": "2026-01-21T03:37:25.408289",
+      "url": "https://fenwick.co.uk/products/mamas-papas-activity-book-then-i-met-you-xmas-white-neutral-25-75588xm00"
     },
     {
       "site": "fenwick_co_uk",
@@ -389,7 +398,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/gold-symmetry-court-vinyl-80-2413561979"
     },
     {
@@ -398,7 +407,7 @@
       "percentage": 43.5,
       "old_price": "11.50",
       "new_price": "6.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/name-it-mini-nmfbella-mom-emb-jeans-1224-sm-noos-medium-blue-denim-13242772"
     },
     {
@@ -407,7 +416,7 @@
       "percentage": 42.9,
       "old_price": "14.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-rainbow-tutu-beige-165005"
     },
     {
@@ -416,7 +425,7 @@
       "percentage": 42.9,
       "old_price": "3.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/great-pretenders-flower-kittyunicorn-ring-set-flower-kittyunicorn-84522"
     },
     {
@@ -425,7 +434,7 @@
       "percentage": 42.9,
       "old_price": "14.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmhali-ls-o-neck-sweat-top-jrs-ga-girl-light-grey-melange-10335309"
     },
     {
@@ -434,7 +443,7 @@
       "percentage": 42.9,
       "old_price": "14.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmfrida-short-denim-shorts-ra339-girl-light-blue-denim-10326280"
     },
     {
@@ -443,8 +452,17 @@
       "percentage": 42.9,
       "old_price": "7.00",
       "new_price": "4.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/name-it-nbmnilsen-ls-polo-sweat-unb-insignia-blue-13246585"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Printed Camo Pullover Cereal",
+      "percentage": 42.9,
+      "old_price": "14.00",
+      "new_price": "8.00",
+      "timestamp": "2026-01-21T03:37:25.408289",
+      "url": "https://fenwick.co.uk/products/mayoral-printed-camo-pullover-cereal-4403"
     },
     {
       "site": "fenwick_co_uk",
@@ -452,7 +470,7 @@
       "percentage": 42.3,
       "old_price": "13.00",
       "new_price": "7.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/levis-lan-core-batwing-backpack-black-9a8519"
     },
     {
@@ -461,7 +479,7 @@
       "percentage": 42.3,
       "old_price": "13.00",
       "new_price": "7.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmodea-24-tie-top-wvn-girl-snow-white-10330124"
     },
     {
@@ -470,7 +488,7 @@
       "percentage": 42.1,
       "old_price": "19.00",
       "new_price": "11.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/purebaby-primrose-dress-primrose-print-pn1033w25"
     },
     {
@@ -479,7 +497,7 @@
       "percentage": 42.1,
       "old_price": "9.50",
       "new_price": "5.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/great-pretenders-the-elizabeth-5-piece-set-elizabeth-85012"
     },
     {
@@ -488,7 +506,7 @@
       "percentage": 41.7,
       "old_price": "6.00",
       "new_price": "3.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-rainbowstar-double-alice-bright-multi-162045"
     },
     {
@@ -497,7 +515,7 @@
       "percentage": 41.7,
       "old_price": "18.00",
       "new_price": "10.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/great-pretenders-the-audrey-5-piece-set-audrey-85014"
     },
     {
@@ -506,7 +524,7 @@
       "percentage": 41.7,
       "old_price": "24.00",
       "new_price": "14.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmlenora-hayden-ls-leo-denim-shirt-girl-brushed-nickel-10332590"
     },
     {
@@ -515,7 +533,7 @@
       "percentage": 41.7,
       "old_price": "18.00",
       "new_price": "10.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmtessa-hr-wide-jeans-ra3033-girl-noos-medium-blue-denim-10332328"
     },
     {
@@ -524,7 +542,7 @@
       "percentage": 41.7,
       "old_price": "12.00",
       "new_price": "7.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmodea-hw-shorts-wvn-girl-snow-white-10330181"
     },
     {
@@ -533,7 +551,7 @@
       "percentage": 41.7,
       "old_price": "18.00",
       "new_price": "10.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/name-it-nbfmila-jacket-hood-pb-lilas-13241678"
     },
     {
@@ -542,7 +560,7 @@
       "percentage": 41.4,
       "old_price": "29.00",
       "new_price": "17.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/emile-et-rose-kipling-knit-2pc-bear-fairisle-jumper-leggings-hat-stone-6512st-25w"
     },
     {
@@ -553,6 +571,15 @@
       "new_price": "44.00",
       "timestamp": "2026-01-21T01:20:04.322629",
       "url": "https://www.flannels.com/cole-buxton-distressed-cotton-shorts-327536"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Soft Denim Coat",
+      "percentage": 41.3,
+      "old_price": "23.00",
+      "new_price": "13.50",
+      "timestamp": "2026-01-21T03:37:25.408289",
+      "url": "https://fenwick.co.uk/products/mayoral-soft-denim-coat-denim-4442"
     },
     {
       "site": "flannels_com",
@@ -569,7 +596,7 @@
       "percentage": 40.9,
       "old_price": "11.00",
       "new_price": "6.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/lylescott-plain-t-shirt-navy-tsb2000v"
     },
     {
@@ -578,7 +605,7 @@
       "percentage": 40.9,
       "old_price": "11.00",
       "new_price": "6.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/purebaby-on-the-farm-leggings-sheep-jacquard-pn1003w25"
     },
     {
@@ -587,7 +614,7 @@
       "percentage": 40.9,
       "old_price": "11.00",
       "new_price": "6.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmvio-ss-stripe-short-dress-jrsgirl-noos-navy-blazer-10328739"
     },
     {
@@ -596,7 +623,7 @@
       "percentage": 40.9,
       "old_price": "11.00",
       "new_price": "6.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmaruba-sl-o-neck-top-girl-birch-10326902"
     },
     {
@@ -605,8 +632,26 @@
       "percentage": 40.9,
       "old_price": "11.00",
       "new_price": "6.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmaruba-nw-shorts-girl-birch-10326900"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Shearling Long Sleeves Coat Sand",
+      "percentage": 40.7,
+      "old_price": "27.00",
+      "new_price": "16.00",
+      "timestamp": "2026-01-21T03:37:25.408289",
+      "url": "https://fenwick.co.uk/products/mayoral-shearling-coat-sand-4439"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Fur Long Sleeves Coat Sand",
+      "percentage": 40.7,
+      "old_price": "27.00",
+      "new_price": "16.00",
+      "timestamp": "2026-01-21T03:37:25.408289",
+      "url": "https://fenwick.co.uk/products/mayoral-fur-coat-sand-4441"
     },
     {
       "site": "fenwick_co_uk",
@@ -614,8 +659,17 @@
       "percentage": 40.6,
       "old_price": "16.00",
       "new_price": "9.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmlenora-mr-short-leo-skirt-girl-brushed-nickel-10332584"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Mayoral Dress with Bear Bag Macchiato",
+      "percentage": 40.6,
+      "old_price": "16.00",
+      "new_price": "9.50",
+      "timestamp": "2026-01-21T03:37:25.408289",
+      "url": "https://fenwick.co.uk/products/mayoral-dress-with-bear-bag-macchiato-2919"
     },
     {
       "site": "apcstore_co_uk",
@@ -668,7 +722,7 @@
       "percentage": 40.0,
       "old_price": "10.00",
       "new_price": "6.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/vero-moda-vmmillie-linsey-cropped-sweat-jrs-girl-light-grey-melange-10311102"
     },
     {
@@ -677,7 +731,7 @@
       "percentage": 40.0,
       "old_price": "99.50",
       "new_price": "59.70",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/oska-weste-504-640thistle-10250713025"
     },
     {
@@ -686,7 +740,7 @@
       "percentage": 40.0,
       "old_price": "37.00",
       "new_price": "22.20",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/skechers-go-walk-flex-relish-trainers-black-bkw-124963"
     },
     {
@@ -695,7 +749,7 @@
       "percentage": 40.0,
       "old_price": "292.50",
       "new_price": "175.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/marella-rosalia-coat-double-breasted-maxi-olive-2523456012200"
     },
     {
@@ -704,7 +758,7 @@
       "percentage": 40.0,
       "old_price": "185.00",
       "new_price": "111.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/eileen-fisher-stand-collar-long-jacket-quilted-silk-bone-s5qvs-j5807m"
     },
     {
@@ -713,7 +767,7 @@
       "percentage": 40.0,
       "old_price": "110.00",
       "new_price": "66.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/carhartt-wip-emery-jacket-blackblack-i035570"
     },
     {
@@ -722,7 +776,7 @@
       "percentage": 40.0,
       "old_price": "16.00",
       "new_price": "9.60",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/havaianas-hav-luna-rose-gold-rose-gold-f17-rose-gold-rose-gold-4129697"
     },
     {
@@ -731,7 +785,7 @@
       "percentage": 40.0,
       "old_price": "16.00",
       "new_price": "9.60",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/havaianas-hav-luna-black-f17-black-4129697"
     },
     {
@@ -740,7 +794,7 @@
       "percentage": 40.0,
       "old_price": "22.50",
       "new_price": "13.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/malissa-j-pearl-and-stud-border-scarf-pink-dusty-pink-pink-silver-gc540-s"
     },
     {
@@ -749,7 +803,7 @@
       "percentage": 40.0,
       "old_price": "22.50",
       "new_price": "13.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/true-religion-printed-buddha-strapless-scarf-top-optic-white-209653-1700"
     },
     {
@@ -758,7 +812,7 @@
       "percentage": 40.0,
       "old_price": "34.00",
       "new_price": "20.40",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/alo-yoga-match-point-tennis-skirt-black-w6240r"
     },
     {
@@ -767,7 +821,7 @@
       "percentage": 40.0,
       "old_price": "59.00",
       "new_price": "35.40",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/alo-yoga-78-hw-airlift-legging-sweet-pink-w5766r"
     },
     {
@@ -776,7 +830,7 @@
       "percentage": 40.0,
       "old_price": "19.50",
       "new_price": "11.70",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/skechers-cozy-campfire-slippers-bbk-169012"
     },
     {
@@ -785,7 +839,7 @@
       "percentage": 40.0,
       "old_price": "25.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/crocs-classic-clog-hydrangea-10001"
     },
     {
@@ -794,7 +848,7 @@
       "percentage": 40.0,
       "old_price": "15.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/havaianas-hav-slim-ballet-rose-f17-ballet-rose-4000030"
     },
     {
@@ -803,7 +857,7 @@
       "percentage": 40.0,
       "old_price": "25.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/crocs-classic-cozzzy-slipper-black-209386"
     },
     {
@@ -812,7 +866,7 @@
       "percentage": 40.0,
       "old_price": "27.50",
       "new_price": "16.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/crocs-classic-glitter-clog-quartz-glitter-205942"
     },
     {
@@ -821,7 +875,7 @@
       "percentage": 40.0,
       "old_price": "12.50",
       "new_price": "7.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/havaianas-hav-top-tiras-steel-grey-f17-steel-grey-4137428"
     },
     {
@@ -830,7 +884,7 @@
       "percentage": 40.0,
       "old_price": "15.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/havaianas-hav-slim-animals-beige-beige-f17-beige-beige-4103352"
     },
     {
@@ -839,7 +893,7 @@
       "percentage": 40.0,
       "old_price": "37.00",
       "new_price": "22.20",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/skechers-summits-high-range-trainers-grey-char-232457"
     },
     {
@@ -848,7 +902,7 @@
       "percentage": 40.0,
       "old_price": "37.00",
       "new_price": "22.20",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/skechers-glide-step-noxus-trainers-navy-nvy-233010"
     },
     {
@@ -857,7 +911,7 @@
       "percentage": 40.0,
       "old_price": "44.50",
       "new_price": "26.70",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/skechers-ultra-flex-3-0-elevated-motion-blue-ltbl-150457"
     },
     {
@@ -866,7 +920,7 @@
       "percentage": 40.0,
       "old_price": "44.50",
       "new_price": "26.70",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/skechers-ultra-flex-3-0-elevated-motion-pink-ltmv-150457"
     },
     {
@@ -875,7 +929,7 @@
       "percentage": 40.0,
       "old_price": "15.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/havaianas-hav-slim-animals-grey-grey-f17-grey-grey-4103352"
     },
     {
@@ -884,7 +938,7 @@
       "percentage": 40.0,
       "old_price": "44.50",
       "new_price": "26.70",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/skechers-glide-step-pro-trainers-multi-mult-150420"
     },
     {
@@ -893,7 +947,7 @@
       "percentage": 40.0,
       "old_price": "54.50",
       "new_price": "32.70",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/skechers-go-walk-arch-fit-trainers-navy-nvor-216604"
     },
     {
@@ -902,7 +956,7 @@
       "percentage": 40.0,
       "old_price": "44.50",
       "new_price": "26.70",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/skechers-arch-fit-2-0-big-league-trainers-pink-pkmt-150051"
     },
     {
@@ -911,7 +965,7 @@
       "percentage": 40.0,
       "old_price": "39.50",
       "new_price": "23.70",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/skechers-skech-lite-pro-n-beauty-trainers-pinkdkmv-150012"
     },
     {
@@ -920,7 +974,7 @@
       "percentage": 40.0,
       "old_price": "27.50",
       "new_price": "16.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/malissa-j-pearl-and-stud-border-wrap-pink-dusty-pink-gc540-w"
     },
     {
@@ -929,7 +983,7 @@
       "percentage": 40.0,
       "old_price": "30.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/malissa-j-geometric-border-wrap-in-black-black-silver-gc18225-w"
     },
     {
@@ -938,7 +992,7 @@
       "percentage": 40.0,
       "old_price": "30.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/malissa-j-all-over-graduated-crystal-wrap-black-silver-ms4031-22js7065"
     },
     {
@@ -947,7 +1001,7 @@
       "percentage": 40.0,
       "old_price": "42.50",
       "new_price": "25.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/joma-jewellery-6-days-of-sparkle-advent-calendar-2025-silver-9319"
     },
     {
@@ -956,62 +1010,8 @@
       "percentage": 40.0,
       "old_price": "164.50",
       "new_price": "98.70",
-      "timestamp": "2026-01-21T03:32:32.799497",
+      "timestamp": "2026-01-21T03:37:25.408289",
       "url": "https://fenwick.co.uk/products/oska-jacket-506-wash-870taupe-10250710054"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Embroidered Flowers Midi Dress Black",
-      "percentage": 40.0,
-      "old_price": "170.00",
-      "new_price": "102.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
-      "url": "https://fenwick.co.uk/products/farm-rio-embroidered-flowers-black-midi-dress-embroidered-flowers-bla-340098"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Kendall Dress Antelope Spot Black",
-      "percentage": 40.0,
-      "old_price": "92.50",
-      "new_price": "55.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
-      "url": "https://fenwick.co.uk/products/rixo-kendall-dress-antelope-spot-black-antelope-spot-black-010-01012-225-06047"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Delicate Forest Off White Maxi Dress",
-      "percentage": 40.0,
-      "old_price": "155.00",
-      "new_price": "93.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
-      "url": "https://fenwick.co.uk/products/farm-rio-delicate-forest-off-white-maxi-dress-delicate-forest-off-whi-335784"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Cotton Poplin U-neck Mini Dress",
-      "percentage": 40.0,
-      "old_price": "97.50",
-      "new_price": "58.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
-      "url": "https://fenwick.co.uk/products/ganni-cotton-poplin-u-neck-mini-dress-black-w0905"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Stretch Cotton Ruched Top White",
-      "percentage": 40.0,
-      "old_price": "82.50",
-      "new_price": "49.50",
-      "timestamp": "2026-01-21T03:32:32.799497",
-      "url": "https://fenwick.co.uk/products/ganni-stretch-cotton-ruched-top-egret-w1003"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Heli Leaves Pearl Midi Dress",
-      "percentage": 40.0,
-      "old_price": "140.00",
-      "new_price": "84.00",
-      "timestamp": "2026-01-21T03:32:32.799497",
-      "url": "https://fenwick.co.uk/products/farm-rio-heli-leaves-pearl-midi-dress-heli-leaves-pearl-336272"
     }
   ]
 }

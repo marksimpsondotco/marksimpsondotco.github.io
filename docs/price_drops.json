@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-21T13:06:51.246082",
-  "total_drops": 2748,
+  "generated_at": "2026-01-21T13:12:12.546554",
+  "total_drops": 2752,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 230,
-      "max_drop": 67.4,
-      "total_savings": 5764.72
+      "count": 233,
+      "max_drop": 70.0,
+      "total_savings": 5976.72
     },
     {
       "site": "leaderonline_com",
@@ -56,6 +56,12 @@
       "count": 1,
       "max_drop": 33.8,
       "total_savings": 25.0
+    },
+    {
+      "site": "dusk_com",
+      "count": 27,
+      "max_drop": 31.4,
+      "total_savings": 495.8
     },
     {
       "site": "twentytwentyone_com",
@@ -124,12 +130,6 @@
       "total_savings": 80.0
     },
     {
-      "site": "dusk_com",
-      "count": 26,
-      "max_drop": 12.4,
-      "total_savings": 493.6
-    },
-    {
       "site": "mamasandpapas_com",
       "count": 4,
       "max_drop": 10.0,
@@ -181,6 +181,24 @@
   "drops": [
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Boucle Square Cushion",
+      "percentage": 70.0,
+      "old_price": "40.00",
+      "new_price": "12.00",
+      "timestamp": "2026-01-21T13:11:35.451197",
+      "url": "https://www.johnlewis.com/john-lewis-boucle-square-cushion/p112083898"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Kastrup Rug",
+      "percentage": 70.0,
+      "old_price": "250.00",
+      "new_price": "75.00",
+      "timestamp": "2026-01-21T13:11:35.451197",
+      "url": "https://www.johnlewis.com/john-lewis-kastrup-rug/p5136378"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Ro&Zo Cotton Poplin Maxi Skirt, Black",
       "percentage": 67.4,
       "old_price": "89.00",
@@ -194,7 +212,7 @@
       "percentage": 66.7,
       "old_price": "3.00",
       "new_price": "1.00",
-      "timestamp": "2026-01-21T13:06:17.614634",
+      "timestamp": "2026-01-21T13:11:50.761951",
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
@@ -257,7 +275,7 @@
       "percentage": 55.0,
       "old_price": "30.00",
       "new_price": "13.50",
-      "timestamp": "2026-01-21T13:06:34.242947",
+      "timestamp": "2026-01-21T13:11:35.451197",
       "url": "https://www.johnlewis.com/john-lewis-penbury-floral-pleated-tapered-lampshade/p113282535"
     },
     {
@@ -338,8 +356,17 @@
       "percentage": 50.0,
       "old_price": "165.00",
       "new_price": "82.50",
-      "timestamp": "2026-01-21T13:06:34.242947",
+      "timestamp": "2026-01-21T13:11:35.451197",
       "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Enamel & Metallic Edge Photo Frame",
+      "percentage": 50.0,
+      "old_price": "18.00",
+      "new_price": "9.00",
+      "timestamp": "2026-01-21T13:11:35.451197",
+      "url": "https://www.johnlewis.com/john-lewis-enamel-metallic-edge-photo-frame/p4287412"
     },
     {
       "site": "johnlewis_com",
@@ -743,7 +770,7 @@
       "percentage": 46.2,
       "old_price": "39.00",
       "new_price": "21.00",
-      "timestamp": "2026-01-21T13:06:34.242947",
+      "timestamp": "2026-01-21T13:11:35.451197",
       "url": "https://www.johnlewis.com/le-creuset-stoneware-classic-rectangular-oven-dish/p5313862"
     },
     {
@@ -788,7 +815,7 @@
       "percentage": 44.4,
       "old_price": "45.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T13:06:34.242947",
+      "timestamp": "2026-01-21T13:11:35.451197",
       "url": "https://www.johnlewis.com/john-lewis-sophia-pure-linen-drum-lampshade/p5071078"
     },
     {
@@ -1051,33 +1078,6 @@
       "new_price": "99.99",
       "timestamp": "2026-01-21T11:35:30.511418",
       "url": "https://www.currys.co.uk/products/10261518.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "AVF Whitesands FT50WSSG Side Table - Wood & Grey",
-      "percentage": 42.7,
-      "old_price": "16.99",
-      "new_price": "9.74",
-      "timestamp": "2026-01-21T08:38:23.174348",
-      "url": "https://www.currys.co.uk/products/10227992.html"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Core Backwing Backpack",
-      "percentage": 42.3,
-      "old_price": "13.00",
-      "new_price": "7.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/levis-lan-core-batwing-backpack-black-9a8519"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Tie Front Cherry Top",
-      "percentage": 42.3,
-      "old_price": "13.00",
-      "new_price": "7.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/vero-moda-vmodea-24-tie-top-wvn-girl-snow-white-10330124"
     }
   ]
 }

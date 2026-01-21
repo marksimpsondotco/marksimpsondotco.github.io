@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-01-21T00:18:10.635838",
-  "total_drops": 419,
+  "generated_at": "2026-01-21T00:23:17.438519",
+  "total_drops": 509,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
-      "count": 41,
+      "count": 118,
       "max_drop": 50.0,
-      "total_savings": 788.53
+      "total_savings": 2721.53
     },
     {
       "site": "flannels_com",
-      "count": 3,
+      "count": 4,
       "max_drop": 41.3,
-      "total_savings": 82.0
+      "total_savings": 99.99
     },
     {
       "site": "johnlewis_com",
-      "count": 7,
+      "count": 19,
       "max_drop": 40.0,
-      "total_savings": 52.76
+      "total_savings": 403.6
     },
     {
       "site": "twentytwentyone_com",
@@ -83,7 +83,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/joma-jewellery-necklace-christmas-cracker-merry-xmas-silver-9321"
     },
     {
@@ -92,7 +92,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/joma-jewellery-necklace-christmas-cracker-xmas-wishes-silver-9323"
     },
     {
@@ -101,7 +101,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/joma-jewellery-necklace-christmas-cracker-with-love-silver-9322"
     },
     {
@@ -110,7 +110,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/gold-symmetry-court-vinyl-80-2413561979"
     },
     {
@@ -119,7 +119,7 @@
       "percentage": 41.3,
       "old_price": "75.00",
       "new_price": "44.00",
-      "timestamp": "2026-01-21T00:18:06.542868",
+      "timestamp": "2026-01-21T00:23:15.372340",
       "url": "https://www.flannels.com/cole-buxton-distressed-cotton-shorts-327536"
     },
     {
@@ -128,8 +128,17 @@
       "percentage": 40.0,
       "old_price": "27.00",
       "new_price": "16.20",
-      "timestamp": "2026-01-21T00:18:08.909823",
+      "timestamp": "2026-01-21T00:23:12.208500",
       "url": "https://www.johnlewis.com/bobbi-brown-crushed-oil-infused-lipgloss/p4871203"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Fantasie Seraya Sands Bikini Top, Denim",
+      "percentage": 40.0,
+      "old_price": "24.00",
+      "new_price": "14.40",
+      "timestamp": "2026-01-21T00:23:12.208500",
+      "url": "https://www.johnlewis.com/fantasie-seraya-sands-bikini-top-denim/p112310545"
     },
     {
       "site": "fenwick_co_uk",
@@ -137,8 +146,80 @@
       "percentage": 40.0,
       "old_price": "10.00",
       "new_price": "6.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/vero-moda-vmmillie-linsey-cropped-sweat-jrs-girl-light-grey-melange-10311102"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Weste 504 Cardigan Green",
+      "percentage": 40.0,
+      "old_price": "99.50",
+      "new_price": "59.70",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/oska-weste-504-640thistle-10250713025"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Go Walk Flex Relish Trainers Black",
+      "percentage": 40.0,
+      "old_price": "37.00",
+      "new_price": "22.20",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/skechers-go-walk-flex-relish-trainers-black-bkw-124963"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Rosalia Coat Double Breasted Maxi Olive",
+      "percentage": 40.0,
+      "old_price": "292.50",
+      "new_price": "175.50",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/marella-rosalia-coat-double-breasted-maxi-olive-2523456012200"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Stand Collar Long Jacket quilted Silk",
+      "percentage": 40.0,
+      "old_price": "185.00",
+      "new_price": "111.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/eileen-fisher-stand-collar-long-jacket-quilted-silk-bone-s5qvs-j5807m"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "W' Emery Jacket",
+      "percentage": 40.0,
+      "old_price": "110.00",
+      "new_price": "66.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/carhartt-wip-emery-jacket-blackblack-i035570"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Luna Rose Gold Sandal",
+      "percentage": 40.0,
+      "old_price": "16.00",
+      "new_price": "9.60",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/havaianas-hav-luna-rose-gold-rose-gold-f17-rose-gold-rose-gold-4129697"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Luna Black Sandal",
+      "percentage": 40.0,
+      "old_price": "16.00",
+      "new_price": "9.60",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/havaianas-hav-luna-black-f17-black-4129697"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Pearl and Stud Border Scarf Pink",
+      "percentage": 40.0,
+      "old_price": "22.50",
+      "new_price": "13.50",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/malissa-j-pearl-and-stud-border-scarf-pink-dusty-pink-pink-silver-gc540-s"
     },
     {
       "site": "fenwick_co_uk",
@@ -146,8 +227,44 @@
       "percentage": 37.5,
       "old_price": "104.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/hartford-jeffrey-4-pocket-faded-herringbone-field-jacket-military-bee3117"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Dryrobe Advance Long Sleeve Alpine",
+      "percentage": 37.5,
+      "old_price": "144.00",
+      "new_price": "90.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/dryrobe-dryrobe-advance-long-sleeve-alpine-charcoal-as-ls-da-charblk"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Advance Long Sleeve Changing Robe Green",
+      "percentage": 37.5,
+      "old_price": "140.00",
+      "new_price": "87.50",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/dryrobe-dryrobe-advance-long-sleeve-dark-green-sand-camo-dark-green-sand-camo"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Advance Long Sleeve Changing Robe Blue",
+      "percentage": 37.5,
+      "old_price": "140.00",
+      "new_price": "87.50",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/dryrobe-dryrobe-advance-long-sleeve-deep-sea-blue-sand-camo-deep-sea-blue-sand-camo"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Mango Carmen Wide Leg Jeans, Navy",
+      "percentage": 34.8,
+      "old_price": "45.99",
+      "new_price": "29.99",
+      "timestamp": "2026-01-21T00:23:12.208500",
+      "url": "https://www.johnlewis.com/mango-carmen-wide-leg-jeans-navy/p114500982"
     },
     {
       "site": "flannels_com",
@@ -159,12 +276,21 @@
       "url": "https://www.flannels.com/true-decadence-womens-maxi-dress-655173"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Tie Front Puff Sleeve Top, Gold",
+      "percentage": 33.9,
+      "old_price": "59.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-21T00:23:12.208500",
+      "url": "https://www.johnlewis.com/ro-zo-tie-front-puff-sleeve-top-gold/p114108999"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Tovie Jeans - Laser Check",
       "percentage": 33.3,
       "old_price": "60.00",
       "new_price": "40.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/damson-madder-tovie-jeans-laser-check-blue-aw25-dm-2007"
     },
     {
@@ -173,7 +299,7 @@
       "percentage": 33.3,
       "old_price": "10.80",
       "new_price": "7.20",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/pieces-pieces-netty-leopard-mittens-toasted-coconut-17152287"
     },
     {
@@ -182,7 +308,7 @@
       "percentage": 33.3,
       "old_price": "15.60",
       "new_price": "10.40",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/pia-rossini-corine-glove-brown-brown-cor002-bro001-0"
     },
     {
@@ -191,7 +317,7 @@
       "percentage": 33.3,
       "old_price": "23.99",
       "new_price": "16.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/barts-britamu-faux-fur-fingerless-gloves-leo-37-print-brown-5603037"
     },
     {
@@ -200,7 +326,7 @@
       "percentage": 33.3,
       "old_price": "28.19",
       "new_price": "18.80",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/barts-yokam-borg-trim-gloves-brown-09-brown-61082092"
     },
     {
@@ -209,7 +335,7 @@
       "percentage": 33.3,
       "old_price": "16.19",
       "new_price": "10.80",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/barts-darty-knit-gloves-black-01-black-6404201"
     },
     {
@@ -218,7 +344,7 @@
       "percentage": 33.3,
       "old_price": "13.79",
       "new_price": "9.20",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/barts-witzia-gloves-misty-green-13-misty-green-45420132"
     },
     {
@@ -227,7 +353,7 @@
       "percentage": 33.3,
       "old_price": "13.79",
       "new_price": "9.20",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/barts-witzia-gloves-black-01-black-4542001"
     },
     {
@@ -236,7 +362,7 @@
       "percentage": 33.3,
       "old_price": "13.79",
       "new_price": "9.20",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/barts-witzia-gloves-dusty-pink-12-dusty-pink-45420121"
     },
     {
@@ -245,7 +371,7 @@
       "percentage": 33.3,
       "old_price": "22.19",
       "new_price": "14.80",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/barts-bantota-teddy-fingerless-gloves-brown-09-brown-5601009"
     },
     {
@@ -254,8 +380,386 @@
       "percentage": 33.3,
       "old_price": "15.60",
       "new_price": "10.40",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/pia-rossini-evie-glove-black-black-evi001-bla001-0"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Womens Barbour Rosalie Gilet",
+      "percentage": 33.3,
+      "old_price": "77.40",
+      "new_price": "51.60",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/barbour-barbour-rosalie-gilet-neutral-lgi0200wh11"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Stork Throwover",
+      "percentage": 33.3,
+      "old_price": "33.00",
+      "new_price": "22.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/one-hundred-stars-stork-throwover-pea-green-thrstopea-s-pea-green-pea-green"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Susani Blue Throwover",
+      "percentage": 33.3,
+      "old_price": "33.00",
+      "new_price": "22.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/one-hundred-stars-susani-blue-throwover-blue-thrsusblu-1"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Womens Barbour Jayla Waterproof Parka",
+      "percentage": 33.3,
+      "old_price": "161.40",
+      "new_price": "107.60",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/barbour-barbour-jayla-waterproof-parka-dusky-green-lwb0914gn31"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Crane Olive Throwover",
+      "percentage": 33.3,
+      "old_price": "33.00",
+      "new_price": "22.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/one-hundred-stars-crane-olive-throwover-olive-thrcraoli-1"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Primula Black Wool Throwover",
+      "percentage": 33.3,
+      "old_price": "39.00",
+      "new_price": "26.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/one-hundred-stars-primula-black-wool-throwover-black-wthpriblk-1"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Womens Barbour Maia Showerproof Jacket",
+      "percentage": 33.3,
+      "old_price": "149.40",
+      "new_price": "99.60",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/barbour-barbour-maia-showerproof-jacket-light-sandrosemary-tartan-lsp0211sn11"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Weekend Alcamo Reversible Light Padded Longline Coat",
+      "percentage": 33.3,
+      "old_price": "324.00",
+      "new_price": "216.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/weekend-max-mara-weekend-alcamo-reversible-light-padded-longline-coat-kaki-2525496011600"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Cobra Embossed Vegan Leather Jacket Black",
+      "percentage": 33.3,
+      "old_price": "78.00",
+      "new_price": "52.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/ed-hardy-black-cobra-embossed-vegan-leather-jacket-black-ed5279"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Hoktown Jacket",
+      "percentage": 33.3,
+      "old_price": "114.00",
+      "new_price": "76.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/american-vintage-hoktown-jacket-bleu-polaire-hok16ce25blepol"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Rosa Boucle Coat Grey",
+      "percentage": 33.3,
+      "old_price": "114.00",
+      "new_price": "76.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/selected-femme-slf-rosa-boucle-lano-coat-sandshell-melange-16098049"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Tronto Shoulder Paf Blazer Dark Grey Wool",
+      "percentage": 33.3,
+      "old_price": "267.00",
+      "new_price": "178.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/weekend-max-mara-tronto-shoulder-paf-blazer-dark-grey-2525046042600"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Katanga Cord Double Cotton Breasted Blazer",
+      "percentage": 33.3,
+      "old_price": "240.00",
+      "new_price": "160.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/weekend-max-mara-katanga-cord-double-breasted-blazer-oil-2525046062600"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Weekend Urial Tailored Wide Leg Cropped Trouser",
+      "percentage": 33.3,
+      "old_price": "105.00",
+      "new_price": "70.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/weekend-max-mara-weekend-urial-tailored-wide-leg-cropped-trouser-light-brown-2525136041600"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Urial Tailored Wide Leg Cropped Trouser Blue",
+      "percentage": 33.3,
+      "old_price": "105.00",
+      "new_price": "70.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/weekend-max-mara-weekend-urial-tailored-wide-leg-cropped-trouser-navy-2525136041600"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Donatello Hat Burgundy",
+      "percentage": 33.3,
+      "old_price": "21.00",
+      "new_price": "14.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pia-rossini-donatello-hat-burgundy-burgundy-don002-red022-0"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Netty Borg Bucket Hat Cream",
+      "percentage": 33.3,
+      "old_price": "12.00",
+      "new_price": "8.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pieces-pieces-netty-cream-bucket-hat-white-pepper-17152286"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Kegalle Borg Bucket Hat Brown",
+      "percentage": 33.3,
+      "old_price": "28.19",
+      "new_price": "18.80",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/barts-kegalle-borg-bucket-hat-in-tan-24-light-brown-5599024"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Corine Hat Brown",
+      "percentage": 33.3,
+      "old_price": "21.00",
+      "new_price": "14.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pia-rossini-corine-hat-brown-brown-cor004-bro001-0"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Netty Leopard Bucket Hat Brown",
+      "percentage": 33.3,
+      "old_price": "12.00",
+      "new_price": "8.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pieces-pieces-netty-leopard-bucker-hat-toasted-coconut-17152286"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Acrylic Watch Hat Blue",
+      "percentage": 33.3,
+      "old_price": "13.80",
+      "new_price": "9.20",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/carhartt-wip-acrylic-watch-hat-silver-pine-heather-i0201751taxx060"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "French Wool Beret Black",
+      "percentage": 33.3,
+      "old_price": "9.00",
+      "new_price": "6.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pieces-pieces-french-wool-beret-in-black-black-17090698"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Cathy Hat Black",
+      "percentage": 33.3,
+      "old_price": "15.60",
+      "new_price": "10.40",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pia-rossini-cathy-hat-black-black-cat002-bla001-0"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Lylja Leopard Teddy Bucket Hat",
+      "percentage": 33.3,
+      "old_price": "22.19",
+      "new_price": "14.80",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/barts-lylja-leopard-teddy-bucket-hat-24-light-brown-6475024"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Jikka Check Wool Blend Scarf Green",
+      "percentage": 33.3,
+      "old_price": "10.80",
+      "new_price": "7.20",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pieces-pieces-jikka-check-scarf-in-green-winter-green-17159947"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Graphic Wool Knit Scarf Leopard",
+      "percentage": 33.3,
+      "old_price": "93.00",
+      "new_price": "62.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/ganni-graphic-wool-knit-scarf-leopard-a7267"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Jikka Check Scarf Orange",
+      "percentage": 33.3,
+      "old_price": "10.80",
+      "new_price": "7.20",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pieces-pieces-jikka-check-scarf-in-orange-orange-17159947"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Double Face Wool Scarf Sky Captain",
+      "percentage": 33.3,
+      "old_price": "93.00",
+      "new_price": "62.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/ganni-double-face-wool-solid-scarf-sky-captain-683-a6931"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Jill Check Wool Blend Scarf Beige",
+      "percentage": 33.3,
+      "old_price": "12.00",
+      "new_price": "8.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pieces-pieces-jill-check-scarf-in-beige-trench-coat-17159659"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Jill Check Wool Blend Scarf Lilac",
+      "percentage": 33.3,
+      "old_price": "12.00",
+      "new_price": "8.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pieces-pieces-jill-check-scarf-in-lilac-baby-lavender-17159659"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Jordan Zebra Stripe Scarf Grey",
+      "percentage": 33.3,
+      "old_price": "12.00",
+      "new_price": "8.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pieces-pieces-jordan-zebra-stripe-scarf-in-grey-december-sky-17159756"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Double Face Wool Scarf Mauve Morn",
+      "percentage": 33.3,
+      "old_price": "93.00",
+      "new_price": "62.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/ganni-double-face-wool-solid-scarf-mauve-morn-857-a6942"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Jira Dogtooth Scarf Black",
+      "percentage": 33.3,
+      "old_price": "15.00",
+      "new_price": "10.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pieces-pieces-jira-dogtooth-scarf-in-black-o-15-black_check-17083758"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Genova Scarf Blush",
+      "percentage": 33.3,
+      "old_price": "15.60",
+      "new_price": "10.40",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pia-rossini-genova-scarf-blush-pink-gen001-pin004-0"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Orchid Black Wool Scarf",
+      "percentage": 33.3,
+      "old_price": "27.00",
+      "new_price": "18.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/one-hundred-stars-orchid-black-wool-scarf-orchid-black-wscorcblk-1"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Crane Black Wool Scarf",
+      "percentage": 33.3,
+      "old_price": "27.00",
+      "new_price": "18.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/one-hundred-stars-crane-black-wool-scarf-crane-black-wsccrablk-1"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Crane Emerald Wool Scarf",
+      "percentage": 33.3,
+      "old_price": "27.00",
+      "new_price": "18.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/one-hundred-stars-crane-emerald-scarf-crane-emerald-scacraeml-1"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Double Face Wool Scarf Paloma Melange",
+      "percentage": 33.3,
+      "old_price": "93.00",
+      "new_price": "62.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/ganni-double-face-wool-solid-scarf-paloma-melange-921-a6932"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Double Face Wool Check Scarf Charcoal Grey",
+      "percentage": 33.3,
+      "old_price": "99.00",
+      "new_price": "66.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/ganni-double-face-wool-check-scarf-charcoal-grey-220-a6933"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Clan Scarf Tan",
+      "percentage": 33.3,
+      "old_price": "33.00",
+      "new_price": "22.00",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/carhartt-wip-carhartt-clan-scarf-in-tan-peanut-i0135072fsxx060"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Eboni Scarf Camel",
+      "percentage": 33.3,
+      "old_price": "15.60",
+      "new_price": "10.40",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/pia-rossini-eboni-scarf-camel-camel-ebo001-bro012-0"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Nicole Space Dye Scarf Green",
+      "percentage": 33.3,
+      "old_price": "34.19",
+      "new_price": "22.80",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/barts-nicole-space-dye-scarf-green-14-light-celadon-19560142"
     },
     {
       "site": "johnlewis_com",
@@ -263,8 +767,17 @@
       "percentage": 32.3,
       "old_price": "26.60",
       "new_price": "18.00",
-      "timestamp": "2026-01-21T00:18:08.909823",
+      "timestamp": "2026-01-21T00:23:12.208500",
       "url": "https://www.johnlewis.com/yves-saint-laurent-rouge-pur-couture-the-slim-lipstick/p3795422"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Smith & Soul Relaxed Fit Wide Leg Jeans, Mid Blue Denim",
+      "percentage": 30.0,
+      "old_price": "105.00",
+      "new_price": "73.50",
+      "timestamp": "2026-01-21T00:23:12.208500",
+      "url": "https://www.johnlewis.com/smith-soul-relaxed-fit-wide-leg-jeans-mid-blue-denim/p114428221"
     },
     {
       "site": "twentytwentyone_com",
@@ -272,7 +785,7 @@
       "percentage": 30.0,
       "old_price": "65.00",
       "new_price": "45.50",
-      "timestamp": "2026-01-21T00:17:38.316314",
+      "timestamp": "2026-01-21T00:21:31.474805",
       "url": "https://www.twentytwentyone.com/products/glerups-nanny-glerups-slip-ons"
     },
     {
@@ -281,7 +794,7 @@
       "percentage": 29.5,
       "old_price": "78.40",
       "new_price": "55.30",
-      "timestamp": "2026-01-21T00:18:08.909823",
+      "timestamp": "2026-01-21T00:23:12.208500",
       "url": "https://www.johnlewis.com/dolce-gabbana-q-by-dolce-gabbana-parfum/p113092905"
     },
     {
@@ -290,7 +803,7 @@
       "percentage": 29.0,
       "old_price": "137.40",
       "new_price": "97.50",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/other-multicoloured-carlow-duvet-cover-hbcarldcmulticoloured"
     },
     {
@@ -299,7 +812,7 @@
       "percentage": 29.0,
       "old_price": "69.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/navy-lovebird-vinyl-9277284979"
     },
     {
@@ -308,7 +821,7 @@
       "percentage": 28.6,
       "old_price": "17.50",
       "new_price": "12.50",
-      "timestamp": "2026-01-21T00:17:38.316314",
+      "timestamp": "2026-01-21T00:21:31.474805",
       "url": "https://www.twentytwentyone.com/products/hay-column-candleholder"
     },
     {
@@ -317,7 +830,7 @@
       "percentage": 28.6,
       "old_price": "98.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/ugg-sheepskin-embroidered-logo-mittens-chestnut-20932"
     },
     {
@@ -326,7 +839,7 @@
       "percentage": 28.6,
       "old_price": "42.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/ugg-fluff-mitten-chestnut-101019"
     },
     {
@@ -335,7 +848,7 @@
       "percentage": 28.6,
       "old_price": "98.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/ugg-turn-up-cuff-mittens-chestnut-17369"
     },
     {
@@ -344,7 +857,7 @@
       "percentage": 28.6,
       "old_price": "98.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/ugg-turn-up-cuff-mittens-black-17369"
     },
     {
@@ -353,7 +866,7 @@
       "percentage": 28.6,
       "old_price": "105.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/ugg-atherson-embroidered-mitten-chestnut-100907"
     },
     {
@@ -362,7 +875,7 @@
       "percentage": 28.6,
       "old_price": "10.50",
       "new_price": "7.50",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/west-barn-co-soap-brows-r"
     },
     {
@@ -371,7 +884,7 @@
       "percentage": 28.6,
       "old_price": "269.50",
       "new_price": "192.50",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/wax-london-stan-coat-navy-grey-aw25-out-stl-bze"
     },
     {
@@ -380,7 +893,7 @@
       "percentage": 28.6,
       "old_price": "33.60",
       "new_price": "24.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/sarah-chapman-rapid-radiance-cleanse-100ml"
     },
     {
@@ -389,7 +902,7 @@
       "percentage": 28.6,
       "old_price": "47.60",
       "new_price": "34.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/alo-yoga-airlift-intrigue-bra-sweet-pink-w9557r"
     },
     {
@@ -398,7 +911,7 @@
       "percentage": 28.6,
       "old_price": "49.00",
       "new_price": "35.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/alo-yoga-real-bra-tank-black-w9587r"
     },
     {
@@ -407,575 +920,62 @@
       "percentage": 28.6,
       "old_price": "49.00",
       "new_price": "35.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
+      "timestamp": "2026-01-21T00:23:14.029067",
       "url": "https://fenwick.co.uk/products/alo-yoga-airlift-suit-up-bra-blackwhite-w9780r"
     },
     {
-      "site": "twentytwentyone_com",
-      "product": "Lists to Live By Daily Weekly Light Planner",
-      "percentage": 26.5,
-      "old_price": "17.00",
-      "new_price": "12.50",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/paperian-lists-to-live-by-daily-weekly-light-planner"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Angle Hook",
-      "percentage": 25.9,
-      "old_price": "29.00",
-      "new_price": "21.50",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/form-and-refine-herman-studio-angle-hook"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "White Clay Candle | Citrus",
-      "percentage": 25.5,
-      "old_price": "25.50",
-      "new_price": "19.00",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/waks-white-clay-candle-citrus"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Doris Cushion",
-      "percentage": 25.3,
-      "old_price": "77.00",
-      "new_price": "57.50",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/doris-cushion"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Nike - Pegasus Premium Trainers Womens",
-      "percentage": 25.2,
-      "old_price": "155.00",
-      "new_price": "116.00",
-      "timestamp": "2026-01-20T23:08:56.999361",
-      "url": "https://www.flannels.com/nike-pegasus-premium-trainers-womens-210842"
-    },
-    {
-      "site": "hamleys_com",
-      "product": "Unknown Product",
-      "percentage": 25.0,
-      "old_price": "16.99",
-      "new_price": "12.74",
-      "timestamp": "2026-01-21T00:13:36.706898",
-      "url": null
-    },
-    {
-      "site": "hamleys_com",
-      "product": "Disney Lion King Toniebox 2 Sleeve",
-      "percentage": 25.0,
-      "old_price": "12.99",
-      "new_price": "9.74",
-      "timestamp": "2026-01-21T00:13:36.706898",
-      "url": "https://www.hamleys.com/disney-lion-king-toniebox-2-sleeve"
-    },
-    {
-      "site": "hamleys_com",
-      "product": "Cloud Pink Bluetooth Headphones For Toniebox 2",
-      "percentage": 25.0,
-      "old_price": "119.99",
-      "new_price": "89.99",
-      "timestamp": "2026-01-21T00:13:36.706898",
-      "url": "https://www.hamleys.com/cloud-pink-bluetooth-headphones-for-toniebox-2"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Fenty Beauty Precision Highlighter Brush 135",
-      "percentage": 25.0,
-      "old_price": "29.00",
-      "new_price": "21.75",
-      "timestamp": "2026-01-21T00:18:08.909823",
-      "url": "https://www.johnlewis.com/fenty-beauty-precision-highlighter-brush-135/p113978298"
-    },
-    {
-      "site": "boden_com",
-      "product": "Suede Jacket-Dark Chocolate",
-      "percentage": 25.0,
-      "old_price": "287.20",
-      "new_price": "215.40",
-      "timestamp": "2026-01-20T21:28:52.576529",
-      "url": "https://www.boden.com/products/women-suede-jacket-dark-chocolate-u0358brn"
-    },
-    {
-      "site": "hoxtonmacs_co_uk",
-      "product": "iPad Pro 13-inch M4 (Wi-Fi) - Fair",
-      "percentage": 22.8,
-      "old_price": "1095.00",
-      "new_price": "845.00",
-      "timestamp": "2026-01-21T00:17:03.801103",
-      "url": "https://www.hoxtonmacs.co.uk/products/ipad-pro-13-inch-m4-wi-fi-fair"
+      "site": "fenwick_co_uk",
+      "product": "Womens Barbour International Halsey Quilted Jacket",
+      "percentage": 28.6,
+      "old_price": "139.30",
+      "new_price": "99.50",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/barbour-international-b-intl-halsey-quilted-jacket-blackblack-lqu1820bk11"
     },
     {
       "site": "fenwick_co_uk",
-      "product": "Collective Starter Pasta Bowl x 2 White 20cm",
-      "percentage": 21.9,
-      "old_price": "25.60",
-      "new_price": "20.00",
-      "timestamp": "2026-01-20T20:04:53.187002",
-      "url": "https://fenwick.co.uk/products/lsa-collective-starter-pasta-bowl-x-2-white"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Mini Scissors with Guard",
-      "percentage": 21.4,
-      "old_price": "7.00",
-      "new_price": "5.50",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/midori-mini-scissors-with-guard"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Bokk Bottle Opener",
-      "percentage": 20.3,
-      "old_price": "59.00",
-      "new_price": "47.00",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/nedre-foss-sigve-knutson-bokk-bottle-opener"
-    },
-    {
-      "site": "rehaus_co_uk",
-      "product": "Hermès Reeditions Dining Table by Jean-Michel Frank",
-      "percentage": 20.3,
-      "old_price": "13800.00",
-      "new_price": "11000.00",
-      "timestamp": "2026-01-20T23:08:39.174321",
-      "url": "https://rehaus.co.uk/products/2576939376"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Christy 400 Thread Count Cotton Sateen Bedding",
-      "percentage": 20.0,
-      "old_price": "12.50",
-      "new_price": "10.00",
-      "timestamp": "2026-01-21T00:18:08.909823",
-      "url": "https://www.johnlewis.com/christy-400-thread-count-cotton-sateen-bedding/p113910280"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Korg Tray",
-      "percentage": 20.0,
-      "old_price": "97.50",
-      "new_price": "78.00",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/nedre-foss-paolo-lucidi-and-luca-pevere-korg-tray"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "Silver Cross Gourmet Highchair",
-      "percentage": 19.3,
-      "old_price": "135.00",
-      "new_price": "109.00",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/silver-cross-gourmet-highchair"
-    },
-    {
-      "site": "rehaus_co_uk",
-      "product": "Hermès Reeditions 3 Seater Leather Sofa by J.M. Frank",
-      "percentage": 18.8,
-      "old_price": "17250.00",
-      "new_price": "14000.00",
-      "timestamp": "2026-01-20T23:08:39.174321",
-      "url": "https://rehaus.co.uk/products/2576934955"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "iCandy Pip Pushchair - Limestone",
-      "percentage": 18.6,
-      "old_price": "429.00",
-      "new_price": "349.00",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/icandy-pip-pushchair-limestone"
-    },
-    {
-      "site": "hoxtonmacs_co_uk",
-      "product": "MacBook Pro 16-inch M2 Pro 12-core (Silver, 2023) - Fair",
-      "percentage": 18.4,
-      "old_price": "1195.00",
-      "new_price": "975.00",
-      "timestamp": "2026-01-21T00:17:03.801103",
-      "url": "https://www.hoxtonmacs.co.uk/products/macbook-pro-16-inch-m2-pro-12-core-silver-2023-fair"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Organic Soap | Cloud",
-      "percentage": 18.2,
-      "old_price": "5.50",
-      "new_price": "4.50",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/studio-arhoj-organic-soap-cloud"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Organic Soap | Beer Mud",
-      "percentage": 18.2,
-      "old_price": "5.50",
-      "new_price": "4.50",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/studio-arhoj-organic-soap-beer-mud"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "iCandy Peach 7 Pushchair and Carrycot Complete Bundle - Porcini",
-      "percentage": 18.2,
-      "old_price": "1249.00",
-      "new_price": "1021.25",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/icandy-peach-7-pushchair-and-carrycot-complete-bundle-porcini"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "iCandy Peach 7 Pushchair and Carrycot Complete Bundle - Coco",
-      "percentage": 17.8,
-      "old_price": "1299.00",
-      "new_price": "1068.00",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/peach-7-coco-pushchair-and-carrycot-complete-bundle"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "iCandy Peach 7 Pushchair and Carrycot Complete Bundle - Biscotti",
-      "percentage": 17.8,
-      "old_price": "1299.00",
-      "new_price": "1068.00",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/peach-7-biscotti-pushchair-and-carrycot-complete-bundle"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "iCandy Pip Pushchair - Black",
-      "percentage": 17.2,
-      "old_price": "428.99",
-      "new_price": "355.00",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/icandy-pip-pushchair"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "Silver Cross Lunar Bedside Crib",
-      "percentage": 17.1,
-      "old_price": "175.00",
-      "new_price": "145.00",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/silver-cross-lunar-bedside-crib"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "Silver Cross Clic 2 Stroller - Latte",
-      "percentage": 16.9,
-      "old_price": "295.00",
-      "new_price": "245.00",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/silver-cross-clic-2-stroller"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "Silver Cross Clic 2 Stroller - Cobble",
-      "percentage": 16.9,
-      "old_price": "295.00",
-      "new_price": "245.00",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/silver-cross-clic-2-stroller-cobble"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "Silver Cross Clic 2 Stroller - Space",
-      "percentage": 16.9,
-      "old_price": "295.00",
-      "new_price": "245.00",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/silver-cross-clic-2-stroller-space"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "Silver Cross Clic 2 Stroller - Conifer",
-      "percentage": 16.9,
-      "old_price": "295.00",
-      "new_price": "245.00",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/silver-cross-clic-2-stroller-conifer"
-    },
-    {
-      "site": "hoxtonmacs_co_uk",
-      "product": "Mac Studio M2 Max 12-core (2023) - Good",
-      "percentage": 16.7,
-      "old_price": "1195.00",
-      "new_price": "995.00",
-      "timestamp": "2026-01-21T00:17:03.801103",
-      "url": "https://www.hoxtonmacs.co.uk/products/mac-studio-m2-max-12-core-2023-good"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Bas Poster 01",
-      "percentage": 16.7,
-      "old_price": "36.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bouroullec-bas-posters"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Window Posters",
-      "percentage": 16.7,
-      "old_price": "36.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/the-wrong-shop-richard-woods-window-posters"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Ronan Bouroullec Poster | Drawing 2",
-      "percentage": 16.7,
-      "old_price": "36.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/ronan-bouroullec-poster-drawing-2"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Ronan Bouroullec Poster | Drawing 9",
-      "percentage": 16.7,
-      "old_price": "36.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bouroullec-poster-drawing-10"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Ronan Bouroullec Poster | Drawing 11",
-      "percentage": 16.7,
-      "old_price": "36.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bouroullec-poster-drawing-11"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Bas Poster 03",
-      "percentage": 16.7,
-      "old_price": "36.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/the-wrong-shop-ronan-bourollec-bas-poster-3"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Kitchen Cleaner Refill",
-      "percentage": 16.7,
-      "old_price": "6.00",
-      "new_price": "5.00",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/kinfill-kitchen-cleaner-refill"
-    },
-    {
-      "site": "boden_com",
-      "product": "Pleated Wool Culottes-Red, Blue and Green Check",
-      "percentage": 16.7,
-      "old_price": "95.40",
-      "new_price": "79.50",
-      "timestamp": "2026-01-20T21:28:52.576529",
-      "url": "https://www.boden.com/products/women-pleated-wool-culottes-red-blue-and-green-check-r0786red"
+      "product": "Womens B.Intl Priya Showerproof Bomber Jacket",
+      "percentage": 28.6,
+      "old_price": "104.30",
+      "new_price": "74.50",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/barbour-international-b-intl-priya-showerproof-bomber-jacket-black-lsp0219bk11"
     },
     {
       "site": "fenwick_co_uk",
-      "product": "lostinflowers Eau de Parfum 100ml",
-      "percentage": 16.7,
-      "old_price": "456.00",
-      "new_price": "380.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
-      "url": "https://fenwick.co.uk/products/strangelove-lostinflowers-edp-100ml"
+      "product": "Womens Barbour International Della Sweat Bomber",
+      "percentage": 28.6,
+      "old_price": "62.97",
+      "new_price": "44.98",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/barbour-international-b-intl-della-sweat-bomber-black-lol0625bk11"
     },
     {
       "site": "fenwick_co_uk",
-      "product": "deadofnight all over oil 100ml",
-      "percentage": 16.7,
-      "old_price": "135.00",
-      "new_price": "112.50",
-      "timestamp": "2026-01-21T00:17:56.903143",
-      "url": "https://fenwick.co.uk/products/strangelove-deadofnight-all-over-oil-100ml"
+      "product": "Womens Printed Olivios Puffer Jacket",
+      "percentage": 28.6,
+      "old_price": "153.30",
+      "new_price": "109.50",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/barbour-international-b-intl-printed-olivios-puffer-jacket-jasmine-leopard-print-lqu1868cr31"
     },
     {
       "site": "fenwick_co_uk",
-      "product": "meltmyheart Eau de Parfum 50ml",
-      "percentage": 16.7,
-      "old_price": "282.00",
-      "new_price": "235.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
-      "url": "https://fenwick.co.uk/products/strangelove-meltmyheart-edp-50ml"
+      "product": "Womens Barbour International Lolita Showerproof Jacket",
+      "percentage": 28.6,
+      "old_price": "125.30",
+      "new_price": "89.50",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/barbour-international-b-intl-lolita-showerproof-jacket-black-lsp0242bk11"
     },
     {
       "site": "fenwick_co_uk",
-      "product": "fallintostars Eau de Parfum 15ml",
-      "percentage": 16.7,
-      "old_price": "111.00",
-      "new_price": "92.50",
-      "timestamp": "2026-01-21T00:17:56.903143",
-      "url": "https://fenwick.co.uk/products/strangelove-fallintostars-edp-15ml"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Gucci Poudre de Beauté Éclat Soleil Bronzing Powder Refill - 01 12g",
-      "percentage": 16.7,
-      "old_price": "20.40",
-      "new_price": "17.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
-      "url": "https://fenwick.co.uk/products/gucci-boutique-gucci-poudre-de-beaute-eclat-soleil-bronzing-powder-refill-01-12g"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "New York Nights Scented Candle",
-      "percentage": 16.7,
-      "old_price": "60.00",
-      "new_price": "50.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
-      "url": "https://fenwick.co.uk/products/bond-no9-new-york-nights-scented-candle"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Scent Of Peace Scented Candle",
-      "percentage": 16.7,
-      "old_price": "60.00",
-      "new_price": "50.00",
-      "timestamp": "2026-01-21T00:17:56.903143",
-      "url": "https://fenwick.co.uk/products/bond-no9-scent-of-peace-scented-candle"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "lostinflowers perfume oil roll-on 10ml",
-      "percentage": 16.7,
-      "old_price": "225.00",
-      "new_price": "187.50",
-      "timestamp": "2026-01-21T00:17:56.903143",
-      "url": "https://fenwick.co.uk/products/strangelove-lostinflowers-perfume-oil-roll-on-10ml"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "meltmyheart perfume oil roll-on 10ml",
-      "percentage": 16.7,
-      "old_price": "225.00",
-      "new_price": "187.50",
-      "timestamp": "2026-01-21T00:17:56.903143",
-      "url": "https://fenwick.co.uk/products/strangelove-meltmyheart-perfume-oil-roll-on-10ml"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "fallintostars perfume oil roll-on 10ml",
-      "percentage": 16.7,
-      "old_price": "225.00",
-      "new_price": "187.50",
-      "timestamp": "2026-01-21T00:17:56.903143",
-      "url": "https://fenwick.co.uk/products/strangelove-fallintostars-perfume-oil-roll-on-10ml"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "iCandy Pip Pushchair - Sunset",
-      "percentage": 16.1,
-      "old_price": "429.00",
-      "new_price": "360.00",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/icandy-pip-pushchair-sunset"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Shanagarry Tea Light Holder",
-      "percentage": 15.8,
-      "old_price": "9.50",
-      "new_price": "8.00",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/stephen-pearce-shanagarry-tea-light-holder"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Urban Layers Card Holder",
-      "percentage": 15.8,
-      "old_price": "9.50",
-      "new_price": "8.00",
-      "timestamp": "2026-01-21T00:17:38.316314",
-      "url": "https://www.twentytwentyone.com/products/urban-layers-card-holder-matone"
-    },
-    {
-      "site": "hauslondon_com",
-      "product": "Folded Shelves by Muuto",
-      "percentage": 15.7,
-      "old_price": "89.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-21T00:18:07.922111",
-      "url": "https://hauslondon.com/products/folded-shelves-by-johan-van-hengel"
-    },
-    {
-      "site": "boden_com",
-      "product": "Slim Pull-On Trousers-Charcoal Cord",
-      "percentage": 15.6,
-      "old_price": "19.20",
-      "new_price": "16.20",
-      "timestamp": "2026-01-20T21:28:52.576529",
-      "url": "https://www.boden.com/products/boys-slim-pull-on-trousers-charcoal-cord-b2795gry"
-    },
-    {
-      "site": "chelseababy_com",
-      "product": "Silver Cross Valencia 2 Piece Nursery Set with Cot Bed and Dresser",
-      "percentage": 15.5,
-      "old_price": "645.00",
-      "new_price": "545.00",
-      "timestamp": "2026-01-21T00:18:04.380650",
-      "url": "https://chelseababy.com/products/silver-cross-valencia-2-piece-nursery-set-with-cot-bed-and-dresser"
-    },
-    {
-      "site": "hauslondon_com",
-      "product": "Rime Pendant by Muuto",
-      "percentage": 15.4,
-      "old_price": "195.00",
-      "new_price": "165.00",
-      "timestamp": "2026-01-21T00:18:07.922111",
-      "url": "https://hauslondon.com/products/rime-pendant-by-taf-studio-for-muuto"
-    },
-    {
-      "site": "hauslondon_com",
-      "product": "Fluid Pendant Light by Muuto",
-      "percentage": 15.4,
-      "old_price": "195.00",
-      "new_price": "165.00",
-      "timestamp": "2026-01-21T00:18:07.922111",
-      "url": "https://hauslondon.com/products/fluid-pendant-light-by-claesson-koivisto-rune"
-    },
-    {
-      "site": "hauslondon_com",
-      "product": "Unfold Pendant by Muuto",
-      "percentage": 15.4,
-      "old_price": "195.00",
-      "new_price": "165.00",
-      "timestamp": "2026-01-21T00:18:07.922111",
-      "url": "https://hauslondon.com/products/unfold-by-muuto"
-    },
-    {
-      "site": "hauslondon_com",
-      "product": "Stacked Storage System 2.0 by Muuto",
-      "percentage": 15.4,
-      "old_price": "149.00",
-      "new_price": "126.00",
-      "timestamp": "2026-01-21T00:18:07.922111",
-      "url": "https://hauslondon.com/products/stacked-storage-system-2-0-by-julien-de-smedt-for-muuto"
-    },
-    {
-      "site": "hauslondon_com",
-      "product": "Mini Stacked Storage System 2.0 by Muuto",
-      "percentage": 15.4,
-      "old_price": "149.00",
-      "new_price": "126.00",
-      "timestamp": "2026-01-21T00:18:07.922111",
-      "url": "https://hauslondon.com/products/mini-stacked-storage-system-2-0-by-julien-de-smedt-for-muuto"
-    },
-    {
-      "site": "hauslondon_com",
-      "product": "Tip Wall Lamp by Muuto",
-      "percentage": 15.4,
-      "old_price": "175.00",
-      "new_price": "148.00",
-      "timestamp": "2026-01-21T00:18:07.922111",
-      "url": "https://hauslondon.com/products/tip-wall-lamp-by-muuto"
+      "product": "Womens Barbour International Diablo Quilted Sweat Black",
+      "percentage": 28.6,
+      "old_price": "90.30",
+      "new_price": "64.50",
+      "timestamp": "2026-01-21T00:23:14.029067",
+      "url": "https://fenwick.co.uk/products/barbour-international-b-intl-diablo-quilted-sweat-black-lqs0063bk11"
     }
   ]
 }

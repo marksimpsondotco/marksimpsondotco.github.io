@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T10:40:16.685858",
-  "total_drops": 2656,
+  "generated_at": "2026-01-21T10:45:42.006659",
+  "total_drops": 2664,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "currys_com",
-      "count": 894,
+      "count": 896,
       "max_drop": 61.4,
-      "total_savings": 60480.78
+      "total_savings": 60581.78
     },
     {
       "site": "fenwick_co_uk",
@@ -29,9 +29,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 33,
-      "max_drop": 41.3,
-      "total_savings": 1141.47
+      "count": 39,
+      "max_drop": 41.5,
+      "total_savings": 1325.97
     },
     {
       "site": "rehaus_co_uk",

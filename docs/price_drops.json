@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T14:50:12.767998",
-  "total_drops": 2838,
+  "generated_at": "2026-01-21T14:55:38.293813",
+  "total_drops": 2841,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 266,
+      "count": 268,
       "max_drop": 72.8,
-      "total_savings": 6631.79
+      "total_savings": 6710.79
     },
     {
       "site": "leaderonline_com",
@@ -71,9 +71,9 @@
     },
     {
       "site": "twentytwentyone_com",
-      "count": 61,
+      "count": 62,
       "max_drop": 30.0,
-      "total_savings": 362.0
+      "total_savings": 380.0
     },
     {
       "site": "chelseababy_com",
@@ -185,7 +185,7 @@
       "percentage": 78.4,
       "old_price": "37.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-21T14:50:08.982739",
+      "timestamp": "2026-01-21T14:55:35.991514",
       "url": "https://dusk.com/products/axel-handwoven-stripe-natural"
     },
     {
@@ -214,6 +214,24 @@
       "new_price": "75.00",
       "timestamp": "2026-01-21T13:30:06.705404",
       "url": "https://www.johnlewis.com/john-lewis-kastrup-rug/p5136378"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty Breathe Easy Long Sleeve Top",
+      "percentage": 69.2,
+      "old_price": "65.00",
+      "new_price": "20.00",
+      "timestamp": "2026-01-21T14:55:14.077598",
+      "url": "https://www.johnlewis.com/sweaty-betty-breathe-easy-long-sleeve-top/p113350484"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty After Class Longline Sweatshirt",
+      "percentage": 68.0,
+      "old_price": "50.00",
+      "new_price": "16.00",
+      "timestamp": "2026-01-21T14:55:14.077598",
+      "url": "https://www.johnlewis.com/sweaty-betty-after-class-longline-sweatshirt/p110202256"
     },
     {
       "site": "johnlewis_com",
@@ -311,7 +329,7 @@
       "percentage": 52.2,
       "old_price": "135.00",
       "new_price": "64.50",
-      "timestamp": "2026-01-21T14:49:53.153441",
+      "timestamp": "2026-01-21T14:55:14.077598",
       "url": "https://www.johnlewis.com/lauren-ralph-lauren-keaton-tote-bag/p113887158"
     },
     {
@@ -320,7 +338,7 @@
       "percentage": 50.9,
       "old_price": "53.00",
       "new_price": "26.00",
-      "timestamp": "2026-01-21T14:49:53.153441",
+      "timestamp": "2026-01-21T14:55:14.077598",
       "url": "https://www.johnlewis.com/dune-london-greysons-leather-tassle-loafers/p113118994"
     },
     {
@@ -860,7 +878,7 @@
       "percentage": 46.4,
       "old_price": "16.80",
       "new_price": "9.00",
-      "timestamp": "2026-01-21T14:50:08.982739",
+      "timestamp": "2026-01-21T14:55:35.991514",
       "url": "https://dusk.com/products/washed-cotton-plain-dye-duvet-cover-set-almond"
     },
     {
@@ -896,7 +914,7 @@
       "percentage": 45.5,
       "old_price": "39.00",
       "new_price": "21.25",
-      "timestamp": "2026-01-21T14:49:53.153441",
+      "timestamp": "2026-01-21T14:55:14.077598",
       "url": "https://www.johnlewis.com/hush-emily-puff-sleeve-cotton-jersey-top/p109960287"
     },
     {
@@ -1060,24 +1078,6 @@
       "new_price": "4.50",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/name-it-mini-nmmhakki-nreg-shorts-unb-slate-gray-13243182"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Shark RV2800ZEUKWH PowerDetect NeverTouch Pro 2-in-1 Robot Vacuum Cleaner & Mop, White Mocha",
-      "percentage": 43.7,
-      "old_price": "799.00",
-      "new_price": "449.99",
-      "timestamp": "2026-01-21T10:34:14.756989",
-      "url": "https://www.johnlewis.com/shark-rv2800zeukwh-powerdetect-nevertouch-pro-2-in-1-robot-vacuum-cleaner-mop-white-mocha/p114473168"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "SYMMETRY COURT VINYL 80",
-      "percentage": 43.5,
-      "old_price": "69.00",
-      "new_price": "39.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/gold-symmetry-court-vinyl-80-2413561979"
     }
   ]
 }

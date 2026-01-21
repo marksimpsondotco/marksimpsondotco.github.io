@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T12:23:34.125825",
-  "total_drops": 2721,
+  "generated_at": "2026-01-21T12:28:58.624452",
+  "total_drops": 2725,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 40,
+      "count": 43,
       "max_drop": 41.5,
-      "total_savings": 1555.97
+      "total_savings": 1607.97
     },
     {
       "site": "rehaus_co_uk",
@@ -119,9 +119,9 @@
     },
     {
       "site": "leaderonline_com",
-      "count": 5,
+      "count": 6,
       "max_drop": 11.7,
-      "total_savings": 38.0
+      "total_savings": 58.0
     },
     {
       "site": "mamasandpapas_com",

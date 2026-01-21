@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-21T23:26:23.474448",
-  "total_drops": 4,
-  "top_drops_shown": 4,
+  "generated_at": "2026-01-21T23:31:25.276065",
+  "total_drops": 5,
+  "top_drops_shown": 5,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
@@ -10,16 +10,16 @@
       "total_savings": 83.0
     },
     {
+      "site": "dusk_com",
+      "count": 2,
+      "max_drop": 50.0,
+      "total_savings": 9.0
+    },
+    {
       "site": "flannels_com",
       "count": 1,
       "max_drop": 20.1,
       "total_savings": 70.0
-    },
-    {
-      "site": "dusk_com",
-      "count": 1,
-      "max_drop": 14.3,
-      "total_savings": 4.0
     }
   ],
   "drops": [
@@ -29,7 +29,7 @@
       "percentage": 55.0,
       "old_price": "60.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-21T23:26:21.922368",
+      "timestamp": "2026-01-21T23:31:12.092058",
       "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
     },
     {
@@ -38,8 +38,17 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-21T23:26:21.922368",
+      "timestamp": "2026-01-21T23:31:12.092058",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
+    },
+    {
+      "site": "dusk_com",
+      "product": "Antigua Soft Fine Ribbed Towel Collection - Fern",
+      "percentage": 50.0,
+      "old_price": "10.00",
+      "new_price": "5.00",
+      "timestamp": "2026-01-21T23:30:59.728446",
+      "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
       "site": "flannels_com",
@@ -47,7 +56,7 @@
       "percentage": 20.1,
       "old_price": "349.00",
       "new_price": "279.00",
-      "timestamp": "2026-01-21T23:26:22.357478",
+      "timestamp": "2026-01-21T23:31:21.799642",
       "url": "https://www.flannels.com/hugo-womens-antegi-red-blazer-558061"
     },
     {
@@ -56,7 +65,7 @@
       "percentage": 14.3,
       "old_price": "28.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-21T23:26:18.597678",
+      "timestamp": "2026-01-21T23:30:59.728446",
       "url": "https://dusk.com/products/linen-cotton-blend-duvet-cover-chalk-white"
     }
   ]

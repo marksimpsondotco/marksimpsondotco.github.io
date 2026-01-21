@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T15:06:52.117194",
-  "total_drops": 2844,
+  "generated_at": "2026-01-21T15:12:16.372682",
+  "total_drops": 2845,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -71,9 +71,9 @@
     },
     {
       "site": "twentytwentyone_com",
-      "count": 65,
+      "count": 66,
       "max_drop": 30.0,
-      "total_savings": 1146.0
+      "total_savings": 1152.0
     },
     {
       "site": "chelseababy_com",

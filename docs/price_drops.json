@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-21T09:57:41.302644",
-  "total_drops": 2526,
+  "generated_at": "2026-01-21T10:03:00.787654",
+  "total_drops": 2573,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 197,
+      "count": 200,
       "max_drop": 67.4,
-      "total_savings": 3893.36
+      "total_savings": 4444.06
     },
     {
       "site": "currys_com",
-      "count": 799,
+      "count": 843,
       "max_drop": 61.4,
-      "total_savings": 54171.57
+      "total_savings": 58582.57
     },
     {
       "site": "fenwick_co_uk",
@@ -500,7 +500,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T09:57:25.512137",
+      "timestamp": "2026-01-21T10:02:53.201591",
       "url": "https://www.currys.co.uk/products/10287619.html"
     },
     {
@@ -509,7 +509,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T09:57:25.512137",
+      "timestamp": "2026-01-21T10:02:53.201591",
       "url": "https://www.currys.co.uk/products/10291986.html"
     },
     {
@@ -628,6 +628,15 @@
       "new_price": "58.00",
       "timestamp": "2026-01-21T05:25:51.064438",
       "url": "https://www.johnlewis.com/reiss-lorna-drape-knit-top/p113930228"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Samsung Jet 60 Turbo Lightweight Cordless Vacuum Cleaner, Teal Violet",
+      "percentage": 47.0,
+      "old_price": "300.00",
+      "new_price": "159.00",
+      "timestamp": "2026-01-21T10:02:44.529382",
+      "url": "https://www.johnlewis.com/samsung-jet-60-turbo-lightweight-cordless-vacuum-cleaner-teal-violet/p109516095"
     },
     {
       "site": "currys_com",
@@ -1051,15 +1060,6 @@
       "new_price": "7.00",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/vero-moda-vmodea-hw-shorts-wvn-girl-snow-white-10330181"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Mila Hooded Jacket Lilac",
-      "percentage": 41.7,
-      "old_price": "18.00",
-      "new_price": "10.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/name-it-nbfmila-jacket-hood-pb-lilas-13241678"
     }
   ]
 }

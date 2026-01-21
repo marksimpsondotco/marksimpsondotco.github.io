@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-21T10:13:40.259005",
-  "total_drops": 2626,
+  "generated_at": "2026-01-21T10:18:59.890534",
+  "total_drops": 2648,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 201,
+      "count": 208,
       "max_drop": 67.4,
-      "total_savings": 4471.06
+      "total_savings": 5262.18
     },
     {
       "site": "currys_com",
-      "count": 881,
+      "count": 892,
       "max_drop": 61.4,
-      "total_savings": 60257.38
+      "total_savings": 60406.77
     },
     {
       "site": "fenwick_co_uk",
@@ -29,9 +29,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 30,
+      "count": 33,
       "max_drop": 41.3,
-      "total_savings": 1088.47
+      "total_savings": 1141.47
     },
     {
       "site": "rehaus_co_uk",
@@ -130,6 +130,12 @@
       "total_savings": 208.98
     },
     {
+      "site": "condorcycles_com",
+      "count": 1,
+      "max_drop": 9.1,
+      "total_savings": 5.0
+    },
+    {
       "site": "smallsmart_co_uk",
       "count": 2,
       "max_drop": 6.5,
@@ -194,7 +200,7 @@
       "percentage": 60.0,
       "old_price": "45.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-21T10:13:22.911006",
+      "timestamp": "2026-01-21T10:18:42.636976",
       "url": "https://www.johnlewis.com/john-lewis-ara-leather-flapover-purse/p110947397"
     },
     {
@@ -203,7 +209,7 @@
       "percentage": 58.9,
       "old_price": "180.00",
       "new_price": "73.99",
-      "timestamp": "2026-01-21T08:38:23.174348",
+      "timestamp": "2026-01-21T10:18:53.929919",
       "url": "https://www.currys.co.uk/products/10220114.html"
     },
     {
@@ -230,7 +236,7 @@
       "percentage": 50.2,
       "old_price": "215.00",
       "new_price": "107.00",
-      "timestamp": "2026-01-21T10:13:32.250722",
+      "timestamp": "2026-01-21T10:18:53.929919",
       "url": "https://www.currys.co.uk/products/10167967.html"
     },
     {
@@ -518,7 +524,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T10:13:32.250722",
+      "timestamp": "2026-01-21T10:18:53.929919",
       "url": "https://www.currys.co.uk/products/10287619.html"
     },
     {
@@ -527,7 +533,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T10:13:32.250722",
+      "timestamp": "2026-01-21T10:18:53.929919",
       "url": "https://www.currys.co.uk/products/10291986.html"
     },
     {
@@ -653,7 +659,7 @@
       "percentage": 47.0,
       "old_price": "300.00",
       "new_price": "159.00",
-      "timestamp": "2026-01-21T10:13:22.911006",
+      "timestamp": "2026-01-21T10:18:42.636976",
       "url": "https://www.johnlewis.com/samsung-jet-60-turbo-lightweight-cordless-vacuum-cleaner-teal-violet/p109516095"
     },
     {
@@ -835,6 +841,15 @@
       "new_price": "4.50",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/name-it-mini-nmmhakki-nreg-shorts-unb-slate-gray-13243182"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Shark RV2800ZEUKWH PowerDetect NeverTouch Pro 2-in-1 Robot Vacuum Cleaner & Mop, White Mocha",
+      "percentage": 43.7,
+      "old_price": "799.00",
+      "new_price": "449.99",
+      "timestamp": "2026-01-21T10:18:42.636976",
+      "url": "https://www.johnlewis.com/shark-rv2800zeukwh-powerdetect-nevertouch-pro-2-in-1-robot-vacuum-cleaner-mop-white-mocha/p114473168"
     },
     {
       "site": "fenwick_co_uk",
@@ -1051,15 +1066,6 @@
       "new_price": "10.50",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/great-pretenders-the-audrey-5-piece-set-audrey-85014"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Lenora Denim Shirt Girl Leopard Print",
-      "percentage": 41.7,
-      "old_price": "24.00",
-      "new_price": "14.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/vero-moda-vmlenora-hayden-ls-leo-denim-shirt-girl-brushed-nickel-10332590"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T12:34:21.261896",
-  "total_drops": 2727,
+  "generated_at": "2026-01-21T12:39:41.917184",
+  "total_drops": 2728,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 43,
+      "count": 44,
       "max_drop": 41.5,
-      "total_savings": 1607.97
+      "total_savings": 1737.97
     },
     {
       "site": "rehaus_co_uk",
@@ -188,7 +188,7 @@
       "percentage": 66.7,
       "old_price": "3.00",
       "new_price": "1.00",
-      "timestamp": "2026-01-21T12:33:51.608607",
+      "timestamp": "2026-01-21T12:39:08.563228",
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {

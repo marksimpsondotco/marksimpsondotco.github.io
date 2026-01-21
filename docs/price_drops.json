@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-21T23:11:18.064482",
-  "total_drops": 3,
-  "top_drops_shown": 3,
+  "generated_at": "2026-01-21T23:16:19.964009",
+  "total_drops": 4,
+  "top_drops_shown": 4,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
@@ -14,6 +14,12 @@
       "count": 1,
       "max_drop": 20.1,
       "total_savings": 70.0
+    },
+    {
+      "site": "dusk_com",
+      "count": 1,
+      "max_drop": 14.3,
+      "total_savings": 4.0
     }
   ],
   "drops": [
@@ -23,7 +29,7 @@
       "percentage": 55.0,
       "old_price": "60.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-21T23:10:59.126581",
+      "timestamp": "2026-01-21T23:16:00.306400",
       "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
     },
     {
@@ -32,7 +38,7 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-21T23:10:59.126581",
+      "timestamp": "2026-01-21T23:16:00.306400",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
     },
     {
@@ -41,8 +47,17 @@
       "percentage": 20.1,
       "old_price": "349.00",
       "new_price": "279.00",
-      "timestamp": "2026-01-21T23:11:13.745986",
+      "timestamp": "2026-01-21T23:16:13.928287",
       "url": "https://www.flannels.com/hugo-womens-antegi-red-blazer-558061"
+    },
+    {
+      "site": "dusk_com",
+      "product": "Linen Cotton Blend Duvet Cover - Chalk White",
+      "percentage": 14.3,
+      "old_price": "28.00",
+      "new_price": "24.00",
+      "timestamp": "2026-01-21T23:16:19.906907",
+      "url": "https://dusk.com/products/linen-cotton-blend-duvet-cover-chalk-white"
     }
   ]
 }

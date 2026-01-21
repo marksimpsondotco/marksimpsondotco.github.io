@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T13:44:53.595348",
-  "total_drops": 2760,
+  "generated_at": "2026-01-21T13:50:15.247674",
+  "total_drops": 2765,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 240,
+      "count": 244,
       "max_drop": 72.8,
-      "total_savings": 6147.79
+      "total_savings": 6212.99
     },
     {
       "site": "leaderonline_com",
@@ -113,9 +113,9 @@
     },
     {
       "site": "berrysjewellers_co_uk",
-      "count": 2,
+      "count": 3,
       "max_drop": 16.7,
-      "total_savings": 1020.0
+      "total_savings": 1022.5
     },
     {
       "site": "hauslondon_com",
@@ -185,7 +185,7 @@
       "percentage": 78.4,
       "old_price": "37.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-21T13:44:18.222574",
+      "timestamp": "2026-01-21T13:50:02.151485",
       "url": "https://dusk.com/products/axel-handwoven-stripe-natural"
     },
     {
@@ -194,7 +194,7 @@
       "percentage": 72.8,
       "old_price": "65.00",
       "new_price": "17.70",
-      "timestamp": "2026-01-21T13:44:37.847464",
+      "timestamp": "2026-01-21T13:49:59.099822",
       "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
     },
     {
@@ -230,7 +230,7 @@
       "percentage": 66.7,
       "old_price": "3.00",
       "new_price": "1.00",
-      "timestamp": "2026-01-21T13:44:27.839607",
+      "timestamp": "2026-01-21T13:49:41.570113",
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
@@ -437,8 +437,17 @@
       "percentage": 50.0,
       "old_price": "74.95",
       "new_price": "37.48",
-      "timestamp": "2026-01-21T13:44:37.847464",
+      "timestamp": "2026-01-21T13:49:59.099822",
       "url": "https://www.johnlewis.com/roka-london-canfield-b-recycled-nylon-rolltop-backpack-15l/p112395052"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Barbour Grangetown Crew Neck Jumper, Inky Blue",
+      "percentage": 50.0,
+      "old_price": "89.95",
+      "new_price": "45.00",
+      "timestamp": "2026-01-21T13:49:59.099822",
+      "url": "https://www.johnlewis.com/barbour-grangetown-crew-neck-jumper-inky-blue/p112355231"
     },
     {
       "site": "fenwick_co_uk",
@@ -1069,15 +1078,6 @@
       "new_price": "8.00",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/mayoral-printed-camo-pullover-cereal-4403"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Ninna Long Sleeve Top Sweet Dreams",
-      "percentage": 42.9,
-      "old_price": "7.00",
-      "new_price": "4.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/name-it-mini-nmfninna-ls-top-box-sweet-dreams-13246641"
     }
   ]
 }

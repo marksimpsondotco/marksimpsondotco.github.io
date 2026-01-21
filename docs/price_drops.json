@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T16:01:18.493773",
-  "total_drops": 2881,
+  "generated_at": "2026-01-21T16:06:40.836310",
+  "total_drops": 2887,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 281,
+      "count": 287,
       "max_drop": 72.8,
-      "total_savings": 7017.09
+      "total_savings": 7187.25
     },
     {
       "site": "currys_com",
@@ -200,7 +200,7 @@
       "percentage": 75.0,
       "old_price": "4.00",
       "new_price": "1.00",
-      "timestamp": "2026-01-21T16:00:55.124642",
+      "timestamp": "2026-01-21T16:06:08.970971",
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
@@ -979,6 +979,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Radley Dukes Place Leather Medium Grab Bag",
+      "percentage": 44.7,
+      "old_price": "239.00",
+      "new_price": "132.09",
+      "timestamp": "2026-01-21T16:06:20.360827",
+      "url": "https://www.johnlewis.com/radley-dukes-place-leather-medium-grab-bag/p112737126"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Sophia Pure Linen Drum Lampshade",
       "percentage": 44.4,
       "old_price": "45.00",
@@ -1075,15 +1084,6 @@
       "new_price": "4.50",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/name-it-nbfolpa-ls-teddy-sweat-cloud-dancer-13247490"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Sprinkle of Christmas Activity Book",
-      "percentage": 43.8,
-      "old_price": "8.00",
-      "new_price": "4.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/mamas-papas-activity-book-sprinkle-of-xmas-xmas-red-25-75587xm00"
     }
   ]
 }

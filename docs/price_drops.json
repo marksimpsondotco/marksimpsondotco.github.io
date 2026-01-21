@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T11:45:34.136821",
-  "total_drops": 2718,
+  "generated_at": "2026-01-21T11:50:54.562139",
+  "total_drops": 2720,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -113,9 +113,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 24,
+      "count": 26,
       "max_drop": 12.4,
-      "total_savings": 490.6
+      "total_savings": 493.6
     },
     {
       "site": "leaderonline_com",

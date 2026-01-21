@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-21T12:56:11.090344",
-  "total_drops": 2739,
+  "generated_at": "2026-01-21T13:01:31.785883",
+  "total_drops": 2744,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 221,
+      "count": 226,
       "max_drop": 67.4,
-      "total_savings": 5520.39
+      "total_savings": 5725.86
     },
     {
       "site": "leaderonline_com",
@@ -194,7 +194,7 @@
       "percentage": 66.7,
       "old_price": "3.00",
       "new_price": "1.00",
-      "timestamp": "2026-01-21T12:55:45.703243",
+      "timestamp": "2026-01-21T13:01:12.826092",
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
@@ -257,7 +257,7 @@
       "percentage": 55.0,
       "old_price": "30.00",
       "new_price": "13.50",
-      "timestamp": "2026-01-21T12:55:53.883471",
+      "timestamp": "2026-01-21T13:01:14.990877",
       "url": "https://www.johnlewis.com/john-lewis-penbury-floral-pleated-tapered-lampshade/p113282535"
     },
     {
@@ -331,6 +331,15 @@
       "new_price": "49.50",
       "timestamp": "2026-01-21T05:25:51.064438",
       "url": "https://www.johnlewis.com/boden-edie-fair-isle-wool-blend-tank-top-multi/p113927526"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "UGG Classic Mini II Short Sheepskin Boots",
+      "percentage": 50.0,
+      "old_price": "165.00",
+      "new_price": "82.50",
+      "timestamp": "2026-01-21T13:01:14.990877",
+      "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
     },
     {
       "site": "johnlewis_com",
@@ -730,6 +739,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Le Creuset Stoneware Classic Rectangular Oven Dish",
+      "percentage": 46.2,
+      "old_price": "39.00",
+      "new_price": "21.00",
+      "timestamp": "2026-01-21T13:01:14.990877",
+      "url": "https://www.johnlewis.com/le-creuset-stoneware-classic-rectangular-oven-dish/p5313862"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Mint Velvet Short Sleeve T-Shirt",
       "percentage": 45.7,
       "old_price": "35.00",
@@ -770,7 +788,7 @@
       "percentage": 44.4,
       "old_price": "45.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T12:55:53.883471",
+      "timestamp": "2026-01-21T13:01:14.990877",
       "url": "https://www.johnlewis.com/john-lewis-sophia-pure-linen-drum-lampshade/p5071078"
     },
     {
@@ -1060,24 +1078,6 @@
       "new_price": "7.50",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/vero-moda-vmodea-24-tie-top-wvn-girl-snow-white-10330124"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Leopard Print Cotton Jeans",
-      "percentage": 42.3,
-      "old_price": "13.00",
-      "new_price": "7.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/name-it-mini-nmfbella-wide-leo-twi-pants-3270-hp-mockingbird-13244727"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Brora Houndstooth Flared Pure Wool Trousers, Biscuit",
-      "percentage": 42.2,
-      "old_price": "275.00",
-      "new_price": "159.00",
-      "timestamp": "2026-01-21T05:25:51.064438",
-      "url": "https://www.johnlewis.com/brora-houndstooth-flared-pure-wool-trousers-biscuit/p114599786"
     }
   ]
 }

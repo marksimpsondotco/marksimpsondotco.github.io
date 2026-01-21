@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T20:57:10.134662",
-  "total_drops": 3027,
+  "generated_at": "2026-01-21T21:02:34.788206",
+  "total_drops": 3030,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "condorcycles_com",
-      "count": 2,
+      "count": 5,
       "max_drop": 46.4,
-      "total_savings": 18.0
+      "total_savings": 168.0
     },
     {
       "site": "flannels_com",
@@ -374,7 +374,7 @@
       "percentage": 53.3,
       "old_price": "7.50",
       "new_price": "3.50",
-      "timestamp": "2026-01-21T20:56:35.302851",
+      "timestamp": "2026-01-21T21:01:31.024280",
       "url": "https://www.pigletinbed.com/products/elm-green-plain-organic-cotton-towel"
     },
     {
@@ -797,7 +797,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T20:56:27.033533",
+      "timestamp": "2026-01-21T21:02:09.859535",
       "url": "https://fenwick.co.uk/products/libra-interiors-smoke-mandala-pattern-smoked-mirrored-box-705997"
     },
     {
@@ -986,7 +986,7 @@
       "percentage": 46.4,
       "old_price": "27.99",
       "new_price": "14.99",
-      "timestamp": "2026-01-21T20:56:43.966911",
+      "timestamp": "2026-01-21T21:01:52.531988",
       "url": "https://www.condorcycles.com/products/shimano-cn-m6100-deore-chain-with-quick-link"
     },
     {

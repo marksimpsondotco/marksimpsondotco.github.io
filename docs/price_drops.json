@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T09:20:11.550986",
-  "total_drops": 2367,
+  "generated_at": "2026-01-21T09:25:30.608911",
+  "total_drops": 2385,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "currys_com",
-      "count": 649,
+      "count": 667,
       "max_drop": 61.4,
-      "total_savings": 44232.31
+      "total_savings": 45230.52
     },
     {
       "site": "fenwick_co_uk",
@@ -221,7 +221,7 @@
       "percentage": 50.2,
       "old_price": "299.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-21T09:20:04.831995",
+      "timestamp": "2026-01-21T09:25:18.440887",
       "url": "https://www.currys.co.uk/products/10282606.html"
     },
     {
@@ -585,6 +585,24 @@
       "url": "https://www.currys.co.uk/products/10221445.html"
     },
     {
+      "site": "currys_com",
+      "product": "SAMSUNG Series 4 Dual Cook Flex NV7B45205AS/U4 Electric",
+      "percentage": 48.2,
+      "old_price": "519.00",
+      "new_price": "269.00",
+      "timestamp": "2026-01-21T09:25:18.440887",
+      "url": "https://www.currys.co.uk/products/10239672.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "SALTER EK4294F 4-in-1 Juicer & Blender Set - Black",
+      "percentage": 47.8,
+      "old_price": "79.99",
+      "new_price": "41.79",
+      "timestamp": "2026-01-21T09:25:18.440887",
+      "url": "https://www.currys.co.uk/products/10287480.html"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Reiss Lorna Drape Knit Top",
       "percentage": 47.3,
@@ -599,7 +617,7 @@
       "percentage": 46.7,
       "old_price": "59.99",
       "new_price": "31.99",
-      "timestamp": "2026-01-21T09:20:04.831995",
+      "timestamp": "2026-01-21T09:25:18.440887",
       "url": "https://www.currys.co.uk/products/10265210.html"
     },
     {
@@ -635,7 +653,7 @@
       "percentage": 45.5,
       "old_price": "21.99",
       "new_price": "11.99",
-      "timestamp": "2026-01-21T09:20:04.831995",
+      "timestamp": "2026-01-21T09:25:18.440887",
       "url": "https://www.currys.co.uk/products/10210267.html"
     },
     {
@@ -887,7 +905,7 @@
       "percentage": 42.9,
       "old_price": "174.99",
       "new_price": "99.99",
-      "timestamp": "2026-01-21T09:20:04.831995",
+      "timestamp": "2026-01-21T09:25:18.440887",
       "url": "https://www.currys.co.uk/products/10226574.html"
     },
     {
@@ -968,7 +986,7 @@
       "percentage": 42.0,
       "old_price": "59.99",
       "new_price": "34.79",
-      "timestamp": "2026-01-21T09:20:04.831995",
+      "timestamp": "2026-01-21T09:25:18.440887",
       "url": "https://www.currys.co.uk/products/10275235.html"
     },
     {
@@ -1042,24 +1060,6 @@
       "new_price": "17.00",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/emile-et-rose-kipling-knit-2pc-bear-fairisle-jumper-leggings-hat-stone-6512st-25w"
-    },
-    {
-      "site": "flannels_com",
-      "product": "COLE BUXTON - Distressed Cotton Shorts",
-      "percentage": 41.3,
-      "old_price": "75.00",
-      "new_price": "44.00",
-      "timestamp": "2026-01-21T01:20:04.322629",
-      "url": "https://www.flannels.com/cole-buxton-distressed-cotton-shorts-327536"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Soft Denim Coat",
-      "percentage": 41.3,
-      "old_price": "23.00",
-      "new_price": "13.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/mayoral-soft-denim-coat-denim-4442"
     }
   ]
 }

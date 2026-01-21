@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T13:39:11.990486",
-  "total_drops": 2754,
+  "generated_at": "2026-01-21T13:44:33.184833",
+  "total_drops": 2760,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 234,
-      "max_drop": 70.0,
-      "total_savings": 6009.22
+      "count": 240,
+      "max_drop": 72.8,
+      "total_savings": 6147.79
     },
     {
       "site": "leaderonline_com",
@@ -185,8 +185,17 @@
       "percentage": 78.4,
       "old_price": "37.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-21T13:39:09.239241",
+      "timestamp": "2026-01-21T13:44:18.222574",
       "url": "https://dusk.com/products/axel-handwoven-stripe-natural"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Harrietta Mary Jane Leather Pumps",
+      "percentage": 72.8,
+      "old_price": "65.00",
+      "new_price": "17.70",
+      "timestamp": "2026-01-21T13:44:15.420440",
+      "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
     },
     {
       "site": "johnlewis_com",
@@ -221,7 +230,7 @@
       "percentage": 66.7,
       "old_price": "3.00",
       "new_price": "1.00",
-      "timestamp": "2026-01-21T13:38:41.059231",
+      "timestamp": "2026-01-21T13:44:03.004432",
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
@@ -421,6 +430,15 @@
       "new_price": "7.00",
       "timestamp": "2026-01-21T07:39:46.387484",
       "url": "https://www.johnlewis.com/small-stuff-kids-faux-fur-leopard-print-mittens-multi/p114247014"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "ROKA London Canfield B Recycled Nylon Rolltop Backpack, 15L",
+      "percentage": 50.0,
+      "old_price": "74.95",
+      "new_price": "37.48",
+      "timestamp": "2026-01-21T13:44:15.420440",
+      "url": "https://www.johnlewis.com/roka-london-canfield-b-recycled-nylon-rolltop-backpack-15l/p112395052"
     },
     {
       "site": "fenwick_co_uk",
@@ -1060,24 +1078,6 @@
       "new_price": "4.00",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/name-it-mini-nmfninna-ls-top-box-sweet-dreams-13246641"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Ninna Long Sleeve Top Blueprint",
-      "percentage": 42.9,
-      "old_price": "7.00",
-      "new_price": "4.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/name-it-mini-nmfninna-ls-top-box-blueprint-13246641"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Organic Cotton Long Sleeved Body Suit",
-      "percentage": 42.9,
-      "old_price": "7.00",
-      "new_price": "4.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/name-it-nbfhoise-ls-body-cloud-dancer-13242881"
     }
   ]
 }

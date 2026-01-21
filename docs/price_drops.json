@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T09:52:21.410313",
-  "total_drops": 2471,
+  "generated_at": "2026-01-21T09:57:41.302644",
+  "total_drops": 2526,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "currys_com",
-      "count": 745,
+      "count": 799,
       "max_drop": 61.4,
-      "total_savings": 50475.32
+      "total_savings": 54171.57
     },
     {
       "site": "fenwick_co_uk",
@@ -89,9 +89,9 @@
     },
     {
       "site": "rehaus_co_uk",
-      "count": 3,
+      "count": 4,
       "max_drop": 20.3,
-      "total_savings": 6350.0
+      "total_savings": 6448.0
     },
     {
       "site": "chelseababy_com",
@@ -500,7 +500,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T09:52:09.908309",
+      "timestamp": "2026-01-21T09:57:25.512137",
       "url": "https://www.currys.co.uk/products/10287619.html"
     },
     {
@@ -509,7 +509,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T09:52:09.908309",
+      "timestamp": "2026-01-21T09:57:25.512137",
       "url": "https://www.currys.co.uk/products/10291986.html"
     },
     {

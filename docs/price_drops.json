@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-21T13:01:31.785883",
-  "total_drops": 2744,
+  "generated_at": "2026-01-21T13:06:51.246082",
+  "total_drops": 2748,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 226,
+      "count": 230,
       "max_drop": 67.4,
-      "total_savings": 5725.86
+      "total_savings": 5764.72
     },
     {
       "site": "leaderonline_com",
@@ -194,7 +194,7 @@
       "percentage": 66.7,
       "old_price": "3.00",
       "new_price": "1.00",
-      "timestamp": "2026-01-21T13:01:12.826092",
+      "timestamp": "2026-01-21T13:06:17.614634",
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
@@ -257,7 +257,7 @@
       "percentage": 55.0,
       "old_price": "30.00",
       "new_price": "13.50",
-      "timestamp": "2026-01-21T13:01:14.990877",
+      "timestamp": "2026-01-21T13:06:34.242947",
       "url": "https://www.johnlewis.com/john-lewis-penbury-floral-pleated-tapered-lampshade/p113282535"
     },
     {
@@ -338,7 +338,7 @@
       "percentage": 50.0,
       "old_price": "165.00",
       "new_price": "82.50",
-      "timestamp": "2026-01-21T13:01:14.990877",
+      "timestamp": "2026-01-21T13:06:34.242947",
       "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
     },
     {
@@ -743,7 +743,7 @@
       "percentage": 46.2,
       "old_price": "39.00",
       "new_price": "21.00",
-      "timestamp": "2026-01-21T13:01:14.990877",
+      "timestamp": "2026-01-21T13:06:34.242947",
       "url": "https://www.johnlewis.com/le-creuset-stoneware-classic-rectangular-oven-dish/p5313862"
     },
     {
@@ -788,7 +788,7 @@
       "percentage": 44.4,
       "old_price": "45.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T13:01:14.990877",
+      "timestamp": "2026-01-21T13:06:34.242947",
       "url": "https://www.johnlewis.com/john-lewis-sophia-pure-linen-drum-lampshade/p5071078"
     },
     {

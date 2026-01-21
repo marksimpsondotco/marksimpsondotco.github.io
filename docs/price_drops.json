@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T12:45:29.167705",
-  "total_drops": 2729,
+  "generated_at": "2026-01-21T12:50:49.850343",
+  "total_drops": 2730,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -106,6 +106,12 @@
       "total_savings": 6681.6
     },
     {
+      "site": "berrysjewellers_co_uk",
+      "count": 1,
+      "max_drop": 16.7,
+      "total_savings": 720.0
+    },
+    {
       "site": "hauslondon_com",
       "count": 150,
       "max_drop": 15.7,
@@ -188,7 +194,7 @@
       "percentage": 66.7,
       "old_price": "3.00",
       "new_price": "1.00",
-      "timestamp": "2026-01-21T12:44:57.482133",
+      "timestamp": "2026-01-21T12:50:18.359237",
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {

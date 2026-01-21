@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T19:01:36.028751",
-  "total_drops": 2928,
+  "generated_at": "2026-01-21T19:07:07.965695",
+  "total_drops": 2932,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 303,
+      "count": 305,
       "max_drop": 72.8,
-      "total_savings": 7566.1
+      "total_savings": 7615.1
     },
     {
       "site": "currys_com",
@@ -95,9 +95,9 @@
     },
     {
       "site": "boden_com",
-      "count": 52,
+      "count": 54,
       "max_drop": 25.0,
-      "total_savings": 465.9
+      "total_savings": 515.5
     },
     {
       "site": "uk_renogy_com",
@@ -317,7 +317,7 @@
       "percentage": 57.5,
       "old_price": "330.00",
       "new_price": "140.25",
-      "timestamp": "2026-01-21T19:01:06.645426",
+      "timestamp": "2026-01-21T19:06:44.349056",
       "url": "https://www.johnlewis.com/hush-agatha-leather-elasticated-waist-wide-leg-trousers/p112583960"
     },
     {
@@ -767,7 +767,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T19:01:10.904963",
+      "timestamp": "2026-01-21T19:06:32.547215",
       "url": "https://fenwick.co.uk/products/libra-interiors-smoke-mandala-pattern-smoked-mirrored-box-705997"
     },
     {
@@ -920,7 +920,7 @@
       "percentage": 47.2,
       "old_price": "37.00",
       "new_price": "19.55",
-      "timestamp": "2026-01-21T19:01:06.645426",
+      "timestamp": "2026-01-21T19:06:44.349056",
       "url": "https://www.johnlewis.com/hush-air-flow-trousers-washed-dark-green/p113407083"
     },
     {

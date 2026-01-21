@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T14:33:43.513376",
-  "total_drops": 2828,
+  "generated_at": "2026-01-21T14:39:06.443318",
+  "total_drops": 2829,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -95,9 +95,9 @@
     },
     {
       "site": "boden_com",
-      "count": 37,
+      "count": 38,
       "max_drop": 25.0,
-      "total_savings": 408.8
+      "total_savings": 412.4
     },
     {
       "site": "uk_renogy_com",
@@ -185,7 +185,7 @@
       "percentage": 78.4,
       "old_price": "37.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-21T14:33:26.348912",
+      "timestamp": "2026-01-21T14:38:38.669090",
       "url": "https://dusk.com/products/axel-handwoven-stripe-natural"
     },
     {
@@ -311,7 +311,7 @@
       "percentage": 52.2,
       "old_price": "135.00",
       "new_price": "64.50",
-      "timestamp": "2026-01-21T14:33:21.629668",
+      "timestamp": "2026-01-21T14:38:45.546920",
       "url": "https://www.johnlewis.com/lauren-ralph-lauren-keaton-tote-bag/p113887158"
     },
     {
@@ -320,7 +320,7 @@
       "percentage": 50.9,
       "old_price": "53.00",
       "new_price": "26.00",
-      "timestamp": "2026-01-21T14:33:21.629668",
+      "timestamp": "2026-01-21T14:38:45.546920",
       "url": "https://www.johnlewis.com/dune-london-greysons-leather-tassle-loafers/p113118994"
     },
     {
@@ -887,7 +887,7 @@
       "percentage": 45.5,
       "old_price": "39.00",
       "new_price": "21.25",
-      "timestamp": "2026-01-21T14:33:21.629668",
+      "timestamp": "2026-01-21T14:38:45.546920",
       "url": "https://www.johnlewis.com/hush-emily-puff-sleeve-cotton-jersey-top/p109960287"
     },
     {

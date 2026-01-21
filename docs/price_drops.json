@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-21T09:47:02.425664",
-  "total_drops": 2454,
+  "generated_at": "2026-01-21T09:52:21.410313",
+  "total_drops": 2471,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 195,
+      "count": 197,
       "max_drop": 67.4,
-      "total_savings": 3753.36
+      "total_savings": 3893.36
     },
     {
       "site": "currys_com",
-      "count": 730,
+      "count": 745,
       "max_drop": 61.4,
-      "total_savings": 48897.51
+      "total_savings": 50475.32
     },
     {
       "site": "fenwick_co_uk",
@@ -493,6 +493,24 @@
       "new_price": "2.00",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/only-kogrex-ss-printed-top-jrs-mauve-orchid-15358105"
+    },
+    {
+      "site": "currys_com",
+      "product": "BREVILLE Mostra VTR047 4-Slice Toaster - Black & Chrome",
+      "percentage": 50.0,
+      "old_price": "89.99",
+      "new_price": "44.99",
+      "timestamp": "2026-01-21T09:52:09.908309",
+      "url": "https://www.currys.co.uk/products/10287619.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "RAZER Kraken Kitty V2 USB Gaming Headset - Gengar Pokém",
+      "percentage": 50.0,
+      "old_price": "89.99",
+      "new_price": "44.99",
+      "timestamp": "2026-01-21T09:52:09.908309",
+      "url": "https://www.currys.co.uk/products/10291986.html"
     },
     {
       "site": "currys_com",
@@ -1042,24 +1060,6 @@
       "new_price": "10.50",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/name-it-nbfmila-jacket-hood-pb-lilas-13241678"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Denim Skort",
-      "percentage": 41.7,
-      "old_price": "12.00",
-      "new_price": "7.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/name-it-mini-nmfhanna-dnm-skort-4070-ov-h-medium-blue-denim-13241912"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Kipling Knit 2pc bear & fairisle Jumper Leggings & Hat",
-      "percentage": 41.4,
-      "old_price": "29.00",
-      "new_price": "17.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/emile-et-rose-kipling-knit-2pc-bear-fairisle-jumper-leggings-hat-stone-6512st-25w"
     }
   ]
 }

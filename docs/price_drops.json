@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T21:57:51.743424",
-  "total_drops": 3036,
+  "generated_at": "2026-01-21T22:03:18.415765",
+  "total_drops": 3037,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -98,6 +98,12 @@
       "count": 125,
       "max_drop": 29.4,
       "total_savings": 6706.56
+    },
+    {
+      "site": "trunkclothiers_com",
+      "count": 1,
+      "max_drop": 28.6,
+      "total_savings": 198.0
     },
     {
       "site": "hamleys_com",
@@ -443,7 +449,7 @@
       "percentage": 50.1,
       "old_price": "48.93",
       "new_price": "24.43",
-      "timestamp": "2026-01-21T21:57:31.185087",
+      "timestamp": "2026-01-21T22:02:56.712126",
       "url": "https://houseofisabella.co.uk/products/washable-rug-carina-pink-6941p"
     },
     {
@@ -452,7 +458,7 @@
       "percentage": 50.1,
       "old_price": "59.90",
       "new_price": "29.90",
-      "timestamp": "2026-01-21T21:57:31.185087",
+      "timestamp": "2026-01-21T22:02:56.712126",
       "url": "https://houseofisabella.co.uk/products/montana-grey-rug-3800g"
     },
     {
@@ -821,7 +827,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T21:57:29.767642",
+      "timestamp": "2026-01-21T22:02:55.884865",
       "url": "https://fenwick.co.uk/products/libra-interiors-smoke-mandala-pattern-smoked-mirrored-box-705997"
     },
     {
@@ -1010,7 +1016,7 @@
       "percentage": 46.4,
       "old_price": "27.99",
       "new_price": "14.99",
-      "timestamp": "2026-01-21T21:57:25.678769",
+      "timestamp": "2026-01-21T22:02:35.708155",
       "url": "https://www.condorcycles.com/products/shimano-cn-m6100-deore-chain-with-quick-link"
     },
     {

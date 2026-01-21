@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T11:56:19.489109",
-  "total_drops": 2720,
+  "generated_at": "2026-01-21T12:01:44.191853",
+  "total_drops": 2721,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 39,
+      "count": 40,
       "max_drop": 41.5,
-      "total_savings": 1325.97
+      "total_savings": 1555.97
     },
     {
       "site": "rehaus_co_uk",

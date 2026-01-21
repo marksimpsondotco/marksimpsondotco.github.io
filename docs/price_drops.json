@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T18:56:06.699177",
-  "total_drops": 2909,
+  "generated_at": "2026-01-21T19:01:36.028751",
+  "total_drops": 2928,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 293,
+      "count": 303,
       "max_drop": 72.8,
-      "total_savings": 7270.25
+      "total_savings": 7566.1
     },
     {
       "site": "currys_com",
@@ -95,9 +95,9 @@
     },
     {
       "site": "boden_com",
-      "count": 43,
+      "count": 52,
       "max_drop": 25.0,
-      "total_savings": 422.3
+      "total_savings": 465.9
     },
     {
       "site": "uk_renogy_com",
@@ -310,6 +310,15 @@
       "new_price": "73.99",
       "timestamp": "2026-01-21T10:33:40.449265",
       "url": "https://www.currys.co.uk/products/10220114.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "HUSH Agatha Leather Elasticated Waist Wide Leg Trousers",
+      "percentage": 57.5,
+      "old_price": "330.00",
+      "new_price": "140.25",
+      "timestamp": "2026-01-21T19:01:06.645426",
+      "url": "https://www.johnlewis.com/hush-agatha-leather-elasticated-waist-wide-leg-trousers/p112583960"
     },
     {
       "site": "fenwick_co_uk",
@@ -758,7 +767,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T18:55:36.289498",
+      "timestamp": "2026-01-21T19:01:10.904963",
       "url": "https://fenwick.co.uk/products/libra-interiors-smoke-mandala-pattern-smoked-mirrored-box-705997"
     },
     {
@@ -904,6 +913,15 @@
       "new_price": "58.00",
       "timestamp": "2026-01-21T05:25:51.064438",
       "url": "https://www.johnlewis.com/reiss-lorna-drape-knit-top/p113930228"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "HUSH Air Flow Trousers, Washed Dark Green",
+      "percentage": 47.2,
+      "old_price": "37.00",
+      "new_price": "19.55",
+      "timestamp": "2026-01-21T19:01:06.645426",
+      "url": "https://www.johnlewis.com/hush-air-flow-trousers-washed-dark-green/p113407083"
     },
     {
       "site": "johnlewis_com",
@@ -1066,24 +1084,6 @@
       "new_price": "49.00",
       "timestamp": "2026-01-21T14:15:40.536440",
       "url": "https://www.johnlewis.com/sweaty-betty-power-ultrasculpt-high-waisted-7-8-gym-leggings/p110400324"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Carvela Jackpot Heeled Ankle Boots, Black",
-      "percentage": 44.0,
-      "old_price": "159.00",
-      "new_price": "89.00",
-      "timestamp": "2026-01-21T00:59:42.220209",
-      "url": "https://www.johnlewis.com/carvela-jackpot-heeled-ankle-boots-black/p112969416"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Leila Top Navy Blazer",
-      "percentage": 43.8,
-      "old_price": "8.00",
-      "new_price": "4.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/vero-moda-vmleila-mini-sl-top-jrs-girl-navy-blazer-10326471"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T10:08:20.779843",
-  "total_drops": 2614,
+  "generated_at": "2026-01-21T10:13:40.259005",
+  "total_drops": 2626,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "currys_com",
-      "count": 873,
+      "count": 881,
       "max_drop": 61.4,
-      "total_savings": 60138.58
+      "total_savings": 60257.38
     },
     {
       "site": "fenwick_co_uk",
@@ -29,15 +29,15 @@
     },
     {
       "site": "flannels_com",
-      "count": 27,
+      "count": 30,
       "max_drop": 41.3,
-      "total_savings": 883.47
+      "total_savings": 1088.47
     },
     {
       "site": "rehaus_co_uk",
-      "count": 5,
+      "count": 6,
       "max_drop": 40.6,
-      "total_savings": 22058.0
+      "total_savings": 23818.0
     },
     {
       "site": "apcstore_co_uk",
@@ -194,7 +194,7 @@
       "percentage": 60.0,
       "old_price": "45.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-21T10:08:04.986051",
+      "timestamp": "2026-01-21T10:13:22.911006",
       "url": "https://www.johnlewis.com/john-lewis-ara-leather-flapover-purse/p110947397"
     },
     {
@@ -230,7 +230,7 @@
       "percentage": 50.2,
       "old_price": "215.00",
       "new_price": "107.00",
-      "timestamp": "2026-01-21T10:08:07.808576",
+      "timestamp": "2026-01-21T10:13:32.250722",
       "url": "https://www.currys.co.uk/products/10167967.html"
     },
     {
@@ -518,7 +518,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T10:08:07.808576",
+      "timestamp": "2026-01-21T10:13:32.250722",
       "url": "https://www.currys.co.uk/products/10287619.html"
     },
     {
@@ -527,7 +527,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T10:08:07.808576",
+      "timestamp": "2026-01-21T10:13:32.250722",
       "url": "https://www.currys.co.uk/products/10291986.html"
     },
     {
@@ -653,7 +653,7 @@
       "percentage": 47.0,
       "old_price": "300.00",
       "new_price": "159.00",
-      "timestamp": "2026-01-21T10:08:04.986051",
+      "timestamp": "2026-01-21T10:13:22.911006",
       "url": "https://www.johnlewis.com/samsung-jet-60-turbo-lightweight-cordless-vacuum-cleaner-teal-violet/p109516095"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T09:14:54.066264",
-  "total_drops": 2323,
+  "generated_at": "2026-01-21T09:20:11.550986",
+  "total_drops": 2367,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "currys_com",
-      "count": 605,
+      "count": 649,
       "max_drop": 61.4,
-      "total_savings": 43859.58
+      "total_savings": 44232.31
     },
     {
       "site": "fenwick_co_uk",
@@ -221,7 +221,7 @@
       "percentage": 50.2,
       "old_price": "299.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-21T09:14:46.992271",
+      "timestamp": "2026-01-21T09:20:04.831995",
       "url": "https://www.currys.co.uk/products/10282606.html"
     },
     {
@@ -599,7 +599,7 @@
       "percentage": 46.7,
       "old_price": "59.99",
       "new_price": "31.99",
-      "timestamp": "2026-01-21T09:14:46.992271",
+      "timestamp": "2026-01-21T09:20:04.831995",
       "url": "https://www.currys.co.uk/products/10265210.html"
     },
     {
@@ -628,6 +628,15 @@
       "new_price": "95.00",
       "timestamp": "2026-01-21T08:23:09.193230",
       "url": "https://www.johnlewis.com/brora-sheer-panel-knitted-midi-skirt-black/p114492586"
+    },
+    {
+      "site": "currys_com",
+      "product": "KENSINGTON ValuMouse Optical Mouse",
+      "percentage": 45.5,
+      "old_price": "21.99",
+      "new_price": "11.99",
+      "timestamp": "2026-01-21T09:20:04.831995",
+      "url": "https://www.currys.co.uk/products/10210267.html"
     },
     {
       "site": "currys_com",
@@ -878,7 +887,7 @@
       "percentage": 42.9,
       "old_price": "174.99",
       "new_price": "99.99",
-      "timestamp": "2026-01-21T09:14:46.992271",
+      "timestamp": "2026-01-21T09:20:04.831995",
       "url": "https://www.currys.co.uk/products/10226574.html"
     },
     {
@@ -959,7 +968,7 @@
       "percentage": 42.0,
       "old_price": "59.99",
       "new_price": "34.79",
-      "timestamp": "2026-01-21T09:14:46.992271",
+      "timestamp": "2026-01-21T09:20:04.831995",
       "url": "https://www.currys.co.uk/products/10275235.html"
     },
     {
@@ -1051,15 +1060,6 @@
       "new_price": "13.50",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/mayoral-soft-denim-coat-denim-4442"
-    },
-    {
-      "site": "currys_com",
-      "product": "SAMSUNG Series 6 SpaceMax RS70F64KEFEU American-Style S",
-      "percentage": 41.3,
-      "old_price": "1599.00",
-      "new_price": "939.00",
-      "timestamp": "2026-01-21T09:14:46.992271",
-      "url": "https://www.currys.co.uk/products/10282232.html"
     }
   ]
 }

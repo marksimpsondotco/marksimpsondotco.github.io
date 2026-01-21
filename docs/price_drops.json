@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T20:51:44.895266",
-  "total_drops": 3021,
+  "generated_at": "2026-01-21T20:57:10.134662",
+  "total_drops": 3027,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,15 +35,21 @@
     },
     {
       "site": "pigletinbed_com",
-      "count": 55,
+      "count": 60,
       "max_drop": 53.3,
-      "total_savings": 369.5
+      "total_savings": 395.5
     },
     {
       "site": "victoriabeckham_com",
       "count": 52,
       "max_drop": 50.0,
       "total_savings": 5076.0
+    },
+    {
+      "site": "condorcycles_com",
+      "count": 2,
+      "max_drop": 46.4,
+      "total_savings": 18.0
     },
     {
       "site": "flannels_com",
@@ -146,12 +152,6 @@
       "count": 7,
       "max_drop": 11.8,
       "total_savings": 80.64
-    },
-    {
-      "site": "condorcycles_com",
-      "count": 1,
-      "max_drop": 9.1,
-      "total_savings": 5.0
     },
     {
       "site": "smallsmart_co_uk",
@@ -374,7 +374,7 @@
       "percentage": 53.3,
       "old_price": "7.50",
       "new_price": "3.50",
-      "timestamp": "2026-01-21T20:51:09.605476",
+      "timestamp": "2026-01-21T20:56:35.302851",
       "url": "https://www.pigletinbed.com/products/elm-green-plain-organic-cotton-towel"
     },
     {
@@ -797,7 +797,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T20:51:26.674246",
+      "timestamp": "2026-01-21T20:56:27.033533",
       "url": "https://fenwick.co.uk/products/libra-interiors-smoke-mandala-pattern-smoked-mirrored-box-705997"
     },
     {
@@ -981,6 +981,15 @@
       "url": "https://www.johnlewis.com/carvela-pienza-ankle-boots/p113849081"
     },
     {
+      "site": "condorcycles_com",
+      "product": "Shimano CN-M6100 12-Speed Chain with Quick Link | Compatible with 105, Ultegra & Dura-Ace",
+      "percentage": 46.4,
+      "old_price": "27.99",
+      "new_price": "14.99",
+      "timestamp": "2026-01-21T20:56:43.966911",
+      "url": "https://www.condorcycles.com/products/shimano-cn-m6100-deore-chain-with-quick-link"
+    },
+    {
       "site": "dusk_com",
       "product": "Washed Cotton 200 Thread Count Plain Dye Duvet Cover & Pillowcase Set - Off White",
       "percentage": 46.4,
@@ -1087,15 +1096,6 @@
       "new_price": "5.00",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/name-it-mini-nmfmia-wide-dnm-skirt-2434-oh-j-light-blue-denim-13241911"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Hestern Shorts Walnut",
-      "percentage": 44.4,
-      "old_price": "9.00",
-      "new_price": "5.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/name-it-mini-nmmhestern-nreg-shorts-walnut-13242319"
     }
   ]
 }

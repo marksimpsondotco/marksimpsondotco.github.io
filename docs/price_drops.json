@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T21:46:56.925181",
-  "total_drops": 3032,
+  "generated_at": "2026-01-21T21:52:26.887477",
+  "total_drops": 3036,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 51,
+      "count": 55,
       "max_drop": 41.5,
-      "total_savings": 1938.47
+      "total_savings": 2037.47
     },
     {
       "site": "rehaus_co_uk",
@@ -380,7 +380,7 @@
       "percentage": 53.3,
       "old_price": "7.50",
       "new_price": "3.50",
-      "timestamp": "2026-01-21T21:46:30.047590",
+      "timestamp": "2026-01-21T21:51:18.417805",
       "url": "https://www.pigletinbed.com/products/elm-green-plain-organic-cotton-towel"
     },
     {
@@ -443,7 +443,7 @@
       "percentage": 50.1,
       "old_price": "48.93",
       "new_price": "24.43",
-      "timestamp": "2026-01-21T21:46:34.641531",
+      "timestamp": "2026-01-21T21:52:09.626388",
       "url": "https://houseofisabella.co.uk/products/washable-rug-carina-pink-6941p"
     },
     {
@@ -452,7 +452,7 @@
       "percentage": 50.1,
       "old_price": "59.90",
       "new_price": "29.90",
-      "timestamp": "2026-01-21T21:46:34.641531",
+      "timestamp": "2026-01-21T21:52:09.626388",
       "url": "https://houseofisabella.co.uk/products/montana-grey-rug-3800g"
     },
     {
@@ -821,7 +821,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T21:46:31.954666",
+      "timestamp": "2026-01-21T21:51:46.129497",
       "url": "https://fenwick.co.uk/products/libra-interiors-smoke-mandala-pattern-smoked-mirrored-box-705997"
     },
     {
@@ -1010,7 +1010,7 @@
       "percentage": 46.4,
       "old_price": "27.99",
       "new_price": "14.99",
-      "timestamp": "2026-01-21T21:46:31.672197",
+      "timestamp": "2026-01-21T21:51:41.500752",
       "url": "https://www.condorcycles.com/products/shimano-cn-m6100-deore-chain-with-quick-link"
     },
     {

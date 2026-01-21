@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T09:25:30.608911",
-  "total_drops": 2385,
+  "generated_at": "2026-01-21T09:30:46.915017",
+  "total_drops": 2401,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "currys_com",
-      "count": 667,
+      "count": 682,
       "max_drop": 61.4,
-      "total_savings": 45230.52
+      "total_savings": 46448.52
     },
     {
       "site": "fenwick_co_uk",
@@ -131,9 +131,9 @@
     },
     {
       "site": "smallsmart_co_uk",
-      "count": 1,
-      "max_drop": 6.1,
-      "total_savings": 2.49
+      "count": 2,
+      "max_drop": 6.5,
+      "total_savings": 11.49
     },
     {
       "site": "ukbabycentre_com",
@@ -221,7 +221,7 @@
       "percentage": 50.2,
       "old_price": "299.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-21T09:25:18.440887",
+      "timestamp": "2026-01-21T09:30:30.049035",
       "url": "https://www.currys.co.uk/products/10282606.html"
     },
     {
@@ -590,7 +590,7 @@
       "percentage": 48.2,
       "old_price": "519.00",
       "new_price": "269.00",
-      "timestamp": "2026-01-21T09:25:18.440887",
+      "timestamp": "2026-01-21T09:30:30.049035",
       "url": "https://www.currys.co.uk/products/10239672.html"
     },
     {
@@ -599,7 +599,7 @@
       "percentage": 47.8,
       "old_price": "79.99",
       "new_price": "41.79",
-      "timestamp": "2026-01-21T09:25:18.440887",
+      "timestamp": "2026-01-21T09:30:30.049035",
       "url": "https://www.currys.co.uk/products/10287480.html"
     },
     {
@@ -617,7 +617,7 @@
       "percentage": 46.7,
       "old_price": "59.99",
       "new_price": "31.99",
-      "timestamp": "2026-01-21T09:25:18.440887",
+      "timestamp": "2026-01-21T09:30:30.049035",
       "url": "https://www.currys.co.uk/products/10265210.html"
     },
     {
@@ -653,7 +653,7 @@
       "percentage": 45.5,
       "old_price": "21.99",
       "new_price": "11.99",
-      "timestamp": "2026-01-21T09:25:18.440887",
+      "timestamp": "2026-01-21T09:30:30.049035",
       "url": "https://www.currys.co.uk/products/10210267.html"
     },
     {
@@ -905,7 +905,7 @@
       "percentage": 42.9,
       "old_price": "174.99",
       "new_price": "99.99",
-      "timestamp": "2026-01-21T09:25:18.440887",
+      "timestamp": "2026-01-21T09:30:30.049035",
       "url": "https://www.currys.co.uk/products/10226574.html"
     },
     {
@@ -986,7 +986,7 @@
       "percentage": 42.0,
       "old_price": "59.99",
       "new_price": "34.79",
-      "timestamp": "2026-01-21T09:25:18.440887",
+      "timestamp": "2026-01-21T09:30:30.049035",
       "url": "https://www.currys.co.uk/products/10275235.html"
     },
     {

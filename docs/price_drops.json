@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T17:17:26.004774",
-  "total_drops": 2899,
+  "generated_at": "2026-01-21T17:22:48.739233",
+  "total_drops": 2902,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "rehaus_co_uk",
-      "count": 8,
+      "count": 11,
       "max_drop": 40.6,
-      "total_savings": 25383.0
+      "total_savings": 28243.0
     },
     {
       "site": "apcstore_co_uk",
@@ -758,7 +758,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T17:17:03.402591",
+      "timestamp": "2026-01-21T17:22:21.252579",
       "url": "https://fenwick.co.uk/products/libra-interiors-smoke-mandala-pattern-smoked-mirrored-box-705997"
     },
     {

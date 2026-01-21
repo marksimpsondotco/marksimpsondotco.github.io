@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-21T10:03:00.787654",
-  "total_drops": 2573,
+  "generated_at": "2026-01-21T10:08:20.779843",
+  "total_drops": 2614,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 200,
+      "count": 201,
       "max_drop": 67.4,
-      "total_savings": 4444.06
+      "total_savings": 4471.06
     },
     {
       "site": "currys_com",
-      "count": 843,
+      "count": 873,
       "max_drop": 61.4,
-      "total_savings": 58582.57
+      "total_savings": 60138.58
     },
     {
       "site": "fenwick_co_uk",
@@ -29,9 +29,15 @@
     },
     {
       "site": "flannels_com",
-      "count": 18,
+      "count": 27,
       "max_drop": 41.3,
-      "total_savings": 494.47
+      "total_savings": 883.47
+    },
+    {
+      "site": "rehaus_co_uk",
+      "count": 5,
+      "max_drop": 40.6,
+      "total_savings": 22058.0
     },
     {
       "site": "apcstore_co_uk",
@@ -86,12 +92,6 @@
       "count": 3,
       "max_drop": 22.8,
       "total_savings": 670.0
-    },
-    {
-      "site": "rehaus_co_uk",
-      "count": 4,
-      "max_drop": 20.3,
-      "total_savings": 6448.0
     },
     {
       "site": "chelseababy_com",
@@ -189,6 +189,15 @@
       "url": "https://www.currys.co.uk/products/10276056.html"
     },
     {
+      "site": "johnlewis_com",
+      "product": "John Lewis Ara Leather Flapover Purse",
+      "percentage": 60.0,
+      "old_price": "45.00",
+      "new_price": "18.00",
+      "timestamp": "2026-01-21T10:08:04.986051",
+      "url": "https://www.johnlewis.com/john-lewis-ara-leather-flapover-purse/p110947397"
+    },
+    {
       "site": "currys_com",
       "product": "REXEL Momentum X312-SL Cross Cut Paper Shredder",
       "percentage": 58.9,
@@ -214,6 +223,15 @@
       "new_price": "8.00",
       "timestamp": "2026-01-21T07:39:46.387484",
       "url": "https://www.johnlewis.com/reiss-kids-kayo-cotton-blend-embroidered-palm-shorts/p113795147"
+    },
+    {
+      "site": "currys_com",
+      "product": "HOTPOINT Flexizone HR 724 B H 77 cm Electric Ceramic Ho",
+      "percentage": 50.2,
+      "old_price": "215.00",
+      "new_price": "107.00",
+      "timestamp": "2026-01-21T10:08:07.808576",
+      "url": "https://www.currys.co.uk/products/10167967.html"
     },
     {
       "site": "currys_com",
@@ -500,7 +518,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T10:02:53.201591",
+      "timestamp": "2026-01-21T10:08:07.808576",
       "url": "https://www.currys.co.uk/products/10287619.html"
     },
     {
@@ -509,7 +527,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T10:02:53.201591",
+      "timestamp": "2026-01-21T10:08:07.808576",
       "url": "https://www.currys.co.uk/products/10291986.html"
     },
     {
@@ -635,7 +653,7 @@
       "percentage": 47.0,
       "old_price": "300.00",
       "new_price": "159.00",
-      "timestamp": "2026-01-21T10:02:44.529382",
+      "timestamp": "2026-01-21T10:08:04.986051",
       "url": "https://www.johnlewis.com/samsung-jet-60-turbo-lightweight-cordless-vacuum-cleaner-teal-violet/p109516095"
     },
     {
@@ -1042,24 +1060,6 @@
       "new_price": "14.00",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/vero-moda-vmlenora-hayden-ls-leo-denim-shirt-girl-brushed-nickel-10332590"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Tessa High Rise Wide Jeans",
-      "percentage": 41.7,
-      "old_price": "18.00",
-      "new_price": "10.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/vero-moda-vmtessa-hr-wide-jeans-ra3033-girl-noos-medium-blue-denim-10332328"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Cherry Embroidered Shorts",
-      "percentage": 41.7,
-      "old_price": "12.00",
-      "new_price": "7.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/vero-moda-vmodea-hw-shorts-wvn-girl-snow-white-10330181"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T20:13:29.617585",
-  "total_drops": 2963,
+  "generated_at": "2026-01-21T20:18:55.597385",
+  "total_drops": 2966,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -95,9 +95,9 @@
     },
     {
       "site": "boden_com",
-      "count": 62,
+      "count": 64,
       "max_drop": 25.0,
-      "total_savings": 537.75
+      "total_savings": 544.75
     },
     {
       "site": "uk_renogy_com",
@@ -188,6 +188,12 @@
       "count": 1,
       "max_drop": 0.8,
       "total_savings": 5.0
+    },
+    {
+      "site": "paulfrasercollectibles_com",
+      "count": 1,
+      "max_drop": 0.4,
+      "total_savings": 4.0
     }
   ],
   "drops": [
@@ -503,7 +509,7 @@
       "percentage": 50.0,
       "old_price": "75.95",
       "new_price": "37.95",
-      "timestamp": "2026-01-21T20:13:09.557264",
+      "timestamp": "2026-01-21T20:14:48.138903",
       "url": "https://www.johnlewis.com/sisley-cotton-regular-fit-corduroy-shirt/p114708573"
     },
     {
@@ -782,7 +788,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T20:13:02.258704",
+      "timestamp": "2026-01-21T20:18:44.823752",
       "url": "https://fenwick.co.uk/products/libra-interiors-smoke-mandala-pattern-smoked-mirrored-box-705997"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T19:40:39.089360",
-  "total_drops": 2941,
+  "generated_at": "2026-01-21T19:46:05.529743",
+  "total_drops": 2949,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -95,9 +95,9 @@
     },
     {
       "site": "boden_com",
-      "count": 60,
+      "count": 62,
       "max_drop": 25.0,
-      "total_savings": 532.55
+      "total_savings": 537.75
     },
     {
       "site": "uk_renogy_com",
@@ -140,6 +140,12 @@
       "count": 2,
       "max_drop": 14.3,
       "total_savings": 80.0
+    },
+    {
+      "site": "baby-nest_co_uk",
+      "count": 6,
+      "max_drop": 11.8,
+      "total_savings": 78.14
     },
     {
       "site": "condorcycles_com",
@@ -767,7 +773,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-21T19:40:28.457205",
+      "timestamp": "2026-01-21T19:45:47.141912",
       "url": "https://fenwick.co.uk/products/libra-interiors-smoke-mandala-pattern-smoked-mirrored-box-705997"
     },
     {

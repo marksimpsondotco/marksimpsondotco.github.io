@@ -1,72 +1,7 @@
 {
-  "generated_at": "2026-01-21T23:36:27.622756",
-  "total_drops": 5,
-  "top_drops_shown": 5,
-  "site_stats": [
-    {
-      "site": "fenwick_co_uk",
-      "count": 2,
-      "max_drop": 55.0,
-      "total_savings": 83.0
-    },
-    {
-      "site": "dusk_com",
-      "count": 2,
-      "max_drop": 50.0,
-      "total_savings": 9.0
-    },
-    {
-      "site": "flannels_com",
-      "count": 1,
-      "max_drop": 20.1,
-      "total_savings": 70.0
-    }
-  ],
-  "drops": [
-    {
-      "site": "fenwick_co_uk",
-      "product": "Jolene Waistcoat",
-      "percentage": 55.0,
-      "old_price": "60.00",
-      "new_price": "27.00",
-      "timestamp": "2026-01-21T23:36:11.655148",
-      "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "KGL LIVIAH",
-      "percentage": 50.5,
-      "old_price": "99.00",
-      "new_price": "49.00",
-      "timestamp": "2026-01-21T23:36:11.655148",
-      "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Antigua Soft Fine Ribbed Towel Collection - Fern",
-      "percentage": 50.0,
-      "old_price": "10.00",
-      "new_price": "5.00",
-      "timestamp": "2026-01-21T23:36:12.185020",
-      "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Hugo - Antegi 10272041 01",
-      "percentage": 20.1,
-      "old_price": "349.00",
-      "new_price": "279.00",
-      "timestamp": "2026-01-21T23:36:24.606085",
-      "url": "https://www.flannels.com/hugo-womens-antegi-red-blazer-558061"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Linen Cotton Blend Duvet Cover - Chalk White",
-      "percentage": 14.3,
-      "old_price": "28.00",
-      "new_price": "24.00",
-      "timestamp": "2026-01-21T23:36:12.185020",
-      "url": "https://dusk.com/products/linen-cotton-blend-duvet-cover-chalk-white"
-    }
-  ]
+  "generated_at": "2026-01-21T23:37:32.773434",
+  "total_drops": 0,
+  "top_drops_shown": 0,
+  "site_stats": [],
+  "drops": []
 }

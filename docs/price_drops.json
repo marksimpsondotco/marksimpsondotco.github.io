@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T14:00:59.152558",
-  "total_drops": 2784,
+  "generated_at": "2026-01-21T14:06:21.915007",
+  "total_drops": 2788,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -95,9 +95,9 @@
     },
     {
       "site": "boden_com",
-      "count": 12,
+      "count": 16,
       "max_drop": 25.0,
-      "total_savings": 145.0
+      "total_savings": 184.5
     },
     {
       "site": "uk_renogy_com",
@@ -185,7 +185,7 @@
       "percentage": 78.4,
       "old_price": "37.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-21T14:00:46.915220",
+      "timestamp": "2026-01-21T14:05:55.927553",
       "url": "https://dusk.com/products/axel-handwoven-stripe-natural"
     },
     {
@@ -194,7 +194,7 @@
       "percentage": 72.8,
       "old_price": "65.00",
       "new_price": "17.70",
-      "timestamp": "2026-01-21T14:00:41.154528",
+      "timestamp": "2026-01-21T14:06:05.422300",
       "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
     },
     {
@@ -437,7 +437,7 @@
       "percentage": 50.0,
       "old_price": "74.95",
       "new_price": "37.48",
-      "timestamp": "2026-01-21T14:00:41.154528",
+      "timestamp": "2026-01-21T14:06:05.422300",
       "url": "https://www.johnlewis.com/roka-london-canfield-b-recycled-nylon-rolltop-backpack-15l/p112395052"
     },
     {
@@ -446,7 +446,7 @@
       "percentage": 50.0,
       "old_price": "89.95",
       "new_price": "45.00",
-      "timestamp": "2026-01-21T14:00:41.154528",
+      "timestamp": "2026-01-21T14:06:05.422300",
       "url": "https://www.johnlewis.com/barbour-grangetown-crew-neck-jumper-inky-blue/p112355231"
     },
     {
@@ -455,7 +455,7 @@
       "percentage": 50.0,
       "old_price": "30.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-21T14:00:41.154528",
+      "timestamp": "2026-01-21T14:06:05.422300",
       "url": "https://www.johnlewis.com/levis-red-tab-vintage-tee/p110169437"
     },
     {
@@ -464,7 +464,7 @@
       "percentage": 50.0,
       "old_price": "100.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-21T14:00:41.154528",
+      "timestamp": "2026-01-21T14:06:05.422300",
       "url": "https://www.johnlewis.com/herschel-supply-co-retreat-backpack/p110710185"
     },
     {
@@ -473,7 +473,7 @@
       "percentage": 50.0,
       "old_price": "95.00",
       "new_price": "47.50",
-      "timestamp": "2026-01-21T14:00:41.154528",
+      "timestamp": "2026-01-21T14:06:05.422300",
       "url": "https://www.johnlewis.com/eastpak-icon-top-load-backpack-off-white/p113084028"
     },
     {

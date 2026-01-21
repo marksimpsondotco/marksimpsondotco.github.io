@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-21T23:31:25.276065",
+  "generated_at": "2026-01-21T23:36:27.622756",
   "total_drops": 5,
   "top_drops_shown": 5,
   "site_stats": [
@@ -29,7 +29,7 @@
       "percentage": 55.0,
       "old_price": "60.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-21T23:31:12.092058",
+      "timestamp": "2026-01-21T23:36:11.655148",
       "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
     },
     {
@@ -38,7 +38,7 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-21T23:31:12.092058",
+      "timestamp": "2026-01-21T23:36:11.655148",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
     },
     {
@@ -47,7 +47,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-21T23:30:59.728446",
+      "timestamp": "2026-01-21T23:36:12.185020",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -56,7 +56,7 @@
       "percentage": 20.1,
       "old_price": "349.00",
       "new_price": "279.00",
-      "timestamp": "2026-01-21T23:31:21.799642",
+      "timestamp": "2026-01-21T23:36:24.606085",
       "url": "https://www.flannels.com/hugo-womens-antegi-red-blazer-558061"
     },
     {
@@ -65,7 +65,7 @@
       "percentage": 14.3,
       "old_price": "28.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-21T23:30:59.728446",
+      "timestamp": "2026-01-21T23:36:12.185020",
       "url": "https://dusk.com/products/linen-cotton-blend-duvet-cover-chalk-white"
     }
   ]

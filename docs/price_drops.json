@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T13:50:15.247674",
-  "total_drops": 2765,
+  "generated_at": "2026-01-21T13:55:35.672266",
+  "total_drops": 2782,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,15 +11,15 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 244,
+      "count": 251,
       "max_drop": 72.8,
-      "total_savings": 6212.99
+      "total_savings": 6348.79
     },
     {
       "site": "leaderonline_com",
-      "count": 7,
+      "count": 8,
       "max_drop": 66.7,
-      "total_savings": 60.0
+      "total_savings": 76.27
     },
     {
       "site": "currys_com",
@@ -64,6 +64,12 @@
       "total_savings": 25.0
     },
     {
+      "site": "hoxtonmacs_co_uk",
+      "count": 12,
+      "max_drop": 33.5,
+      "total_savings": 1910.0
+    },
+    {
       "site": "twentytwentyone_com",
       "count": 61,
       "max_drop": 30.0,
@@ -98,12 +104,6 @@
       "count": 46,
       "max_drop": 25.0,
       "total_savings": 1063.9
-    },
-    {
-      "site": "hoxtonmacs_co_uk",
-      "count": 3,
-      "max_drop": 22.8,
-      "total_savings": 670.0
     },
     {
       "site": "chelseababy_com",
@@ -185,7 +185,7 @@
       "percentage": 78.4,
       "old_price": "37.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-21T13:50:02.151485",
+      "timestamp": "2026-01-21T13:55:23.587986",
       "url": "https://dusk.com/products/axel-handwoven-stripe-natural"
     },
     {
@@ -194,7 +194,7 @@
       "percentage": 72.8,
       "old_price": "65.00",
       "new_price": "17.70",
-      "timestamp": "2026-01-21T13:49:59.099822",
+      "timestamp": "2026-01-21T13:55:18.706963",
       "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
     },
     {
@@ -230,7 +230,7 @@
       "percentage": 66.7,
       "old_price": "3.00",
       "new_price": "1.00",
-      "timestamp": "2026-01-21T13:49:41.570113",
+      "timestamp": "2026-01-21T13:52:21.135002",
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
@@ -437,7 +437,7 @@
       "percentage": 50.0,
       "old_price": "74.95",
       "new_price": "37.48",
-      "timestamp": "2026-01-21T13:49:59.099822",
+      "timestamp": "2026-01-21T13:55:18.706963",
       "url": "https://www.johnlewis.com/roka-london-canfield-b-recycled-nylon-rolltop-backpack-15l/p112395052"
     },
     {
@@ -446,8 +446,35 @@
       "percentage": 50.0,
       "old_price": "89.95",
       "new_price": "45.00",
-      "timestamp": "2026-01-21T13:49:59.099822",
+      "timestamp": "2026-01-21T13:55:18.706963",
       "url": "https://www.johnlewis.com/barbour-grangetown-crew-neck-jumper-inky-blue/p112355231"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Levi's Red Tab Vintage Tee",
+      "percentage": 50.0,
+      "old_price": "30.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-21T13:55:18.706963",
+      "url": "https://www.johnlewis.com/levis-red-tab-vintage-tee/p110169437"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Herschel Supply Co. Retreat Backpack",
+      "percentage": 50.0,
+      "old_price": "100.00",
+      "new_price": "50.00",
+      "timestamp": "2026-01-21T13:55:18.706963",
+      "url": "https://www.johnlewis.com/herschel-supply-co-retreat-backpack/p110710185"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Eastpak Icon Top Load Backpack, Off White",
+      "percentage": 50.0,
+      "old_price": "95.00",
+      "new_price": "47.50",
+      "timestamp": "2026-01-21T13:55:18.706963",
+      "url": "https://www.johnlewis.com/eastpak-icon-top-load-backpack-off-white/p113084028"
     },
     {
       "site": "fenwick_co_uk",
@@ -1051,33 +1078,6 @@
       "new_price": "8.00",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/vero-moda-vmhali-ls-o-neck-sweat-top-jrs-ga-girl-light-grey-melange-10335309"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Frida Denim Shorts Light Blue",
-      "percentage": 42.9,
-      "old_price": "14.00",
-      "new_price": "8.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/vero-moda-vmfrida-short-denim-shorts-ra339-girl-light-blue-denim-10326280"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Nilsen Polo Sweatshirt Blue",
-      "percentage": 42.9,
-      "old_price": "7.00",
-      "new_price": "4.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/name-it-nbmnilsen-ls-polo-sweat-unb-insignia-blue-13246585"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Printed Camo Pullover Cereal",
-      "percentage": 42.9,
-      "old_price": "14.00",
-      "new_price": "8.00",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/mayoral-printed-camo-pullover-cereal-4403"
     }
   ]
 }

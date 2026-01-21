@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T14:55:38.293813",
-  "total_drops": 2841,
+  "generated_at": "2026-01-21T15:01:03.875540",
+  "total_drops": 2844,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -71,9 +71,9 @@
     },
     {
       "site": "twentytwentyone_com",
-      "count": 62,
+      "count": 65,
       "max_drop": 30.0,
-      "total_savings": 380.0
+      "total_savings": 1146.0
     },
     {
       "site": "chelseababy_com",
@@ -185,7 +185,7 @@
       "percentage": 78.4,
       "old_price": "37.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-21T14:55:35.991514",
+      "timestamp": "2026-01-21T14:56:52.051964",
       "url": "https://dusk.com/products/axel-handwoven-stripe-natural"
     },
     {
@@ -221,7 +221,7 @@
       "percentage": 69.2,
       "old_price": "65.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-21T14:55:14.077598",
+      "timestamp": "2026-01-21T15:00:20.178851",
       "url": "https://www.johnlewis.com/sweaty-betty-breathe-easy-long-sleeve-top/p113350484"
     },
     {
@@ -230,7 +230,7 @@
       "percentage": 68.0,
       "old_price": "50.00",
       "new_price": "16.00",
-      "timestamp": "2026-01-21T14:55:14.077598",
+      "timestamp": "2026-01-21T15:00:20.178851",
       "url": "https://www.johnlewis.com/sweaty-betty-after-class-longline-sweatshirt/p110202256"
     },
     {
@@ -329,7 +329,7 @@
       "percentage": 52.2,
       "old_price": "135.00",
       "new_price": "64.50",
-      "timestamp": "2026-01-21T14:55:14.077598",
+      "timestamp": "2026-01-21T15:00:20.178851",
       "url": "https://www.johnlewis.com/lauren-ralph-lauren-keaton-tote-bag/p113887158"
     },
     {
@@ -338,7 +338,7 @@
       "percentage": 50.9,
       "old_price": "53.00",
       "new_price": "26.00",
-      "timestamp": "2026-01-21T14:55:14.077598",
+      "timestamp": "2026-01-21T15:00:20.178851",
       "url": "https://www.johnlewis.com/dune-london-greysons-leather-tassle-loafers/p113118994"
     },
     {
@@ -878,7 +878,7 @@
       "percentage": 46.4,
       "old_price": "16.80",
       "new_price": "9.00",
-      "timestamp": "2026-01-21T14:55:35.991514",
+      "timestamp": "2026-01-21T14:56:52.051964",
       "url": "https://dusk.com/products/washed-cotton-plain-dye-duvet-cover-set-almond"
     },
     {
@@ -914,7 +914,7 @@
       "percentage": 45.5,
       "old_price": "39.00",
       "new_price": "21.25",
-      "timestamp": "2026-01-21T14:55:14.077598",
+      "timestamp": "2026-01-21T15:00:20.178851",
       "url": "https://www.johnlewis.com/hush-emily-puff-sleeve-cotton-jersey-top/p109960287"
     },
     {

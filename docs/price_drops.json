@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-21T10:24:18.135381",
-  "total_drops": 2651,
+  "generated_at": "2026-01-21T10:29:35.898743",
+  "total_drops": 2655,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 210,
+      "count": 213,
       "max_drop": 67.4,
-      "total_savings": 5262.69
+      "total_savings": 5377.69
     },
     {
       "site": "currys_com",
-      "count": 892,
+      "count": 893,
       "max_drop": 61.4,
-      "total_savings": 60406.77
+      "total_savings": 60470.78
     },
     {
       "site": "fenwick_co_uk",
@@ -200,7 +200,7 @@
       "percentage": 60.0,
       "old_price": "45.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-21T10:24:01.877367",
+      "timestamp": "2026-01-21T10:29:18.133179",
       "url": "https://www.johnlewis.com/john-lewis-ara-leather-flapover-purse/p110947397"
     },
     {
@@ -209,7 +209,7 @@
       "percentage": 58.9,
       "old_price": "180.00",
       "new_price": "73.99",
-      "timestamp": "2026-01-21T10:24:05.711076",
+      "timestamp": "2026-01-21T10:29:23.207436",
       "url": "https://www.currys.co.uk/products/10220114.html"
     },
     {
@@ -236,7 +236,7 @@
       "percentage": 50.2,
       "old_price": "215.00",
       "new_price": "107.00",
-      "timestamp": "2026-01-21T10:24:05.711076",
+      "timestamp": "2026-01-21T10:29:23.207436",
       "url": "https://www.currys.co.uk/products/10167967.html"
     },
     {
@@ -524,7 +524,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T10:24:05.711076",
+      "timestamp": "2026-01-21T10:29:23.207436",
       "url": "https://www.currys.co.uk/products/10287619.html"
     },
     {
@@ -533,7 +533,7 @@
       "percentage": 50.0,
       "old_price": "89.99",
       "new_price": "44.99",
-      "timestamp": "2026-01-21T10:24:05.711076",
+      "timestamp": "2026-01-21T10:29:23.207436",
       "url": "https://www.currys.co.uk/products/10291986.html"
     },
     {
@@ -659,7 +659,7 @@
       "percentage": 47.0,
       "old_price": "300.00",
       "new_price": "159.00",
-      "timestamp": "2026-01-21T10:24:01.877367",
+      "timestamp": "2026-01-21T10:29:18.133179",
       "url": "https://www.johnlewis.com/samsung-jet-60-turbo-lightweight-cordless-vacuum-cleaner-teal-violet/p109516095"
     },
     {
@@ -848,7 +848,7 @@
       "percentage": 43.7,
       "old_price": "799.00",
       "new_price": "449.99",
-      "timestamp": "2026-01-21T10:24:01.877367",
+      "timestamp": "2026-01-21T10:29:18.133179",
       "url": "https://www.johnlewis.com/shark-rv2800zeukwh-powerdetect-nevertouch-pro-2-in-1-robot-vacuum-cleaner-mop-white-mocha/p114473168"
     },
     {

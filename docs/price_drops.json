@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T15:12:16.372682",
-  "total_drops": 2845,
+  "generated_at": "2026-01-21T15:17:40.096204",
+  "total_drops": 2865,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 268,
+      "count": 278,
       "max_drop": 72.8,
-      "total_savings": 6710.79
+      "total_savings": 6996.09
     },
     {
       "site": "leaderonline_com",
@@ -71,9 +71,9 @@
     },
     {
       "site": "twentytwentyone_com",
-      "count": 66,
+      "count": 76,
       "max_drop": 30.0,
-      "total_savings": 1152.0
+      "total_savings": 1212.0
     },
     {
       "site": "chelseababy_com",
@@ -196,6 +196,24 @@
       "new_price": "17.70",
       "timestamp": "2026-01-21T14:15:40.536440",
       "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Straight Relaxed Leg Jean",
+      "percentage": 70.0,
+      "old_price": "65.00",
+      "new_price": "19.50",
+      "timestamp": "2026-01-21T15:17:17.536445",
+      "url": "https://www.johnlewis.com/john-lewis-straight-relaxed-leg-jean/p114103538"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Gola Classics Women's Viper Metallic Leather Trainers, Silver/Off White/Gum",
+      "percentage": 70.0,
+      "old_price": "90.00",
+      "new_price": "27.00",
+      "timestamp": "2026-01-21T15:17:17.536445",
+      "url": "https://www.johnlewis.com/gola-classics-womens-viper-metallic-leather-trainers-silver-off-white-gum/p113769158"
     },
     {
       "site": "johnlewis_com",
@@ -385,6 +403,24 @@
       "new_price": "247.50",
       "timestamp": "2026-01-21T06:10:39.856225",
       "url": "https://www.johnlewis.com/the-cristina-satchel-black/p113908410"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Levi's 725 Kick Boot Jeans",
+      "percentage": 50.0,
+      "old_price": "110.00",
+      "new_price": "55.00",
+      "timestamp": "2026-01-21T15:17:17.536445",
+      "url": "https://www.johnlewis.com/levis-725-kick-boot-jeans/p112906808"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Fantasie Smoothease Full Knickers",
+      "percentage": 50.0,
+      "old_price": "14.00",
+      "new_price": "7.00",
+      "timestamp": "2026-01-21T15:17:17.536445",
+      "url": "https://www.johnlewis.com/fantasie-smoothease-full-knickers/p3825340"
     },
     {
       "site": "johnlewis_com",
@@ -1042,42 +1078,6 @@
       "new_price": "4.50",
       "timestamp": "2026-01-21T09:01:51.451537",
       "url": "https://fenwick.co.uk/products/mamas-papas-activity-book-sprinkle-of-xmas-xmas-red-25-75587xm00"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Then I Met You Activity Book",
-      "percentage": 43.8,
-      "old_price": "8.00",
-      "new_price": "4.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/mamas-papas-activity-book-then-i-met-you-xmas-white-neutral-25-75588xm00"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Hakki Sweatshirt Slate Gray",
-      "percentage": 43.8,
-      "old_price": "8.00",
-      "new_price": "4.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/name-it-mini-nmmhakki-nreg-sweat-unb-slate-gray-13243180"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Jamie Sweat Shorts Blue Mirage",
-      "percentage": 43.8,
-      "old_price": "8.00",
-      "new_price": "4.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/name-it-mini-nmmjamie-nreg-sweat-shorts-unb-blue-mirage-13243314"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Hakki Shorts Slate Gray",
-      "percentage": 43.8,
-      "old_price": "8.00",
-      "new_price": "4.50",
-      "timestamp": "2026-01-21T09:01:51.451537",
-      "url": "https://fenwick.co.uk/products/name-it-mini-nmmhakki-nreg-shorts-unb-slate-gray-13243182"
     }
   ]
 }

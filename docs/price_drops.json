@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-22T00:06:47.165237",
-  "total_drops": 34,
-  "top_drops_shown": 34,
+  "generated_at": "2026-01-22T00:11:50.045294",
+  "total_drops": 133,
+  "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 28,
-      "max_drop": 33.0,
-      "total_savings": 691.91
+      "count": 127,
+      "max_drop": 45.4,
+      "total_savings": 2940.99
     },
     {
       "site": "flannels_com",
@@ -35,7 +35,7 @@
       "percentage": 55.0,
       "old_price": "60.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-22T00:06:24.016727",
+      "timestamp": "2026-01-22T00:11:16.422886",
       "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
     },
     {
@@ -44,7 +44,7 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T00:06:24.016727",
+      "timestamp": "2026-01-22T00:11:16.422886",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
     },
     {
@@ -53,8 +53,116 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-22T00:06:41.995507",
+      "timestamp": "2026-01-22T00:11:45.560422",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "HUSH Grace A-Line Polka Dot Midi Dress",
+      "percentage": 45.4,
+      "old_price": "67.00",
+      "new_price": "36.55",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/hush-grace-a-line-polka-dot-midi-dress/p114107594"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Mint Velvet Geometric Print Mini Dress, Black/Multi",
+      "percentage": 44.9,
+      "old_price": "89.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/mint-velvet-geometric-print-mini-dress-black-multi/p114308218"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "French Connection Marina Sleeveless Mini Swing Dress",
+      "percentage": 42.2,
+      "old_price": "45.00",
+      "new_price": "26.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/french-connection-marina-sleeveless-mini-swing-dress/p113950590"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Jersey Tie Sleeveless Maxi Dress",
+      "percentage": 40.8,
+      "old_price": "49.00",
+      "new_price": "29.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-jersey-tie-sleeveless-maxi-dress/p113530393"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "James Lakeland Sleeveless Gathered Maxi Dress, Black",
+      "percentage": 39.9,
+      "old_price": "199.00",
+      "new_price": "119.60",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/james-lakeland-sleeveless-gathered-maxi-dress-black/p114436755"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Floral Polka Dot Long Sleeve V Neck Midi Dress",
+      "percentage": 33.9,
+      "old_price": "59.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-floral-polka-dot-long-sleeve-v-neck-midi-dress/p114117325"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Petite Floral Midi Dress, Purple/Red",
+      "percentage": 33.9,
+      "old_price": "59.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-petite-floral-midi-dress-purple-red/p114026829"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Batik Print Maxi Dress, Pink",
+      "percentage": 33.9,
+      "old_price": "59.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-batik-print-maxi-dress-pink/p114142677"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Petite Floral Tie Back Dress, Red/Multi",
+      "percentage": 33.9,
+      "old_price": "59.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-petite-floral-tie-back-dress-red-multi/p113797576"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "HUSH Grace V-Neck Long Sleeve Midi Dress",
+      "percentage": 33.7,
+      "old_price": "50.00",
+      "new_price": "33.15",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/hush-grace-v-neck-long-sleeve-midi-dress/p114133973"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Mint Velvet Floral Appliqué Maxi Dress, Navy Blue",
+      "percentage": 33.7,
+      "old_price": "89.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/mint-velvet-floral-applique-maxi-dress-navy-blue/p113886056"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Petite Houndstooth Dropped Waist Jersey Dress",
+      "percentage": 33.7,
+      "old_price": "89.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-petite-houndstooth-dropped-waist-jersey-dress/p114408411"
     },
     {
       "site": "johnlewis_com",
@@ -62,8 +170,107 @@
       "percentage": 33.0,
       "old_price": "73.00",
       "new_price": "48.91",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/issey-miyake-le-sel-dissey-eau-de-toilette-50ml-fragrance-gift-set/p114246720"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Samsung Series 5 WW80CGC04DAB Freestanding Washing Machine, AI Energy, 8kg Load, 1400rpm, Black",
+      "percentage": 32.8,
+      "old_price": "549.00",
+      "new_price": "369.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/samsung-series-5-ww80cgc04dab-freestanding-washing-machine-ai-energy-8kg-load-1400rpm-black/p111200328"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Cotton Poplin Twist Front Dress",
+      "percentage": 29.0,
+      "old_price": "69.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-cotton-poplin-twist-front-dress/p113694749"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Cath Kidston Orange Blossom Hand Creams, Set of 3",
+      "percentage": 28.6,
+      "old_price": "5.60",
+      "new_price": "4.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/cath-kidston-orange-blossom-hand-creams-set-of-3/p113030133"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Mint Velvet Metallic Midi Shirt Dress, Gold",
+      "percentage": 28.2,
+      "old_price": "110.00",
+      "new_price": "79.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/mint-velvet-metallic-midi-shirt-dress-gold/p114269803"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Nespresso Vertuo Pop Coffee Pod Machine by Krups",
+      "percentage": 27.0,
+      "old_price": "80.81",
+      "new_price": "59.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/nespresso-vertuo-pop-coffee-pod-machine-by-krups/p111959698"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "OXO POP Stainless Steel Lid Rectangular Kitchen Storage Container, Clear",
+      "percentage": 27.0,
+      "old_price": "18.50",
+      "new_price": "13.50",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/oxo-pop-stainless-steel-lid-rectangular-kitchen-storage-container-clear/p5331633"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "French Connection Orla Jersey Eyelet Midi Dress, Black",
+      "percentage": 26.3,
+      "old_price": "38.00",
+      "new_price": "28.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/french-connection-orla-jersey-eyelet-midi-dress-black/p114272260"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "French Connection Jamie Floral Tailored Pencil Midi Skirt",
+      "percentage": 25.7,
+      "old_price": "35.00",
+      "new_price": "26.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/french-connection-jamie-floral-tailored-pencil-midi-skirt/p114371816"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Petite Annabelle Liquid Sequin Racer Dress, Burgundy",
+      "percentage": 25.3,
+      "old_price": "79.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-petite-annabelle-liquid-sequin-racer-dress-burgundy/p114108975"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Lydia Metallic Long Sleeve V Neck Ruffle Maxi Dress",
+      "percentage": 25.3,
+      "old_price": "79.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-lydia-metallic-long-sleeve-v-neck-ruffle-maxi-dress/p114320104"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Reiss Petite Lulu Lace Detail Midi Dress, Black",
+      "percentage": 25.3,
+      "old_price": "198.00",
+      "new_price": "148.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/reiss-petite-lulu-lace-detail-midi-dress-black/p114299558"
     },
     {
       "site": "johnlewis_com",
@@ -71,8 +278,44 @@
       "percentage": 25.0,
       "old_price": "49.99",
       "new_price": "37.50",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/vtech-bc8611-v-hush-rocker-sound-motion-stroller-soother-and-night-light/p113997986"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "OXO POP Stainless Steel Lid Square Kitchen Storage Container, Clear",
+      "percentage": 25.0,
+      "old_price": "18.00",
+      "new_price": "13.50",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/oxo-pop-stainless-steel-lid-square-kitchen-storage-container-clear/p5331590"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Le Creuset 3-Ply Uncoated Stainless Steel Frying Pan, 24cm",
+      "percentage": 25.0,
+      "old_price": "155.00",
+      "new_price": "116.25",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/le-creuset-3-ply-uncoated-stainless-steel-frying-pan-24cm/p436487"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Le Creuset 3-Ply Stainless Steel Lidded Saucepan",
+      "percentage": 25.0,
+      "old_price": "169.00",
+      "new_price": "126.75",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/le-creuset-3-ply-stainless-steel-lidded-saucepan/p20658"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Live Unlimited Curve Ruched Jersey Dress, Black",
+      "percentage": 25.0,
+      "old_price": "40.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/live-unlimited-curve-ruched-jersey-dress-black/p114278530"
     },
     {
       "site": "johnlewis_com",
@@ -80,8 +323,80 @@
       "percentage": 23.8,
       "old_price": "31.50",
       "new_price": "24.00",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/nudestix-nudies-bloom-all-over-face-dewy-colour/p111253971"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "French Connection Cammi Belted Jumper Dress, Porcelain Cream",
+      "percentage": 23.5,
+      "old_price": "34.00",
+      "new_price": "26.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/french-connection-cammi-belted-jumper-dress-porcelain-cream/p114272252"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "French Connection Samira Twist Midi Dress, Flame Orange",
+      "percentage": 23.5,
+      "old_price": "34.00",
+      "new_price": "26.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/french-connection-samira-twist-midi-dress-flame-orange/p114088365"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Nespresso Creatista Plus Coffee Machine by Sage",
+      "percentage": 23.4,
+      "old_price": "499.00",
+      "new_price": "382.43",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/nespresso-creatista-plus-coffee-machine-by-sage/p5067057"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Reiss Lornie Abstract Animal Print Slip Dress, Navy",
+      "percentage": 20.4,
+      "old_price": "98.00",
+      "new_price": "78.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/reiss-lornie-abstract-animal-print-slip-dress-navy/p113930210"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Floral Halterneck Maxi Dress, Red",
+      "percentage": 20.4,
+      "old_price": "49.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-floral-halterneck-maxi-dress-red/p113599029"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Petite Floral Halterneck Maxi Dress, Red",
+      "percentage": 20.4,
+      "old_price": "49.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-petite-floral-halterneck-maxi-dress-red/p113599024"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Demi Tinsel Dress, Black",
+      "percentage": 20.4,
+      "old_price": "49.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-demi-tinsel-dress-black/p114108964"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Poppy Print Tie Front Dress, Red/Multi",
+      "percentage": 20.4,
+      "old_price": "49.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-poppy-print-tie-front-dress-red-multi/p113160707"
     },
     {
       "site": "flannels_com",
@@ -89,7 +404,7 @@
       "percentage": 20.1,
       "old_price": "349.00",
       "new_price": "279.00",
-      "timestamp": "2026-01-22T00:06:42.188830",
+      "timestamp": "2026-01-22T00:11:47.669526",
       "url": "https://www.flannels.com/hugo-womens-antegi-red-blazer-558061"
     },
     {
@@ -98,7 +413,7 @@
       "percentage": 20.0,
       "old_price": "50.00",
       "new_price": "40.00",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-hypnose-drama-eyeshadow-palette/p4157705"
     },
     {
@@ -107,7 +422,7 @@
       "percentage": 20.0,
       "old_price": "30.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-hypnose-mascara/p1093266"
     },
     {
@@ -116,7 +431,7 @@
       "percentage": 20.0,
       "old_price": "34.00",
       "new_price": "27.20",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-labsolu-rouge-cream-lipstick/p6169981"
     },
     {
@@ -125,7 +440,7 @@
       "percentage": 20.0,
       "old_price": "17.00",
       "new_price": "13.60",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-new-improved-hypnose-drama-instant-extreme-volume-mascara/p111815117"
     },
     {
@@ -134,7 +449,7 @@
       "percentage": 20.0,
       "old_price": "24.00",
       "new_price": "19.20",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-lash-idole-ultra-precise-waterproof-liner/p5992317"
     },
     {
@@ -143,7 +458,7 @@
       "percentage": 20.0,
       "old_price": "40.00",
       "new_price": "32.00",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-teint-idole-ultra-wear-skin-refining-setting-powder/p113110165"
     },
     {
@@ -152,7 +467,7 @@
       "percentage": 20.0,
       "old_price": "73.00",
       "new_price": "58.40",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-advanced-genifique-repairing-night-cream-50ml/p109298913"
     },
     {
@@ -161,7 +476,7 @@
       "percentage": 20.0,
       "old_price": "69.00",
       "new_price": "55.20",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-eau-de-parfum/p6377797"
     },
     {
@@ -170,7 +485,7 @@
       "percentage": 20.0,
       "old_price": "62.00",
       "new_price": "49.60",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-idole-eau-de-parfum/p4271767"
     },
     {
@@ -179,7 +494,7 @@
       "percentage": 20.0,
       "old_price": "72.00",
       "new_price": "57.60",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-rose-extraordinaire-eau-de-parfum/p111430722"
     },
     {
@@ -188,7 +503,7 @@
       "percentage": 20.0,
       "old_price": "75.00",
       "new_price": "60.00",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-lelixir-eau-de-parfum-refillable/p112090718"
     },
     {
@@ -197,7 +512,7 @@
       "percentage": 20.0,
       "old_price": "230.00",
       "new_price": "184.00",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-storm-and-roses-eau-de-parfum-100ml/p112090723"
     },
     {
@@ -206,7 +521,7 @@
       "percentage": 20.0,
       "old_price": "230.00",
       "new_price": "184.00",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-hell-of-a-rose-eau-de-parfum-100ml/p112090728"
     },
     {
@@ -215,7 +530,7 @@
       "percentage": 20.0,
       "old_price": "230.00",
       "new_price": "184.00",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-le-parfum-eau-de-parfum-100ml/p112090727"
     },
     {
@@ -224,8 +539,179 @@
       "percentage": 20.0,
       "old_price": "230.00",
       "new_price": "184.00",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-not-your-rose-eau-de-parfum-100ml/p112090726"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme Nutrix Royal Body, 400ml",
+      "percentage": 20.0,
+      "old_price": "48.00",
+      "new_price": "38.40",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/lancome-nutrix-royal-body-400ml/p52213"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Samsung Series 8 DV90BB9445GB Heat Pump Tumble Dryer, AI Energy, 9kg Load, Black",
+      "percentage": 20.0,
+      "old_price": "999.00",
+      "new_price": "799.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/samsung-series-8-dv90bb9445gb-heat-pump-tumble-dryer-ai-energy-9kg-load-black/p6360559"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Adrianna By Adrianna Papell Velvet Low Back Sweetheart Neck Strapless Maxi Dress, Black, Black",
+      "percentage": 20.0,
+      "old_price": "149.50",
+      "new_price": "119.60",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/adrianna-by-adrianna-papell-velvet-low-back-sweetheart-neck-strapless-maxi-dress-black-black/p114051283"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Gina Bacconi Danielle Illusion Neck Dress, Black",
+      "percentage": 20.0,
+      "old_price": "220.00",
+      "new_price": "176.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/gina-bacconi-danielle-illusion-neck-dress-black/p113947199"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Nobody's Child Cora Corset Midi Dress containing LENZING™ ECOVERO™ Viscose, Green",
+      "percentage": 20.0,
+      "old_price": "45.00",
+      "new_price": "36.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/nobodys-child-cora-corset-midi-dress-containing-lenzing-ecovero-viscose-green/p114198829"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Nobody's Child Mimi Short Puff Sleeve Cotton Midi Dress, Brown",
+      "percentage": 20.0,
+      "old_price": "45.00",
+      "new_price": "36.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/nobodys-child-mimi-short-puff-sleeve-cotton-midi-dress-brown/p113705856"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Gina Bacconi Elaine Stud Sleeve Wrap Dress, Royal",
+      "percentage": 20.0,
+      "old_price": "170.00",
+      "new_price": "136.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/gina-bacconi-elaine-stud-sleeve-wrap-dress-royal/p113947217"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Gina Bacconi Victoria Side Ruched Maxi Dress, Midnight",
+      "percentage": 20.0,
+      "old_price": "260.00",
+      "new_price": "208.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/gina-bacconi-victoria-side-ruched-maxi-dress-midnight/p113683129"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Aidan Mattox By Adrianna Papell Beaded Mesh Maxi Dress, Gold",
+      "percentage": 20.0,
+      "old_price": "299.50",
+      "new_price": "239.60",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/aidan-mattox-by-adrianna-papell-beaded-mesh-maxi-dress-gold/p114325005"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Mango Pome Floral Midi Dress, Brown",
+      "percentage": 20.0,
+      "old_price": "19.99",
+      "new_price": "15.99",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/mango-pome-floral-midi-dress-brown/p114253413"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Gina Bacconi Floral Sleeveless Round Neck Midi Dress",
+      "percentage": 20.0,
+      "old_price": "130.00",
+      "new_price": "104.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/gina-bacconi-floral-sleeveless-round-neck-midi-dress/p114364668"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Gina Bacconi Genny Floral Maxi Dress, Navy/Multi",
+      "percentage": 20.0,
+      "old_price": "150.00",
+      "new_price": "120.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/gina-bacconi-genny-floral-maxi-dress-navy-multi/p113683117"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Aidan Mattox by Adrianna Papell Floral  Jacquard Midi Dress, Cool Mint",
+      "percentage": 20.0,
+      "old_price": "111.60",
+      "new_price": "89.28",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/aidan-mattox-by-adrianna-papell-floral-jacquard-midi-dress-cool-mint/p113990877"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "ASCENO Mina Linen Maxi Dress, Dark Green",
+      "percentage": 20.0,
+      "old_price": "187.50",
+      "new_price": "150.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/asceno-mina-linen-maxi-dress-dark-green/p113668837"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Gina Bacconi Iona Print Stand Collar Dress, Black/Cream",
+      "percentage": 20.0,
+      "old_price": "99.00",
+      "new_price": "79.20",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/gina-bacconi-iona-print-stand-collar-dress-black-cream/p112273619"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Gina Bacconi Roxanna Floral Maxi Dress, Green/Multi",
+      "percentage": 20.0,
+      "old_price": "99.00",
+      "new_price": "79.20",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/gina-bacconi-roxanna-floral-maxi-dress-green-multi/p113742439"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Mango Leia Asymmetric Drop Waist Dress, Dark Brown",
+      "percentage": 20.0,
+      "old_price": "69.99",
+      "new_price": "55.99",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/mango-leia-asymmetric-drop-waist-dress-dark-brown/p113716140"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Gina Bacconi Glennis Chiffon Overlay Dress, Black",
+      "percentage": 20.0,
+      "old_price": "180.00",
+      "new_price": "144.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/gina-bacconi-glennis-chiffon-overlay-dress-black/p114364619"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Calvin Klein Sleeveless Denim Trucker Dress, Sage Stone",
+      "percentage": 20.0,
+      "old_price": "70.00",
+      "new_price": "56.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/calvin-klein-sleeveless-denim-trucker-dress-sage-stone/p113170300"
     },
     {
       "site": "johnlewis_com",
@@ -233,7 +719,7 @@
       "percentage": 18.8,
       "old_price": "16.00",
       "new_price": "13.00",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/john-lewis-white-polka-dot-wine-glass-set-of-2-340ml-clear/p113231158"
     },
     {
@@ -242,8 +728,35 @@
       "percentage": 17.1,
       "old_price": "439.00",
       "new_price": "364.00",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/joolz-aer2-pushchair/p113556029"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Petite Evie Long Sleeved Cluster Sequin Mini Dress, Blue",
+      "percentage": 16.9,
+      "old_price": "59.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-petite-evie-long-sleeved-cluster-sequin-mini-dress-blue/p114108980"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Freya Sequin Halterneck Dress, Red",
+      "percentage": 16.9,
+      "old_price": "59.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/ro-zo-freya-sequin-halterneck-dress-red/p114108966"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "French Connection Pleated Skirt Maxi Dress, Multi",
+      "percentage": 16.7,
+      "old_price": "72.00",
+      "new_price": "60.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/french-connection-pleated-skirt-maxi-dress-multi/p113950596"
     },
     {
       "site": "johnlewis_com",
@@ -251,89 +764,170 @@
       "percentage": 15.0,
       "old_price": "39.99",
       "new_price": "33.99",
-      "timestamp": "2026-01-22T00:06:45.385827",
+      "timestamp": "2026-01-22T00:11:44.540956",
       "url": "https://www.johnlewis.com/bababing-joey-compact-changing-bag-leopard/p112178753"
     },
     {
-      "site": "dusk_com",
-      "product": "Linen Cotton Blend Duvet Cover - Chalk White",
-      "percentage": 14.3,
-      "old_price": "28.00",
-      "new_price": "24.00",
-      "timestamp": "2026-01-22T00:06:41.995507",
-      "url": "https://dusk.com/products/linen-cotton-blend-duvet-cover-chalk-white"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Middleton Ottoman Storage Bed - Natural",
-      "percentage": 11.8,
-      "old_price": "305.00",
-      "new_price": "269.00",
-      "timestamp": "2026-01-22T00:06:41.995507",
-      "url": "https://dusk.com/products/middleton-ottoman-fabric-bed-frame-natural"
+      "site": "johnlewis_com",
+      "product": "Phase Eight Gina Colour Contrast Dress, Black",
+      "percentage": 15.0,
+      "old_price": "99.00",
+      "new_price": "84.15",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-gina-colour-contrast-dress-black/p113992582"
     },
     {
       "site": "johnlewis_com",
-      "product": "Elie Saab Le Parfum Eau de Parfum 50ml Fragrance Gift Set",
-      "percentage": 10.7,
-      "old_price": "52.50",
-      "new_price": "46.90",
-      "timestamp": "2026-01-22T00:06:45.385827",
-      "url": "https://www.johnlewis.com/elie-saab-le-parfum-eau-de-parfum-50ml-fragrance-gift-set/p114180790"
+      "product": "Phase Eight Becca Batwing Dress, Burgundy",
+      "percentage": 15.0,
+      "old_price": "99.00",
+      "new_price": "84.15",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-becca-batwing-dress-burgundy/p112573588"
     },
     {
       "site": "johnlewis_com",
-      "product": "MAM Move Wearable Double Breast Pump",
-      "percentage": 10.0,
-      "old_price": "200.00",
-      "new_price": "180.00",
-      "timestamp": "2026-01-22T00:06:45.385827",
-      "url": "https://www.johnlewis.com/mam-move-wearable-double-breast-pump/p112225060"
+      "product": "Phase Eight Ramona Floral Sleeve Dress, Black/Multi",
+      "percentage": 15.0,
+      "old_price": "99.00",
+      "new_price": "84.15",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-ramona-floral-sleeve-dress-black-multi/p113962157"
     },
     {
       "site": "johnlewis_com",
-      "product": "Cybex Click & Fold Highchair, Natural",
-      "percentage": 10.0,
-      "old_price": "175.96",
-      "new_price": "158.36",
-      "timestamp": "2026-01-22T00:06:45.385827",
-      "url": "https://www.johnlewis.com/cybex-click-fold-highchair-natural/p112204430"
+      "product": "Phase Eight Ayumi Lace Midi Dress, Pale Pink",
+      "percentage": 15.0,
+      "old_price": "199.00",
+      "new_price": "169.15",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-ayumi-lace-midi-dress-pale-pink/p114437839"
     },
     {
       "site": "johnlewis_com",
-      "product": "Maxi-Cosi Fame Pushchair and Carrycot with Pebble 360 Pro2 i-Size Car Seat and FamilyFix 360 Pro ISOFIX Car Seat Base Bundle, Twillic Black",
-      "percentage": 8.0,
-      "old_price": "1152.48",
-      "new_price": "1059.98",
-      "timestamp": "2026-01-22T00:06:45.385827",
-      "url": "https://www.johnlewis.com/maxi-cosi-fame-pushchair-and-carrycot-with-pebble-360-pro2-i-size-car-seat-and-familyfix-360-pro-isofix-car-seat-base-bundle-twillic-black/p241524662"
+      "product": "Phase Eight Petite Abbie Wrap Midi Dress, Navy",
+      "percentage": 15.0,
+      "old_price": "139.00",
+      "new_price": "118.15",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-petite-abbie-wrap-midi-dress-navy/p114237265"
     },
     {
       "site": "johnlewis_com",
-      "product": "Yearn Classic Bevelled Glass Rectangular Wall Mirror, Silver",
-      "percentage": 5.9,
-      "old_price": "84.15",
-      "new_price": "79.20",
-      "timestamp": "2026-01-22T00:06:45.385827",
-      "url": "https://www.johnlewis.com/yearn-classic-bevelled-glass-rectangular-wall-mirror-silver/p111882268"
+      "product": "Phase Eight Petite Janessa Sequin Wrap Dress, Navy",
+      "percentage": 15.0,
+      "old_price": "179.00",
+      "new_price": "152.15",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-petite-janessa-sequin-wrap-dress-navy/p113659402"
     },
     {
       "site": "johnlewis_com",
-      "product": "Cybex e-Priam Pushchair, Carrycot & Cloud T PLUS i-Size Car with Base T Bundle, Black",
-      "percentage": 4.6,
-      "old_price": "1959.80",
-      "new_price": "1869.81",
-      "timestamp": "2026-01-22T00:06:45.385827",
-      "url": "https://www.johnlewis.com/cybex-e-priam-pushchair-carrycot-cloud-t-plus-i-size-car-with-base-t-bundle-black/p241390672"
+      "product": "Phase Eight Mira Ombre Midi Dress, Purple/Pink",
+      "percentage": 15.0,
+      "old_price": "179.00",
+      "new_price": "152.15",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-mira-ombre-midi-dress-purple-pink/p114305765"
     },
     {
       "site": "johnlewis_com",
-      "product": "Cybex e-Priam Pushchair & Accessories with Cloud T i-Size Car Seat and Base T Base Bundle, Chrome/Sepia Black",
-      "percentage": 2.1,
-      "old_price": "1875.05",
-      "new_price": "1835.06",
-      "timestamp": "2026-01-22T00:06:45.385827",
-      "url": "https://www.johnlewis.com/cybex-e-priam-pushchair-accessories-with-cloud-t-i-size-car-seat-and-base-t-base-bundle-chrome-sepia-black/p241690692"
+      "product": "HUSH Corduroy Long Sleeve Mini Shirt Dress",
+      "percentage": 15.0,
+      "old_price": "70.00",
+      "new_price": "59.50",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/hush-corduroy-long-sleeve-mini-shirt-dress/p114227055"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Albaray Volume Sleeve Taffeta Midi Dress, Burgundy",
+      "percentage": 15.0,
+      "old_price": "55.00",
+      "new_price": "46.75",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/albaray-volume-sleeve-taffeta-midi-dress-burgundy/p114126398"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Albaray Velvet Sequin Puffball Mini Dress, Bronze",
+      "percentage": 15.0,
+      "old_price": "45.00",
+      "new_price": "38.25",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/albaray-velvet-sequin-puffball-mini-dress-bronze/p114126391"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Albaray Velvet Sequin Square Neck Midi Dress, Bronze",
+      "percentage": 15.0,
+      "old_price": "45.00",
+      "new_price": "38.25",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/albaray-velvet-sequin-square-neck-midi-dress-bronze/p114126392"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "HUSH Lhea Cotton A-Line Midi Dress",
+      "percentage": 15.0,
+      "old_price": "60.00",
+      "new_price": "51.00",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/hush-lhea-cotton-a-line-midi-dress/p113561273"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Phase Eight Leilani Lace Midi Dress, Navy",
+      "percentage": 15.0,
+      "old_price": "189.00",
+      "new_price": "160.65",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-leilani-lace-midi-dress-navy/p114489946"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Phase Eight Carmine Lace Midi Dress, Pale Blue",
+      "percentage": 15.0,
+      "old_price": "189.00",
+      "new_price": "160.65",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-carmine-lace-midi-dress-pale-blue/p114489940"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Phase Eight Natalie Shirt Dress, Purple",
+      "percentage": 15.0,
+      "old_price": "139.00",
+      "new_price": "118.15",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-natalie-shirt-dress-purple/p112523045"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Phase Eight Karima Tapework Dress, Pale Pink",
+      "percentage": 15.0,
+      "old_price": "229.00",
+      "new_price": "194.65",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-karima-tapework-dress-pale-pink/p114437840"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Phase Eight Petite Daisy Textured Bodice Dress",
+      "percentage": 15.0,
+      "old_price": "169.00",
+      "new_price": "143.65",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-petite-daisy-textured-bodice-dress/p111565966"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Phase Eight Daisy Textured Bodice Dress",
+      "percentage": 15.0,
+      "old_price": "169.00",
+      "new_price": "143.65",
+      "timestamp": "2026-01-22T00:11:44.540956",
+      "url": "https://www.johnlewis.com/phase-eight-daisy-textured-bodice-dress/p111357286"
     }
   ]
 }

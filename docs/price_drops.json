@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-22T06:32:28.755387",
-  "total_drops": 605,
+  "generated_at": "2026-01-22T06:37:40.654311",
+  "total_drops": 608,
   "top_drops_shown": 100,
   "site_stats": [
     {
-      "site": "currys_com",
-      "count": 7,
-      "max_drop": 57.9,
-      "total_savings": 382.0
+      "site": "fenwick_co_uk",
+      "count": 237,
+      "max_drop": 60.0,
+      "total_savings": 4525.11
     },
     {
-      "site": "fenwick_co_uk",
-      "count": 235,
-      "max_drop": 55.0,
-      "total_savings": 4445.16
+      "site": "currys_com",
+      "count": 8,
+      "max_drop": 57.9,
+      "total_savings": 412.0
     },
     {
       "site": "johnlewis_com",
@@ -60,6 +60,15 @@
   ],
   "drops": [
     {
+      "site": "fenwick_co_uk",
+      "product": "Ebonee Shoes",
+      "percentage": 60.0,
+      "old_price": "99.95",
+      "new_price": "40.00",
+      "timestamp": "2026-01-22T06:37:12.028403",
+      "url": "https://fenwick.co.uk/products/moda-in-pelle-off-white-ebonee-shoes"
+    },
+    {
       "site": "currys_com",
       "product": "TASSIMO by Bosch Happy Friendly TAS102EGBC Coffee Machi",
       "percentage": 57.9,
@@ -74,7 +83,7 @@
       "percentage": 55.0,
       "old_price": "60.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
     },
     {
@@ -83,7 +92,7 @@
       "percentage": 55.0,
       "old_price": "359.00",
       "new_price": "161.55",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-multicoloured-panorama-duvet-cover-ydpanodcmulticoloured"
     },
     {
@@ -92,7 +101,7 @@
       "percentage": 55.0,
       "old_price": "269.00",
       "new_price": "121.05",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-multicoloured-panorama-flat-sheet-ydpanofltmulticoloured"
     },
     {
@@ -101,7 +110,7 @@
       "percentage": 55.0,
       "old_price": "255.00",
       "new_price": "114.75",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-multicoloured-givre-flat-sheet"
     },
     {
@@ -110,7 +119,7 @@
       "percentage": 55.0,
       "old_price": "89.00",
       "new_price": "40.05",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-silver-etoile-bath-mat-ydetoilesilverbm"
     },
     {
@@ -119,7 +128,7 @@
       "percentage": 55.0,
       "old_price": "109.00",
       "new_price": "49.05",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-multicoloured-givre-cushion-cover"
     },
     {
@@ -128,7 +137,7 @@
       "percentage": 55.0,
       "old_price": "69.00",
       "new_price": "31.05",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-multicoloured-panorama-pillowcase-ydpanopcmulticoloured"
     },
     {
@@ -146,7 +155,7 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
     },
     {
@@ -155,7 +164,7 @@
       "percentage": 50.0,
       "old_price": "49.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-22T06:32:19.914555",
+      "timestamp": "2026-01-22T06:37:27.431371",
       "url": "https://www.johnlewis.com/adrianna-papell-boat-neck-jumper/p114180062"
     },
     {
@@ -164,7 +173,7 @@
       "percentage": 50.0,
       "old_price": "16.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-22T06:32:19.914555",
+      "timestamp": "2026-01-22T06:37:27.431371",
       "url": "https://www.johnlewis.com/small-stuff-kids-faux-fur-smiley-mittens-pink/p114247013"
     },
     {
@@ -254,7 +263,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/gold-symmetry-court-vinyl-80-2413561979"
     },
     {
@@ -326,7 +335,7 @@
       "percentage": 40.0,
       "old_price": "55.00",
       "new_price": "33.00",
-      "timestamp": "2026-01-22T06:32:19.914555",
+      "timestamp": "2026-01-22T06:37:27.431371",
       "url": "https://www.johnlewis.com/under-armour-womens-sonic-7-sports-trainers-black-stone/p113835180"
     },
     {
@@ -335,7 +344,7 @@
       "percentage": 40.0,
       "old_price": "32.00",
       "new_price": "19.20",
-      "timestamp": "2026-01-22T06:32:19.914555",
+      "timestamp": "2026-01-22T06:37:27.431371",
       "url": "https://www.johnlewis.com/mini-boden-kids-cotton-long-sleeved-checked-shirt-ivory-multi/p114328624"
     },
     {
@@ -418,6 +427,15 @@
       "new_price": "39.00",
       "timestamp": "2026-01-22T00:48:54.704820",
       "url": "https://www.johnlewis.com/ro-zo-petite-floral-tie-back-dress-red-multi/p113797576"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "TRIUMPH SNEAKER",
+      "percentage": 33.9,
+      "old_price": "59.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-22T06:37:12.028403",
+      "url": "https://fenwick.co.uk/products/white-triumph-sneaker-4418110979"
     },
     {
       "site": "johnlewis_com",
@@ -506,7 +524,7 @@
       "percentage": 32.0,
       "old_price": "125.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-22T06:32:19.914555",
+      "timestamp": "2026-01-22T06:37:27.431371",
       "url": "https://www.johnlewis.com/whistles-curved-hem-roll-neck-pure-wool-jumper/p114426764"
     },
     {
@@ -524,7 +542,7 @@
       "percentage": 31.0,
       "old_price": "29.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/forever-new-black-brynn-bardot-knitted-top-kn7438"
     },
     {
@@ -533,7 +551,7 @@
       "percentage": 30.6,
       "old_price": "62.00",
       "new_price": "43.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/forever-new-brown-cassidy-one-shoulder-plisse-midi-dress-jdc4805"
     },
     {
@@ -542,7 +560,7 @@
       "percentage": 30.4,
       "old_price": "46.00",
       "new_price": "32.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/forever-new-pink-mandy-bardot-ruffle-mini-dress-drcz20736"
     },
     {
@@ -560,7 +578,7 @@
       "percentage": 30.3,
       "old_price": "66.00",
       "new_price": "46.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/forever-new-brown-vivian-asymmetric-twist-maxi-dress-jd4815"
     },
     {
@@ -569,7 +587,7 @@
       "percentage": 30.0,
       "old_price": "75.00",
       "new_price": "52.50",
-      "timestamp": "2026-01-22T06:32:19.914555",
+      "timestamp": "2026-01-22T06:37:27.431371",
       "url": "https://www.johnlewis.com/mini-boden-kids-fleece-lined-coat-navy-multi/p114379624"
     },
     {
@@ -614,7 +632,7 @@
       "percentage": 30.0,
       "old_price": "60.00",
       "new_price": "42.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/forever-new-black-zahra-2-in-1-mini-dress-jd4809"
     },
     {
@@ -623,7 +641,7 @@
       "percentage": 30.0,
       "old_price": "70.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/forever-new-brown-kylee-draped-midi-dress-drcz20956"
     },
     {
@@ -641,7 +659,7 @@
       "percentage": 29.9,
       "old_price": "77.00",
       "new_price": "54.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/forever-new-black-brielle-fit-and-flare-knitted-mini-dress-kn7309"
     },
     {
@@ -650,7 +668,7 @@
       "percentage": 29.8,
       "old_price": "57.00",
       "new_price": "40.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/forever-new-brown-cassie-single-breasted-coatigan-ja8364"
     },
     {
@@ -677,7 +695,7 @@
       "percentage": 29.6,
       "old_price": "54.00",
       "new_price": "38.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/forever-new-pink-aubrey-sleeveless-printed-midi-dress-dr20422"
     },
     {
@@ -713,7 +731,7 @@
       "percentage": 28.6,
       "old_price": "70.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-22T06:32:19.914555",
+      "timestamp": "2026-01-22T06:37:27.431371",
       "url": "https://www.johnlewis.com/hackett-london-kids-padded-checked-gilet-midnight-blue/p113817643"
     },
     {
@@ -740,7 +758,7 @@
       "percentage": 28.6,
       "old_price": "35.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/forever-new-multi-becca-scalloped-neck-blouse-sh13662"
     },
     {
@@ -767,7 +785,7 @@
       "percentage": 28.0,
       "old_price": "75.00",
       "new_price": "54.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-blue-oxford-square-oxford-pillowcase"
     },
     {
@@ -776,7 +794,7 @@
       "percentage": 28.0,
       "old_price": "89.00",
       "new_price": "64.08",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-standard-housewife-pillowcase-pair-rloxfordrosettepcp"
     },
     {
@@ -785,7 +803,7 @@
       "percentage": 28.0,
       "old_price": "75.00",
       "new_price": "54.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-standard-oxford-pillowcase-rloxfordrosettepc"
     },
     {
@@ -794,7 +812,7 @@
       "percentage": 28.0,
       "old_price": "139.00",
       "new_price": "100.08",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-fitted-sheet-rloxfordrosetteftd"
     },
     {
@@ -803,7 +821,7 @@
       "percentage": 28.0,
       "old_price": "95.00",
       "new_price": "68.40",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-whitenavy-langdon-oxford-pillowcase-pair-rllangopcwhitenavy"
     },
     {
@@ -812,7 +830,7 @@
       "percentage": 28.0,
       "old_price": "49.00",
       "new_price": "35.28",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-white-polo-player-white-standard-pillowcase-rlrlplpcwhite"
     },
     {
@@ -821,7 +839,7 @@
       "percentage": 28.0,
       "old_price": "115.00",
       "new_price": "82.80",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-navy-langdon-pillowcase-pair-rllangpcnavy"
     },
     {
@@ -830,7 +848,7 @@
       "percentage": 28.0,
       "old_price": "215.00",
       "new_price": "154.80",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -839,7 +857,7 @@
       "percentage": 28.0,
       "old_price": "95.00",
       "new_price": "68.40",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-whitesilver-langdon-standard-oxford-pillowcase-rllangdonwhitesilverpc"
     },
     {
@@ -848,7 +866,7 @@
       "percentage": 28.0,
       "old_price": "89.00",
       "new_price": "64.08",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-capetan-doncaster-oxford-pillowcase-rldoncopccapetan"
     },
     {
@@ -857,7 +875,7 @@
       "percentage": 28.0,
       "old_price": "129.00",
       "new_price": "92.88",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-pink-pinksky-polo-player-pink-sky-duvet-cover-rlrlpldcpinksky"
     },
     {
@@ -866,7 +884,7 @@
       "percentage": 28.0,
       "old_price": "49.00",
       "new_price": "35.28",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-navy-newport-polo-player-newport-standard-pillowcase-rlrlplpcnewport"
     },
     {
@@ -875,7 +893,7 @@
       "percentage": 28.0,
       "old_price": "89.00",
       "new_price": "64.08",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-dark-green-doncaster-standard-oxford-pillowcase-rldoncpcdarkgreen"
     },
     {
@@ -884,7 +902,7 @@
       "percentage": 28.0,
       "old_price": "75.00",
       "new_price": "54.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-pink-pinksky-polo-player-pink-sky-fitted-sheet-rlrlpldhpinksky"
     },
     {
@@ -893,7 +911,7 @@
       "percentage": 28.0,
       "old_price": "259.00",
       "new_price": "186.48",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-whitenavy-langdon-flat-sheet-rllangfltwhitenavy"
     },
     {
@@ -902,7 +920,7 @@
       "percentage": 28.0,
       "old_price": "169.00",
       "new_price": "121.68",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-silver-langdon-fitted-sheet-rllangdon624silverftd"
     },
     {
@@ -911,7 +929,7 @@
       "percentage": 28.0,
       "old_price": "49.00",
       "new_price": "35.28",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-navy-newport-polo-player-newport-square-pillowcase-rlrlplpcsnewport"
     },
     {
@@ -920,7 +938,7 @@
       "percentage": 28.0,
       "old_price": "169.00",
       "new_price": "121.68",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-navy-langdon-fitted-sheet-rllangdhnavy"
     },
     {
@@ -929,7 +947,7 @@
       "percentage": 28.0,
       "old_price": "359.00",
       "new_price": "258.48",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-dark-green-doncaster-duvet-cover-rldoncdcdarkgreen"
     },
     {
@@ -938,26 +956,8 @@
       "percentage": 28.0,
       "old_price": "115.00",
       "new_price": "82.80",
-      "timestamp": "2026-01-22T06:32:20.738689",
+      "timestamp": "2026-01-22T06:37:12.028403",
       "url": "https://fenwick.co.uk/products/other-silver-langdon-standard-housewife-pillowcase-pair-rllangdon624silverpcp"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Langdon Duvet Cover Collection",
-      "percentage": 28.0,
-      "old_price": "385.00",
-      "new_price": "277.20",
-      "timestamp": "2026-01-22T06:32:20.738689",
-      "url": "https://fenwick.co.uk/products/other-sil-silver-langdon-duvet-cover-rllangdcsilver"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Polo Player Flat Sheet",
-      "percentage": 28.0,
-      "old_price": "125.00",
-      "new_price": "90.00",
-      "timestamp": "2026-01-22T06:32:20.738689",
-      "url": "https://fenwick.co.uk/products/other-white-polo-player-white-flat-sheet-rlrlplfltwhite"
     }
   ]
 }

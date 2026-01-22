@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T09:14:34.359631",
-  "total_drops": 1020,
+  "generated_at": "2026-01-22T09:19:47.877299",
+  "total_drops": 1035,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -10,16 +10,16 @@
       "total_savings": 61.98
     },
     {
+      "site": "currys_com",
+      "count": 416,
+      "max_drop": 62.5,
+      "total_savings": 10804.33
+    },
+    {
       "site": "fenwick_co_uk",
       "count": 237,
       "max_drop": 60.0,
       "total_savings": 4525.11
-    },
-    {
-      "site": "currys_com",
-      "count": 401,
-      "max_drop": 57.9,
-      "total_savings": 9738.3
     },
     {
       "site": "johnlewis_com",
@@ -75,12 +75,21 @@
       "url": "https://www.leaderonline.com/products/white-oak-internal-unfinished-3-panel-aston-door-121769"
     },
     {
+      "site": "currys_com",
+      "product": "BABYLISS Stardust Shimmer 5914PU Hair Dryer - Gold",
+      "percentage": 62.5,
+      "old_price": "80.00",
+      "new_price": "29.99",
+      "timestamp": "2026-01-22T09:19:43.518657",
+      "url": "https://www.currys.co.uk/products/10288885.html"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Ebonee Shoes",
       "percentage": 60.0,
       "old_price": "99.95",
       "new_price": "40.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-off-white-ebonee-shoes"
     },
     {
@@ -98,7 +107,7 @@
       "percentage": 55.0,
       "old_price": "60.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
     },
     {
@@ -107,7 +116,7 @@
       "percentage": 55.0,
       "old_price": "359.00",
       "new_price": "161.55",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/other-multicoloured-panorama-duvet-cover-ydpanodcmulticoloured"
     },
     {
@@ -116,7 +125,7 @@
       "percentage": 55.0,
       "old_price": "269.00",
       "new_price": "121.05",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/other-multicoloured-panorama-flat-sheet-ydpanofltmulticoloured"
     },
     {
@@ -125,7 +134,7 @@
       "percentage": 55.0,
       "old_price": "255.00",
       "new_price": "114.75",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/other-multicoloured-givre-flat-sheet"
     },
     {
@@ -134,7 +143,7 @@
       "percentage": 55.0,
       "old_price": "89.00",
       "new_price": "40.05",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/other-silver-etoile-bath-mat-ydetoilesilverbm"
     },
     {
@@ -143,7 +152,7 @@
       "percentage": 55.0,
       "old_price": "109.00",
       "new_price": "49.05",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/other-multicoloured-givre-cushion-cover"
     },
     {
@@ -152,7 +161,7 @@
       "percentage": 55.0,
       "old_price": "69.00",
       "new_price": "31.05",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/other-multicoloured-panorama-pillowcase-ydpanopcmulticoloured"
     },
     {
@@ -161,8 +170,17 @@
       "percentage": 54.4,
       "old_price": "159.99",
       "new_price": "72.99",
-      "timestamp": "2026-01-22T09:14:31.729622",
+      "timestamp": "2026-01-22T09:19:43.518657",
       "url": "https://www.currys.co.uk/products/10261848.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "REMINGTON X7 Limitless X XR1775 Wet & Dry Beard Rotary",
+      "percentage": 52.8,
+      "old_price": "179.99",
+      "new_price": "84.99",
+      "timestamp": "2026-01-22T09:19:43.518657",
+      "url": "https://www.currys.co.uk/products/10280835.html"
     },
     {
       "site": "johnlewis_com",
@@ -179,7 +197,7 @@
       "percentage": 50.8,
       "old_price": "119.99",
       "new_price": "58.99",
-      "timestamp": "2026-01-22T09:14:31.729622",
+      "timestamp": "2026-01-22T09:19:43.518657",
       "url": "https://www.currys.co.uk/products/10286598.html"
     },
     {
@@ -188,7 +206,7 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
     },
     {
@@ -228,12 +246,30 @@
       "url": "https://www.johnlewis.com/aspinal-of-london-hudson-leather-business-bag-green/p113971992"
     },
     {
+      "site": "currys_com",
+      "product": "BRAUN Silk-épil 9 Flex 9 3D SE9-041 Wet & Dry Epilator",
+      "percentage": 50.0,
+      "old_price": "299.99",
+      "new_price": "149.99",
+      "timestamp": "2026-01-22T09:19:43.518657",
+      "url": "https://www.currys.co.uk/products/10261847.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "BRAUN Silk-épil 5 5-041 Wet & Dry Epilator - White",
+      "percentage": 50.0,
+      "old_price": "119.99",
+      "new_price": "59.99",
+      "timestamp": "2026-01-22T09:19:43.518657",
+      "url": "https://www.currys.co.uk/products/10261830.html"
+    },
+    {
       "site": "dusk_com",
       "product": "Antigua Soft Fine Ribbed Towel Collection - Fern",
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-22T09:14:16.556741",
+      "timestamp": "2026-01-22T09:19:27.930528",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -368,8 +404,17 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/gold-symmetry-court-vinyl-80-2413561979"
+    },
+    {
+      "site": "currys_com",
+      "product": "GIGABYTE Aorus Pro Ice B860I LGA1851 Motherboard",
+      "percentage": 43.5,
+      "old_price": "199.99",
+      "new_price": "112.97",
+      "timestamp": "2026-01-22T09:19:43.518657",
+      "url": "https://www.currys.co.uk/products/10277347.html"
     },
     {
       "site": "johnlewis_com",
@@ -422,7 +467,7 @@
       "percentage": 40.7,
       "old_price": "67.49",
       "new_price": "40.00",
-      "timestamp": "2026-01-22T09:14:31.729622",
+      "timestamp": "2026-01-22T09:19:43.518657",
       "url": "https://www.currys.co.uk/products/10230937.html"
     },
     {
@@ -471,6 +516,15 @@
       "url": "https://www.johnlewis.com/mini-boden-kids-cotton-long-sleeved-checked-shirt-ivory-multi/p114328624"
     },
     {
+      "site": "currys_com",
+      "product": "ASTRO A30 Wireless Gaming Headset for PlayStation - Blu",
+      "percentage": 40.0,
+      "old_price": "149.99",
+      "new_price": "89.99",
+      "timestamp": "2026-01-22T09:19:43.518657",
+      "url": "https://www.currys.co.uk/products/10260276.html"
+    },
+    {
       "site": "johnlewis_com",
       "product": "James Lakeland Sleeveless Gathered Maxi Dress, Black",
       "percentage": 39.9,
@@ -507,6 +561,15 @@
       "url": "https://www.johnlewis.com/kg-kurt-geiger-tisha-knee-high-boots-black/p112806876"
     },
     {
+      "site": "currys_com",
+      "product": "BRAUN Series 3 BT3560 Beard Trimmer - Grey",
+      "percentage": 37.1,
+      "old_price": "52.49",
+      "new_price": "33.00",
+      "timestamp": "2026-01-22T09:19:43.518657",
+      "url": "https://www.currys.co.uk/products/10278820.html"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Carvela Trento Leather Knee High Boots, Black",
       "percentage": 36.5,
@@ -539,7 +602,7 @@
       "percentage": 35.7,
       "old_price": "28.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-22T09:14:16.556741",
+      "timestamp": "2026-01-22T09:19:27.930528",
       "url": "https://dusk.com/products/vermont-waffle-duvet-cover-set-ecru"
     },
     {
@@ -548,8 +611,17 @@
       "percentage": 35.0,
       "old_price": "59.99",
       "new_price": "38.99",
-      "timestamp": "2026-01-22T09:14:31.729622",
+      "timestamp": "2026-01-22T09:19:43.518657",
       "url": "https://www.currys.co.uk/products/10286549.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "HP 14a-ne1500sa 14\" Chromebook - Intel® Celeron®, 64 GB",
+      "percentage": 34.9,
+      "old_price": "229.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-22T09:19:43.518657",
+      "url": "https://www.currys.co.uk/products/10281509.html"
     },
     {
       "site": "johnlewis_com",
@@ -593,7 +665,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/white-triumph-sneaker-4418110979"
     },
     {
@@ -746,7 +818,7 @@
       "percentage": 31.0,
       "old_price": "29.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/forever-new-black-brynn-bardot-knitted-top-kn7438"
     },
     {
@@ -755,7 +827,7 @@
       "percentage": 30.6,
       "old_price": "62.00",
       "new_price": "43.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/forever-new-brown-cassidy-one-shoulder-plisse-midi-dress-jdc4805"
     },
     {
@@ -764,7 +836,7 @@
       "percentage": 30.4,
       "old_price": "46.00",
       "new_price": "32.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/forever-new-pink-mandy-bardot-ruffle-mini-dress-drcz20736"
     },
     {
@@ -782,7 +854,7 @@
       "percentage": 30.3,
       "old_price": "66.00",
       "new_price": "46.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/forever-new-brown-vivian-asymmetric-twist-maxi-dress-jd4815"
     },
     {
@@ -854,7 +926,7 @@
       "percentage": 30.0,
       "old_price": "60.00",
       "new_price": "42.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/forever-new-black-zahra-2-in-1-mini-dress-jd4809"
     },
     {
@@ -863,7 +935,7 @@
       "percentage": 30.0,
       "old_price": "70.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
+      "timestamp": "2026-01-22T09:19:28.336951",
       "url": "https://fenwick.co.uk/products/forever-new-brown-kylee-draped-midi-dress-drcz20956"
     },
     {
@@ -892,78 +964,6 @@
       "new_price": "7.00",
       "timestamp": "2026-01-22T01:32:51.380655",
       "url": "https://www.johnlewis.com/tommee-tippee-ultralight-nightglow-soothers-0-6m-pack-of-2-multi/p114362229"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Brielle Fit and Flare Knitted Mini Dress Black",
-      "percentage": 29.9,
-      "old_price": "77.00",
-      "new_price": "54.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
-      "url": "https://fenwick.co.uk/products/forever-new-black-brielle-fit-and-flare-knitted-mini-dress-kn7309"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Cassie Single Breasted Coatigan Brown",
-      "percentage": 29.8,
-      "old_price": "57.00",
-      "new_price": "40.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
-      "url": "https://fenwick.co.uk/products/forever-new-brown-cassie-single-breasted-coatigan-ja8364"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Carvela Bello Suede Ankle Boots, Brown",
-      "percentage": 29.6,
-      "old_price": "169.00",
-      "new_price": "119.00",
-      "timestamp": "2026-01-22T05:13:00.142598",
-      "url": "https://www.johnlewis.com/carvela-bello-suede-ankle-boots-brown/p113930872"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Chicco Next2Me Magic Evo Cot",
-      "percentage": 29.6,
-      "old_price": "199.00",
-      "new_price": "140.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/chicco-next2me-magic-evo-cot/p112247951"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Aubrey Sleeveless Printed Midi Dress Pink",
-      "percentage": 29.6,
-      "old_price": "54.00",
-      "new_price": "38.00",
-      "timestamp": "2026-01-22T09:14:14.395714",
-      "url": "https://fenwick.co.uk/products/forever-new-pink-aubrey-sleeveless-printed-midi-dress-dr20422"
-    },
-    {
-      "site": "currys_com",
-      "product": "HUSQVARNA 4700/1 Rain Water Garden Pump - Black",
-      "percentage": 29.4,
-      "old_price": "33.99",
-      "new_price": "23.99",
-      "timestamp": "2026-01-22T08:05:35.719286",
-      "url": "https://www.currys.co.uk/products/10276994.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "TP-LINK Archer TX20U USB Wireless Adapter - AX 1800, Du",
-      "percentage": 29.4,
-      "old_price": "849.00",
-      "new_price": "599.00",
-      "timestamp": "2026-01-22T09:14:31.729622",
-      "url": "https://www.currys.co.uk/products/10295293.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "KAFFE June Animal Print Skirt",
-      "percentage": 29.0,
-      "old_price": "31.00",
-      "new_price": "22.00",
-      "timestamp": "2026-01-22T07:27:25.951586",
-      "url": "https://www.johnlewis.com/kaffe-june-animal-print-skirt/p112861790"
     }
   ]
 }

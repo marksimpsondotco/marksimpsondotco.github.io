@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-22T01:02:56.645432",
-  "total_drops": 305,
+  "generated_at": "2026-01-22T01:08:02.815605",
+  "total_drops": 313,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
-      "count": 15,
+      "count": 23,
       "max_drop": 55.0,
-      "total_savings": 197.0
+      "total_savings": 303.0
     },
     {
       "site": "johnlewis_com",
@@ -41,7 +41,7 @@
       "percentage": 55.0,
       "old_price": "60.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-22T01:02:48.788448",
+      "timestamp": "2026-01-22T01:08:01.621874",
       "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
     },
     {
@@ -59,7 +59,7 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T01:02:48.788448",
+      "timestamp": "2026-01-22T01:08:01.621874",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
     },
     {
@@ -86,7 +86,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-22T01:02:55.131514",
+      "timestamp": "2026-01-22T01:08:01.847379",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -176,7 +176,7 @@
       "percentage": 40.5,
       "old_price": "160.00",
       "new_price": "95.20",
-      "timestamp": "2026-01-22T01:02:53.725090",
+      "timestamp": "2026-01-22T01:08:00.431541",
       "url": "https://www.johnlewis.com/gallery-direct-carmel-arched-metal-frame-window-wall-mirror-90-x-60cm/p111822498"
     },
     {
@@ -302,7 +302,7 @@
       "percentage": 31.0,
       "old_price": "29.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-22T01:02:48.788448",
+      "timestamp": "2026-01-22T01:08:01.621874",
       "url": "https://fenwick.co.uk/products/forever-new-black-brynn-bardot-knitted-top-kn7438"
     },
     {
@@ -351,12 +351,21 @@
       "url": "https://www.johnlewis.com/maxi-cosi-pearl-360-pro-i-size-car-seat/p113724591"
     },
     {
+      "site": "fenwick_co_uk",
+      "product": "Zahra 2 in 1 Mini Dress Black",
+      "percentage": 30.0,
+      "old_price": "60.00",
+      "new_price": "42.00",
+      "timestamp": "2026-01-22T01:08:01.621874",
+      "url": "https://fenwick.co.uk/products/forever-new-black-zahra-2-in-1-mini-dress-jd4809"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Tommee Tippee UltraLight NightGlow Soothers, 0-6m, Pack of 2, Multi",
       "percentage": 29.9,
       "old_price": "9.99",
       "new_price": "7.00",
-      "timestamp": "2026-01-22T01:02:53.725090",
+      "timestamp": "2026-01-22T01:08:00.431541",
       "url": "https://www.johnlewis.com/tommee-tippee-ultralight-nightglow-soothers-0-6m-pack-of-2-multi/p114362229"
     },
     {
@@ -365,7 +374,7 @@
       "percentage": 29.8,
       "old_price": "57.00",
       "new_price": "40.00",
-      "timestamp": "2026-01-22T01:02:48.788448",
+      "timestamp": "2026-01-22T01:08:01.621874",
       "url": "https://fenwick.co.uk/products/forever-new-brown-cassie-single-breasted-coatigan-ja8364"
     },
     {
@@ -410,7 +419,7 @@
       "percentage": 28.6,
       "old_price": "91.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-22T01:02:53.725090",
+      "timestamp": "2026-01-22T01:08:00.431541",
       "url": "https://www.johnlewis.com/dockatot-deluxe-baby-pod-0-8-months/p110550099"
     },
     {
@@ -419,7 +428,7 @@
       "percentage": 28.6,
       "old_price": "35.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-22T01:02:48.788448",
+      "timestamp": "2026-01-22T01:08:01.621874",
       "url": "https://fenwick.co.uk/products/forever-new-multi-becca-scalloped-neck-blouse-sh13662"
     },
     {
@@ -482,7 +491,7 @@
       "percentage": 25.9,
       "old_price": "27.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-22T01:02:48.788448",
+      "timestamp": "2026-01-22T01:08:01.621874",
       "url": "https://fenwick.co.uk/products/forever-new-black-keely-hardware-bardot-neck-top-jtc8023"
     },
     {
@@ -493,6 +502,24 @@
       "new_price": "26.00",
       "timestamp": "2026-01-22T00:48:54.704820",
       "url": "https://www.johnlewis.com/french-connection-jamie-floral-tailored-pencil-midi-skirt/p114371816"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Indiana Embellished Mini Dress Black",
+      "percentage": 25.5,
+      "old_price": "55.00",
+      "new_price": "41.00",
+      "timestamp": "2026-01-22T01:08:01.621874",
+      "url": "https://fenwick.co.uk/products/forever-new-black-indiana-embellished-mini-dress-drz20721"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Janelle Raglan Maxi Dress Black",
+      "percentage": 25.5,
+      "old_price": "55.00",
+      "new_price": "41.00",
+      "timestamp": "2026-01-22T01:08:01.621874",
+      "url": "https://fenwick.co.uk/products/forever-new-multi-janelle-printed-raglan-maxi-dress-dr21072"
     },
     {
       "site": "johnlewis_com",
@@ -529,6 +556,15 @@
       "new_price": "101.00",
       "timestamp": "2026-01-22T00:48:54.704820",
       "url": "https://www.johnlewis.com/allsaints-aleida-long-sleeve-collar-longline-blazer/p113957048"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Brooklyn Vegan Leather A Line Midi Dress Brown",
+      "percentage": 25.3,
+      "old_price": "75.00",
+      "new_price": "56.00",
+      "timestamp": "2026-01-22T01:08:01.621874",
+      "url": "https://fenwick.co.uk/products/forever-new-brown-brooklyn-vegan-leather-a-line-midi-dress-kn7162"
     },
     {
       "site": "johnlewis_com",
@@ -581,7 +617,7 @@
       "percentage": 25.0,
       "old_price": "159.95",
       "new_price": "120.00",
-      "timestamp": "2026-01-22T01:02:53.725090",
+      "timestamp": "2026-01-22T01:08:00.431541",
       "url": "https://www.johnlewis.com/cybex-cloud-g-i-size-rotating-baby-car-seat-magic-black/p112390539"
     },
     {
@@ -590,7 +626,7 @@
       "percentage": 25.0,
       "old_price": "240.00",
       "new_price": "180.00",
-      "timestamp": "2026-01-22T01:02:53.725090",
+      "timestamp": "2026-01-22T01:08:00.431541",
       "url": "https://www.johnlewis.com/gallery-direct-keaton-oval-wood-frame-wall-mirror-90-x-55cm/p5079440"
     },
     {
@@ -599,7 +635,7 @@
       "percentage": 25.0,
       "old_price": "28.00",
       "new_price": "21.00",
-      "timestamp": "2026-01-22T01:02:48.788448",
+      "timestamp": "2026-01-22T01:08:01.621874",
       "url": "https://fenwick.co.uk/products/forever-new-red-ellisa-belted-hardware-top-shc13606"
     },
     {
@@ -608,7 +644,7 @@
       "percentage": 25.0,
       "old_price": "24.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-22T01:02:48.788448",
+      "timestamp": "2026-01-22T01:08:01.621874",
       "url": "https://fenwick.co.uk/products/forever-new-black-kendall-halter-neck-top-shz13316"
     },
     {
@@ -617,7 +653,7 @@
       "percentage": 25.0,
       "old_price": "36.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-22T01:02:48.788448",
+      "timestamp": "2026-01-22T01:08:01.621874",
       "url": "https://fenwick.co.uk/products/forever-new-blue-ariel-straight-leg-pants-pa5415"
     },
     {
@@ -628,6 +664,33 @@
       "new_price": "679.00",
       "timestamp": "2026-01-22T00:48:54.704820",
       "url": "https://www.johnlewis.com/lg-f4x7013tbb-freestanding-washing-machine-13kg-load-1400rpm-spin-matte-black/p113847397"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Robyn One Shoulder Jersey Maxi Dress Black",
+      "percentage": 24.4,
+      "old_price": "41.00",
+      "new_price": "31.00",
+      "timestamp": "2026-01-22T01:08:01.621874",
+      "url": "https://fenwick.co.uk/products/forever-new-black-robyn-one-shoulder-jersey-maxi-dress-jdcz2477"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Ruby Structured Mini Dress Red",
+      "percentage": 24.0,
+      "old_price": "50.00",
+      "new_price": "38.00",
+      "timestamp": "2026-01-22T01:08:01.621874",
+      "url": "https://fenwick.co.uk/products/forever-new-red-ruby-long-sleeves-structured-mini-dress-jdcz4697ft"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Adalyn Mini Bow Dress Black",
+      "percentage": 23.9,
+      "old_price": "46.00",
+      "new_price": "35.00",
+      "timestamp": "2026-01-22T01:08:01.621874",
+      "url": "https://fenwick.co.uk/products/forever-new-black-adalyn-mini-bow-dress-drz20593"
     },
     {
       "site": "johnlewis_com",
@@ -680,7 +743,7 @@
       "percentage": 22.3,
       "old_price": "44.90",
       "new_price": "34.90",
-      "timestamp": "2026-01-22T01:02:53.725090",
+      "timestamp": "2026-01-22T01:08:00.431541",
       "url": "https://www.johnlewis.com/chicco-next2me-replacement-mattress-h82-x-w49cm/p5100006"
     },
     {
@@ -689,7 +752,7 @@
       "percentage": 21.7,
       "old_price": "23.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-22T01:02:48.788448",
+      "timestamp": "2026-01-22T01:08:01.621874",
       "url": "https://fenwick.co.uk/products/forever-new-black-somer-crepe-bardot-top-jt7783"
     },
     {
@@ -707,7 +770,7 @@
       "percentage": 20.8,
       "old_price": "48.00",
       "new_price": "38.00",
-      "timestamp": "2026-01-22T01:02:48.788448",
+      "timestamp": "2026-01-22T01:08:01.621874",
       "url": "https://fenwick.co.uk/products/forever-new-beige-lulu-gold-button-blazer-ja8522a"
     },
     {
@@ -725,7 +788,7 @@
       "percentage": 20.6,
       "old_price": "34.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-22T01:02:48.788448",
+      "timestamp": "2026-01-22T01:08:01.621874",
       "url": "https://fenwick.co.uk/products/forever-new-green-clarette-nipped-waist-blazer-ja7945c"
     },
     {
@@ -736,6 +799,15 @@
       "new_price": "78.75",
       "timestamp": "2026-01-22T00:48:54.704820",
       "url": "https://www.johnlewis.com/le-creuset-kone-stovetop-kettle-1-6l/p4851246"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Holly Asymmetrical Bow Mini Dress",
+      "percentage": 20.5,
+      "old_price": "39.00",
+      "new_price": "31.00",
+      "timestamp": "2026-01-22T01:08:01.621874",
+      "url": "https://fenwick.co.uk/products/forever-new-pink-holly-asymmetrical-bow-mini-dress-dr20589"
     },
     {
       "site": "johnlewis_com",
@@ -862,78 +934,6 @@
       "new_price": "19.20",
       "timestamp": "2026-01-22T00:48:54.704820",
       "url": "https://www.johnlewis.com/lancome-lash-idole-ultra-precise-waterproof-liner/p5992317"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Lancôme Teint Idole Ultra Wear Skin Refining Setting Powder",
-      "percentage": 20.0,
-      "old_price": "40.00",
-      "new_price": "32.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/lancome-teint-idole-ultra-wear-skin-refining-setting-powder/p113110165"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Lancôme Advanced Génifique Repairing Night Cream, 50ml",
-      "percentage": 20.0,
-      "old_price": "73.00",
-      "new_price": "58.40",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/lancome-advanced-genifique-repairing-night-cream-50ml/p109298913"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Lancôme La Vie Est Belle Eau de Parfum",
-      "percentage": 20.0,
-      "old_price": "69.00",
-      "new_price": "55.20",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-eau-de-parfum/p6377797"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Lancôme Idôle Eau de Parfum",
-      "percentage": 20.0,
-      "old_price": "62.00",
-      "new_price": "49.60",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/lancome-idole-eau-de-parfum/p4271767"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Lancôme La Vie Est Belle Rose Extraordinaire Eau de Parfum",
-      "percentage": 20.0,
-      "old_price": "72.00",
-      "new_price": "57.60",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-rose-extraordinaire-eau-de-parfum/p111430722"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Lancôme La Vie Est Belle L'Elixir Eau de Parfum Refillable",
-      "percentage": 20.0,
-      "old_price": "75.00",
-      "new_price": "60.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-lelixir-eau-de-parfum-refillable/p112090718"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Lancôme Absolue Les Parfums Storm And Roses Eau de Parfum, 100ml",
-      "percentage": 20.0,
-      "old_price": "230.00",
-      "new_price": "184.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-storm-and-roses-eau-de-parfum-100ml/p112090723"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Lancôme Absolue Les Parfums Hell Of A Rose Eau de Parfum, 100ml",
-      "percentage": 20.0,
-      "old_price": "230.00",
-      "new_price": "184.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-hell-of-a-rose-eau-de-parfum-100ml/p112090728"
     }
   ]
 }

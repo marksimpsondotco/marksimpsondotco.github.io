@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T09:09:19.956991",
-  "total_drops": 1013,
+  "generated_at": "2026-01-22T09:14:34.359631",
+  "total_drops": 1020,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "currys_com",
-      "count": 394,
+      "count": 401,
       "max_drop": 57.9,
-      "total_savings": 9210.82
+      "total_savings": 9738.3
     },
     {
       "site": "johnlewis_com",
@@ -80,7 +80,7 @@
       "percentage": 60.0,
       "old_price": "99.95",
       "new_price": "40.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-off-white-ebonee-shoes"
     },
     {
@@ -98,7 +98,7 @@
       "percentage": 55.0,
       "old_price": "60.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
     },
     {
@@ -107,7 +107,7 @@
       "percentage": 55.0,
       "old_price": "359.00",
       "new_price": "161.55",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/other-multicoloured-panorama-duvet-cover-ydpanodcmulticoloured"
     },
     {
@@ -116,7 +116,7 @@
       "percentage": 55.0,
       "old_price": "269.00",
       "new_price": "121.05",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/other-multicoloured-panorama-flat-sheet-ydpanofltmulticoloured"
     },
     {
@@ -125,7 +125,7 @@
       "percentage": 55.0,
       "old_price": "255.00",
       "new_price": "114.75",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/other-multicoloured-givre-flat-sheet"
     },
     {
@@ -134,7 +134,7 @@
       "percentage": 55.0,
       "old_price": "89.00",
       "new_price": "40.05",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/other-silver-etoile-bath-mat-ydetoilesilverbm"
     },
     {
@@ -143,7 +143,7 @@
       "percentage": 55.0,
       "old_price": "109.00",
       "new_price": "49.05",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/other-multicoloured-givre-cushion-cover"
     },
     {
@@ -152,8 +152,17 @@
       "percentage": 55.0,
       "old_price": "69.00",
       "new_price": "31.05",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/other-multicoloured-panorama-pillowcase-ydpanopcmulticoloured"
+    },
+    {
+      "site": "currys_com",
+      "product": "BRAUN Silk-épil 7 SE7-030 Wet & Dry Epilator - Flamingo",
+      "percentage": 54.4,
+      "old_price": "159.99",
+      "new_price": "72.99",
+      "timestamp": "2026-01-22T09:14:31.729622",
+      "url": "https://www.currys.co.uk/products/10261848.html"
     },
     {
       "site": "johnlewis_com",
@@ -165,12 +174,21 @@
       "url": "https://www.johnlewis.com/kate-somerville-goat-milk-moisturising-cleanser-120ml/p5153791"
     },
     {
+      "site": "currys_com",
+      "product": "BRAUN Series 3+ 3040s Electric Wet & Dry Foil Shaver -",
+      "percentage": 50.8,
+      "old_price": "119.99",
+      "new_price": "58.99",
+      "timestamp": "2026-01-22T09:14:31.729622",
+      "url": "https://www.currys.co.uk/products/10286598.html"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "KGL LIVIAH",
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
     },
     {
@@ -215,7 +233,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-22T09:09:17.198849",
+      "timestamp": "2026-01-22T09:14:16.556741",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -350,7 +368,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/gold-symmetry-court-vinyl-80-2413561979"
     },
     {
@@ -397,6 +415,15 @@
       "new_price": "29.00",
       "timestamp": "2026-01-22T00:48:54.704820",
       "url": "https://www.johnlewis.com/ro-zo-jersey-tie-sleeveless-maxi-dress/p113530393"
+    },
+    {
+      "site": "currys_com",
+      "product": "BRAUN Series 3 310BT Wet & Dry Shaver - Blue & Black",
+      "percentage": 40.7,
+      "old_price": "67.49",
+      "new_price": "40.00",
+      "timestamp": "2026-01-22T09:14:31.729622",
+      "url": "https://www.currys.co.uk/products/10230937.html"
     },
     {
       "site": "johnlewis_com",
@@ -512,8 +539,17 @@
       "percentage": 35.7,
       "old_price": "28.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-22T09:09:17.198849",
+      "timestamp": "2026-01-22T09:14:16.556741",
       "url": "https://dusk.com/products/vermont-waffle-duvet-cover-set-ecru"
+    },
+    {
+      "site": "currys_com",
+      "product": "BRAUN Series 3 310s Electric Wet & Dry Shaver - Black &",
+      "percentage": 35.0,
+      "old_price": "59.99",
+      "new_price": "38.99",
+      "timestamp": "2026-01-22T09:14:31.729622",
+      "url": "https://www.currys.co.uk/products/10286549.html"
     },
     {
       "site": "johnlewis_com",
@@ -557,7 +593,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/white-triumph-sneaker-4418110979"
     },
     {
@@ -710,7 +746,7 @@
       "percentage": 31.0,
       "old_price": "29.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/forever-new-black-brynn-bardot-knitted-top-kn7438"
     },
     {
@@ -719,7 +755,7 @@
       "percentage": 30.6,
       "old_price": "62.00",
       "new_price": "43.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/forever-new-brown-cassidy-one-shoulder-plisse-midi-dress-jdc4805"
     },
     {
@@ -728,7 +764,7 @@
       "percentage": 30.4,
       "old_price": "46.00",
       "new_price": "32.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/forever-new-pink-mandy-bardot-ruffle-mini-dress-drcz20736"
     },
     {
@@ -746,7 +782,7 @@
       "percentage": 30.3,
       "old_price": "66.00",
       "new_price": "46.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/forever-new-brown-vivian-asymmetric-twist-maxi-dress-jd4815"
     },
     {
@@ -818,7 +854,7 @@
       "percentage": 30.0,
       "old_price": "60.00",
       "new_price": "42.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/forever-new-black-zahra-2-in-1-mini-dress-jd4809"
     },
     {
@@ -827,7 +863,7 @@
       "percentage": 30.0,
       "old_price": "70.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/forever-new-brown-kylee-draped-midi-dress-drcz20956"
     },
     {
@@ -863,7 +899,7 @@
       "percentage": 29.9,
       "old_price": "77.00",
       "new_price": "54.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/forever-new-black-brielle-fit-and-flare-knitted-mini-dress-kn7309"
     },
     {
@@ -872,7 +908,7 @@
       "percentage": 29.8,
       "old_price": "57.00",
       "new_price": "40.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/forever-new-brown-cassie-single-breasted-coatigan-ja8364"
     },
     {
@@ -899,7 +935,7 @@
       "percentage": 29.6,
       "old_price": "54.00",
       "new_price": "38.00",
-      "timestamp": "2026-01-22T09:08:52.762967",
+      "timestamp": "2026-01-22T09:14:14.395714",
       "url": "https://fenwick.co.uk/products/forever-new-pink-aubrey-sleeveless-printed-midi-dress-dr20422"
     },
     {
@@ -912,6 +948,15 @@
       "url": "https://www.currys.co.uk/products/10276994.html"
     },
     {
+      "site": "currys_com",
+      "product": "TP-LINK Archer TX20U USB Wireless Adapter - AX 1800, Du",
+      "percentage": 29.4,
+      "old_price": "849.00",
+      "new_price": "599.00",
+      "timestamp": "2026-01-22T09:14:31.729622",
+      "url": "https://www.currys.co.uk/products/10295293.html"
+    },
+    {
       "site": "johnlewis_com",
       "product": "KAFFE June Animal Print Skirt",
       "percentage": 29.0,
@@ -919,51 +964,6 @@
       "new_price": "22.00",
       "timestamp": "2026-01-22T07:27:25.951586",
       "url": "https://www.johnlewis.com/kaffe-june-animal-print-skirt/p112861790"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Ro&Zo Cotton Poplin Twist Front Dress",
-      "percentage": 29.0,
-      "old_price": "69.00",
-      "new_price": "49.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/ro-zo-cotton-poplin-twist-front-dress/p113694749"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Samsung Series 5 WW80CGC04DAE Freestanding Washing Machine, AI Energy, 8kg Load, 1400rpm, White",
-      "percentage": 28.9,
-      "old_price": "519.00",
-      "new_price": "369.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/samsung-series-5-ww80cgc04dae-freestanding-washing-machine-ai-energy-8kg-load-1400rpm-white/p111200327"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Hackett London Sport Cotton Short Sleeved T-Shirt, Mint Green",
-      "percentage": 28.6,
-      "old_price": "45.50",
-      "new_price": "32.50",
-      "timestamp": "2026-01-22T05:13:00.142598",
-      "url": "https://www.johnlewis.com/hackett-london-sport-cotton-short-sleeved-t-shirt-mint-green/p114386319"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Hackett London Kids' Padded Checked Gilet, Midnight Blue",
-      "percentage": 28.6,
-      "old_price": "70.00",
-      "new_price": "50.00",
-      "timestamp": "2026-01-22T06:43:11.644377",
-      "url": "https://www.johnlewis.com/hackett-london-kids-padded-checked-gilet-midnight-blue/p113817643"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Cath Kidston Orange Blossom Hand Creams, Set of 3",
-      "percentage": 28.6,
-      "old_price": "5.60",
-      "new_price": "4.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/cath-kidston-orange-blossom-hand-creams-set-of-3/p113030133"
     }
   ]
 }

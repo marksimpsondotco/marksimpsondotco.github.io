@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-22T00:01:43.053161",
-  "total_drops": 5,
-  "top_drops_shown": 5,
+  "generated_at": "2026-01-22T00:06:45.403410",
+  "total_drops": 34,
+  "top_drops_shown": 34,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
@@ -11,9 +11,15 @@
     },
     {
       "site": "dusk_com",
-      "count": 2,
+      "count": 3,
       "max_drop": 50.0,
-      "total_savings": 9.0
+      "total_savings": 45.0
+    },
+    {
+      "site": "johnlewis_com",
+      "count": 28,
+      "max_drop": 33.0,
+      "total_savings": 691.91
     },
     {
       "site": "flannels_com",
@@ -29,7 +35,7 @@
       "percentage": 55.0,
       "old_price": "60.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-22T00:01:20.497366",
+      "timestamp": "2026-01-22T00:06:24.016727",
       "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
     },
     {
@@ -38,7 +44,7 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T00:01:20.497366",
+      "timestamp": "2026-01-22T00:06:24.016727",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
     },
     {
@@ -47,8 +53,35 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-22T00:01:40.448625",
+      "timestamp": "2026-01-22T00:06:41.995507",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Issey Miyake Le Sel d'Issey Eau de Toilette 50ml Fragrance Gift Set",
+      "percentage": 33.0,
+      "old_price": "73.00",
+      "new_price": "48.91",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/issey-miyake-le-sel-dissey-eau-de-toilette-50ml-fragrance-gift-set/p114246720"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "VTech BC8611 V-Hush Rocker Sound & Motion Stroller Soother and Night Light",
+      "percentage": 25.0,
+      "old_price": "49.99",
+      "new_price": "37.50",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/vtech-bc8611-v-hush-rocker-sound-motion-stroller-soother-and-night-light/p113997986"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Nudestix Nudies Bloom All-Over Face Dewy Colour",
+      "percentage": 23.8,
+      "old_price": "31.50",
+      "new_price": "24.00",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/nudestix-nudies-bloom-all-over-face-dewy-colour/p111253971"
     },
     {
       "site": "flannels_com",
@@ -56,8 +89,170 @@
       "percentage": 20.1,
       "old_price": "349.00",
       "new_price": "279.00",
-      "timestamp": "2026-01-22T00:01:37.606313",
+      "timestamp": "2026-01-22T00:06:42.188830",
       "url": "https://www.flannels.com/hugo-womens-antegi-red-blazer-558061"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme Hypnôse Drama Eyeshadow Palette",
+      "percentage": 20.0,
+      "old_price": "50.00",
+      "new_price": "40.00",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-hypnose-drama-eyeshadow-palette/p4157705"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme Hypnôse Mascara",
+      "percentage": 20.0,
+      "old_price": "30.00",
+      "new_price": "24.00",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-hypnose-mascara/p1093266"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme L'Absolu Rouge Cream Lipstick",
+      "percentage": 20.0,
+      "old_price": "34.00",
+      "new_price": "27.20",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-labsolu-rouge-cream-lipstick/p6169981"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme New & Improved Hypnôse Drama Instant Extreme Volume Mascara",
+      "percentage": 20.0,
+      "old_price": "17.00",
+      "new_price": "13.60",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-new-improved-hypnose-drama-instant-extreme-volume-mascara/p111815117"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme Lash Idôle Ultra Precise Waterproof Liner",
+      "percentage": 20.0,
+      "old_price": "24.00",
+      "new_price": "19.20",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-lash-idole-ultra-precise-waterproof-liner/p5992317"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme Teint Idole Ultra Wear Skin Refining Setting Powder",
+      "percentage": 20.0,
+      "old_price": "40.00",
+      "new_price": "32.00",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-teint-idole-ultra-wear-skin-refining-setting-powder/p113110165"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme Advanced Génifique Repairing Night Cream, 50ml",
+      "percentage": 20.0,
+      "old_price": "73.00",
+      "new_price": "58.40",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-advanced-genifique-repairing-night-cream-50ml/p109298913"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme La Vie Est Belle Eau de Parfum",
+      "percentage": 20.0,
+      "old_price": "69.00",
+      "new_price": "55.20",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-eau-de-parfum/p6377797"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme Idôle Eau de Parfum",
+      "percentage": 20.0,
+      "old_price": "62.00",
+      "new_price": "49.60",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-idole-eau-de-parfum/p4271767"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme La Vie Est Belle Rose Extraordinaire Eau de Parfum",
+      "percentage": 20.0,
+      "old_price": "72.00",
+      "new_price": "57.60",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-rose-extraordinaire-eau-de-parfum/p111430722"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme La Vie Est Belle L'Elixir Eau de Parfum Refillable",
+      "percentage": 20.0,
+      "old_price": "75.00",
+      "new_price": "60.00",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-lelixir-eau-de-parfum-refillable/p112090718"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme Absolue Les Parfums Storm And Roses Eau de Parfum, 100ml",
+      "percentage": 20.0,
+      "old_price": "230.00",
+      "new_price": "184.00",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-storm-and-roses-eau-de-parfum-100ml/p112090723"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme Absolue Les Parfums Hell Of A Rose Eau de Parfum, 100ml",
+      "percentage": 20.0,
+      "old_price": "230.00",
+      "new_price": "184.00",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-hell-of-a-rose-eau-de-parfum-100ml/p112090728"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme Absolue Les Parfums Le Parfum Eau de Parfum, 100ml",
+      "percentage": 20.0,
+      "old_price": "230.00",
+      "new_price": "184.00",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-le-parfum-eau-de-parfum-100ml/p112090727"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Lancôme Absolue Les Parfums Not Your Rose Eau de Parfum, 100ml",
+      "percentage": 20.0,
+      "old_price": "230.00",
+      "new_price": "184.00",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-not-your-rose-eau-de-parfum-100ml/p112090726"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis White Polka Dot Wine Glass, Set of 2, 340ml, Clear",
+      "percentage": 18.8,
+      "old_price": "16.00",
+      "new_price": "13.00",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/john-lewis-white-polka-dot-wine-glass-set-of-2-340ml-clear/p113231158"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Joolz Aer2 Pushchair",
+      "percentage": 17.1,
+      "old_price": "439.00",
+      "new_price": "364.00",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/joolz-aer2-pushchair/p113556029"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "BabaBing! Joey Compact Changing Bag, Leopard",
+      "percentage": 15.0,
+      "old_price": "39.99",
+      "new_price": "33.99",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/bababing-joey-compact-changing-bag-leopard/p112178753"
     },
     {
       "site": "dusk_com",
@@ -65,8 +260,80 @@
       "percentage": 14.3,
       "old_price": "28.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-22T00:01:40.448625",
+      "timestamp": "2026-01-22T00:06:41.995507",
       "url": "https://dusk.com/products/linen-cotton-blend-duvet-cover-chalk-white"
+    },
+    {
+      "site": "dusk_com",
+      "product": "Middleton Ottoman Storage Bed - Natural",
+      "percentage": 11.8,
+      "old_price": "305.00",
+      "new_price": "269.00",
+      "timestamp": "2026-01-22T00:06:41.995507",
+      "url": "https://dusk.com/products/middleton-ottoman-fabric-bed-frame-natural"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Elie Saab Le Parfum Eau de Parfum 50ml Fragrance Gift Set",
+      "percentage": 10.7,
+      "old_price": "52.50",
+      "new_price": "46.90",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/elie-saab-le-parfum-eau-de-parfum-50ml-fragrance-gift-set/p114180790"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "MAM Move Wearable Double Breast Pump",
+      "percentage": 10.0,
+      "old_price": "200.00",
+      "new_price": "180.00",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/mam-move-wearable-double-breast-pump/p112225060"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Cybex Click & Fold Highchair, Natural",
+      "percentage": 10.0,
+      "old_price": "175.96",
+      "new_price": "158.36",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/cybex-click-fold-highchair-natural/p112204430"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Maxi-Cosi Fame Pushchair and Carrycot with Pebble 360 Pro2 i-Size Car Seat and FamilyFix 360 Pro ISOFIX Car Seat Base Bundle, Twillic Black",
+      "percentage": 8.0,
+      "old_price": "1152.48",
+      "new_price": "1059.98",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/maxi-cosi-fame-pushchair-and-carrycot-with-pebble-360-pro2-i-size-car-seat-and-familyfix-360-pro-isofix-car-seat-base-bundle-twillic-black/p241524662"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Yearn Classic Bevelled Glass Rectangular Wall Mirror, Silver",
+      "percentage": 5.9,
+      "old_price": "84.15",
+      "new_price": "79.20",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/yearn-classic-bevelled-glass-rectangular-wall-mirror-silver/p111882268"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Cybex e-Priam Pushchair, Carrycot & Cloud T PLUS i-Size Car with Base T Bundle, Black",
+      "percentage": 4.6,
+      "old_price": "1959.80",
+      "new_price": "1869.81",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/cybex-e-priam-pushchair-carrycot-cloud-t-plus-i-size-car-with-base-t-bundle-black/p241390672"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Cybex e-Priam Pushchair & Accessories with Cloud T i-Size Car Seat and Base T Base Bundle, Chrome/Sepia Black",
+      "percentage": 2.1,
+      "old_price": "1875.05",
+      "new_price": "1835.06",
+      "timestamp": "2026-01-22T00:06:43.098274",
+      "url": "https://www.johnlewis.com/cybex-e-priam-pushchair-accessories-with-cloud-t-i-size-car-seat-and-base-t-base-bundle-chrome-sepia-black/p241690692"
     }
   ]
 }

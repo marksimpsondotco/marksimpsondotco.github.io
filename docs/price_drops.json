@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T08:37:43.828293",
-  "total_drops": 947,
+  "generated_at": "2026-01-22T08:42:57.498729",
+  "total_drops": 975,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "currys_com",
-      "count": 335,
+      "count": 363,
       "max_drop": 57.9,
-      "total_savings": 7771.3
+      "total_savings": 8763.33
     },
     {
       "site": "johnlewis_com",
@@ -74,7 +74,7 @@
       "percentage": 60.0,
       "old_price": "99.95",
       "new_price": "40.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-off-white-ebonee-shoes"
     },
     {
@@ -92,7 +92,7 @@
       "percentage": 55.0,
       "old_price": "60.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
     },
     {
@@ -101,7 +101,7 @@
       "percentage": 55.0,
       "old_price": "359.00",
       "new_price": "161.55",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/other-multicoloured-panorama-duvet-cover-ydpanodcmulticoloured"
     },
     {
@@ -110,7 +110,7 @@
       "percentage": 55.0,
       "old_price": "269.00",
       "new_price": "121.05",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/other-multicoloured-panorama-flat-sheet-ydpanofltmulticoloured"
     },
     {
@@ -119,7 +119,7 @@
       "percentage": 55.0,
       "old_price": "255.00",
       "new_price": "114.75",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/other-multicoloured-givre-flat-sheet"
     },
     {
@@ -128,7 +128,7 @@
       "percentage": 55.0,
       "old_price": "89.00",
       "new_price": "40.05",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/other-silver-etoile-bath-mat-ydetoilesilverbm"
     },
     {
@@ -137,7 +137,7 @@
       "percentage": 55.0,
       "old_price": "109.00",
       "new_price": "49.05",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/other-multicoloured-givre-cushion-cover"
     },
     {
@@ -146,7 +146,7 @@
       "percentage": 55.0,
       "old_price": "69.00",
       "new_price": "31.05",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/other-multicoloured-panorama-pillowcase-ydpanopcmulticoloured"
     },
     {
@@ -164,7 +164,7 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
     },
     {
@@ -209,7 +209,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-22T08:37:28.211992",
+      "timestamp": "2026-01-22T08:42:50.920349",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -238,6 +238,24 @@
       "new_price": "139.00",
       "timestamp": "2026-01-22T08:05:35.719286",
       "url": "https://www.currys.co.uk/products/10285146.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "PHANTEKS Eclipse G500A D-RGB ATX Mid Tower PC Case - Wh",
+      "percentage": 46.3,
+      "old_price": "259.00",
+      "new_price": "139.00",
+      "timestamp": "2026-01-22T08:42:53.986583",
+      "url": "https://www.currys.co.uk/products/10247474.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "TONIES Toniebox 2 Starter Set - Cloud Pink, Disney Moan",
+      "percentage": 46.1,
+      "old_price": "369.00",
+      "new_price": "199.00",
+      "timestamp": "2026-01-22T08:42:53.986583",
+      "url": "https://www.currys.co.uk/products/10289233.html"
     },
     {
       "site": "currys_com",
@@ -308,7 +326,7 @@
       "percentage": 44.0,
       "old_price": "24.99",
       "new_price": "13.99",
-      "timestamp": "2026-01-22T08:37:39.361526",
+      "timestamp": "2026-01-22T08:42:53.986583",
       "url": "https://www.currys.co.uk/products/10264403.html"
     },
     {
@@ -326,7 +344,7 @@
       "percentage": 43.5,
       "old_price": "69.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/gold-symmetry-court-vinyl-80-2413561979"
     },
     {
@@ -430,11 +448,20 @@
     },
     {
       "site": "currys_com",
+      "product": "GIGABYTE B860 DS3H LGA1851 Motherboard",
+      "percentage": 39.2,
+      "old_price": "129.99",
+      "new_price": "78.97",
+      "timestamp": "2026-01-22T08:42:53.986583",
+      "url": "https://www.currys.co.uk/products/10277528.html"
+    },
+    {
+      "site": "currys_com",
       "product": "KENSINGTON KM100 EQ Keyboard & Mouse Set",
       "percentage": 37.9,
       "old_price": "28.99",
       "new_price": "17.99",
-      "timestamp": "2026-01-22T08:37:39.361526",
+      "timestamp": "2026-01-22T08:42:53.986583",
       "url": "https://www.currys.co.uk/products/10271335.html"
     },
     {
@@ -479,7 +506,7 @@
       "percentage": 35.7,
       "old_price": "28.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-22T08:37:28.211992",
+      "timestamp": "2026-01-22T08:42:50.920349",
       "url": "https://dusk.com/products/vermont-waffle-duvet-cover-set-ecru"
     },
     {
@@ -524,7 +551,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/white-triumph-sneaker-4418110979"
     },
     {
@@ -596,7 +623,7 @@
       "percentage": 33.3,
       "old_price": "29.99",
       "new_price": "19.99",
-      "timestamp": "2026-01-22T08:37:39.361526",
+      "timestamp": "2026-01-22T08:42:53.986583",
       "url": "https://www.currys.co.uk/products/10286177.html"
     },
     {
@@ -605,7 +632,7 @@
       "percentage": 33.3,
       "old_price": "29.99",
       "new_price": "19.99",
-      "timestamp": "2026-01-22T08:37:39.361526",
+      "timestamp": "2026-01-22T08:42:53.986583",
       "url": "https://www.currys.co.uk/products/10265676.html"
     },
     {
@@ -614,7 +641,7 @@
       "percentage": 33.3,
       "old_price": "29.99",
       "new_price": "19.99",
-      "timestamp": "2026-01-22T08:37:39.361526",
+      "timestamp": "2026-01-22T08:42:53.986583",
       "url": "https://www.currys.co.uk/products/10283151.html"
     },
     {
@@ -668,7 +695,7 @@
       "percentage": 31.0,
       "old_price": "29.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/forever-new-black-brynn-bardot-knitted-top-kn7438"
     },
     {
@@ -677,7 +704,7 @@
       "percentage": 30.6,
       "old_price": "62.00",
       "new_price": "43.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/forever-new-brown-cassidy-one-shoulder-plisse-midi-dress-jdc4805"
     },
     {
@@ -686,7 +713,7 @@
       "percentage": 30.4,
       "old_price": "46.00",
       "new_price": "32.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/forever-new-pink-mandy-bardot-ruffle-mini-dress-drcz20736"
     },
     {
@@ -704,7 +731,7 @@
       "percentage": 30.3,
       "old_price": "66.00",
       "new_price": "46.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/forever-new-brown-vivian-asymmetric-twist-maxi-dress-jd4815"
     },
     {
@@ -713,7 +740,7 @@
       "percentage": 30.2,
       "old_price": "42.99",
       "new_price": "29.99",
-      "timestamp": "2026-01-22T08:37:39.361526",
+      "timestamp": "2026-01-22T08:42:53.986583",
       "url": "https://www.currys.co.uk/products/10280385.html"
     },
     {
@@ -776,7 +803,7 @@
       "percentage": 30.0,
       "old_price": "60.00",
       "new_price": "42.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/forever-new-black-zahra-2-in-1-mini-dress-jd4809"
     },
     {
@@ -785,7 +812,7 @@
       "percentage": 30.0,
       "old_price": "70.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/forever-new-brown-kylee-draped-midi-dress-drcz20956"
     },
     {
@@ -794,7 +821,7 @@
       "percentage": 30.0,
       "old_price": "49.99",
       "new_price": "34.99",
-      "timestamp": "2026-01-22T08:37:39.361526",
+      "timestamp": "2026-01-22T08:42:53.986583",
       "url": "https://www.currys.co.uk/products/10273034.html"
     },
     {
@@ -803,7 +830,7 @@
       "percentage": 30.0,
       "old_price": "49.99",
       "new_price": "34.99",
-      "timestamp": "2026-01-22T08:37:39.361526",
+      "timestamp": "2026-01-22T08:42:53.986583",
       "url": "https://www.currys.co.uk/products/10260212.html"
     },
     {
@@ -821,7 +848,7 @@
       "percentage": 29.9,
       "old_price": "77.00",
       "new_price": "54.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/forever-new-black-brielle-fit-and-flare-knitted-mini-dress-kn7309"
     },
     {
@@ -830,7 +857,7 @@
       "percentage": 29.8,
       "old_price": "57.00",
       "new_price": "40.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/forever-new-brown-cassie-single-breasted-coatigan-ja8364"
     },
     {
@@ -857,7 +884,7 @@
       "percentage": 29.6,
       "old_price": "54.00",
       "new_price": "38.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
+      "timestamp": "2026-01-22T08:42:52.200594",
       "url": "https://fenwick.co.uk/products/forever-new-pink-aubrey-sleeveless-printed-midi-dress-dr20422"
     },
     {
@@ -931,33 +958,6 @@
       "new_price": "65.00",
       "timestamp": "2026-01-22T01:32:51.380655",
       "url": "https://www.johnlewis.com/dockatot-deluxe-baby-pod-0-8-months/p110550099"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Becca Scalloped Neck Blouse",
-      "percentage": 28.6,
-      "old_price": "35.00",
-      "new_price": "25.00",
-      "timestamp": "2026-01-22T08:37:33.836998",
-      "url": "https://fenwick.co.uk/products/forever-new-multi-becca-scalloped-neck-blouse-sh13662"
-    },
-    {
-      "site": "currys_com",
-      "product": "CHERRY XTRFY GP5 Amnis Gaming Mouse Mat - Blue, Medium",
-      "percentage": 28.6,
-      "old_price": "34.99",
-      "new_price": "24.99",
-      "timestamp": "2026-01-22T08:37:39.361526",
-      "url": "https://www.currys.co.uk/products/10267980.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "TILE Slim (2024) Bluetooth Tracker - Black",
-      "percentage": 28.3,
-      "old_price": "180.00",
-      "new_price": "129.00",
-      "timestamp": "2026-01-22T08:05:35.719286",
-      "url": "https://www.currys.co.uk/products/10276051.html"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-22T00:52:45.319663",
-  "total_drops": 280,
+  "generated_at": "2026-01-22T00:57:51.127359",
+  "total_drops": 282,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
-      "count": 10,
+      "count": 11,
       "max_drop": 55.0,
-      "total_savings": 152.0
+      "total_savings": 161.0
     },
     {
       "site": "johnlewis_com",
@@ -29,9 +29,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 1,
+      "count": 2,
       "max_drop": 20.1,
-      "total_savings": 70.0
+      "total_savings": 86.0
     }
   ],
   "drops": [
@@ -41,7 +41,7 @@
       "percentage": 55.0,
       "old_price": "60.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-22T00:52:25.404825",
+      "timestamp": "2026-01-22T00:57:27.616569",
       "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
     },
     {
@@ -59,7 +59,7 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T00:52:25.404825",
+      "timestamp": "2026-01-22T00:57:27.616569",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
     },
     {
@@ -86,7 +86,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-22T00:52:22.428612",
+      "timestamp": "2026-01-22T00:57:49.536850",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -293,7 +293,7 @@
       "percentage": 31.0,
       "old_price": "29.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-22T00:52:25.404825",
+      "timestamp": "2026-01-22T00:57:27.616569",
       "url": "https://fenwick.co.uk/products/forever-new-black-brynn-bardot-knitted-top-kn7438"
     },
     {
@@ -347,7 +347,7 @@
       "percentage": 29.8,
       "old_price": "57.00",
       "new_price": "40.00",
-      "timestamp": "2026-01-22T00:52:25.404825",
+      "timestamp": "2026-01-22T00:57:27.616569",
       "url": "https://fenwick.co.uk/products/forever-new-brown-cassie-single-breasted-coatigan-ja8364"
     },
     {
@@ -392,7 +392,7 @@
       "percentage": 28.6,
       "old_price": "35.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-22T00:52:25.404825",
+      "timestamp": "2026-01-22T00:57:27.616569",
       "url": "https://fenwick.co.uk/products/forever-new-multi-becca-scalloped-neck-blouse-sh13662"
     },
     {
@@ -455,7 +455,7 @@
       "percentage": 25.9,
       "old_price": "27.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-22T00:52:25.404825",
+      "timestamp": "2026-01-22T00:57:27.616569",
       "url": "https://fenwick.co.uk/products/forever-new-black-keely-hardware-bardot-neck-top-jtc8023"
     },
     {
@@ -554,7 +554,7 @@
       "percentage": 25.0,
       "old_price": "28.00",
       "new_price": "21.00",
-      "timestamp": "2026-01-22T00:52:25.404825",
+      "timestamp": "2026-01-22T00:57:27.616569",
       "url": "https://fenwick.co.uk/products/forever-new-red-ellisa-belted-hardware-top-shc13606"
     },
     {
@@ -563,8 +563,17 @@
       "percentage": 25.0,
       "old_price": "24.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-22T00:52:25.404825",
+      "timestamp": "2026-01-22T00:57:27.616569",
       "url": "https://fenwick.co.uk/products/forever-new-black-kendall-halter-neck-top-shz13316"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Ariel Straight Leg Pants Blue",
+      "percentage": 25.0,
+      "old_price": "36.00",
+      "new_price": "27.00",
+      "timestamp": "2026-01-22T00:57:27.616569",
+      "url": "https://fenwick.co.uk/products/forever-new-blue-ariel-straight-leg-pants-pa5415"
     },
     {
       "site": "johnlewis_com",
@@ -626,7 +635,7 @@
       "percentage": 21.7,
       "old_price": "23.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-22T00:52:25.404825",
+      "timestamp": "2026-01-22T00:57:27.616569",
       "url": "https://fenwick.co.uk/products/forever-new-black-somer-crepe-bardot-top-jt7783"
     },
     {
@@ -925,15 +934,6 @@
       "new_price": "36.00",
       "timestamp": "2026-01-22T00:48:54.704820",
       "url": "https://www.johnlewis.com/nobodys-child-mimi-short-puff-sleeve-cotton-midi-dress-brown/p113705856"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Gina Bacconi Elaine Stud Sleeve Wrap Dress, Royal",
-      "percentage": 20.0,
-      "old_price": "170.00",
-      "new_price": "136.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/gina-bacconi-elaine-stud-sleeve-wrap-dress-royal/p113947217"
     }
   ]
 }

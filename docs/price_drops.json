@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T00:42:23.279575",
-  "total_drops": 277,
+  "generated_at": "2026-01-22T00:47:31.250798",
+  "total_drops": 279,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 263,
+      "count": 265,
       "max_drop": 51.5,
-      "total_savings": 7695.05
+      "total_savings": 7729.19
     },
     {
       "site": "dusk_com",
@@ -41,7 +41,7 @@
       "percentage": 55.0,
       "old_price": "60.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-22T00:42:15.850754",
+      "timestamp": "2026-01-22T00:47:27.145146",
       "url": "https://fenwick.co.uk/products/forever-new-light-coffee-suit-jolene-waistcoat"
     },
     {
@@ -50,7 +50,7 @@
       "percentage": 51.5,
       "old_price": "41.00",
       "new_price": "19.89",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/kate-somerville-goat-milk-moisturising-cleanser-120ml/p5153791"
     },
     {
@@ -59,7 +59,7 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T00:42:15.850754",
+      "timestamp": "2026-01-22T00:47:27.145146",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
     },
     {
@@ -68,7 +68,7 @@
       "percentage": 50.0,
       "old_price": "75.00",
       "new_price": "37.50",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/herschel-supply-co-cove-messenger-bag-black-saddle-brown/p113202207"
     },
     {
@@ -77,7 +77,7 @@
       "percentage": 50.0,
       "old_price": "695.00",
       "new_price": "347.50",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/aspinal-of-london-hudson-leather-business-bag-green/p113971992"
     },
     {
@@ -86,7 +86,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-22T00:42:04.376303",
+      "timestamp": "2026-01-22T00:47:10.966109",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -95,7 +95,7 @@
       "percentage": 45.4,
       "old_price": "67.00",
       "new_price": "36.55",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/hush-grace-a-line-polka-dot-midi-dress/p114107594"
     },
     {
@@ -104,7 +104,7 @@
       "percentage": 44.9,
       "old_price": "89.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/mint-velvet-geometric-print-mini-dress-black-multi/p114308218"
     },
     {
@@ -113,8 +113,17 @@
       "percentage": 44.9,
       "old_price": "89.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-petite-applique-knit-jumper-dress-green/p114060766"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Kate Somerville Goat Milk Moisturising Cream, 50ml",
+      "percentage": 44.6,
+      "old_price": "72.00",
+      "new_price": "39.86",
+      "timestamp": "2026-01-22T00:47:27.192804",
+      "url": "https://www.johnlewis.com/kate-somerville-goat-milk-moisturising-cream-50ml/p5149811"
     },
     {
       "site": "johnlewis_com",
@@ -122,7 +131,7 @@
       "percentage": 43.7,
       "old_price": "229.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/kurt-geiger-london-sloane-leather-chelsea-boots/p112611407"
     },
     {
@@ -131,7 +140,7 @@
       "percentage": 42.9,
       "old_price": "31.50",
       "new_price": "18.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/john-lewis-asymmetric-chain-strap-clutch-bag-deep-red/p113904781"
     },
     {
@@ -140,7 +149,7 @@
       "percentage": 42.9,
       "old_price": "17.50",
       "new_price": "10.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/john-lewis-metallic-leather-passport-holder-silver-croc/p113908516"
     },
     {
@@ -149,7 +158,7 @@
       "percentage": 42.2,
       "old_price": "45.00",
       "new_price": "26.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/french-connection-marina-sleeveless-mini-swing-dress/p113950590"
     },
     {
@@ -158,7 +167,7 @@
       "percentage": 40.8,
       "old_price": "49.00",
       "new_price": "29.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-jersey-tie-sleeveless-maxi-dress/p113530393"
     },
     {
@@ -167,7 +176,7 @@
       "percentage": 39.9,
       "old_price": "199.00",
       "new_price": "119.60",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/james-lakeland-sleeveless-gathered-maxi-dress-black/p114436755"
     },
     {
@@ -176,7 +185,7 @@
       "percentage": 36.0,
       "old_price": "90.00",
       "new_price": "57.60",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/tommy-hilfiger-logo-court-trainers/p113142662"
     },
     {
@@ -185,7 +194,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-floral-polka-dot-long-sleeve-v-neck-midi-dress/p114117325"
     },
     {
@@ -194,7 +203,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-petite-floral-midi-dress-purple-red/p114026829"
     },
     {
@@ -203,7 +212,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-batik-print-maxi-dress-pink/p114142677"
     },
     {
@@ -212,7 +221,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-petite-floral-tie-back-dress-red-multi/p113797576"
     },
     {
@@ -221,7 +230,7 @@
       "percentage": 33.7,
       "old_price": "50.00",
       "new_price": "33.15",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/hush-grace-v-neck-long-sleeve-midi-dress/p114133973"
     },
     {
@@ -230,7 +239,7 @@
       "percentage": 33.7,
       "old_price": "89.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/mint-velvet-floral-applique-maxi-dress-navy-blue/p113886056"
     },
     {
@@ -239,7 +248,7 @@
       "percentage": 33.7,
       "old_price": "89.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-petite-houndstooth-dropped-waist-jersey-dress/p114408411"
     },
     {
@@ -248,7 +257,7 @@
       "percentage": 33.3,
       "old_price": "297.00",
       "new_price": "198.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/aspinal-of-london-slim-leather-postman-messenger-bag-navy/p113971994"
     },
     {
@@ -257,7 +266,7 @@
       "percentage": 33.3,
       "old_price": "75.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/joie-baby-nitro-pushchair-coal/p109988413"
     },
     {
@@ -266,7 +275,7 @@
       "percentage": 33.0,
       "old_price": "73.00",
       "new_price": "48.91",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/issey-miyake-le-sel-dissey-eau-de-toilette-50ml-fragrance-gift-set/p114246720"
     },
     {
@@ -275,7 +284,7 @@
       "percentage": 32.8,
       "old_price": "549.00",
       "new_price": "369.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/samsung-series-5-ww80cgc04dab-freestanding-washing-machine-ai-energy-8kg-load-1400rpm-black/p111200328"
     },
     {
@@ -284,7 +293,7 @@
       "percentage": 31.0,
       "old_price": "29.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-22T00:42:15.850754",
+      "timestamp": "2026-01-22T00:47:27.145146",
       "url": "https://fenwick.co.uk/products/forever-new-black-brynn-bardot-knitted-top-kn7438"
     },
     {
@@ -293,7 +302,7 @@
       "percentage": 30.3,
       "old_price": "99.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-petite-anya-blurred-floral-dress-pink-multi/p113599014"
     },
     {
@@ -302,7 +311,7 @@
       "percentage": 30.0,
       "old_price": "369.00",
       "new_price": "258.30",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/jigsaw-lea-pure-leather-jeans-black/p114419231"
     },
     {
@@ -311,7 +320,7 @@
       "percentage": 30.0,
       "old_price": "23.00",
       "new_price": "16.10",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/speedo-essential-16-inch-swim-shorts-grey-lead/p113983014"
     },
     {
@@ -320,7 +329,7 @@
       "percentage": 30.0,
       "old_price": "249.99",
       "new_price": "174.99",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/maxi-cosi-quartz-360-car-seat-authentic-graphite/p112653916"
     },
     {
@@ -329,7 +338,7 @@
       "percentage": 30.0,
       "old_price": "299.99",
       "new_price": "209.99",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/maxi-cosi-pearl-360-pro-i-size-car-seat/p113724591"
     },
     {
@@ -338,7 +347,7 @@
       "percentage": 29.6,
       "old_price": "199.00",
       "new_price": "140.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/chicco-next2me-magic-evo-cot/p112247951"
     },
     {
@@ -347,7 +356,7 @@
       "percentage": 29.0,
       "old_price": "69.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-cotton-poplin-twist-front-dress/p113694749"
     },
     {
@@ -356,7 +365,7 @@
       "percentage": 28.9,
       "old_price": "519.00",
       "new_price": "369.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/samsung-series-5-ww80cgc04dae-freestanding-washing-machine-ai-energy-8kg-load-1400rpm-white/p111200327"
     },
     {
@@ -365,7 +374,7 @@
       "percentage": 28.6,
       "old_price": "5.60",
       "new_price": "4.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/cath-kidston-orange-blossom-hand-creams-set-of-3/p113030133"
     },
     {
@@ -374,7 +383,7 @@
       "percentage": 28.6,
       "old_price": "35.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-22T00:42:15.850754",
+      "timestamp": "2026-01-22T00:47:27.145146",
       "url": "https://fenwick.co.uk/products/forever-new-multi-becca-scalloped-neck-blouse-sh13662"
     },
     {
@@ -383,7 +392,7 @@
       "percentage": 28.2,
       "old_price": "110.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/mint-velvet-metallic-midi-shirt-dress-gold/p114269803"
     },
     {
@@ -401,7 +410,7 @@
       "percentage": 27.5,
       "old_price": "799.00",
       "new_price": "579.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lg-f4x7011tbb-freestanding-washing-machine-11kg-load-1400rpm-spin-matte-black/p113847395"
     },
     {
@@ -410,7 +419,7 @@
       "percentage": 27.0,
       "old_price": "80.81",
       "new_price": "59.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/nespresso-vertuo-pop-coffee-pod-machine-by-krups/p111959698"
     },
     {
@@ -419,7 +428,7 @@
       "percentage": 27.0,
       "old_price": "18.50",
       "new_price": "13.50",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/oxo-pop-stainless-steel-lid-rectangular-kitchen-storage-container-clear/p5331633"
     },
     {
@@ -428,7 +437,7 @@
       "percentage": 26.3,
       "old_price": "38.00",
       "new_price": "28.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/french-connection-orla-jersey-eyelet-midi-dress-black/p114272260"
     },
     {
@@ -437,7 +446,7 @@
       "percentage": 25.9,
       "old_price": "27.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-22T00:42:15.850754",
+      "timestamp": "2026-01-22T00:47:27.145146",
       "url": "https://fenwick.co.uk/products/forever-new-black-keely-hardware-bardot-neck-top-jtc8023"
     },
     {
@@ -446,7 +455,7 @@
       "percentage": 25.7,
       "old_price": "35.00",
       "new_price": "26.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/french-connection-jamie-floral-tailored-pencil-midi-skirt/p114371816"
     },
     {
@@ -455,7 +464,7 @@
       "percentage": 25.3,
       "old_price": "79.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-petite-annabelle-liquid-sequin-racer-dress-burgundy/p114108975"
     },
     {
@@ -464,7 +473,7 @@
       "percentage": 25.3,
       "old_price": "79.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-lydia-metallic-long-sleeve-v-neck-ruffle-maxi-dress/p114320104"
     },
     {
@@ -473,7 +482,7 @@
       "percentage": 25.3,
       "old_price": "198.00",
       "new_price": "148.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/reiss-petite-lulu-lace-detail-midi-dress-black/p114299558"
     },
     {
@@ -482,7 +491,7 @@
       "percentage": 25.3,
       "old_price": "135.20",
       "new_price": "101.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/allsaints-aleida-long-sleeve-collar-longline-blazer/p113957048"
     },
     {
@@ -491,7 +500,7 @@
       "percentage": 25.0,
       "old_price": "49.99",
       "new_price": "37.50",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/vtech-bc8611-v-hush-rocker-sound-motion-stroller-soother-and-night-light/p113997986"
     },
     {
@@ -500,7 +509,7 @@
       "percentage": 25.0,
       "old_price": "18.00",
       "new_price": "13.50",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/oxo-pop-stainless-steel-lid-square-kitchen-storage-container-clear/p5331590"
     },
     {
@@ -509,7 +518,7 @@
       "percentage": 25.0,
       "old_price": "155.00",
       "new_price": "116.25",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/le-creuset-3-ply-uncoated-stainless-steel-frying-pan-24cm/p436487"
     },
     {
@@ -518,7 +527,7 @@
       "percentage": 25.0,
       "old_price": "169.00",
       "new_price": "126.75",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/le-creuset-3-ply-stainless-steel-lidded-saucepan/p20658"
     },
     {
@@ -527,7 +536,7 @@
       "percentage": 25.0,
       "old_price": "40.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/live-unlimited-curve-ruched-jersey-dress-black/p114278530"
     },
     {
@@ -536,7 +545,7 @@
       "percentage": 25.0,
       "old_price": "28.00",
       "new_price": "21.00",
-      "timestamp": "2026-01-22T00:42:15.850754",
+      "timestamp": "2026-01-22T00:47:27.145146",
       "url": "https://fenwick.co.uk/products/forever-new-red-ellisa-belted-hardware-top-shc13606"
     },
     {
@@ -545,7 +554,7 @@
       "percentage": 25.0,
       "old_price": "24.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-22T00:42:15.850754",
+      "timestamp": "2026-01-22T00:47:27.145146",
       "url": "https://fenwick.co.uk/products/forever-new-black-kendall-halter-neck-top-shz13316"
     },
     {
@@ -554,7 +563,7 @@
       "percentage": 24.5,
       "old_price": "899.00",
       "new_price": "679.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lg-f4x7013tbb-freestanding-washing-machine-13kg-load-1400rpm-spin-matte-black/p113847397"
     },
     {
@@ -563,7 +572,7 @@
       "percentage": 23.8,
       "old_price": "31.50",
       "new_price": "24.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/nudestix-nudies-bloom-all-over-face-dewy-colour/p111253971"
     },
     {
@@ -572,7 +581,7 @@
       "percentage": 23.5,
       "old_price": "34.00",
       "new_price": "26.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/french-connection-cammi-belted-jumper-dress-porcelain-cream/p114272252"
     },
     {
@@ -581,7 +590,7 @@
       "percentage": 23.5,
       "old_price": "34.00",
       "new_price": "26.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/french-connection-samira-twist-midi-dress-flame-orange/p114088365"
     },
     {
@@ -590,7 +599,7 @@
       "percentage": 23.4,
       "old_price": "499.00",
       "new_price": "382.43",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/nespresso-creatista-plus-coffee-machine-by-sage/p5067057"
     },
     {
@@ -599,7 +608,7 @@
       "percentage": 22.3,
       "old_price": "36.00",
       "new_price": "27.99",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/under-armour-launch-running-shorts/p111556854"
     },
     {
@@ -608,7 +617,7 @@
       "percentage": 21.7,
       "old_price": "23.00",
       "new_price": "18.00",
-      "timestamp": "2026-01-22T00:42:15.850754",
+      "timestamp": "2026-01-22T00:47:27.145146",
       "url": "https://fenwick.co.uk/products/forever-new-black-somer-crepe-bardot-top-jt7783"
     },
     {
@@ -617,7 +626,7 @@
       "percentage": 21.5,
       "old_price": "419.00",
       "new_price": "329.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/beko-bm3t3822w-heat-pump-freestanding-tumble-dryer-8kg-load-white/p112572529"
     },
     {
@@ -626,7 +635,7 @@
       "percentage": 20.7,
       "old_price": "145.00",
       "new_price": "115.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lauren-ralph-lauren-lanette-leather-pointed-toe-stiletto-court-shoes/p113669999"
     },
     {
@@ -635,7 +644,7 @@
       "percentage": 20.5,
       "old_price": "99.00",
       "new_price": "78.75",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/le-creuset-kone-stovetop-kettle-1-6l/p4851246"
     },
     {
@@ -644,7 +653,7 @@
       "percentage": 20.4,
       "old_price": "98.00",
       "new_price": "78.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/reiss-lornie-abstract-animal-print-slip-dress-navy/p113930210"
     },
     {
@@ -653,7 +662,7 @@
       "percentage": 20.4,
       "old_price": "49.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-floral-halterneck-maxi-dress-red/p113599029"
     },
     {
@@ -662,7 +671,7 @@
       "percentage": 20.4,
       "old_price": "49.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-petite-floral-halterneck-maxi-dress-red/p113599024"
     },
     {
@@ -671,7 +680,7 @@
       "percentage": 20.4,
       "old_price": "49.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-demi-tinsel-dress-black/p114108964"
     },
     {
@@ -680,7 +689,7 @@
       "percentage": 20.4,
       "old_price": "49.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-poppy-print-tie-front-dress-red-multi/p113160707"
     },
     {
@@ -689,7 +698,7 @@
       "percentage": 20.4,
       "old_price": "49.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/ro-zo-petite-rib-knit-high-neck-jumper-dress-red/p114142674"
     },
     {
@@ -698,7 +707,7 @@
       "percentage": 20.3,
       "old_price": "325.00",
       "new_price": "259.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/michael-kors-hamilton-moderne-tote-bag-brown-acorn/p114156277"
     },
     {
@@ -707,7 +716,7 @@
       "percentage": 20.1,
       "old_price": "149.00",
       "new_price": "119.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lauren-ralph-lauren-munzie-rib-knit-stretch-cotton-midi-dress-black/p113540805"
     },
     {
@@ -725,7 +734,7 @@
       "percentage": 20.0,
       "old_price": "50.00",
       "new_price": "40.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-hypnose-drama-eyeshadow-palette/p4157705"
     },
     {
@@ -734,7 +743,7 @@
       "percentage": 20.0,
       "old_price": "30.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-hypnose-mascara/p1093266"
     },
     {
@@ -743,7 +752,7 @@
       "percentage": 20.0,
       "old_price": "34.00",
       "new_price": "27.20",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-labsolu-rouge-cream-lipstick/p6169981"
     },
     {
@@ -752,7 +761,7 @@
       "percentage": 20.0,
       "old_price": "17.00",
       "new_price": "13.60",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-new-improved-hypnose-drama-instant-extreme-volume-mascara/p111815117"
     },
     {
@@ -761,7 +770,7 @@
       "percentage": 20.0,
       "old_price": "24.00",
       "new_price": "19.20",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-lash-idole-ultra-precise-waterproof-liner/p5992317"
     },
     {
@@ -770,7 +779,7 @@
       "percentage": 20.0,
       "old_price": "40.00",
       "new_price": "32.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-teint-idole-ultra-wear-skin-refining-setting-powder/p113110165"
     },
     {
@@ -779,7 +788,7 @@
       "percentage": 20.0,
       "old_price": "73.00",
       "new_price": "58.40",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-advanced-genifique-repairing-night-cream-50ml/p109298913"
     },
     {
@@ -788,7 +797,7 @@
       "percentage": 20.0,
       "old_price": "69.00",
       "new_price": "55.20",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-eau-de-parfum/p6377797"
     },
     {
@@ -797,7 +806,7 @@
       "percentage": 20.0,
       "old_price": "62.00",
       "new_price": "49.60",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-idole-eau-de-parfum/p4271767"
     },
     {
@@ -806,7 +815,7 @@
       "percentage": 20.0,
       "old_price": "72.00",
       "new_price": "57.60",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-rose-extraordinaire-eau-de-parfum/p111430722"
     },
     {
@@ -815,7 +824,7 @@
       "percentage": 20.0,
       "old_price": "75.00",
       "new_price": "60.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-lelixir-eau-de-parfum-refillable/p112090718"
     },
     {
@@ -824,7 +833,7 @@
       "percentage": 20.0,
       "old_price": "230.00",
       "new_price": "184.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-storm-and-roses-eau-de-parfum-100ml/p112090723"
     },
     {
@@ -833,7 +842,7 @@
       "percentage": 20.0,
       "old_price": "230.00",
       "new_price": "184.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-hell-of-a-rose-eau-de-parfum-100ml/p112090728"
     },
     {
@@ -842,7 +851,7 @@
       "percentage": 20.0,
       "old_price": "230.00",
       "new_price": "184.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-le-parfum-eau-de-parfum-100ml/p112090727"
     },
     {
@@ -851,7 +860,7 @@
       "percentage": 20.0,
       "old_price": "230.00",
       "new_price": "184.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-absolue-les-parfums-not-your-rose-eau-de-parfum-100ml/p112090726"
     },
     {
@@ -860,7 +869,7 @@
       "percentage": 20.0,
       "old_price": "48.00",
       "new_price": "38.40",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/lancome-nutrix-royal-body-400ml/p52213"
     },
     {
@@ -869,7 +878,7 @@
       "percentage": 20.0,
       "old_price": "999.00",
       "new_price": "799.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/samsung-series-8-dv90bb9445gb-heat-pump-tumble-dryer-ai-energy-9kg-load-black/p6360559"
     },
     {
@@ -878,7 +887,7 @@
       "percentage": 20.0,
       "old_price": "149.50",
       "new_price": "119.60",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/adrianna-by-adrianna-papell-velvet-low-back-sweetheart-neck-strapless-maxi-dress-black-black/p114051283"
     },
     {
@@ -887,7 +896,7 @@
       "percentage": 20.0,
       "old_price": "220.00",
       "new_price": "176.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/gina-bacconi-danielle-illusion-neck-dress-black/p113947199"
     },
     {
@@ -896,7 +905,7 @@
       "percentage": 20.0,
       "old_price": "45.00",
       "new_price": "36.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/nobodys-child-cora-corset-midi-dress-containing-lenzing-ecovero-viscose-green/p114198829"
     },
     {
@@ -905,7 +914,7 @@
       "percentage": 20.0,
       "old_price": "45.00",
       "new_price": "36.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/nobodys-child-mimi-short-puff-sleeve-cotton-midi-dress-brown/p113705856"
     },
     {
@@ -914,7 +923,7 @@
       "percentage": 20.0,
       "old_price": "170.00",
       "new_price": "136.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/gina-bacconi-elaine-stud-sleeve-wrap-dress-royal/p113947217"
     },
     {
@@ -923,17 +932,8 @@
       "percentage": 20.0,
       "old_price": "260.00",
       "new_price": "208.00",
-      "timestamp": "2026-01-22T00:42:17.583881",
+      "timestamp": "2026-01-22T00:47:27.192804",
       "url": "https://www.johnlewis.com/gina-bacconi-victoria-side-ruched-maxi-dress-midnight/p113683129"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Aidan Mattox By Adrianna Papell Beaded Mesh Maxi Dress, Gold",
-      "percentage": 20.0,
-      "old_price": "299.50",
-      "new_price": "239.60",
-      "timestamp": "2026-01-22T00:42:17.583881",
-      "url": "https://www.johnlewis.com/aidan-mattox-by-adrianna-papell-beaded-mesh-maxi-dress-gold/p114325005"
     }
   ]
 }

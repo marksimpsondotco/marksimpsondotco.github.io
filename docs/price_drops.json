@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T13:44:26.092207",
-  "total_drops": 1849,
+  "generated_at": "2026-01-23T13:49:39.908465",
+  "total_drops": 1851,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -23,9 +23,9 @@
     },
     {
       "site": "mamasandpapas_com",
-      "count": 452,
+      "count": 453,
       "max_drop": 55.0,
-      "total_savings": 12646.32
+      "total_savings": 12659.04
     },
     {
       "site": "pigletinbed_com",
@@ -140,6 +140,12 @@
       "count": 5,
       "max_drop": 15.0,
       "total_savings": 15.43
+    },
+    {
+      "site": "theconranshop_com",
+      "count": 1,
+      "max_drop": 14.3,
+      "total_savings": 6.5
     },
     {
       "site": "thesewingstudio_co_uk",
@@ -416,7 +422,7 @@
       "percentage": 55.0,
       "old_price": "109.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/playmat-toy-bundle-happy-cloud-7736jx601"
     },
     {
@@ -794,7 +800,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/floral-quilted-pramsuit-nb-s07gk4rb0"
     },
     {
@@ -803,7 +809,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/borg-cord-pramsuit-nb-s07gk3hb0"
     },
     {
@@ -812,7 +818,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/blue-corduroy-pramsuit-nb-s07gk4bb0"
     },
     {
@@ -821,7 +827,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/borg-pramsuit-nb-s07gl5tb0"
     },
     {
@@ -830,7 +836,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/faux-fur-pramsuit-nb-s07ga8hb0"
     },
     {
@@ -839,7 +845,7 @@
       "percentage": 50.0,
       "old_price": "32.00",
       "new_price": "16.00",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/borg-jacket-nb-s07fl2db0"
     },
     {
@@ -848,7 +854,7 @@
       "percentage": 50.0,
       "old_price": "30.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/borg-jacket-nb-s07fk3jb0"
     },
     {
@@ -857,7 +863,7 @@
       "percentage": 50.0,
       "old_price": "15.00",
       "new_price": "7.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/knit-pom-pom-hat-nb-s83zn1ab0"
     },
     {
@@ -866,7 +872,7 @@
       "percentage": 50.0,
       "old_price": "15.00",
       "new_price": "7.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/knit-pom-pom-hat-nb-s83zl1ab0"
     },
     {
@@ -875,7 +881,7 @@
       "percentage": 50.0,
       "old_price": "18.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/borg-hat-mitts-nb-s432l5sb0"
     },
     {
@@ -884,7 +890,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/25-tog-dreampod-sleep-bag-0-6-months-white-7340ww201"
     },
     {
@@ -893,7 +899,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/dreampod-6-18-2-5-tog-wildly-adventures-734320c01"
     },
     {
@@ -902,7 +908,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/dreampod-0-6-2-5-tog-wildly-adventures-733820c01"
     },
     {
@@ -911,7 +917,7 @@
       "percentage": 50.0,
       "old_price": "89.00",
       "new_price": "44.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/dream-upon-a-cloud-moses-basket-grey-white-7700t8301"
     },
     {
@@ -920,7 +926,7 @@
       "percentage": 50.0,
       "old_price": "120.00",
       "new_price": "60.00",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/lgs-moses-basket-dove-ds-2641r5901"
     },
     {
@@ -929,7 +935,7 @@
       "percentage": 50.0,
       "old_price": "30.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/fitted-sheets-pack-of-2-wildly-adventures-779720c01"
     },
     {
@@ -938,7 +944,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/musical-mobile-cloud-756036300"
     },
     {
@@ -947,7 +953,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/welcome-to-the-world-musical-mobile-grey-7560ww201"
     },
     {
@@ -956,7 +962,7 @@
       "percentage": 50.0,
       "old_price": "69.00",
       "new_price": "34.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/quilt-cotbed-cot-duac-7041t8301"
     },
     {
@@ -965,7 +971,7 @@
       "percentage": 50.0,
       "old_price": "60.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/quilt-wildly-adventures-704120c02"
     },
     {
@@ -974,7 +980,7 @@
       "percentage": 50.0,
       "old_price": "79.00",
       "new_price": "39.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/welcome-to-the-world-quilt-grey-7041ww201"
     },
     {
@@ -983,7 +989,7 @@
       "percentage": 50.0,
       "old_price": "29.00",
       "new_price": "14.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/2-cot-bed-fitted-sheets-duac-7797t8301"
     },
     {
@@ -992,7 +998,7 @@
       "percentage": 50.0,
       "old_price": "32.00",
       "new_price": "16.00",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/knitted-blanket-koala-788320c01"
     },
     {
@@ -1001,7 +1007,7 @@
       "percentage": 50.0,
       "old_price": "69.00",
       "new_price": "34.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/footmuff-m-p-x-af-ying-yang-2010af000"
     },
     {
@@ -1010,7 +1016,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/memory-foam-liner-2636af000"
     },
     {
@@ -1019,7 +1025,7 @@
       "percentage": 50.0,
       "old_price": "149.00",
       "new_price": "74.50",
-      "timestamp": "2026-01-23T13:44:17.265358",
+      "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/airo-newborn-pack-black-960025300"
     },
     {
@@ -1064,7 +1070,7 @@
       "percentage": 47.7,
       "old_price": "1720.00",
       "new_price": "899.00",
-      "timestamp": "2026-01-23T13:43:56.998564",
+      "timestamp": "2026-01-23T13:49:35.296624",
       "url": "https://ukbabycentre.com/products/mamas-and-papas-flynn-3pc-range-white"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T12:46:09.763807",
-  "total_drops": 1311,
+  "generated_at": "2026-01-23T12:51:23.009372",
+  "total_drops": 1320,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -34,6 +34,12 @@
       "total_savings": 59.0
     },
     {
+      "site": "ukbabycentre_com",
+      "count": 17,
+      "max_drop": 47.7,
+      "total_savings": 2852.01
+    },
+    {
       "site": "smallsmart_co_uk",
       "count": 121,
       "max_drop": 40.0,
@@ -44,12 +50,6 @@
       "count": 61,
       "max_drop": 39.7,
       "total_savings": 1312.99
-    },
-    {
-      "site": "ukbabycentre_com",
-      "count": 14,
-      "max_drop": 39.1,
-      "total_savings": 1889.01
     },
     {
       "site": "hamleys_com",
@@ -106,6 +106,12 @@
       "total_savings": 30.0
     },
     {
+      "site": "baby-nest_co_uk",
+      "count": 21,
+      "max_drop": 16.9,
+      "total_savings": 418.4
+    },
+    {
       "site": "scandiborn_co_uk",
       "count": 5,
       "max_drop": 15.0,
@@ -122,12 +128,6 @@
       "count": 37,
       "max_drop": 11.1,
       "total_savings": 66.36
-    },
-    {
-      "site": "baby-nest_co_uk",
-      "count": 15,
-      "max_drop": 7.1,
-      "total_savings": 28.65
     },
     {
       "site": "mansurgavriel_com",
@@ -798,6 +798,15 @@
       "url": "https://www.johnlewis.com/reiss-gabrielle-leather-knee-high-boots-black/p114541357"
     },
     {
+      "site": "ukbabycentre_com",
+      "product": "Mamas and Papas Flyn 3pc Range - White",
+      "percentage": 47.7,
+      "old_price": "1720.00",
+      "new_price": "899.00",
+      "timestamp": "2026-01-23T12:51:14.072229",
+      "url": "https://ukbabycentre.com/products/mamas-and-papas-flynn-3pc-range-white"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Le Creuset Classic Salt Mill",
       "percentage": 47.6,
@@ -1039,15 +1048,6 @@
       "new_price": "89.00",
       "timestamp": "2026-01-23T11:48:23.302265",
       "url": "https://www.johnlewis.com/carvela-flute-microsuede-embellished-shoes-boots-black/p112987128"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "KG Kurt Geiger Telling 2 Suede Knee High Boots",
-      "percentage": 40.2,
-      "old_price": "199.00",
-      "new_price": "119.00",
-      "timestamp": "2026-01-22T05:13:00.142598",
-      "url": "https://www.johnlewis.com/kg-kurt-geiger-telling-2-suede-knee-high-boots/p113969108"
     }
   ]
 }

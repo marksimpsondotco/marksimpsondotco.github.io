@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-23T14:57:48.554216",
-  "total_drops": 1858,
+  "generated_at": "2026-01-23T15:03:03.059774",
+  "total_drops": 1975,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 686,
+      "count": 802,
       "max_drop": 78.6,
-      "total_savings": 18182.7
+      "total_savings": 21269.14
     },
     {
       "site": "leaderonline_com",
@@ -53,9 +53,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 65,
+      "count": 66,
       "max_drop": 39.7,
-      "total_savings": 1331.99
+      "total_savings": 1347.99
     },
     {
       "site": "hamleys_com",
@@ -795,6 +795,15 @@
       "url": "https://www.johnlewis.com/aspinal-of-london-hudson-leather-business-bag-green/p113971992"
     },
     {
+      "site": "johnlewis_com",
+      "product": "NRBY Elodie Quilted Jacket, Blue",
+      "percentage": 50.0,
+      "old_price": "125.00",
+      "new_price": "62.50",
+      "timestamp": "2026-01-23T15:02:56.089897",
+      "url": "https://www.johnlewis.com/nrby-elodie-quilted-jacket-blue/p114239761"
+    },
+    {
       "site": "mamasandpapas_com",
       "product": "Ditsy Rose Quilted Pramsuit - Floral",
       "percentage": 50.0,
@@ -1063,15 +1072,6 @@
       "new_price": "178.00",
       "timestamp": "2026-01-23T11:48:23.302265",
       "url": "https://www.johnlewis.com/reiss-gabrielle-leather-knee-high-boots-black/p114541357"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "Mamas and Papas Flyn 3pc Range - White",
-      "percentage": 47.7,
-      "old_price": "1720.00",
-      "new_price": "899.00",
-      "timestamp": "2026-01-23T13:49:35.296624",
-      "url": "https://ukbabycentre.com/products/mamas-and-papas-flynn-3pc-range-white"
     }
   ]
 }

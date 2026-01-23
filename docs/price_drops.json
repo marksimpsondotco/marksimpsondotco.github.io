@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T19:38:04.195846",
-  "total_drops": 2073,
+  "generated_at": "2026-01-23T19:43:18.173952",
+  "total_drops": 2075,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 21,
+      "count": 23,
       "max_drop": 50.0,
-      "total_savings": 234.0
+      "total_savings": 272.0
     },
     {
       "site": "flannels_com",

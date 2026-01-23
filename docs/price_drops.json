@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-23T18:45:01.444289",
-  "total_drops": 2027,
+  "generated_at": "2026-01-23T18:50:19.548609",
+  "total_drops": 2032,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 829,
+      "count": 830,
       "max_drop": 78.6,
-      "total_savings": 21827.19
+      "total_savings": 21947.19
     },
     {
       "site": "leaderonline_com",
@@ -41,9 +41,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 90,
+      "count": 94,
       "max_drop": 49.5,
-      "total_savings": 3271.99
+      "total_savings": 3362.99
     },
     {
       "site": "ukbabycentre_com",

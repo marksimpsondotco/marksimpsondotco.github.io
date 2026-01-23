@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T23:52:51.917626",
-  "total_drops": 2096,
+  "generated_at": "2026-01-23T23:58:07.425385",
+  "total_drops": 2221,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -34,6 +34,12 @@
       "total_savings": 240.0
     },
     {
+      "site": "flannels_com",
+      "count": 233,
+      "max_drop": 50.2,
+      "total_savings": 12906.99
+    },
+    {
       "site": "hamleys_com",
       "count": 13,
       "max_drop": 50.0,
@@ -44,12 +50,6 @@
       "count": 23,
       "max_drop": 50.0,
       "total_savings": 272.0
-    },
-    {
-      "site": "flannels_com",
-      "count": 108,
-      "max_drop": 49.7,
-      "total_savings": 5818.99
     },
     {
       "site": "ukbabycentre_com",
@@ -547,6 +547,15 @@
       "new_price": "49.00",
       "timestamp": "2026-01-22T09:24:44.016310",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
+    },
+    {
+      "site": "flannels_com",
+      "product": "MONCLER - Monaco Scarpa Trainers",
+      "percentage": 50.2,
+      "old_price": "400.00",
+      "new_price": "199.00",
+      "timestamp": "2026-01-23T23:58:03.164439",
+      "url": "https://www.flannels.com/moncler-mens-monaco-scarpa-leather-lace-up-low-top-trainers-115934"
     },
     {
       "site": "hamleys_com",
@@ -1069,15 +1078,6 @@
       "new_price": "34.50",
       "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/footmuff-m-p-x-af-ying-yang-2010af000"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Mamas & Papas x Another Fox Reversible Liner - Ying & Yang",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/memory-foam-liner-2636af000"
     }
   ]
 }

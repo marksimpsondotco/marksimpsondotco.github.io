@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T13:12:24.476072",
-  "total_drops": 1363,
+  "generated_at": "2026-01-23T13:17:39.080888",
+  "total_drops": 1472,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -26,6 +26,12 @@
       "count": 12,
       "max_drop": 53.3,
       "total_savings": 240.0
+    },
+    {
+      "site": "mamasandpapas_com",
+      "count": 103,
+      "max_drop": 50.0,
+      "total_savings": 763.25
     },
     {
       "site": "dusk_com",
@@ -59,15 +65,21 @@
     },
     {
       "site": "condorcycles_com",
-      "count": 14,
+      "count": 15,
       "max_drop": 33.3,
-      "total_savings": 511.0
+      "total_savings": 591.0
     },
     {
       "site": "berrysjewellers_co_uk",
-      "count": 26,
+      "count": 27,
       "max_drop": 30.0,
-      "total_savings": 33471.0
+      "total_savings": 33528.5
+    },
+    {
+      "site": "boden_com",
+      "count": 20,
+      "max_drop": 28.6,
+      "total_savings": 133.0
     },
     {
       "site": "bugaboo_com",
@@ -94,12 +106,6 @@
       "total_savings": 80.0
     },
     {
-      "site": "boden_com",
-      "count": 17,
-      "max_drop": 25.0,
-      "total_savings": 63.4
-    },
-    {
       "site": "chelseababy_com",
       "count": 17,
       "max_drop": 25.0,
@@ -113,9 +119,9 @@
     },
     {
       "site": "houseofisabella_co_uk",
-      "count": 8,
-      "max_drop": 18.8,
-      "total_savings": 424.45
+      "count": 9,
+      "max_drop": 20.0,
+      "total_savings": 454.45
     },
     {
       "site": "baby-nest_co_uk",
@@ -768,6 +774,96 @@
       "url": "https://www.johnlewis.com/aspinal-of-london-hudson-leather-business-bag-green/p113971992"
     },
     {
+      "site": "mamasandpapas_com",
+      "product": "Ditsy Rose Quilted Pramsuit - Floral",
+      "percentage": 50.0,
+      "old_price": "45.00",
+      "new_price": "22.50",
+      "timestamp": "2026-01-23T13:17:08.751094",
+      "url": "https://www.mamasandpapas.com/products/floral-quilted-pramsuit-nb-s07gk4rb0"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Quilted Cord & Borg Pramsuit with 3D Ears - Brown",
+      "percentage": 50.0,
+      "old_price": "45.00",
+      "new_price": "22.50",
+      "timestamp": "2026-01-23T13:17:08.751094",
+      "url": "https://www.mamasandpapas.com/products/borg-cord-pramsuit-nb-s07gk3hb0"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Quilted Cord Pramsuit - Blue",
+      "percentage": 50.0,
+      "old_price": "45.00",
+      "new_price": "22.50",
+      "timestamp": "2026-01-23T13:17:08.751094",
+      "url": "https://www.mamasandpapas.com/products/blue-corduroy-pramsuit-nb-s07gk4bb0"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Cream Borg Pramsuit",
+      "percentage": 50.0,
+      "old_price": "45.00",
+      "new_price": "22.50",
+      "timestamp": "2026-01-23T13:17:08.751094",
+      "url": "https://www.mamasandpapas.com/products/borg-pramsuit-nb-s07gl5tb0"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Faux Fur Pramsuit",
+      "percentage": 50.0,
+      "old_price": "45.00",
+      "new_price": "22.50",
+      "timestamp": "2026-01-23T13:17:08.751094",
+      "url": "https://www.mamasandpapas.com/products/faux-fur-pramsuit-nb-s07ga8hb0"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Borg Cream Jacket",
+      "percentage": 50.0,
+      "old_price": "32.00",
+      "new_price": "16.00",
+      "timestamp": "2026-01-23T13:17:08.751094",
+      "url": "https://www.mamasandpapas.com/products/borg-jacket-nb-s07fl2db0"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Fully Lined Borg Jacket with Rib Cuffs",
+      "percentage": 50.0,
+      "old_price": "30.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-23T13:17:08.751094",
+      "url": "https://www.mamasandpapas.com/products/borg-jacket-nb-s07fk3jb0"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Rib Knit Hat & Pom Poms - White",
+      "percentage": 50.0,
+      "old_price": "15.00",
+      "new_price": "7.50",
+      "timestamp": "2026-01-23T13:17:08.751094",
+      "url": "https://www.mamasandpapas.com/products/knit-pom-pom-hat-nb-s83zn1ab0"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Rib Knit Hat with Pom Poms - Oatmeal",
+      "percentage": 50.0,
+      "old_price": "15.00",
+      "new_price": "7.50",
+      "timestamp": "2026-01-23T13:17:08.751094",
+      "url": "https://www.mamasandpapas.com/products/knit-pom-pom-hat-nb-s83zl1ab0"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Cream Borg Hat & Mitts Set",
+      "percentage": 50.0,
+      "old_price": "18.00",
+      "new_price": "9.00",
+      "timestamp": "2026-01-23T13:17:08.751094",
+      "url": "https://www.mamasandpapas.com/products/borg-hat-mitts-nb-s432l5sb0"
+    },
+    {
       "site": "dusk_com",
       "product": "Antigua Soft Fine Ribbed Towel Collection - Fern",
       "percentage": 50.0,
@@ -809,7 +905,7 @@
       "percentage": 47.7,
       "old_price": "1720.00",
       "new_price": "899.00",
-      "timestamp": "2026-01-23T13:12:14.648909",
+      "timestamp": "2026-01-23T13:17:23.904735",
       "url": "https://ukbabycentre.com/products/mamas-and-papas-flynn-3pc-range-white"
     },
     {
@@ -964,96 +1060,6 @@
       "new_price": "21.00",
       "timestamp": "2026-01-23T12:33:54.918206",
       "url": "https://www.johnlewis.com/triumph-amourette-spotlight-padded-underwired-t-shirt-bra/p6257704"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis ANYDAY Cotton Boxy Fit T-Shirt",
-      "percentage": 41.7,
-      "old_price": "12.00",
-      "new_price": "7.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/john-lewis-anyday-cotton-boxy-fit-t-shirt/p111956741"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Tansy Duvet Cover Set",
-      "percentage": 40.9,
-      "old_price": "55.00",
-      "new_price": "32.50",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/john-lewis-tansy-duvet-cover-set/p112440888"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Ro&Zo Jersey Tie Sleeveless Maxi Dress",
-      "percentage": 40.8,
-      "old_price": "49.00",
-      "new_price": "29.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/ro-zo-jersey-tie-sleeveless-maxi-dress/p113530393"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "French Connection Rhodes Poplin Shirt",
-      "percentage": 40.7,
-      "old_price": "27.00",
-      "new_price": "16.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/french-connection-rhodes-poplin-shirt/p4917131"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Gallery Direct Carmel Arched Metal Frame Window Wall Mirror, 90 x 60cm",
-      "percentage": 40.5,
-      "old_price": "160.00",
-      "new_price": "95.20",
-      "timestamp": "2026-01-22T01:32:51.380655",
-      "url": "https://www.johnlewis.com/gallery-direct-carmel-arched-metal-frame-window-wall-mirror-90-x-60cm/p111822498"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Roll Neck Cashmere Jumper",
-      "percentage": 40.4,
-      "old_price": "109.00",
-      "new_price": "65.00",
-      "timestamp": "2026-01-23T12:33:54.918206",
-      "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Reiss Ameira Silk-Satin Concealed-Placket Shirt",
-      "percentage": 40.4,
-      "old_price": "198.00",
-      "new_price": "118.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/reiss-ameira-silk-satin-concealed-placket-shirt/p114299602"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Cashmere Edge to Edge Rib Cardigan",
-      "percentage": 40.4,
-      "old_price": "99.00",
-      "new_price": "59.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/john-lewis-cashmere-edge-to-edge-rib-cardigan/p114013778"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Carvela Flute Stiletto Heel Coin Ankle Boots, Black",
-      "percentage": 40.3,
-      "old_price": "149.00",
-      "new_price": "89.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/carvela-flute-stiletto-heel-coin-ankle-boots-black/p113902521"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Carvela Flute Microsuede Embellished Shoes Boots, Black",
-      "percentage": 40.3,
-      "old_price": "149.00",
-      "new_price": "89.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/carvela-flute-microsuede-embellished-shoes-boots-black/p112987128"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-23T12:04:03.118060",
-  "total_drops": 1225,
+  "generated_at": "2026-01-23T12:09:15.893771",
+  "total_drops": 1242,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 668,
+      "count": 680,
       "max_drop": 78.6,
-      "total_savings": 17950.25
+      "total_savings": 18126.2
     },
     {
       "site": "leaderonline_com",
@@ -41,9 +41,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 51,
+      "count": 55,
       "max_drop": 33.8,
-      "total_savings": 942.99
+      "total_savings": 998.99
     },
     {
       "site": "hamleys_com",
@@ -80,6 +80,12 @@
       "count": 1,
       "max_drop": 27.3,
       "total_savings": 3.0
+    },
+    {
+      "site": "dryrobe_com",
+      "count": 1,
+      "max_drop": 25.9,
+      "total_savings": 35.0
     },
     {
       "site": "chelseababy_com",
@@ -137,8 +143,17 @@
       "percentage": 70.0,
       "old_price": "125.00",
       "new_price": "37.50",
-      "timestamp": "2026-01-23T12:03:50.727409",
+      "timestamp": "2026-01-23T12:09:04.367028",
       "url": "https://www.johnlewis.com/john-lewis-portland-leather-zip-front-flatform-ankle-boots/p114401574"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Gola Classics Women's Viper Metallic Leather Trainers, Silver/Off White/Gum",
+      "percentage": 70.0,
+      "old_price": "90.00",
+      "new_price": "27.00",
+      "timestamp": "2026-01-23T12:09:04.367028",
+      "url": "https://www.johnlewis.com/gola-classics-womens-viper-metallic-leather-trainers-silver-off-white-gum/p113769158"
     },
     {
       "site": "johnlewis_com",
@@ -416,7 +431,7 @@
       "percentage": 53.3,
       "old_price": "7.50",
       "new_price": "3.50",
-      "timestamp": "2026-01-23T12:03:47.129921",
+      "timestamp": "2026-01-23T12:09:01.770737",
       "url": "https://www.pigletinbed.com/products/blueberry-plain-organic-cotton-towel"
     },
     {
@@ -463,6 +478,24 @@
       "new_price": "49.00",
       "timestamp": "2026-01-22T09:24:44.016310",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Chantelle Soft Stretch High Waist Knickers",
+      "percentage": 50.0,
+      "old_price": "17.00",
+      "new_price": "8.50",
+      "timestamp": "2026-01-23T12:09:04.367028",
+      "url": "https://www.johnlewis.com/chantelle-soft-stretch-high-waist-knickers/p4203133"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Kin Logo Regular Fit Short Sleeve Cotton T-Shirt",
+      "percentage": 50.0,
+      "old_price": "18.00",
+      "new_price": "9.00",
+      "timestamp": "2026-01-23T12:09:04.367028",
+      "url": "https://www.johnlewis.com/kin-logo-regular-fit-short-sleeve-cotton-t-shirt/p110773536"
     },
     {
       "site": "johnlewis_com",
@@ -749,7 +782,7 @@
       "percentage": 46.2,
       "old_price": "119.00",
       "new_price": "64.00",
-      "timestamp": "2026-01-23T12:03:47.129921",
+      "timestamp": "2026-01-23T12:09:01.770737",
       "url": "https://www.pigletinbed.com/products/cedar-green-knitted-throw"
     },
     {
@@ -871,6 +904,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Triumph Amourette Spotlight Padded Underwired T-Shirt Bra",
+      "percentage": 41.7,
+      "old_price": "36.00",
+      "new_price": "21.00",
+      "timestamp": "2026-01-23T12:09:04.367028",
+      "url": "https://www.johnlewis.com/triumph-amourette-spotlight-padded-underwired-t-shirt-bra/p6257704"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis ANYDAY Cotton Boxy Fit T-Shirt",
       "percentage": 41.7,
       "old_price": "12.00",
@@ -920,7 +962,7 @@
       "percentage": 40.4,
       "old_price": "109.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-23T12:03:50.727409",
+      "timestamp": "2026-01-23T12:09:04.367028",
       "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
     },
     {
@@ -976,42 +1018,6 @@
       "new_price": "11.95",
       "timestamp": "2026-01-23T11:48:23.302265",
       "url": "https://www.johnlewis.com/benetton-crew-neck-t-shirt/p113428401"
-    },
-    {
-      "site": "smallsmart_co_uk",
-      "product": "Meri Meri - Halloween Balloon Garland Kit (x 40 balloons)",
-      "percentage": 40.0,
-      "old_price": "2.50",
-      "new_price": "1.50",
-      "timestamp": "2026-01-23T12:03:43.754676",
-      "url": "https://www.smallsmart.co.uk/products/meri-meri-halloween-balloon-garland-kit-x-40-balloons"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polo Ralph Lauren Cotton Custom Slim Fit Script Logo T-Shirt",
-      "percentage": 40.0,
-      "old_price": "50.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-22T05:13:00.142598",
-      "url": "https://www.johnlewis.com/polo-ralph-lauren-cotton-custom-slim-fit-script-logo-t-shirt/p113724126"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Bobbi Brown Long-Wear Cream Shadow Stick",
-      "percentage": 40.0,
-      "old_price": "29.50",
-      "new_price": "17.70",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/bobbi-brown-long-wear-cream-shadow-stick/p2581250"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "French Connection Rallie Stripe Fitted T-Shirt, White/Black",
-      "percentage": 40.0,
-      "old_price": "20.00",
-      "new_price": "12.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/french-connection-rallie-stripe-fitted-t-shirt-white-black/p113320119"
     }
   ]
 }

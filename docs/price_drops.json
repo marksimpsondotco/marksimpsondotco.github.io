@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T12:35:27.098000",
-  "total_drops": 1252,
+  "generated_at": "2026-01-23T12:40:40.640646",
+  "total_drops": 1290,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -41,9 +41,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 58,
+      "count": 59,
       "max_drop": 39.7,
-      "total_savings": 1276.99
+      "total_savings": 1302.99
     },
     {
       "site": "ukbabycentre_com",
@@ -116,6 +116,12 @@
       "count": 4,
       "max_drop": 14.8,
       "total_savings": 7.3
+    },
+    {
+      "site": "thesewingstudio_co_uk",
+      "count": 37,
+      "max_drop": 11.1,
+      "total_savings": 66.36
     },
     {
       "site": "mansurgavriel_com",

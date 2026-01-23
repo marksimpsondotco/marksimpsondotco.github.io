@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T16:32:43.539302",
-  "total_drops": 2007,
+  "generated_at": "2026-01-23T16:37:57.542725",
+  "total_drops": 2010,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -53,9 +53,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 71,
+      "count": 74,
       "max_drop": 40.0,
-      "total_savings": 1427.99
+      "total_savings": 1480.99
     },
     {
       "site": "hamleys_com",

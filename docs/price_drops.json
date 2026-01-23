@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-23T11:58:36.505755",
-  "total_drops": 1203,
+  "generated_at": "2026-01-23T12:03:50.695153",
+  "total_drops": 1225,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 665,
+      "count": 668,
       "max_drop": 78.6,
-      "total_savings": 17798.75
+      "total_savings": 17950.25
     },
     {
       "site": "leaderonline_com",
@@ -41,9 +41,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 32,
+      "count": 51,
       "max_drop": 33.8,
-      "total_savings": 822.99
+      "total_savings": 942.99
     },
     {
       "site": "hamleys_com",
@@ -130,6 +130,15 @@
       "new_price": "25.50",
       "timestamp": "2026-01-23T11:48:23.302265",
       "url": "https://www.johnlewis.com/john-lewis-cornell-leather-loafers/p111627299"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Portland Leather Zip Front Flatform Ankle Boots",
+      "percentage": 70.0,
+      "old_price": "125.00",
+      "new_price": "37.50",
+      "timestamp": "2026-01-23T12:03:37.674492",
+      "url": "https://www.johnlewis.com/john-lewis-portland-leather-zip-front-flatform-ankle-boots/p114401574"
     },
     {
       "site": "johnlewis_com",
@@ -407,7 +416,7 @@
       "percentage": 53.3,
       "old_price": "7.50",
       "new_price": "3.50",
-      "timestamp": "2026-01-23T11:58:23.199274",
+      "timestamp": "2026-01-23T12:03:30.138268",
       "url": "https://www.pigletinbed.com/products/blueberry-plain-organic-cotton-towel"
     },
     {
@@ -740,7 +749,7 @@
       "percentage": 46.2,
       "old_price": "119.00",
       "new_price": "64.00",
-      "timestamp": "2026-01-23T11:58:23.199274",
+      "timestamp": "2026-01-23T12:03:30.138268",
       "url": "https://www.pigletinbed.com/products/cedar-green-knitted-throw"
     },
     {
@@ -907,6 +916,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Roll Neck Cashmere Jumper",
+      "percentage": 40.4,
+      "old_price": "109.00",
+      "new_price": "65.00",
+      "timestamp": "2026-01-23T12:03:37.674492",
+      "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Reiss Ameira Silk-Satin Concealed-Placket Shirt",
       "percentage": 40.4,
       "old_price": "198.00",
@@ -965,7 +983,7 @@
       "percentage": 40.0,
       "old_price": "2.50",
       "new_price": "1.50",
-      "timestamp": "2026-01-23T11:58:15.161182",
+      "timestamp": "2026-01-23T12:03:22.042338",
       "url": "https://www.smallsmart.co.uk/products/meri-meri-halloween-balloon-garland-kit-x-40-balloons"
     },
     {
@@ -994,24 +1012,6 @@
       "new_price": "12.00",
       "timestamp": "2026-01-23T11:48:23.302265",
       "url": "https://www.johnlewis.com/french-connection-rallie-stripe-fitted-t-shirt-white-black/p113320119"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Brora Cross Stitch Embroidered Shirt",
-      "percentage": 40.0,
-      "old_price": "125.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/brora-cross-stitch-embroidered-shirt/p114492589"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Cashmere Sleeveless Knit Vest",
-      "percentage": 40.0,
-      "old_price": "69.00",
-      "new_price": "41.40",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/john-lewis-cashmere-sleeveless-knit-vest/p113835631"
     }
   ]
 }

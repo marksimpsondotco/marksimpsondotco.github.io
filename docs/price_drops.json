@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-23T15:08:30.447437",
-  "total_drops": 1996,
+  "generated_at": "2026-01-23T15:13:43.866321",
+  "total_drops": 1999,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 822,
+      "count": 823,
       "max_drop": 78.6,
-      "total_savings": 21601.89
+      "total_savings": 21616.89
     },
     {
       "site": "leaderonline_com",
@@ -53,9 +53,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 67,
+      "count": 69,
       "max_drop": 39.7,
-      "total_savings": 1367.99
+      "total_savings": 1387.99
     },
     {
       "site": "hamleys_com",
@@ -800,7 +800,7 @@
       "percentage": 50.0,
       "old_price": "125.00",
       "new_price": "62.50",
-      "timestamp": "2026-01-23T15:08:23.617965",
+      "timestamp": "2026-01-23T15:13:35.804197",
       "url": "https://www.johnlewis.com/nrby-elodie-quilted-jacket-blue/p114239761"
     },
     {
@@ -809,7 +809,7 @@
       "percentage": 50.0,
       "old_price": "39.00",
       "new_price": "19.50",
-      "timestamp": "2026-01-23T15:08:23.617965",
+      "timestamp": "2026-01-23T15:13:35.804197",
       "url": "https://www.johnlewis.com/john-lewis-v-neck-merino-wool-sleeveless-jumper/p113744926"
     },
     {

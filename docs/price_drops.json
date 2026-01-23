@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T12:14:29.199513",
-  "total_drops": 1242,
+  "generated_at": "2026-01-23T12:19:44.870348",
+  "total_drops": 1245,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -40,6 +40,12 @@
       "total_savings": 361.06
     },
     {
+      "site": "ukbabycentre_com",
+      "count": 13,
+      "max_drop": 39.1,
+      "total_savings": 1839.01
+    },
+    {
       "site": "flannels_com",
       "count": 55,
       "max_drop": 33.8,
@@ -70,12 +76,6 @@
       "total_savings": 12.59
     },
     {
-      "site": "ukbabycentre_com",
-      "count": 12,
-      "max_drop": 27.5,
-      "total_savings": 1704.0
-    },
-    {
       "site": "saltrock_com",
       "count": 1,
       "max_drop": 27.3,
@@ -86,6 +86,12 @@
       "count": 1,
       "max_drop": 25.9,
       "total_savings": 35.0
+    },
+    {
+      "site": "pureelectric_com",
+      "count": 2,
+      "max_drop": 25.1,
+      "total_savings": 80.0
     },
     {
       "site": "chelseababy_com",
@@ -143,7 +149,7 @@
       "percentage": 70.0,
       "old_price": "125.00",
       "new_price": "37.50",
-      "timestamp": "2026-01-23T12:14:17.235713",
+      "timestamp": "2026-01-23T12:19:30.655636",
       "url": "https://www.johnlewis.com/john-lewis-portland-leather-zip-front-flatform-ankle-boots/p114401574"
     },
     {
@@ -152,7 +158,7 @@
       "percentage": 70.0,
       "old_price": "90.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-23T12:14:17.235713",
+      "timestamp": "2026-01-23T12:19:30.655636",
       "url": "https://www.johnlewis.com/gola-classics-womens-viper-metallic-leather-trainers-silver-off-white-gum/p113769158"
     },
     {
@@ -431,7 +437,7 @@
       "percentage": 53.3,
       "old_price": "7.50",
       "new_price": "3.50",
-      "timestamp": "2026-01-23T12:13:42.833516",
+      "timestamp": "2026-01-23T12:18:44.071412",
       "url": "https://www.pigletinbed.com/products/blueberry-plain-organic-cotton-towel"
     },
     {
@@ -485,7 +491,7 @@
       "percentage": 50.0,
       "old_price": "17.00",
       "new_price": "8.50",
-      "timestamp": "2026-01-23T12:14:17.235713",
+      "timestamp": "2026-01-23T12:19:30.655636",
       "url": "https://www.johnlewis.com/chantelle-soft-stretch-high-waist-knickers/p4203133"
     },
     {
@@ -494,7 +500,7 @@
       "percentage": 50.0,
       "old_price": "18.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-23T12:14:17.235713",
+      "timestamp": "2026-01-23T12:19:30.655636",
       "url": "https://www.johnlewis.com/kin-logo-regular-fit-short-sleeve-cotton-t-shirt/p110773536"
     },
     {
@@ -782,7 +788,7 @@
       "percentage": 46.2,
       "old_price": "119.00",
       "new_price": "64.00",
-      "timestamp": "2026-01-23T12:13:42.833516",
+      "timestamp": "2026-01-23T12:18:44.071412",
       "url": "https://www.pigletinbed.com/products/cedar-green-knitted-throw"
     },
     {
@@ -908,7 +914,7 @@
       "percentage": 41.7,
       "old_price": "36.00",
       "new_price": "21.00",
-      "timestamp": "2026-01-23T12:14:17.235713",
+      "timestamp": "2026-01-23T12:19:30.655636",
       "url": "https://www.johnlewis.com/triumph-amourette-spotlight-padded-underwired-t-shirt-bra/p6257704"
     },
     {
@@ -962,7 +968,7 @@
       "percentage": 40.4,
       "old_price": "109.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-23T12:14:17.235713",
+      "timestamp": "2026-01-23T12:19:30.655636",
       "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
     },
     {

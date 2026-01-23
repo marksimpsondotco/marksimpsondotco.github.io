@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T22:32:54.229860",
-  "total_drops": 2079,
+  "generated_at": "2026-01-23T22:38:09.783385",
+  "total_drops": 2086,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -34,6 +34,12 @@
       "total_savings": 240.0
     },
     {
+      "site": "hamleys_com",
+      "count": 13,
+      "max_drop": 50.0,
+      "total_savings": 73.07
+    },
+    {
       "site": "dusk_com",
       "count": 23,
       "max_drop": 50.0,
@@ -56,12 +62,6 @@
       "count": 121,
       "max_drop": 40.0,
       "total_savings": 361.06
-    },
-    {
-      "site": "hamleys_com",
-      "count": 6,
-      "max_drop": 33.3,
-      "total_savings": 11.67
     },
     {
       "site": "condorcycles_com",
@@ -547,6 +547,42 @@
       "new_price": "49.00",
       "timestamp": "2026-01-22T09:24:44.016310",
       "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
+    },
+    {
+      "site": "hamleys_com",
+      "product": "Unknown Product",
+      "percentage": 50.0,
+      "old_price": "16.00",
+      "new_price": "8.00",
+      "timestamp": "2026-01-23T22:37:40.489491",
+      "url": null
+    },
+    {
+      "site": "hamleys_com",
+      "product": "Hamleys® Fox Soft Toy",
+      "percentage": 50.0,
+      "old_price": "30.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-23T22:37:40.489491",
+      "url": "https://www.hamleys.com/hamleys-fox-soft-toy"
+    },
+    {
+      "site": "hamleys_com",
+      "product": "Hamleys® Mirka Meerkat Soft Toy",
+      "percentage": 50.0,
+      "old_price": "18.00",
+      "new_price": "9.00",
+      "timestamp": "2026-01-23T22:37:40.489491",
+      "url": "https://www.hamleys.com/hamleys-mirka-meerkat-soft-toy"
+    },
+    {
+      "site": "hamleys_com",
+      "product": "Pringles Mini 50 Pc Puzzles - Sour Cream & Onion",
+      "percentage": 50.0,
+      "old_price": "24.00",
+      "new_price": "12.00",
+      "timestamp": "2026-01-23T22:37:40.489491",
+      "url": "https://www.hamleys.com/pringles-mini-50-pc-puzzles-sour-cream-and-onion"
     },
     {
       "site": "johnlewis_com",
@@ -1042,42 +1078,6 @@
       "new_price": "22.50",
       "timestamp": "2026-01-23T13:49:30.853732",
       "url": "https://www.mamasandpapas.com/products/memory-foam-liner-2636af000"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Airo Newborn Carrycot Pack - Black",
-      "percentage": 50.0,
-      "old_price": "149.00",
-      "new_price": "74.50",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/airo-newborn-pack-black-960025300"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Antigua Soft Fine Ribbed Towel Collection - Fern",
-      "percentage": 50.0,
-      "old_price": "10.00",
-      "new_price": "5.00",
-      "timestamp": "2026-01-22T09:24:42.123298",
-      "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
-    },
-    {
-      "site": "flannels_com",
-      "product": "FENDI - Flow Sneakers",
-      "percentage": 49.5,
-      "old_price": "770.00",
-      "new_price": "389.00",
-      "timestamp": "2026-01-23T22:32:49.233859",
-      "url": "https://www.flannels.com/fendi-flow-sneakers-124863"
-    },
-    {
-      "site": "flannels_com",
-      "product": "CHLOE - Women's Paddington Platform Heeled Sandals",
-      "percentage": 49.5,
-      "old_price": "870.00",
-      "new_price": "439.00",
-      "timestamp": "2026-01-23T18:28:15.653137",
-      "url": "https://www.flannels.com/chloe-womens-paddington-platform-heeled-sandals-230282"
     }
   ]
 }

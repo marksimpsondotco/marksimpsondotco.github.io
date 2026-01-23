@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T14:31:32.828003",
-  "total_drops": 1853,
+  "generated_at": "2026-01-23T14:36:45.365834",
+  "total_drops": 1857,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -53,9 +53,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 62,
+      "count": 65,
       "max_drop": 39.7,
-      "total_savings": 1316.99
+      "total_savings": 1331.99
     },
     {
       "site": "hamleys_com",
@@ -71,9 +71,9 @@
     },
     {
       "site": "berrysjewellers_co_uk",
-      "count": 29,
+      "count": 30,
       "max_drop": 30.0,
-      "total_savings": 34388.5
+      "total_savings": 34758.5
     },
     {
       "site": "boden_com",

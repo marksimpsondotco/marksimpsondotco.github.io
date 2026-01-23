@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T22:01:03.109001",
-  "total_drops": 2078,
+  "generated_at": "2026-01-23T22:06:20.099032",
+  "total_drops": 2079,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -41,9 +41,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 97,
+      "count": 98,
       "max_drop": 49.5,
-      "total_savings": 3857.99
+      "total_savings": 3871.99
     },
     {
       "site": "ukbabycentre_com",
@@ -1067,7 +1067,7 @@
       "percentage": 49.5,
       "old_price": "770.00",
       "new_price": "389.00",
-      "timestamp": "2026-01-23T22:00:54.496162",
+      "timestamp": "2026-01-23T22:06:13.900185",
       "url": "https://www.flannels.com/fendi-flow-sneakers-124863"
     },
     {

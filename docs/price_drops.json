@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T13:17:53.517176",
-  "total_drops": 1475,
+  "generated_at": "2026-01-23T13:23:09.331485",
+  "total_drops": 1529,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "mamasandpapas_com",
-      "count": 103,
+      "count": 153,
       "max_drop": 50.0,
-      "total_savings": 763.25
+      "total_savings": 5061.45
     },
     {
       "site": "dusk_com",
@@ -77,9 +77,9 @@
     },
     {
       "site": "boden_com",
-      "count": 20,
+      "count": 21,
       "max_drop": 28.6,
-      "total_savings": 133.0
+      "total_savings": 136.75
     },
     {
       "site": "bugaboo_com",
@@ -119,9 +119,9 @@
     },
     {
       "site": "houseofisabella_co_uk",
-      "count": 12,
+      "count": 15,
       "max_drop": 20.0,
-      "total_savings": 737.12
+      "total_savings": 830.39
     },
     {
       "site": "baby-nest_co_uk",
@@ -779,7 +779,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:17:45.794372",
+      "timestamp": "2026-01-23T13:22:56.063802",
       "url": "https://www.mamasandpapas.com/products/floral-quilted-pramsuit-nb-s07gk4rb0"
     },
     {
@@ -788,7 +788,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:17:45.794372",
+      "timestamp": "2026-01-23T13:22:56.063802",
       "url": "https://www.mamasandpapas.com/products/borg-cord-pramsuit-nb-s07gk3hb0"
     },
     {
@@ -797,7 +797,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:17:45.794372",
+      "timestamp": "2026-01-23T13:22:56.063802",
       "url": "https://www.mamasandpapas.com/products/blue-corduroy-pramsuit-nb-s07gk4bb0"
     },
     {
@@ -806,7 +806,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:17:45.794372",
+      "timestamp": "2026-01-23T13:22:56.063802",
       "url": "https://www.mamasandpapas.com/products/borg-pramsuit-nb-s07gl5tb0"
     },
     {
@@ -815,7 +815,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-23T13:17:45.794372",
+      "timestamp": "2026-01-23T13:22:56.063802",
       "url": "https://www.mamasandpapas.com/products/faux-fur-pramsuit-nb-s07ga8hb0"
     },
     {
@@ -824,7 +824,7 @@
       "percentage": 50.0,
       "old_price": "32.00",
       "new_price": "16.00",
-      "timestamp": "2026-01-23T13:17:45.794372",
+      "timestamp": "2026-01-23T13:22:56.063802",
       "url": "https://www.mamasandpapas.com/products/borg-jacket-nb-s07fl2db0"
     },
     {
@@ -833,7 +833,7 @@
       "percentage": 50.0,
       "old_price": "30.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-23T13:17:45.794372",
+      "timestamp": "2026-01-23T13:22:56.063802",
       "url": "https://www.mamasandpapas.com/products/borg-jacket-nb-s07fk3jb0"
     },
     {
@@ -842,7 +842,7 @@
       "percentage": 50.0,
       "old_price": "15.00",
       "new_price": "7.50",
-      "timestamp": "2026-01-23T13:17:45.794372",
+      "timestamp": "2026-01-23T13:22:56.063802",
       "url": "https://www.mamasandpapas.com/products/knit-pom-pom-hat-nb-s83zn1ab0"
     },
     {
@@ -851,7 +851,7 @@
       "percentage": 50.0,
       "old_price": "15.00",
       "new_price": "7.50",
-      "timestamp": "2026-01-23T13:17:45.794372",
+      "timestamp": "2026-01-23T13:22:56.063802",
       "url": "https://www.mamasandpapas.com/products/knit-pom-pom-hat-nb-s83zl1ab0"
     },
     {
@@ -860,8 +860,53 @@
       "percentage": 50.0,
       "old_price": "18.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-23T13:17:45.794372",
+      "timestamp": "2026-01-23T13:22:56.063802",
       "url": "https://www.mamasandpapas.com/products/borg-hat-mitts-nb-s432l5sb0"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Dreampod 0-6 Months (2.5 Tog) - White",
+      "percentage": 50.0,
+      "old_price": "35.00",
+      "new_price": "17.50",
+      "timestamp": "2026-01-23T13:22:56.063802",
+      "url": "https://www.mamasandpapas.com/products/25-tog-dreampod-sleep-bag-0-6-months-white-7340ww201"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Dreampod 6-18 Months (2.5 Tog) - Wildly Adventures",
+      "percentage": 50.0,
+      "old_price": "35.00",
+      "new_price": "17.50",
+      "timestamp": "2026-01-23T13:22:56.063802",
+      "url": "https://www.mamasandpapas.com/products/dreampod-6-18-2-5-tog-wildly-adventures-734320c01"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Dreampod 0-6 Months (2.5 Tog) - Wildly Adventures",
+      "percentage": 50.0,
+      "old_price": "35.00",
+      "new_price": "17.50",
+      "timestamp": "2026-01-23T13:22:56.063802",
+      "url": "https://www.mamasandpapas.com/products/dreampod-0-6-2-5-tog-wildly-adventures-733820c01"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Moses Basket - Dream Upon A Cloud",
+      "percentage": 50.0,
+      "old_price": "89.00",
+      "new_price": "44.50",
+      "timestamp": "2026-01-23T13:22:56.063802",
+      "url": "https://www.mamasandpapas.com/products/dream-upon-a-cloud-moses-basket-grey-white-7700t8301"
+    },
+    {
+      "site": "mamasandpapas_com",
+      "product": "Little Green Sheep Natural Knitted Moses Basket & Mattress - Dove",
+      "percentage": 50.0,
+      "old_price": "120.00",
+      "new_price": "60.00",
+      "timestamp": "2026-01-23T13:22:56.063802",
+      "url": "https://www.mamasandpapas.com/products/lgs-moses-basket-dove-ds-2641r5901"
     },
     {
       "site": "dusk_com",
@@ -905,7 +950,7 @@
       "percentage": 47.7,
       "old_price": "1720.00",
       "new_price": "899.00",
-      "timestamp": "2026-01-23T13:17:46.736249",
+      "timestamp": "2026-01-23T13:23:02.065664",
       "url": "https://ukbabycentre.com/products/mamas-and-papas-flynn-3pc-range-white"
     },
     {
@@ -1015,51 +1060,6 @@
       "new_price": "39.00",
       "timestamp": "2026-01-22T09:24:44.016310",
       "url": "https://fenwick.co.uk/products/gold-symmetry-court-vinyl-80-2413561979"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Boucle Pair Blackout/Thermal Lined Eyelet Curtains",
-      "percentage": 42.9,
-      "old_price": "70.00",
-      "new_price": "40.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/john-lewis-boucle-pair-blackout-thermal-lined-eyelet-curtains/p112549453"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Asymmetric Chain Strap Clutch Bag, Deep Red",
-      "percentage": 42.9,
-      "old_price": "31.50",
-      "new_price": "18.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/john-lewis-asymmetric-chain-strap-clutch-bag-deep-red/p113904781"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Metallic Leather Passport Holder, Silver Croc",
-      "percentage": 42.9,
-      "old_price": "17.50",
-      "new_price": "10.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/john-lewis-metallic-leather-passport-holder-silver-croc/p113908516"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "French Connection Marina Sleeveless Mini Swing Dress",
-      "percentage": 42.2,
-      "old_price": "45.00",
-      "new_price": "26.00",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/french-connection-marina-sleeveless-mini-swing-dress/p113950590"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Triumph Amourette Spotlight Padded Underwired T-Shirt Bra",
-      "percentage": 41.7,
-      "old_price": "36.00",
-      "new_price": "21.00",
-      "timestamp": "2026-01-23T12:33:54.918206",
-      "url": "https://www.johnlewis.com/triumph-amourette-spotlight-padded-underwired-t-shirt-bra/p6257704"
     }
   ]
 }

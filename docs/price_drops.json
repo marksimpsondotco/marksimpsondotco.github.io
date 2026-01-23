@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T15:13:43.866321",
-  "total_drops": 1999,
+  "generated_at": "2026-01-23T15:18:57.866790",
+  "total_drops": 2000,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -164,6 +164,12 @@
       "count": 35,
       "max_drop": 1.6,
       "total_savings": 159.0
+    },
+    {
+      "site": "khaite_com",
+      "count": 1,
+      "max_drop": 0.8,
+      "total_savings": 5.0
     },
     {
       "site": "apcstore_co_uk",
@@ -800,7 +806,7 @@
       "percentage": 50.0,
       "old_price": "125.00",
       "new_price": "62.50",
-      "timestamp": "2026-01-23T15:13:35.804197",
+      "timestamp": "2026-01-23T15:18:51.795189",
       "url": "https://www.johnlewis.com/nrby-elodie-quilted-jacket-blue/p114239761"
     },
     {
@@ -809,7 +815,7 @@
       "percentage": 50.0,
       "old_price": "39.00",
       "new_price": "19.50",
-      "timestamp": "2026-01-23T15:13:35.804197",
+      "timestamp": "2026-01-23T15:18:51.795189",
       "url": "https://www.johnlewis.com/john-lewis-v-neck-merino-wool-sleeveless-jumper/p113744926"
     },
     {

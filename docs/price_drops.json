@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T18:18:32.913748",
-  "total_drops": 2022,
+  "generated_at": "2026-01-23T18:23:47.244225",
+  "total_drops": 2027,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -40,16 +40,16 @@
       "total_savings": 59.0
     },
     {
+      "site": "flannels_com",
+      "count": 90,
+      "max_drop": 49.5,
+      "total_savings": 3271.99
+    },
+    {
       "site": "ukbabycentre_com",
       "count": 40,
       "max_drop": 47.7,
       "total_savings": 4007.87
-    },
-    {
-      "site": "flannels_com",
-      "count": 85,
-      "max_drop": 40.7,
-      "total_savings": 2559.99
     },
     {
       "site": "smallsmart_co_uk",
@@ -1062,6 +1062,15 @@
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
+      "site": "flannels_com",
+      "product": "CHLOE - Women's Paddington Platform Heeled Sandals",
+      "percentage": 49.5,
+      "old_price": "870.00",
+      "new_price": "439.00",
+      "timestamp": "2026-01-23T18:23:33.643570",
+      "url": "https://www.flannels.com/chloe-womens-paddington-platform-heeled-sandals-230282"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Le Creuset Stoneware Coffee Press, 1L",
       "percentage": 49.3,
@@ -1069,15 +1078,6 @@
       "new_price": "34.50",
       "timestamp": "2026-01-23T11:48:23.302265",
       "url": "https://www.johnlewis.com/le-creuset-stoneware-coffee-press-1l/p4845115"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "White Stuff Priscilla Leather Court Shoes, Bronze",
-      "percentage": 49.2,
-      "old_price": "63.00",
-      "new_price": "32.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/white-stuff-priscilla-leather-court-shoes-bronze/p113863040"
     }
   ]
 }

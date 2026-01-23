@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T12:56:35.978533",
-  "total_drops": 1327,
+  "generated_at": "2026-01-23T13:01:51.120822",
+  "total_drops": 1336,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "ukbabycentre_com",
-      "count": 22,
+      "count": 28,
       "max_drop": 47.7,
-      "total_savings": 2924.41
+      "total_savings": 3758.37
     },
     {
       "site": "smallsmart_co_uk",
@@ -107,15 +107,15 @@
     },
     {
       "site": "houseofisabella_co_uk",
-      "count": 2,
+      "count": 3,
       "max_drop": 17.1,
-      "total_savings": 34.38
+      "total_savings": 56.92
     },
     {
       "site": "baby-nest_co_uk",
-      "count": 21,
+      "count": 23,
       "max_drop": 16.9,
-      "total_savings": 418.4
+      "total_savings": 422.4
     },
     {
       "site": "scandiborn_co_uk",
@@ -809,7 +809,7 @@
       "percentage": 47.7,
       "old_price": "1720.00",
       "new_price": "899.00",
-      "timestamp": "2026-01-23T12:56:23.073895",
+      "timestamp": "2026-01-23T13:01:45.826175",
       "url": "https://ukbabycentre.com/products/mamas-and-papas-flynn-3pc-range-white"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T20:20:28.104606",
-  "total_drops": 2075,
+  "generated_at": "2026-01-23T20:25:43.589294",
+  "total_drops": 2077,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -41,9 +41,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 94,
+      "count": 96,
       "max_drop": 49.5,
-      "total_savings": 3362.99
+      "total_savings": 3476.99
     },
     {
       "site": "ukbabycentre_com",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T10:50:11.232744",
-  "total_drops": 1078,
+  "generated_at": "2026-01-23T10:50:21.318196",
+  "total_drops": 1080,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,15 +47,15 @@
     },
     {
       "site": "condorcycles_com",
-      "count": 11,
+      "count": 12,
       "max_drop": 33.3,
-      "total_savings": 485.0
+      "total_savings": 505.0
     },
     {
       "site": "berrysjewellers_co_uk",
-      "count": 25,
+      "count": 26,
       "max_drop": 30.0,
-      "total_savings": 33470.0
+      "total_savings": 33471.0
     },
     {
       "site": "bugaboo_com",
@@ -764,8 +764,17 @@
       "percentage": 33.3,
       "old_price": "134.99",
       "new_price": "89.99",
-      "timestamp": "2026-01-23T10:49:48.726736",
+      "timestamp": "2026-01-23T10:50:10.022194",
       "url": "https://www.condorcycles.com/products/brooks-b17-s-standard-women-s-saddle"
+    },
+    {
+      "site": "condorcycles_com",
+      "product": "Helping Rhinos Short Sleeve Jersey",
+      "percentage": 33.3,
+      "old_price": "59.99",
+      "new_price": "39.99",
+      "timestamp": "2026-01-23T10:50:10.022194",
+      "url": "https://www.condorcycles.com/products/helping-rhinos-short-sleeve-jersey"
     },
     {
       "site": "johnlewis_com",
@@ -971,17 +980,8 @@
       "percentage": 30.0,
       "old_price": "4250.00",
       "new_price": "2975.00",
-      "timestamp": "2026-01-23T10:49:51.688536",
+      "timestamp": "2026-01-23T10:50:09.043780",
       "url": "https://www.berrysjewellers.co.uk/products/tag-heuer-carrera-36mm-powder-pink-dial-watch-wbn231a-ba0001"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Zahra 2 in 1 Mini Dress Black",
-      "percentage": 30.0,
-      "old_price": "60.00",
-      "new_price": "42.00",
-      "timestamp": "2026-01-22T09:24:44.016310",
-      "url": "https://fenwick.co.uk/products/forever-new-black-zahra-2-in-1-mini-dress-jd4809"
     }
   ]
 }

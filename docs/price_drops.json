@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T21:55:48.533415",
-  "total_drops": 2077,
+  "generated_at": "2026-01-23T22:01:03.109001",
+  "total_drops": 2078,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -41,9 +41,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 96,
+      "count": 97,
       "max_drop": 49.5,
-      "total_savings": 3476.99
+      "total_savings": 3857.99
     },
     {
       "site": "ukbabycentre_com",
@@ -1063,21 +1063,21 @@
     },
     {
       "site": "flannels_com",
+      "product": "FENDI - Flow Sneakers",
+      "percentage": 49.5,
+      "old_price": "770.00",
+      "new_price": "389.00",
+      "timestamp": "2026-01-23T22:00:54.496162",
+      "url": "https://www.flannels.com/fendi-flow-sneakers-124863"
+    },
+    {
+      "site": "flannels_com",
       "product": "CHLOE - Women's Paddington Platform Heeled Sandals",
       "percentage": 49.5,
       "old_price": "870.00",
       "new_price": "439.00",
       "timestamp": "2026-01-23T18:28:15.653137",
       "url": "https://www.flannels.com/chloe-womens-paddington-platform-heeled-sandals-230282"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Le Creuset Stoneware Coffee Press, 1L",
-      "percentage": 49.3,
-      "old_price": "68.00",
-      "new_price": "34.50",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/le-creuset-stoneware-coffee-press-1l/p4845115"
     }
   ]
 }

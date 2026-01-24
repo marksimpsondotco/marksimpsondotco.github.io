@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T16:11:47.692043",
-  "total_drops": 7316,
+  "generated_at": "2026-01-24T16:17:25.170248",
+  "total_drops": 7317,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -77,9 +77,9 @@
     },
     {
       "site": "condorcycles_com",
-      "count": 15,
+      "count": 16,
       "max_drop": 33.3,
-      "total_savings": 591.0
+      "total_savings": 615.99
     },
     {
       "site": "berrysjewellers_co_uk",

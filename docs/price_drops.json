@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T18:57:12.848961",
-  "total_drops": 7331,
+  "generated_at": "2026-01-24T19:02:48.836200",
+  "total_drops": 7332,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -104,6 +104,12 @@
       "count": 9,
       "max_drop": 28.6,
       "total_savings": 160.5
+    },
+    {
+      "site": "trunkclothiers_com",
+      "count": 1,
+      "max_drop": 28.6,
+      "total_savings": 87.0
     },
     {
       "site": "bugaboo_com",

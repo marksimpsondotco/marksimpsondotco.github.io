@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T02:37:53.093095",
-  "total_drops": 5569,
+  "generated_at": "2026-01-24T02:43:23.398154",
+  "total_drops": 5586,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 2912,
+      "count": 2929,
       "max_drop": 70.1,
-      "total_savings": 273324.7
+      "total_savings": 274372.7
     },
     {
       "site": "leaderonline_com",
@@ -995,7 +995,7 @@
       "percentage": 50.1,
       "old_price": "680.00",
       "new_price": "339.00",
-      "timestamp": "2026-01-24T02:37:38.764652",
+      "timestamp": "2026-01-24T02:43:04.913292",
       "url": "https://www.flannels.com/valentino-garavani-womens-rockstud-untitled-leather-lace-up-low-top-trainers-234092"
     },
     {

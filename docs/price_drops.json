@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T07:56:41.453901",
-  "total_drops": 6268,
+  "generated_at": "2026-01-24T08:02:12.944277",
+  "total_drops": 6385,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3287,
+      "count": 3323,
       "max_drop": 70.1,
-      "total_savings": 307881.21
+      "total_savings": 309402.18
     },
     {
       "site": "leaderonline_com",
@@ -65,9 +65,9 @@
     },
     {
       "site": "currys_com",
-      "count": 216,
+      "count": 297,
       "max_drop": 45.0,
-      "total_savings": 11651.94
+      "total_savings": 17931.93
     },
     {
       "site": "smallsmart_co_uk",

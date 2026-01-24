@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-24T05:14:28.358635",
-  "total_drops": 5774,
+  "generated_at": "2026-01-24T05:19:59.057466",
+  "total_drops": 5792,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 1538,
+      "count": 1556,
       "max_drop": 78.6,
-      "total_savings": 31799.37
+      "total_savings": 32421.35
     },
     {
       "site": "flannels_com",
@@ -711,6 +711,15 @@
       "url": "https://www.johnlewis.com/john-lewis-spa-waffle-towels/p6272142"
     },
     {
+      "site": "johnlewis_com",
+      "product": "FRAME The Wide Jeans",
+      "percentage": 60.0,
+      "old_price": "270.00",
+      "new_price": "108.00",
+      "timestamp": "2026-01-24T05:19:34.438791",
+      "url": "https://www.johnlewis.com/frame-the-wide-jeans/p113293319"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Ebonee Shoes",
       "percentage": 60.0,
@@ -1069,15 +1078,6 @@
       "new_price": "339.00",
       "timestamp": "2026-01-24T03:08:59.229925",
       "url": "https://www.flannels.com/valentino-garavani-womens-rockstud-untitled-leather-lace-up-low-top-trainers-234092"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Prax 2.0 Trainers",
-      "percentage": 50.1,
-      "old_price": "780.00",
-      "new_price": "389.00",
-      "timestamp": "2026-01-24T03:08:59.229925",
-      "url": "https://www.flannels.com/prada-womens-prax-2-0-lace-up-low-top-trainers-275124"
     }
   ]
 }

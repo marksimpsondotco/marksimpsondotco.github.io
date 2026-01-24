@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T09:10:21.120692",
-  "total_drops": 6851,
+  "generated_at": "2026-01-24T09:15:55.297201",
+  "total_drops": 6866,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "site": "currys_com",
-      "count": 561,
+      "count": 567,
       "max_drop": 49.1,
-      "total_savings": 27944.68
+      "total_savings": 27962.68
     },
     {
       "site": "ukbabycentre_com",
@@ -89,9 +89,9 @@
     },
     {
       "site": "boden_com",
-      "count": 27,
+      "count": 36,
       "max_drop": 28.6,
-      "total_savings": 175.25
+      "total_savings": 197.6
     },
     {
       "site": "bugaboo_com",
@@ -230,7 +230,7 @@
       "percentage": 79.9,
       "old_price": "890.00",
       "new_price": "179.00",
-      "timestamp": "2026-01-24T09:09:59.541580",
+      "timestamp": "2026-01-24T09:15:40.872121",
       "url": "https://www.flannels.com/bottega-veneta-atomic-boot-432424"
     },
     {
@@ -239,7 +239,7 @@
       "percentage": 79.4,
       "old_price": "378.00",
       "new_price": "78.00",
-      "timestamp": "2026-01-24T09:09:59.541580",
+      "timestamp": "2026-01-24T09:15:40.872121",
       "url": "https://www.flannels.com/bottega-veneta-mens-scarf-907004"
     },
     {
@@ -491,7 +491,7 @@
       "percentage": 69.9,
       "old_price": "860.00",
       "new_price": "259.00",
-      "timestamp": "2026-01-24T09:09:59.541580",
+      "timestamp": "2026-01-24T09:15:40.872121",
       "url": "https://www.flannels.com/bottega-veneta-womens-sofia-pointed-toe-leather-stiletto-court-shoes-231164"
     },
     {
@@ -545,7 +545,7 @@
       "percentage": 69.8,
       "old_price": "925.00",
       "new_price": "279.00",
-      "timestamp": "2026-01-24T09:09:59.541580",
+      "timestamp": "2026-01-24T09:15:40.872121",
       "url": "https://www.flannels.com/chloe-womens-leonie-leather-stiletto-court-shoes-243846"
     },
     {
@@ -626,7 +626,7 @@
       "percentage": 69.7,
       "old_price": "525.00",
       "new_price": "159.00",
-      "timestamp": "2026-01-24T09:09:59.541580",
+      "timestamp": "2026-01-24T09:15:40.872121",
       "url": "https://www.flannels.com/chloe-womens-pary-leather-slip-on-espadrilles-230399"
     },
     {
@@ -653,7 +653,7 @@
       "percentage": 69.6,
       "old_price": "805.00",
       "new_price": "245.00",
-      "timestamp": "2026-01-24T09:09:59.541580",
+      "timestamp": "2026-01-24T09:15:40.872121",
       "url": "https://www.flannels.com/moncler-gaia-snow-boots-232716"
     },
     {

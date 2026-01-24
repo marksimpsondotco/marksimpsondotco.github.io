@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T08:24:54.993887",
-  "total_drops": 6578,
+  "generated_at": "2026-01-24T08:30:27.289076",
+  "total_drops": 6580,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -10,16 +10,16 @@
       "total_savings": 7912.3
     },
     {
+      "site": "flannels_com",
+      "count": 3396,
+      "max_drop": 79.4,
+      "total_savings": 316879.17
+    },
+    {
       "site": "johnlewis_com",
       "count": 1603,
       "max_drop": 78.6,
       "total_savings": 33765.47
-    },
-    {
-      "site": "flannels_com",
-      "count": 3394,
-      "max_drop": 70.1,
-      "total_savings": 316258.17
     },
     {
       "site": "leaderonline_com",
@@ -223,6 +223,15 @@
       "new_price": "0.22",
       "timestamp": "2026-01-24T06:56:27.639663",
       "url": "https://callidus.shop/products/standard-blade-fuse-30a-32v"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Men's Scarf",
+      "percentage": 79.4,
+      "old_price": "378.00",
+      "new_price": "78.00",
+      "timestamp": "2026-01-24T08:30:12.803151",
+      "url": "https://www.flannels.com/bottega-veneta-mens-scarf-907004"
     },
     {
       "site": "johnlewis_com",
@@ -1087,15 +1096,6 @@
       "new_price": "229.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/saint-laurent-mens-grand-carre-monogram-frayed-edge-midweight-scarf-908121"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Re-Nylon And Leather Wallet",
-      "percentage": 50.2,
-      "old_price": "500.00",
-      "new_price": "249.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-re-nylon-and-leather-wallet-704963"
     }
   ]
 }

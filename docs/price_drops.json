@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T05:47:53.318206",
-  "total_drops": 5800,
+  "generated_at": "2026-01-24T05:53:24.120400",
+  "total_drops": 5844,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3079,
+      "count": 3123,
       "max_drop": 70.1,
-      "total_savings": 290315.21
+      "total_savings": 294032.21
     },
     {
       "site": "leaderonline_com",
@@ -716,7 +716,7 @@
       "percentage": 60.0,
       "old_price": "270.00",
       "new_price": "108.00",
-      "timestamp": "2026-01-24T05:47:28.748497",
+      "timestamp": "2026-01-24T05:50:18.221030",
       "url": "https://www.johnlewis.com/frame-the-wide-jeans/p113293319"
     },
     {
@@ -964,6 +964,24 @@
     },
     {
       "site": "flannels_com",
+      "product": "MONCLER - Puffer Jacket Juniors",
+      "percentage": 50.2,
+      "old_price": "520.00",
+      "new_price": "259.00",
+      "timestamp": "2026-01-24T05:53:14.240386",
+      "url": "https://www.flannels.com/moncler-kids-junior-long-sleeve-down-filled-cardigan-297696"
+    },
+    {
+      "site": "flannels_com",
+      "product": "MONCLER - Kids' Nathaniel Water-Repellent Hooded Long Sleeve Parka",
+      "percentage": 50.2,
+      "old_price": "460.00",
+      "new_price": "229.00",
+      "timestamp": "2026-01-24T05:53:14.240386",
+      "url": "https://www.flannels.com/moncler-kids-nathaniel-water-repellent-hooded-parka-605028"
+    },
+    {
+      "site": "flannels_com",
       "product": "MONCLER - Monaco Scarpa Trainers",
       "percentage": 50.2,
       "old_price": "400.00",
@@ -1060,24 +1078,6 @@
       "new_price": "229.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/saint-laurent-saint-print-scarf-ld53-900497"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Women's Jacquard Midweight Scarf",
-      "percentage": 50.2,
-      "old_price": "520.00",
-      "new_price": "259.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-womens-jacquard-midweight-scarf-903757"
-    },
-    {
-      "site": "flannels_com",
-      "product": "VALENTINO GARAVANI - Rockstud Untitled Trainers",
-      "percentage": 50.1,
-      "old_price": "680.00",
-      "new_price": "339.00",
-      "timestamp": "2026-01-24T03:08:59.229925",
-      "url": "https://www.flannels.com/valentino-garavani-womens-rockstud-untitled-leather-lace-up-low-top-trainers-234092"
     }
   ]
 }

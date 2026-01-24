@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T21:38:02.162419",
-  "total_drops": 7490,
+  "generated_at": "2026-01-24T21:43:39.124127",
+  "total_drops": 7492,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -92,6 +92,12 @@
       "count": 33,
       "max_drop": 30.0,
       "total_savings": 36058.5
+    },
+    {
+      "site": "radley_co_uk",
+      "count": 2,
+      "max_drop": 28.6,
+      "total_savings": 6.5
     },
     {
       "site": "boden_com",

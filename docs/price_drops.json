@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-24T05:19:59.057466",
-  "total_drops": 5792,
+  "generated_at": "2026-01-24T05:25:29.522426",
+  "total_drops": 5797,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 1556,
+      "count": 1561,
       "max_drop": 78.6,
-      "total_savings": 32421.35
+      "total_savings": 32527.37
     },
     {
       "site": "flannels_com",
@@ -716,7 +716,7 @@
       "percentage": 60.0,
       "old_price": "270.00",
       "new_price": "108.00",
-      "timestamp": "2026-01-24T05:19:34.438791",
+      "timestamp": "2026-01-24T05:25:04.767136",
       "url": "https://www.johnlewis.com/frame-the-wide-jeans/p113293319"
     },
     {

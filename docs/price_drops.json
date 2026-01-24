@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T11:38:14.285398",
-  "total_drops": 7250,
+  "generated_at": "2026-01-24T11:43:48.036810",
+  "total_drops": 7251,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 1637,
+      "count": 1638,
       "max_drop": 78.6,
-      "total_savings": 34265.04
+      "total_savings": 34302.51
     },
     {
       "site": "leaderonline_com",
@@ -731,7 +731,7 @@
       "percentage": 70.0,
       "old_price": "250.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-24T11:37:44.423996",
+      "timestamp": "2026-01-24T11:43:19.171393",
       "url": "https://www.johnlewis.com/john-lewis-kastrup-rug/p5136378"
     },
     {
@@ -740,7 +740,7 @@
       "percentage": 70.0,
       "old_price": "12.00",
       "new_price": "3.60",
-      "timestamp": "2026-01-24T11:37:44.423996",
+      "timestamp": "2026-01-24T11:43:19.171393",
       "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-egyptian-cotton-percale-200-thread-count-bedding/p5417600"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T09:38:50.186923",
-  "total_drops": 6908,
+  "generated_at": "2026-01-24T09:44:22.911099",
+  "total_drops": 6931,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "currys_com",
-      "count": 602,
+      "count": 624,
       "max_drop": 60.5,
-      "total_savings": 30199.33
+      "total_savings": 31073.34
     },
     {
       "site": "fenwick_co_uk",
@@ -89,9 +89,9 @@
     },
     {
       "site": "boden_com",
-      "count": 41,
+      "count": 42,
       "max_drop": 28.6,
-      "total_savings": 226.2
+      "total_savings": 229.2
     },
     {
       "site": "bugaboo_com",
@@ -230,7 +230,7 @@
       "percentage": 80.1,
       "old_price": "798.00",
       "new_price": "159.00",
-      "timestamp": "2026-01-24T09:38:30.812153",
+      "timestamp": "2026-01-24T09:44:01.136362",
       "url": "https://www.flannels.com/bottega-veneta-mens-tailored-fit-shorts-550433"
     },
     {
@@ -248,7 +248,7 @@
       "percentage": 79.8,
       "old_price": "966.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-24T09:38:30.812153",
+      "timestamp": "2026-01-24T09:44:01.136362",
       "url": "https://www.flannels.com/bottega-veneta-mens-patterned-long-sleeve-shirt-550432"
     },
     {
@@ -815,7 +815,7 @@
       "percentage": 60.5,
       "old_price": "2.99",
       "new_price": "1.18",
-      "timestamp": "2026-01-24T09:38:39.457300",
+      "timestamp": "2026-01-24T09:44:13.177484",
       "url": "https://www.currys.co.uk/products/10287310.html"
     },
     {
@@ -824,7 +824,7 @@
       "percentage": 60.2,
       "old_price": "2.99",
       "new_price": "1.19",
-      "timestamp": "2026-01-24T09:38:39.457300",
+      "timestamp": "2026-01-24T09:44:13.177484",
       "url": "https://www.currys.co.uk/products/10287309.html"
     },
     {
@@ -1004,7 +1004,7 @@
       "percentage": 53.3,
       "old_price": "149.99",
       "new_price": "69.99",
-      "timestamp": "2026-01-24T09:38:39.457300",
+      "timestamp": "2026-01-24T09:44:13.177484",
       "url": "https://www.currys.co.uk/products/10267980.html"
     },
     {

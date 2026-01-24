@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T02:48:56.268325",
-  "total_drops": 5627,
+  "generated_at": "2026-01-24T02:54:29.680217",
+  "total_drops": 5646,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 2970,
+      "count": 2989,
       "max_drop": 70.1,
-      "total_savings": 285964.23
+      "total_savings": 287494.23
     },
     {
       "site": "leaderonline_com",
@@ -203,7 +203,7 @@
       "percentage": 70.1,
       "old_price": "865.02",
       "new_price": "259.00",
-      "timestamp": "2026-01-24T02:48:35.262261",
+      "timestamp": "2026-01-24T02:54:16.516295",
       "url": "https://www.flannels.com/saint-laurent-womens-orhand-open-toe-leather-platform-heels-243731"
     },
     {
@@ -311,7 +311,7 @@
       "percentage": 70.0,
       "old_price": "830.00",
       "new_price": "249.00",
-      "timestamp": "2026-01-24T02:48:35.262261",
+      "timestamp": "2026-01-24T02:54:16.516295",
       "url": "https://www.flannels.com/chloe-womens-andrea-calfskin-slingback-pumps-243845"
     },
     {
@@ -320,7 +320,7 @@
       "percentage": 70.0,
       "old_price": "630.00",
       "new_price": "189.00",
-      "timestamp": "2026-01-24T02:48:35.262261",
+      "timestamp": "2026-01-24T02:54:16.516295",
       "url": "https://www.flannels.com/chloe-womens-kick-leather-high-top-trainers-277475"
     },
     {
@@ -329,7 +329,7 @@
       "percentage": 70.0,
       "old_price": "550.00",
       "new_price": "165.00",
-      "timestamp": "2026-01-24T02:48:35.262261",
+      "timestamp": "2026-01-24T02:54:16.516295",
       "url": "https://www.flannels.com/balmain-womens-b-runner-leather-lace-up-chunky-trainers-275955"
     },
     {
@@ -410,7 +410,7 @@
       "percentage": 69.9,
       "old_price": "495.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-24T02:48:35.262261",
+      "timestamp": "2026-01-24T02:54:16.516295",
       "url": "https://www.flannels.com/dolce-and-gabbana-womens-portofino-leather-pearl-embellished-low-top-trainers-234151"
     },
     {
@@ -419,7 +419,7 @@
       "percentage": 69.9,
       "old_price": "695.00",
       "new_price": "209.00",
-      "timestamp": "2026-01-24T02:48:35.262261",
+      "timestamp": "2026-01-24T02:54:16.516295",
       "url": "https://www.flannels.com/chloe-womens-polar-low-waterproof-sheepskin-ankle-snow-boots-103879"
     },
     {
@@ -464,7 +464,7 @@
       "percentage": 69.8,
       "old_price": "990.00",
       "new_price": "299.00",
-      "timestamp": "2026-01-24T02:48:35.262261",
+      "timestamp": "2026-01-24T02:54:16.516295",
       "url": "https://www.flannels.com/chloe-womens-jeannette-wedge-leather-slip-on-clogs-243844"
     },
     {
@@ -536,7 +536,7 @@
       "percentage": 69.7,
       "old_price": "1150.00",
       "new_price": "349.00",
-      "timestamp": "2026-01-24T02:48:35.262261",
+      "timestamp": "2026-01-24T02:54:16.516295",
       "url": "https://www.flannels.com/fendi-womens-square-toe-woven-leather-low-heel-slingbacks-230525"
     },
     {
@@ -590,7 +590,7 @@
       "percentage": 69.3,
       "old_price": "485.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-24T02:48:35.262261",
+      "timestamp": "2026-01-24T02:54:16.516295",
       "url": "https://www.flannels.com/dolce-and-gabbana-womens-logo-thong-patent-leather-buckle-flat-sandals-238492"
     },
     {
@@ -950,7 +950,7 @@
       "percentage": 50.2,
       "old_price": "600.00",
       "new_price": "299.00",
-      "timestamp": "2026-01-24T02:48:35.262261",
+      "timestamp": "2026-01-24T02:54:16.516295",
       "url": "https://www.flannels.com/moncler-womens-trailgrip-apr-s-high-waterproof-flat-ankle-boots-243423"
     },
     {
@@ -1067,7 +1067,7 @@
       "percentage": 50.1,
       "old_price": "680.00",
       "new_price": "339.00",
-      "timestamp": "2026-01-24T02:48:35.262261",
+      "timestamp": "2026-01-24T02:54:16.516295",
       "url": "https://www.flannels.com/valentino-garavani-womens-rockstud-untitled-leather-lace-up-low-top-trainers-234092"
     },
     {
@@ -1076,7 +1076,7 @@
       "percentage": 50.1,
       "old_price": "780.00",
       "new_price": "389.00",
-      "timestamp": "2026-01-24T02:48:35.262261",
+      "timestamp": "2026-01-24T02:54:16.516295",
       "url": "https://www.flannels.com/prada-womens-prax-2-0-lace-up-low-top-trainers-275124"
     }
   ]

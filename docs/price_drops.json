@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T21:43:39.124127",
-  "total_drops": 7492,
+  "generated_at": "2026-01-24T21:49:19.176940",
+  "total_drops": 7495,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -82,6 +82,12 @@
       "total_savings": 361.06
     },
     {
+      "site": "radley_co_uk",
+      "count": 5,
+      "max_drop": 39.1,
+      "total_savings": 44.65
+    },
+    {
       "site": "condorcycles_com",
       "count": 17,
       "max_drop": 33.3,
@@ -92,12 +98,6 @@
       "count": 33,
       "max_drop": 30.0,
       "total_savings": 36058.5
-    },
-    {
-      "site": "radley_co_uk",
-      "count": 2,
-      "max_drop": 28.6,
-      "total_savings": 6.5
     },
     {
       "site": "boden_com",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T09:38:16.086893",
-  "total_drops": 6904,
+  "generated_at": "2026-01-24T09:38:50.186923",
+  "total_drops": 6908,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3500,
-      "max_drop": 79.9,
-      "total_savings": 332378.17
+      "count": 3502,
+      "max_drop": 80.1,
+      "total_savings": 333788.17
     },
     {
       "site": "johnlewis_com",
@@ -29,9 +29,9 @@
     },
     {
       "site": "currys_com",
-      "count": 600,
+      "count": 602,
       "max_drop": 60.5,
-      "total_savings": 29996.33
+      "total_savings": 30199.33
     },
     {
       "site": "fenwick_co_uk",
@@ -226,12 +226,30 @@
     },
     {
       "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Men's Tailored Fit Shorts",
+      "percentage": 80.1,
+      "old_price": "798.00",
+      "new_price": "159.00",
+      "timestamp": "2026-01-24T09:38:30.812153",
+      "url": "https://www.flannels.com/bottega-veneta-mens-tailored-fit-shorts-550433"
+    },
+    {
+      "site": "flannels_com",
       "product": "BOTTEGA VENETA - Atomic Boot",
       "percentage": 79.9,
       "old_price": "890.00",
       "new_price": "179.00",
       "timestamp": "2026-01-24T09:20:13.440794",
       "url": "https://www.flannels.com/bottega-veneta-atomic-boot-432424"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Men's Patterned Long Sleeve Shirt",
+      "percentage": 79.8,
+      "old_price": "966.00",
+      "new_price": "195.00",
+      "timestamp": "2026-01-24T09:38:30.812153",
+      "url": "https://www.flannels.com/bottega-veneta-mens-patterned-long-sleeve-shirt-550432"
     },
     {
       "site": "flannels_com",
@@ -797,7 +815,7 @@
       "percentage": 60.5,
       "old_price": "2.99",
       "new_price": "1.18",
-      "timestamp": "2026-01-24T09:38:08.786296",
+      "timestamp": "2026-01-24T09:38:39.457300",
       "url": "https://www.currys.co.uk/products/10287310.html"
     },
     {
@@ -806,7 +824,7 @@
       "percentage": 60.2,
       "old_price": "2.99",
       "new_price": "1.19",
-      "timestamp": "2026-01-24T09:38:08.786296",
+      "timestamp": "2026-01-24T09:38:39.457300",
       "url": "https://www.currys.co.uk/products/10287309.html"
     },
     {
@@ -986,7 +1004,7 @@
       "percentage": 53.3,
       "old_price": "149.99",
       "new_price": "69.99",
-      "timestamp": "2026-01-24T09:38:08.786296",
+      "timestamp": "2026-01-24T09:38:39.457300",
       "url": "https://www.currys.co.uk/products/10267980.html"
     },
     {
@@ -1078,24 +1096,6 @@
       "new_price": "169.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/saint-laurent-curb-chain-braclet-713190"
-    },
-    {
-      "site": "flannels_com",
-      "product": "MONCLER - Trailgrip Après High Boots",
-      "percentage": 50.2,
-      "old_price": "600.00",
-      "new_price": "299.00",
-      "timestamp": "2026-01-24T03:08:59.229925",
-      "url": "https://www.flannels.com/moncler-womens-trailgrip-apr-s-high-waterproof-flat-ankle-boots-243423"
-    },
-    {
-      "site": "flannels_com",
-      "product": "MONCLER - Puffer Jacket Juniors",
-      "percentage": 50.2,
-      "old_price": "520.00",
-      "new_price": "259.00",
-      "timestamp": "2026-01-24T07:10:40.216355",
-      "url": "https://www.flannels.com/moncler-kids-junior-long-sleeve-down-filled-cardigan-297696"
     }
   ]
 }

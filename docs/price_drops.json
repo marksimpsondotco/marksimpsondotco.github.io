@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-23T23:58:07.425385",
-  "total_drops": 2221,
+  "generated_at": "2026-01-24T00:03:29.995724",
+  "total_drops": 2437,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 856,
+      "count": 876,
       "max_drop": 78.6,
-      "total_savings": 22547.65
+      "total_savings": 23132.77
     },
     {
       "site": "leaderonline_com",
@@ -35,9 +35,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 233,
+      "count": 429,
       "max_drop": 50.2,
-      "total_savings": 12906.99
+      "total_savings": 24144.98
     },
     {
       "site": "hamleys_com",
@@ -554,7 +554,7 @@
       "percentage": 50.2,
       "old_price": "400.00",
       "new_price": "199.00",
-      "timestamp": "2026-01-23T23:58:03.164439",
+      "timestamp": "2026-01-24T00:03:23.373847",
       "url": "https://www.flannels.com/moncler-mens-monaco-scarpa-leather-lace-up-low-top-trainers-115934"
     },
     {

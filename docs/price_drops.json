@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T04:12:43.401054",
-  "total_drops": 5721,
+  "generated_at": "2026-01-24T04:13:11.795813",
+  "total_drops": 5725,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3064,
+      "count": 3068,
       "max_drop": 70.1,
-      "total_savings": 289844.21
+      "total_savings": 289924.21
     },
     {
       "site": "leaderonline_com",

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-24T05:08:56.670581",
-  "total_drops": 5766,
+  "generated_at": "2026-01-24T05:14:28.358635",
+  "total_drops": 5774,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 1530,
+      "count": 1538,
       "max_drop": 78.6,
-      "total_savings": 31590.67
+      "total_savings": 31799.37
     },
     {
       "site": "flannels_com",

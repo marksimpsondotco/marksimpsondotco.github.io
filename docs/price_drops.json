@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T12:46:25.747997",
-  "total_drops": 7271,
+  "generated_at": "2026-01-24T12:52:00.835030",
+  "total_drops": 7273,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -83,9 +83,9 @@
     },
     {
       "site": "berrysjewellers_co_uk",
-      "count": 31,
+      "count": 33,
       "max_drop": 30.0,
-      "total_savings": 34858.5
+      "total_savings": 36058.5
     },
     {
       "site": "boden_com",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T09:44:22.911099",
-  "total_drops": 6931,
+  "generated_at": "2026-01-24T09:49:56.130051",
+  "total_drops": 6969,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3502,
+      "count": 3513,
       "max_drop": 80.1,
-      "total_savings": 333788.17
+      "total_savings": 346566.17
     },
     {
       "site": "johnlewis_com",
@@ -29,9 +29,9 @@
     },
     {
       "site": "currys_com",
-      "count": 624,
+      "count": 651,
       "max_drop": 60.5,
-      "total_savings": 31073.34
+      "total_savings": 31318.84
     },
     {
       "site": "fenwick_co_uk",
@@ -230,8 +230,44 @@
       "percentage": 80.1,
       "old_price": "798.00",
       "new_price": "159.00",
-      "timestamp": "2026-01-24T09:44:01.136362",
+      "timestamp": "2026-01-24T09:49:40.956832",
       "url": "https://www.flannels.com/bottega-veneta-mens-tailored-fit-shorts-550433"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Minimalist Slip Dress",
+      "percentage": 80.0,
+      "old_price": "1075.00",
+      "new_price": "215.00",
+      "timestamp": "2026-01-24T09:49:40.956832",
+      "url": "https://www.flannels.com/bottega-veneta-womens-minimalist-slip-dress-321231"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Tailored Straight Leg Trousers",
+      "percentage": 80.0,
+      "old_price": "546.00",
+      "new_price": "109.00",
+      "timestamp": "2026-01-24T09:49:40.956832",
+      "url": "https://www.flannels.com/bottega-veneta-womens-tailored-straight-leg-trousers-540224"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Structured Shift Dress",
+      "percentage": 79.9,
+      "old_price": "1336.00",
+      "new_price": "269.00",
+      "timestamp": "2026-01-24T09:49:40.956832",
+      "url": "https://www.flannels.com/bottega-veneta-womens-structured-shift-dress-321363"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Textured Relaxed Fit Teddy Coat",
+      "percentage": 79.9,
+      "old_price": "5460.00",
+      "new_price": "1099.00",
+      "timestamp": "2026-01-24T09:49:40.956832",
+      "url": "https://www.flannels.com/bottega-veneta-womens-textured-relaxed-fit-teddy-coat-601101"
     },
     {
       "site": "flannels_com",
@@ -248,8 +284,71 @@
       "percentage": 79.8,
       "old_price": "966.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-24T09:44:01.136362",
+      "timestamp": "2026-01-24T09:49:40.956832",
       "url": "https://www.flannels.com/bottega-veneta-mens-patterned-long-sleeve-shirt-550432"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's A-Line Skirt",
+      "percentage": 79.8,
+      "old_price": "689.00",
+      "new_price": "139.00",
+      "timestamp": "2026-01-24T09:49:40.956832",
+      "url": "https://www.flannels.com/bottega-veneta-womens-a-line-skirt-321169"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Structured Sharp Fit Overcoat",
+      "percentage": 79.8,
+      "old_price": "2268.00",
+      "new_price": "459.00",
+      "timestamp": "2026-01-24T09:49:40.956832",
+      "url": "https://www.flannels.com/bottega-veneta-womens-structured-sharp-fit-overcoat-660291"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Slingbacks",
+      "percentage": 79.7,
+      "old_price": "714.00",
+      "new_price": "145.00",
+      "timestamp": "2026-01-24T09:49:40.956832",
+      "url": "https://www.flannels.com/bottega-veneta-womens-slingbacks-110507"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Straight Leg Trousers",
+      "percentage": 79.7,
+      "old_price": "764.00",
+      "new_price": "155.00",
+      "timestamp": "2026-01-24T09:49:40.956832",
+      "url": "https://www.flannels.com/bottega-veneta-womens-straight-leg-trousers-540343"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Textured Knit Crew Sweatshirt",
+      "percentage": 79.7,
+      "old_price": "832.00",
+      "new_price": "169.00",
+      "timestamp": "2026-01-24T09:49:40.956832",
+      "url": "https://www.flannels.com/bottega-veneta-womens-textured-knit-crew-sweatshirt-661095"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Oversized T-Shirt",
+      "percentage": 79.7,
+      "old_price": "664.00",
+      "new_price": "135.00",
+      "timestamp": "2026-01-24T09:49:40.956832",
+      "url": "https://www.flannels.com/bottega-veneta-womens-oversized-t-shirt-650367"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Hooded Multi-Pocket Parka",
+      "percentage": 79.6,
+      "old_price": "1663.00",
+      "new_price": "339.00",
+      "timestamp": "2026-01-24T09:49:40.956832",
+      "url": "https://www.flannels.com/bottega-veneta-womens-hooded-multi-pocket-parka-660215"
     },
     {
       "site": "flannels_com",
@@ -815,7 +914,7 @@
       "percentage": 60.5,
       "old_price": "2.99",
       "new_price": "1.18",
-      "timestamp": "2026-01-24T09:44:13.177484",
+      "timestamp": "2026-01-24T09:49:48.679576",
       "url": "https://www.currys.co.uk/products/10287310.html"
     },
     {
@@ -824,7 +923,7 @@
       "percentage": 60.2,
       "old_price": "2.99",
       "new_price": "1.19",
-      "timestamp": "2026-01-24T09:44:13.177484",
+      "timestamp": "2026-01-24T09:49:48.679576",
       "url": "https://www.currys.co.uk/products/10287309.html"
     },
     {
@@ -997,105 +1096,6 @@
       "new_price": "3.50",
       "timestamp": "2026-01-23T12:18:44.071412",
       "url": "https://www.pigletinbed.com/products/blueberry-plain-organic-cotton-towel"
-    },
-    {
-      "site": "currys_com",
-      "product": "CHERRY XTRFY GP5 Amnis Gaming Mouse Mat - Blue, Medium",
-      "percentage": 53.3,
-      "old_price": "149.99",
-      "new_price": "69.99",
-      "timestamp": "2026-01-24T09:44:13.177484",
-      "url": "https://www.currys.co.uk/products/10267980.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Brora Lace Trim Satin Camisole Top, Ivy",
-      "percentage": 52.6,
-      "old_price": "95.00",
-      "new_price": "45.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/brora-lace-trim-satin-camisole-top-ivy/p114492580"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "HUSH Ruffle Long Sleeve Top, Candy Pink",
-      "percentage": 51.6,
-      "old_price": "65.00",
-      "new_price": "31.45",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/hush-ruffle-long-sleeve-top-candy-pink/p114402555"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Kate Somerville Goat Milk Moisturising Cleanser, 120ml",
-      "percentage": 51.5,
-      "old_price": "41.00",
-      "new_price": "19.89",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/kate-somerville-goat-milk-moisturising-cleanser-120ml/p5153791"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Sweaty Betty Athlete Seamless Workout Tank Top",
-      "percentage": 51.0,
-      "old_price": "25.50",
-      "new_price": "12.50",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/sweaty-betty-athlete-seamless-workout-tank-top/p113350492"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "KGL LIVIAH",
-      "percentage": 50.5,
-      "old_price": "99.00",
-      "new_price": "49.00",
-      "timestamp": "2026-01-22T09:24:44.016310",
-      "url": "https://fenwick.co.uk/products/silver-kgl-liviah-9480163109"
-    },
-    {
-      "site": "flannels_com",
-      "product": "SAINT LAURENT - Cassandre Double-Wrap Bracelet",
-      "percentage": 50.4,
-      "old_price": "240.00",
-      "new_price": "119.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/saint-laurent-cassandre-double-wrap-calf-leather-bracelet-836748"
-    },
-    {
-      "site": "flannels_com",
-      "product": "MONCLER GRENOBLE - Men's Logo Embroidered Adjustable Baseball Cap",
-      "percentage": 50.4,
-      "old_price": "280.00",
-      "new_price": "139.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/moncler-mens-logo-embroidered-adjustable-baseball-cap-362782"
-    },
-    {
-      "site": "flannels_com",
-      "product": "MONCLER X MERCEDES-BENZ - By Nigo Baseball Cap",
-      "percentage": 50.4,
-      "old_price": "280.00",
-      "new_price": "139.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/moncler-x-mercedes-benz-by-nigo-baseball-cap-371492"
-    },
-    {
-      "site": "flannels_com",
-      "product": "SAINT LAURENT - Saint Str Hair Clips Ld52",
-      "percentage": 50.4,
-      "old_price": "260.00",
-      "new_price": "129.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/saint-laurent-saint-str-hair-clips-ld52-913449"
-    },
-    {
-      "site": "flannels_com",
-      "product": "SAINT LAURENT - Curb Chain Braclet",
-      "percentage": 50.3,
-      "old_price": "340.00",
-      "new_price": "169.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/saint-laurent-curb-chain-braclet-713190"
     }
   ]
 }

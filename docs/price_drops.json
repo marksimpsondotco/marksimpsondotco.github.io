@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T20:00:02.771801",
-  "total_drops": 7356,
+  "generated_at": "2026-01-24T20:05:38.996288",
+  "total_drops": 7361,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3649,
+      "count": 3654,
       "max_drop": 80.1,
-      "total_savings": 388182.15
+      "total_savings": 388957.15
     },
     {
       "site": "johnlewis_com",
@@ -595,6 +595,15 @@
     },
     {
       "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Men's Straight Trousers",
+      "percentage": 79.5,
+      "old_price": "580.00",
+      "new_price": "119.00",
+      "timestamp": "2026-01-24T20:05:30.987395",
+      "url": "https://www.flannels.com/bottega-veneta-mens-straight-leg-trousers-510265"
+    },
+    {
+      "site": "flannels_com",
       "product": "BOTTEGA VENETA - Women's Leather Gloves",
       "percentage": 79.4,
       "old_price": "462.00",
@@ -1105,15 +1114,6 @@
       "new_price": "129.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/saint-laurent-womens-cassandre-washed-denim-cotton-baseball-cap-360735"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Sweaty Betty Athlete Seamless T-Shirt",
-      "percentage": 68.9,
-      "old_price": "45.00",
-      "new_price": "14.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/sweaty-betty-athlete-seamless-t-shirt/p114030189"
     }
   ]
 }

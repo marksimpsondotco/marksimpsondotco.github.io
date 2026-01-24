@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-24T00:09:02.480425",
-  "total_drops": 2536,
+  "generated_at": "2026-01-24T00:14:22.645143",
+  "total_drops": 2762,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 884,
+      "count": 900,
       "max_drop": 78.6,
-      "total_savings": 23430.76
+      "total_savings": 24212.7
     },
     {
       "site": "flannels_com",
-      "count": 518,
+      "count": 728,
       "max_drop": 70.1,
-      "total_savings": 36036.93
+      "total_savings": 51243.77
     },
     {
       "site": "leaderonline_com",
@@ -203,7 +203,7 @@
       "percentage": 70.1,
       "old_price": "700.00",
       "new_price": "209.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/valentino-garavani-mens-open-skate-low-leather-chunky-trainers-122485"
     },
     {
@@ -284,7 +284,7 @@
       "percentage": 69.9,
       "old_price": "495.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/balmain-mens-b-court-classic-leather-low-top-trainers-114941"
     },
     {
@@ -293,8 +293,17 @@
       "percentage": 69.9,
       "old_price": "860.00",
       "new_price": "259.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/bottega-veneta-mens-sawyer-check-leather-slip-on-trainers-114002"
+    },
+    {
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Stud Bracelet",
+      "percentage": 69.7,
+      "old_price": "380.00",
+      "new_price": "115.00",
+      "timestamp": "2026-01-24T00:14:16.148672",
+      "url": "https://www.flannels.com/saint-laurent-stud-black-calf-leather-silver-tone-clasp-leather-bracelet-723900"
     },
     {
       "site": "flannels_com",
@@ -302,7 +311,7 @@
       "percentage": 69.5,
       "old_price": "640.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/valentino-garavani-rockstud-camouflage-trainers-116547"
     },
     {
@@ -313,6 +322,15 @@
       "new_price": "27.50",
       "timestamp": "2026-01-23T11:48:23.302265",
       "url": "https://www.johnlewis.com/sweaty-betty-30-inch-power-bootcut-gym-trousers/p110730830"
+    },
+    {
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Collier Chain Bracelet",
+      "percentage": 69.3,
+      "old_price": "420.00",
+      "new_price": "129.00",
+      "timestamp": "2026-01-24T00:14:16.148672",
+      "url": "https://www.flannels.com/saint-laurent-collier-chain-bracelet-713191"
     },
     {
       "site": "johnlewis_com",
@@ -586,11 +604,47 @@
     },
     {
       "site": "flannels_com",
+      "product": "SAINT LAURENT - Cassandre Double-Wrap Bracelet",
+      "percentage": 50.4,
+      "old_price": "240.00",
+      "new_price": "119.00",
+      "timestamp": "2026-01-24T00:14:16.148672",
+      "url": "https://www.flannels.com/saint-laurent-cassandre-double-wrap-calf-leather-bracelet-836748"
+    },
+    {
+      "site": "flannels_com",
+      "product": "MONCLER GRENOBLE - Men's Logo Embroidered Adjustable Baseball Cap",
+      "percentage": 50.4,
+      "old_price": "280.00",
+      "new_price": "139.00",
+      "timestamp": "2026-01-24T00:14:16.148672",
+      "url": "https://www.flannels.com/moncler-mens-logo-embroidered-adjustable-baseball-cap-362782"
+    },
+    {
+      "site": "flannels_com",
+      "product": "MONCLER X MERCEDES-BENZ - By Nigo Baseball Cap",
+      "percentage": 50.4,
+      "old_price": "280.00",
+      "new_price": "139.00",
+      "timestamp": "2026-01-24T00:14:16.148672",
+      "url": "https://www.flannels.com/moncler-x-mercedes-benz-by-nigo-baseball-cap-371492"
+    },
+    {
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Curb Chain Braclet",
+      "percentage": 50.3,
+      "old_price": "340.00",
+      "new_price": "169.00",
+      "timestamp": "2026-01-24T00:14:16.148672",
+      "url": "https://www.flannels.com/saint-laurent-curb-chain-braclet-713190"
+    },
+    {
+      "site": "flannels_com",
       "product": "MONCLER - Monaco Scarpa Trainers",
       "percentage": 50.2,
       "old_price": "400.00",
       "new_price": "199.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/moncler-mens-monaco-scarpa-leather-lace-up-low-top-trainers-115934"
     },
     {
@@ -599,8 +653,44 @@
       "percentage": 50.2,
       "old_price": "480.00",
       "new_price": "239.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/moncler-mens-trailgrip-lite-2-eva-midsole-ortholite-insole-trainers-127160"
+    },
+    {
+      "site": "flannels_com",
+      "product": "FENDI - Men's Denim Baseball Cap",
+      "percentage": 50.2,
+      "old_price": "440.00",
+      "new_price": "219.00",
+      "timestamp": "2026-01-24T00:14:16.148672",
+      "url": "https://www.flannels.com/fendi-fendi-denim-cap-sn53-391605"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PRADA - Drill Baseball Cap",
+      "percentage": 50.2,
+      "old_price": "520.00",
+      "new_price": "259.00",
+      "timestamp": "2026-01-24T00:14:16.148672",
+      "url": "https://www.flannels.com/prada-mens-drill-cotton-baseball-cap-362414"
+    },
+    {
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Grand Carre Scarf",
+      "percentage": 50.2,
+      "old_price": "460.00",
+      "new_price": "229.00",
+      "timestamp": "2026-01-24T00:14:16.148672",
+      "url": "https://www.flannels.com/saint-laurent-mens-grand-carre-monogram-frayed-edge-midweight-scarf-908121"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PRADA - Re-Nylon And Leather Wallet",
+      "percentage": 50.2,
+      "old_price": "500.00",
+      "new_price": "249.00",
+      "timestamp": "2026-01-24T00:14:16.148672",
+      "url": "https://www.flannels.com/prada-re-nylon-and-leather-wallet-704963"
     },
     {
       "site": "flannels_com",
@@ -608,7 +698,7 @@
       "percentage": 50.1,
       "old_price": "720.00",
       "new_price": "359.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/prada-suede-loafers-127283"
     },
     {
@@ -617,7 +707,7 @@
       "percentage": 50.1,
       "old_price": "780.00",
       "new_price": "389.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/prada-mens-lane-leather-lace-up-low-top-trainers-115347"
     },
     {
@@ -626,7 +716,7 @@
       "percentage": 50.1,
       "old_price": "860.00",
       "new_price": "429.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/prada-mens-brushed-leather-lace-up-derby-shoes-128801"
     },
     {
@@ -635,7 +725,7 @@
       "percentage": 50.1,
       "old_price": "800.00",
       "new_price": "399.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/prada-mens-downtown-delav--suede-low-top-trainers-124956"
     },
     {
@@ -644,7 +734,7 @@
       "percentage": 50.1,
       "old_price": "720.00",
       "new_price": "359.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/prada-mens-suede-slip-on-loafers-111137"
     },
     {
@@ -653,8 +743,17 @@
       "percentage": 50.1,
       "old_price": "800.00",
       "new_price": "399.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/prada-mens-downtown-low-top-trainers-115341"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PRADA - Men's Keyring",
+      "percentage": 50.1,
+      "old_price": "379.00",
+      "new_price": "189.00",
+      "timestamp": "2026-01-24T00:14:16.148672",
+      "url": "https://www.flannels.com/prada-mens-keyring-702302"
     },
     {
       "site": "hamleys_com",
@@ -968,116 +1067,17 @@
       "percentage": 50.0,
       "old_price": "68.00",
       "new_price": "34.00",
-      "timestamp": "2026-01-24T00:08:50.708622",
+      "timestamp": "2026-01-24T00:14:16.148672",
       "url": "https://www.flannels.com/ambush-rubber-boot-230387"
     },
     {
-      "site": "mamasandpapas_com",
-      "product": "Ditsy Rose Quilted Pramsuit - Floral",
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Men's Billfold Wallet",
       "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/floral-quilted-pramsuit-nb-s07gk4rb0"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Quilted Cord & Borg Pramsuit with 3D Ears - Brown",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/borg-cord-pramsuit-nb-s07gk3hb0"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Quilted Cord Pramsuit - Blue",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/blue-corduroy-pramsuit-nb-s07gk4bb0"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Cream Borg Pramsuit",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/borg-pramsuit-nb-s07gl5tb0"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Faux Fur Pramsuit",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/faux-fur-pramsuit-nb-s07ga8hb0"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Borg Cream Jacket",
-      "percentage": 50.0,
-      "old_price": "32.00",
-      "new_price": "16.00",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/borg-jacket-nb-s07fl2db0"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Fully Lined Borg Jacket with Rib Cuffs",
-      "percentage": 50.0,
-      "old_price": "30.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/borg-jacket-nb-s07fk3jb0"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Rib Knit Hat & Pom Poms - White",
-      "percentage": 50.0,
-      "old_price": "15.00",
-      "new_price": "7.50",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/knit-pom-pom-hat-nb-s83zn1ab0"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Rib Knit Hat with Pom Poms - Oatmeal",
-      "percentage": 50.0,
-      "old_price": "15.00",
-      "new_price": "7.50",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/knit-pom-pom-hat-nb-s83zl1ab0"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Cream Borg Hat & Mitts Set",
-      "percentage": 50.0,
-      "old_price": "18.00",
-      "new_price": "9.00",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/borg-hat-mitts-nb-s432l5sb0"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Dreampod 0-6 Months (2.5 Tog) - White",
-      "percentage": 50.0,
-      "old_price": "35.00",
-      "new_price": "17.50",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/25-tog-dreampod-sleep-bag-0-6-months-white-7340ww201"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Dreampod 6-18 Months (2.5 Tog) - Wildly Adventures",
-      "percentage": 50.0,
-      "old_price": "35.00",
-      "new_price": "17.50",
-      "timestamp": "2026-01-23T13:49:30.853732",
-      "url": "https://www.mamasandpapas.com/products/dreampod-6-18-2-5-tog-wildly-adventures-734320c01"
+      "old_price": "470.00",
+      "new_price": "235.00",
+      "timestamp": "2026-01-24T00:14:16.148672",
+      "url": "https://www.flannels.com/bottega-veneta-bv-wallet-sn52-718162"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T06:32:23.701439",
-  "total_drops": 6020,
+  "generated_at": "2026-01-24T06:37:54.739775",
+  "total_drops": 6022,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3269,
+      "count": 3271,
       "max_drop": 70.1,
-      "total_savings": 304993.21
+      "total_savings": 305393.21
     },
     {
       "site": "leaderonline_com",
@@ -974,7 +974,7 @@
       "percentage": 50.2,
       "old_price": "520.00",
       "new_price": "259.00",
-      "timestamp": "2026-01-24T06:32:07.620348",
+      "timestamp": "2026-01-24T06:37:36.164714",
       "url": "https://www.flannels.com/moncler-kids-junior-long-sleeve-down-filled-cardigan-297696"
     },
     {
@@ -983,7 +983,7 @@
       "percentage": 50.2,
       "old_price": "460.00",
       "new_price": "229.00",
-      "timestamp": "2026-01-24T06:32:07.620348",
+      "timestamp": "2026-01-24T06:37:36.164714",
       "url": "https://www.flannels.com/moncler-kids-nathaniel-water-repellent-hooded-parka-605028"
     },
     {
@@ -992,7 +992,7 @@
       "percentage": 50.2,
       "old_price": "480.00",
       "new_price": "239.00",
-      "timestamp": "2026-01-24T06:32:07.620348",
+      "timestamp": "2026-01-24T06:37:36.164714",
       "url": "https://www.flannels.com/moncler-kids-warne-windbreaker-wind-resistant-long-sleeve-funnel-neck-rain-anorak-607003"
     },
     {
@@ -1001,7 +1001,7 @@
       "percentage": 50.2,
       "old_price": "540.00",
       "new_price": "269.00",
-      "timestamp": "2026-01-24T06:32:07.620348",
+      "timestamp": "2026-01-24T06:37:36.164714",
       "url": "https://www.flannels.com/moncler-kids-pailly-down-long-sleeve-short-puffer-jacket-602227"
     },
     {

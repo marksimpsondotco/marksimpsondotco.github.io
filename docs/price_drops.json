@@ -1,13 +1,19 @@
 {
-  "generated_at": "2026-01-24T06:43:59.333366",
-  "total_drops": 6022,
+  "generated_at": "2026-01-24T06:49:31.882582",
+  "total_drops": 6029,
   "top_drops_shown": 100,
   "site_stats": [
     {
+      "site": "callidus_shop",
+      "count": 5,
+      "max_drop": 88.9,
+      "total_savings": 7912.3
+    },
+    {
       "site": "johnlewis_com",
-      "count": 1588,
+      "count": 1590,
       "max_drop": 78.6,
-      "total_savings": 33561.27
+      "total_savings": 33589.27
     },
     {
       "site": "flannels_com",
@@ -185,6 +191,33 @@
     }
   ],
   "drops": [
+    {
+      "site": "callidus_shop",
+      "product": "Standard Blade Fuse 10A 32V",
+      "percentage": 88.9,
+      "old_price": "1.99",
+      "new_price": "0.22",
+      "timestamp": "2026-01-24T06:48:52.532581",
+      "url": "https://callidus.shop/products/blade-fuse-10a-32v"
+    },
+    {
+      "site": "callidus_shop",
+      "product": "Blade Fuse 20A 32V",
+      "percentage": 88.9,
+      "old_price": "1.99",
+      "new_price": "0.22",
+      "timestamp": "2026-01-24T06:48:52.532581",
+      "url": "https://callidus.shop/products/blade-fuse-20a-32v"
+    },
+    {
+      "site": "callidus_shop",
+      "product": "Standard Blade Fuse 30A 32V",
+      "percentage": 88.9,
+      "old_price": "1.99",
+      "new_price": "0.22",
+      "timestamp": "2026-01-24T06:48:52.532581",
+      "url": "https://callidus.shop/products/standard-blade-fuse-30a-32v"
+    },
     {
       "site": "johnlewis_com",
       "product": "Frederic Malle Bigarade Concentrée Eau de Parfum",
@@ -974,7 +1007,7 @@
       "percentage": 50.2,
       "old_price": "520.00",
       "new_price": "259.00",
-      "timestamp": "2026-01-24T06:43:45.935743",
+      "timestamp": "2026-01-24T06:49:16.513946",
       "url": "https://www.flannels.com/moncler-kids-junior-long-sleeve-down-filled-cardigan-297696"
     },
     {
@@ -983,7 +1016,7 @@
       "percentage": 50.2,
       "old_price": "460.00",
       "new_price": "229.00",
-      "timestamp": "2026-01-24T06:43:45.935743",
+      "timestamp": "2026-01-24T06:49:16.513946",
       "url": "https://www.flannels.com/moncler-kids-nathaniel-water-repellent-hooded-parka-605028"
     },
     {
@@ -992,7 +1025,7 @@
       "percentage": 50.2,
       "old_price": "480.00",
       "new_price": "239.00",
-      "timestamp": "2026-01-24T06:43:45.935743",
+      "timestamp": "2026-01-24T06:49:16.513946",
       "url": "https://www.flannels.com/moncler-kids-warne-windbreaker-wind-resistant-long-sleeve-funnel-neck-rain-anorak-607003"
     },
     {
@@ -1001,7 +1034,7 @@
       "percentage": 50.2,
       "old_price": "540.00",
       "new_price": "269.00",
-      "timestamp": "2026-01-24T06:43:45.935743",
+      "timestamp": "2026-01-24T06:49:16.513946",
       "url": "https://www.flannels.com/moncler-kids-pailly-down-long-sleeve-short-puffer-jacket-602227"
     },
     {
@@ -1057,33 +1090,6 @@
       "new_price": "249.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/prada-re-nylon-and-leather-wallet-704963"
-    },
-    {
-      "site": "flannels_com",
-      "product": "MONCLER - Mon Pocket Padded Leather Mules",
-      "percentage": 50.2,
-      "old_price": "500.00",
-      "new_price": "249.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/moncler-womens-padded-quilted-leather-slip-on-flat-mules-230102"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Triangle Logo Belt",
-      "percentage": 50.2,
-      "old_price": "480.00",
-      "new_price": "239.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-womens-triangle-logo-calfskin-leather-belt-709367"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Re-Nylon Bucket Hat",
-      "percentage": 50.2,
-      "old_price": "520.00",
-      "new_price": "259.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-womens-re-nylon-cotton-lined-bucket-hat-390849"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T19:25:47.816129",
-  "total_drops": 7333,
+  "generated_at": "2026-01-24T19:31:23.957327",
+  "total_drops": 7348,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -197,9 +197,9 @@
     },
     {
       "site": "ullajohnson_com",
-      "count": 35,
-      "max_drop": 1.6,
-      "total_savings": 159.0
+      "count": 50,
+      "max_drop": 2.8,
+      "total_savings": 314.0
     },
     {
       "site": "khaite_com",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T08:13:49.934593",
-  "total_drops": 6482,
+  "generated_at": "2026-01-24T08:19:22.470325",
+  "total_drops": 6558,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,15 +11,15 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 1597,
+      "count": 1603,
       "max_drop": 78.6,
-      "total_savings": 33734.42
+      "total_savings": 33765.47
     },
     {
       "site": "flannels_com",
-      "count": 3346,
+      "count": 3394,
       "max_drop": 70.1,
-      "total_savings": 310625.17
+      "total_savings": 316258.17
     },
     {
       "site": "leaderonline_com",
@@ -58,16 +58,16 @@
       "total_savings": 272.0
     },
     {
+      "site": "currys_com",
+      "count": 393,
+      "max_drop": 49.1,
+      "total_savings": 19699.33
+    },
+    {
       "site": "ukbabycentre_com",
       "count": 65,
       "max_drop": 47.7,
       "total_savings": 4285.11
-    },
-    {
-      "site": "currys_com",
-      "count": 371,
-      "max_drop": 45.0,
-      "total_savings": 18679.31
     },
     {
       "site": "smallsmart_co_uk",

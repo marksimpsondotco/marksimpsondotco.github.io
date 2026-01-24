@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T02:43:23.398154",
-  "total_drops": 5586,
+  "generated_at": "2026-01-24T02:48:56.268325",
+  "total_drops": 5627,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 2929,
+      "count": 2970,
       "max_drop": 70.1,
-      "total_savings": 274372.7
+      "total_savings": 285964.23
     },
     {
       "site": "leaderonline_com",
@@ -199,6 +199,15 @@
     },
     {
       "site": "flannels_com",
+      "product": "SAINT LAURENT - Orhand Platform Heel",
+      "percentage": 70.1,
+      "old_price": "865.02",
+      "new_price": "259.00",
+      "timestamp": "2026-01-24T02:48:35.262261",
+      "url": "https://www.flannels.com/saint-laurent-womens-orhand-open-toe-leather-platform-heels-243731"
+    },
+    {
+      "site": "flannels_com",
       "product": "VALENTINO GARAVANI - Open Skate Low Trainers",
       "percentage": 70.1,
       "old_price": "700.00",
@@ -298,6 +307,33 @@
     },
     {
       "site": "flannels_com",
+      "product": "CHLOE - Andrea Slingback Mules",
+      "percentage": 70.0,
+      "old_price": "830.00",
+      "new_price": "249.00",
+      "timestamp": "2026-01-24T02:48:35.262261",
+      "url": "https://www.flannels.com/chloe-womens-andrea-calfskin-slingback-pumps-243845"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Kick High Top Sneakers",
+      "percentage": 70.0,
+      "old_price": "630.00",
+      "new_price": "189.00",
+      "timestamp": "2026-01-24T02:48:35.262261",
+      "url": "https://www.flannels.com/chloe-womens-kick-leather-high-top-trainers-277475"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BALMAIN - B Runner Trainers",
+      "percentage": 70.0,
+      "old_price": "550.00",
+      "new_price": "165.00",
+      "timestamp": "2026-01-24T02:48:35.262261",
+      "url": "https://www.flannels.com/balmain-womens-b-runner-leather-lace-up-chunky-trainers-275955"
+    },
+    {
+      "site": "flannels_com",
       "product": "CHLOE - Kick Low Top Sneakers",
       "percentage": 70.0,
       "old_price": "550.00",
@@ -343,24 +379,6 @@
     },
     {
       "site": "flannels_com",
-      "product": "CHLOE - Kick High Top Sneakers",
-      "percentage": 70.0,
-      "old_price": "630.00",
-      "new_price": "189.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/chloe-womens-kick-leather-high-top-trainers-277475"
-    },
-    {
-      "site": "flannels_com",
-      "product": "BALMAIN - B Runner Trainers",
-      "percentage": 70.0,
-      "old_price": "550.00",
-      "new_price": "165.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/balmain-womens-b-runner-leather-lace-up-chunky-trainers-275955"
-    },
-    {
-      "site": "flannels_com",
       "product": "BOTTEGA VENETA - Kalimero Città",
       "percentage": 70.0,
       "old_price": "3500.00",
@@ -385,6 +403,24 @@
       "new_price": "225.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/prada-womens-crystal-degrad--embellished-goat-leather-belt-708211"
+    },
+    {
+      "site": "flannels_com",
+      "product": "DOLCE AND GABBANA - Portofino Low Trainers",
+      "percentage": 69.9,
+      "old_price": "495.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-24T02:48:35.262261",
+      "url": "https://www.flannels.com/dolce-and-gabbana-womens-portofino-leather-pearl-embellished-low-top-trainers-234151"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Polar Low Boots",
+      "percentage": 69.9,
+      "old_price": "695.00",
+      "new_price": "209.00",
+      "timestamp": "2026-01-24T02:48:35.262261",
+      "url": "https://www.flannels.com/chloe-womens-polar-low-waterproof-sheepskin-ankle-snow-boots-103879"
     },
     {
       "site": "flannels_com",
@@ -421,6 +457,15 @@
       "new_price": "125.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/moncler-womens-padded-midweight-scarf-900134"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Jeannette Wedge Clogs",
+      "percentage": 69.8,
+      "old_price": "990.00",
+      "new_price": "299.00",
+      "timestamp": "2026-01-24T02:48:35.262261",
+      "url": "https://www.flannels.com/chloe-womens-jeannette-wedge-leather-slip-on-clogs-243844"
     },
     {
       "site": "flannels_com",
@@ -487,6 +532,15 @@
     },
     {
       "site": "flannels_com",
+      "product": "FENDI - 46mm Square Toe Woven Slingback Heels",
+      "percentage": 69.7,
+      "old_price": "1150.00",
+      "new_price": "349.00",
+      "timestamp": "2026-01-24T02:48:35.262261",
+      "url": "https://www.flannels.com/fendi-womens-square-toe-woven-leather-low-heel-slingbacks-230525"
+    },
+    {
+      "site": "flannels_com",
       "product": "SAINT LAURENT - Stud Bracelet",
       "percentage": 69.7,
       "old_price": "380.00",
@@ -529,6 +583,15 @@
       "new_price": "27.50",
       "timestamp": "2026-01-23T11:48:23.302265",
       "url": "https://www.johnlewis.com/sweaty-betty-30-inch-power-bootcut-gym-trousers/p110730830"
+    },
+    {
+      "site": "flannels_com",
+      "product": "DOLCE AND GABBANA - Logo Thong Sandal",
+      "percentage": 69.3,
+      "old_price": "485.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-24T02:48:35.262261",
+      "url": "https://www.flannels.com/dolce-and-gabbana-womens-logo-thong-patent-leather-buckle-flat-sandals-238492"
     },
     {
       "site": "flannels_com",
@@ -883,6 +946,15 @@
     },
     {
       "site": "flannels_com",
+      "product": "MONCLER - Trailgrip Après High Boots",
+      "percentage": 50.2,
+      "old_price": "600.00",
+      "new_price": "299.00",
+      "timestamp": "2026-01-24T02:48:35.262261",
+      "url": "https://www.flannels.com/moncler-womens-trailgrip-apr-s-high-waterproof-flat-ankle-boots-243423"
+    },
+    {
+      "site": "flannels_com",
       "product": "MONCLER - Monaco Scarpa Trainers",
       "percentage": 50.2,
       "old_price": "400.00",
@@ -995,89 +1067,17 @@
       "percentage": 50.1,
       "old_price": "680.00",
       "new_price": "339.00",
-      "timestamp": "2026-01-24T02:43:04.913292",
+      "timestamp": "2026-01-24T02:48:35.262261",
       "url": "https://www.flannels.com/valentino-garavani-womens-rockstud-untitled-leather-lace-up-low-top-trainers-234092"
     },
     {
       "site": "flannels_com",
-      "product": "PRADA - Suede Loafers",
-      "percentage": 50.1,
-      "old_price": "720.00",
-      "new_price": "359.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-suede-loafers-127283"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Lane Sneakers",
+      "product": "PRADA - Prax 2.0 Trainers",
       "percentage": 50.1,
       "old_price": "780.00",
       "new_price": "389.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-mens-lane-leather-lace-up-low-top-trainers-115347"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Leather Strap Sandals",
-      "percentage": 50.1,
-      "old_price": "780.00",
-      "new_price": "389.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-womens-leather-hook-and-loop-flat-sandals-230474"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Brushed Derby Shoes",
-      "percentage": 50.1,
-      "old_price": "860.00",
-      "new_price": "429.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-mens-brushed-leather-lace-up-derby-shoes-128801"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Downtown Delavé Suede Trainers",
-      "percentage": 50.1,
-      "old_price": "800.00",
-      "new_price": "399.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-mens-downtown-delav--suede-low-top-trainers-124956"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Men's Suede Slip-On Loafers",
-      "percentage": 50.1,
-      "old_price": "720.00",
-      "new_price": "359.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-mens-suede-slip-on-loafers-111137"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Men's Downtown Low-Top Trainers",
-      "percentage": 50.1,
-      "old_price": "800.00",
-      "new_price": "399.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-mens-downtown-low-top-trainers-115341"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Men's Keyring",
-      "percentage": 50.1,
-      "old_price": "379.00",
-      "new_price": "189.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-mens-keyring-702302"
-    },
-    {
-      "site": "flannels_com",
-      "product": "VALENTINO GARAVANI - Rockstud Calfskin Ankle Strap Sandals",
-      "percentage": 50.1,
-      "old_price": "880.00",
-      "new_price": "439.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/valentino-garavani-womens-rockstud-calfskin-ankle-strap-block-heel-heeled-sandals-231023"
+      "timestamp": "2026-01-24T02:48:35.262261",
+      "url": "https://www.flannels.com/prada-womens-prax-2-0-lace-up-low-top-trainers-275124"
     }
   ]
 }

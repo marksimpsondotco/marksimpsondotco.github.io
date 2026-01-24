@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T20:28:39.473057",
-  "total_drops": 7365,
+  "generated_at": "2026-01-24T20:34:15.920027",
+  "total_drops": 7404,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3657,
+      "count": 3696,
       "max_drop": 80.1,
-      "total_savings": 389020.15
+      "total_savings": 391364.15
     },
     {
       "site": "johnlewis_com",
@@ -599,7 +599,7 @@
       "percentage": 79.5,
       "old_price": "580.00",
       "new_price": "119.00",
-      "timestamp": "2026-01-24T20:28:29.307978",
+      "timestamp": "2026-01-24T20:34:05.213219",
       "url": "https://www.flannels.com/bottega-veneta-mens-straight-leg-trousers-510265"
     },
     {

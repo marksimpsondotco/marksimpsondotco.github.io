@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T18:34:13.621962",
-  "total_drops": 7328,
+  "generated_at": "2026-01-24T18:39:49.260632",
+  "total_drops": 7331,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -68,6 +68,12 @@
       "count": 65,
       "max_drop": 47.7,
       "total_savings": 4285.11
+    },
+    {
+      "site": "oliversweeney_com",
+      "count": 3,
+      "max_drop": 46.6,
+      "total_savings": 430.0
     },
     {
       "site": "smallsmart_co_uk",

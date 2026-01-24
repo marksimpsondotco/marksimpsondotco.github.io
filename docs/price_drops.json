@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T09:21:31.401016",
-  "total_drops": 6866,
+  "generated_at": "2026-01-24T09:27:08.056907",
+  "total_drops": 6875,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -26,6 +26,12 @@
       "count": 3,
       "max_drop": 66.7,
       "total_savings": 61.98
+    },
+    {
+      "site": "currys_com",
+      "count": 574,
+      "max_drop": 60.5,
+      "total_savings": 28128.29
     },
     {
       "site": "fenwick_co_uk",
@@ -58,12 +64,6 @@
       "total_savings": 272.0
     },
     {
-      "site": "currys_com",
-      "count": 567,
-      "max_drop": 49.1,
-      "total_savings": 27962.68
-    },
-    {
       "site": "ukbabycentre_com",
       "count": 65,
       "max_drop": 47.7,
@@ -89,9 +89,9 @@
     },
     {
       "site": "boden_com",
-      "count": 36,
+      "count": 38,
       "max_drop": 28.6,
-      "total_savings": 197.6
+      "total_savings": 216.6
     },
     {
       "site": "bugaboo_com",
@@ -792,6 +792,24 @@
       "url": "https://www.johnlewis.com/dune-london-heat-woven-leather-ballerina-pumps/p113118999"
     },
     {
+      "site": "currys_com",
+      "product": "LOGIK LCBTIEV26 Cable Tie - Black, Pack of 8",
+      "percentage": 60.5,
+      "old_price": "2.99",
+      "new_price": "1.18",
+      "timestamp": "2026-01-24T09:27:05.230142",
+      "url": "https://www.currys.co.uk/products/10287310.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "LOGIK LCBTAGV26 Cable Tags - Pack of 8",
+      "percentage": 60.2,
+      "old_price": "2.99",
+      "new_price": "1.19",
+      "timestamp": "2026-01-24T09:27:05.230142",
+      "url": "https://www.currys.co.uk/products/10287309.html"
+    },
+    {
       "site": "johnlewis_com",
       "product": "John Lewis Ara Leather Flapover Purse",
       "percentage": 60.0,
@@ -1078,24 +1096,6 @@
       "new_price": "229.00",
       "timestamp": "2026-01-24T07:10:40.216355",
       "url": "https://www.flannels.com/moncler-kids-nathaniel-water-repellent-hooded-parka-605028"
-    },
-    {
-      "site": "flannels_com",
-      "product": "MONCLER - Kids' Warne Windbreaker Wind Resistant Long Sleeve Rain Anorak",
-      "percentage": 50.2,
-      "old_price": "480.00",
-      "new_price": "239.00",
-      "timestamp": "2026-01-24T07:10:40.216355",
-      "url": "https://www.flannels.com/moncler-kids-warne-windbreaker-wind-resistant-long-sleeve-funnel-neck-rain-anorak-607003"
-    },
-    {
-      "site": "flannels_com",
-      "product": "MONCLER - Kids' Pailly Down Long Sleeve Short Puffer Jacket",
-      "percentage": 50.2,
-      "old_price": "540.00",
-      "new_price": "269.00",
-      "timestamp": "2026-01-24T07:10:40.216355",
-      "url": "https://www.flannels.com/moncler-kids-pailly-down-long-sleeve-short-puffer-jacket-602227"
     }
   ]
 }

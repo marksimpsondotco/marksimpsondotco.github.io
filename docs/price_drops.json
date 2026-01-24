@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T22:58:01.366843",
-  "total_drops": 7500,
+  "generated_at": "2026-01-24T23:03:38.460389",
+  "total_drops": 7501,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3786,
+      "count": 3787,
       "max_drop": 80.1,
-      "total_savings": 422366.12
+      "total_savings": 422607.12
     },
     {
       "site": "johnlewis_com",
@@ -452,7 +452,7 @@
       "percentage": 79.9,
       "old_price": "5208.00",
       "new_price": "1049.00",
-      "timestamp": "2026-01-24T22:57:49.227956",
+      "timestamp": "2026-01-24T23:03:28.333201",
       "url": "https://www.flannels.com/bottega-veneta-womens-soft-plush-hidden-closure-teddy-coat-601100"
     },
     {

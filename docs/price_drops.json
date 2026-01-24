@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T00:35:47.386197",
-  "total_drops": 3893,
+  "generated_at": "2026-01-24T00:41:13.111983",
+  "total_drops": 4061,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 1439,
+      "count": 1607,
       "max_drop": 70.1,
-      "total_savings": 99660.76
+      "total_savings": 131103.76
     },
     {
       "site": "leaderonline_com",
@@ -203,7 +203,7 @@
       "percentage": 70.1,
       "old_price": "700.00",
       "new_price": "209.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/valentino-garavani-mens-open-skate-low-leather-chunky-trainers-122485"
     },
     {
@@ -280,11 +280,74 @@
     },
     {
       "site": "flannels_com",
+      "product": "CHLOE - Kick Low Top Sneakers",
+      "percentage": 70.0,
+      "old_price": "550.00",
+      "new_price": "165.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/chloe-kick-low-top-sneakers-277474"
+    },
+    {
+      "site": "flannels_com",
+      "product": "COMME DES GARCONS PLAY - X Converse Half Peeping Heart Chuck Taylor 70 Trainers",
+      "percentage": 70.0,
+      "old_price": "140.00",
+      "new_price": "42.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/comme-des-garcons-play-womens-half-peeping-heart-chuck-taylor-canvas-trainers-276155"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BALMAIN - B-Bold Low Top Trainers",
+      "percentage": 70.0,
+      "old_price": "750.00",
+      "new_price": "225.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/balmain-womens-b-bold-low-top-leather-chunky-trainers-234000"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Women's Flat Sandals",
+      "percentage": 70.0,
+      "old_price": "450.00",
+      "new_price": "135.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/chloe-womens-flat-sandals-231330"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Luna Ballerina Flats",
+      "percentage": 70.0,
+      "old_price": "750.00",
+      "new_price": "225.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/chloe-womens-luna-leather-gold-bead-ballet-pumps-243848"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Kick High Top Sneakers",
+      "percentage": 70.0,
+      "old_price": "630.00",
+      "new_price": "189.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/chloe-womens-kick-leather-high-top-trainers-277475"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BALMAIN - B Runner Trainers",
+      "percentage": 70.0,
+      "old_price": "550.00",
+      "new_price": "165.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/balmain-womens-b-runner-leather-lace-up-chunky-trainers-275955"
+    },
+    {
+      "site": "flannels_com",
       "product": "BALMAIN - Men's B-Court Classic Leather Trainers",
       "percentage": 69.9,
       "old_price": "495.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/balmain-mens-b-court-classic-leather-low-top-trainers-114941"
     },
     {
@@ -293,8 +356,17 @@
       "percentage": 69.9,
       "old_price": "860.00",
       "new_price": "259.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/bottega-veneta-mens-sawyer-check-leather-slip-on-trainers-114002"
+    },
+    {
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Espadrilles",
+      "percentage": 69.8,
+      "old_price": "480.00",
+      "new_price": "145.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/saint-laurent-womens-slip-on-espadrilles-230142"
     },
     {
       "site": "flannels_com",
@@ -302,7 +374,7 @@
       "percentage": 69.7,
       "old_price": "380.00",
       "new_price": "115.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/saint-laurent-stud-black-calf-leather-silver-tone-clasp-leather-bracelet-723900"
     },
     {
@@ -311,7 +383,7 @@
       "percentage": 69.5,
       "old_price": "640.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/valentino-garavani-rockstud-camouflage-trainers-116547"
     },
     {
@@ -329,8 +401,17 @@
       "percentage": 69.3,
       "old_price": "420.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/saint-laurent-collier-chain-bracelet-713191"
+    },
+    {
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Women's Bridget Flat Sandals",
+      "percentage": 69.3,
+      "old_price": "845.00",
+      "new_price": "259.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/saint-laurent-womens-bridget-flat-sandals-231463"
     },
     {
       "site": "johnlewis_com",
@@ -608,7 +689,7 @@
       "percentage": 50.4,
       "old_price": "240.00",
       "new_price": "119.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/saint-laurent-cassandre-double-wrap-calf-leather-bracelet-836748"
     },
     {
@@ -617,7 +698,7 @@
       "percentage": 50.4,
       "old_price": "280.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/moncler-mens-logo-embroidered-adjustable-baseball-cap-362782"
     },
     {
@@ -626,7 +707,7 @@
       "percentage": 50.4,
       "old_price": "280.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/moncler-x-mercedes-benz-by-nigo-baseball-cap-371492"
     },
     {
@@ -635,7 +716,7 @@
       "percentage": 50.3,
       "old_price": "340.00",
       "new_price": "169.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/saint-laurent-curb-chain-braclet-713190"
     },
     {
@@ -644,7 +725,7 @@
       "percentage": 50.2,
       "old_price": "400.00",
       "new_price": "199.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/moncler-mens-monaco-scarpa-leather-lace-up-low-top-trainers-115934"
     },
     {
@@ -653,7 +734,7 @@
       "percentage": 50.2,
       "old_price": "480.00",
       "new_price": "239.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/moncler-mens-trailgrip-lite-2-eva-midsole-ortholite-insole-trainers-127160"
     },
     {
@@ -662,7 +743,7 @@
       "percentage": 50.2,
       "old_price": "440.00",
       "new_price": "219.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/fendi-fendi-denim-cap-sn53-391605"
     },
     {
@@ -671,7 +752,7 @@
       "percentage": 50.2,
       "old_price": "520.00",
       "new_price": "259.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/prada-mens-drill-cotton-baseball-cap-362414"
     },
     {
@@ -680,7 +761,7 @@
       "percentage": 50.2,
       "old_price": "460.00",
       "new_price": "229.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/saint-laurent-mens-grand-carre-monogram-frayed-edge-midweight-scarf-908121"
     },
     {
@@ -689,8 +770,17 @@
       "percentage": 50.2,
       "old_price": "500.00",
       "new_price": "249.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/prada-re-nylon-and-leather-wallet-704963"
+    },
+    {
+      "site": "flannels_com",
+      "product": "MONCLER - Mon Pocket Padded Leather Mules",
+      "percentage": 50.2,
+      "old_price": "500.00",
+      "new_price": "249.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/moncler-womens-padded-quilted-leather-slip-on-flat-mules-230102"
     },
     {
       "site": "flannels_com",
@@ -698,7 +788,7 @@
       "percentage": 50.1,
       "old_price": "720.00",
       "new_price": "359.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/prada-suede-loafers-127283"
     },
     {
@@ -707,8 +797,17 @@
       "percentage": 50.1,
       "old_price": "780.00",
       "new_price": "389.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/prada-mens-lane-leather-lace-up-low-top-trainers-115347"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PRADA - Leather Strap Sandals",
+      "percentage": 50.1,
+      "old_price": "780.00",
+      "new_price": "389.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/prada-womens-leather-hook-and-loop-flat-sandals-230474"
     },
     {
       "site": "flannels_com",
@@ -716,7 +815,7 @@
       "percentage": 50.1,
       "old_price": "860.00",
       "new_price": "429.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/prada-mens-brushed-leather-lace-up-derby-shoes-128801"
     },
     {
@@ -725,7 +824,7 @@
       "percentage": 50.1,
       "old_price": "800.00",
       "new_price": "399.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/prada-mens-downtown-delav--suede-low-top-trainers-124956"
     },
     {
@@ -734,7 +833,7 @@
       "percentage": 50.1,
       "old_price": "720.00",
       "new_price": "359.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/prada-mens-suede-slip-on-loafers-111137"
     },
     {
@@ -743,7 +842,7 @@
       "percentage": 50.1,
       "old_price": "800.00",
       "new_price": "399.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/prada-mens-downtown-low-top-trainers-115341"
     },
     {
@@ -752,7 +851,7 @@
       "percentage": 50.1,
       "old_price": "379.00",
       "new_price": "189.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/prada-mens-keyring-702302"
     },
     {
@@ -761,8 +860,62 @@
       "percentage": 50.1,
       "old_price": "880.00",
       "new_price": "439.00",
-      "timestamp": "2026-01-24T00:35:40.183527",
+      "timestamp": "2026-01-24T00:41:01.519821",
       "url": "https://www.flannels.com/valentino-garavani-womens-rockstud-calfskin-ankle-strap-block-heel-heeled-sandals-231023"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PRADA - Leather Lace-Up Boots",
+      "percentage": 50.1,
+      "old_price": "1100.00",
+      "new_price": "549.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/prada-womens-leather-lace-up-flat-ankle-boots-232113"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PRADA - Crochet Sandals",
+      "percentage": 50.1,
+      "old_price": "1020.00",
+      "new_price": "509.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/prada-womens-crochet-hook-and-loop-viscose-flat-sandals-230470"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PRADA - Slingback Ballerinas",
+      "percentage": 50.1,
+      "old_price": "820.00",
+      "new_price": "409.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/prada-womens-patent-leather-kitten-heel-slingbacks-110234"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PRADA - Prax 2.0 Trainers",
+      "percentage": 50.1,
+      "old_price": "820.00",
+      "new_price": "409.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/prada-womens-prax-2-0-lace-up-low-top-trainers-275124"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PRADA - Women's Smash Low-Top Trainers",
+      "percentage": 50.1,
+      "old_price": "780.00",
+      "new_price": "389.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/prada-womens-smash-low-top-trainers-275110"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PRADA - Downtown Platform",
+      "percentage": 50.1,
+      "old_price": "820.00",
+      "new_price": "409.00",
+      "timestamp": "2026-01-24T00:41:01.519821",
+      "url": "https://www.flannels.com/prada-downtown-platform-124932"
     },
     {
       "site": "hamleys_com",
@@ -925,159 +1078,6 @@
       "new_price": "30.00",
       "timestamp": "2026-01-23T11:48:23.302265",
       "url": "https://www.johnlewis.com/chantelle-norah-chic-plunge-t-shirt-bra/p111652749"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Chantelle Norah Comfort Non-Wired Support Bra",
-      "percentage": 50.0,
-      "old_price": "54.00",
-      "new_price": "27.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/chantelle-norah-comfort-non-wired-support-bra/p110592637"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "FALKE Soft Merino Wool Blend Opaque Tights",
-      "percentage": 50.0,
-      "old_price": "44.00",
-      "new_price": "22.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/falke-soft-merino-wool-blend-opaque-tights/p3111060"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Barbour Grangetown Crew Neck Jumper, Inky Blue",
-      "percentage": 50.0,
-      "old_price": "89.95",
-      "new_price": "45.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/barbour-grangetown-crew-neck-jumper-inky-blue/p112355231"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Organic Cotton Towels",
-      "percentage": 50.0,
-      "old_price": "12.00",
-      "new_price": "6.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/john-lewis-organic-cotton-towels/p111403776"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Fringed Velvet Cushion",
-      "percentage": 50.0,
-      "old_price": "35.00",
-      "new_price": "17.50",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/john-lewis-fringed-velvet-cushion/p112452017"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Rib Weave Cushion",
-      "percentage": 50.0,
-      "old_price": "40.00",
-      "new_price": "20.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/john-lewis-rib-weave-cushion/p111891232"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Luce Textured Cushion",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/john-lewis-luce-textured-cushion/p112399300"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Rapha Long Sleeve Cycling Jersey, Navy/White",
-      "percentage": 50.0,
-      "old_price": "93.00",
-      "new_price": "46.50",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/rapha-long-sleeve-cycling-jersey-navy-white/p112091289"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Jack Wolfskin Kammweg Pile Men's Fleece Jacket",
-      "percentage": 50.0,
-      "old_price": "130.00",
-      "new_price": "65.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/jack-wolfskin-kammweg-pile-mens-fleece-jacket/p110635295"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Reebok Quarter-Zip Running Sweatshirt, Very Berry",
-      "percentage": 50.0,
-      "old_price": "52.00",
-      "new_price": "26.00",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/reebok-quarter-zip-running-sweatshirt-very-berry/p113445112"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Adrianna Papell Boat Neck Jumper",
-      "percentage": 50.0,
-      "old_price": "49.00",
-      "new_price": "24.50",
-      "timestamp": "2026-01-22T06:43:11.644377",
-      "url": "https://www.johnlewis.com/adrianna-papell-boat-neck-jumper/p114180062"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Small Stuff Kids' Faux Fur Smiley Mittens, Pink",
-      "percentage": 50.0,
-      "old_price": "16.00",
-      "new_price": "8.00",
-      "timestamp": "2026-01-22T06:43:11.644377",
-      "url": "https://www.johnlewis.com/small-stuff-kids-faux-fur-smiley-mittens-pink/p114247013"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Herschel Supply Co. Cove Messenger Bag, Black/Saddle Brown",
-      "percentage": 50.0,
-      "old_price": "75.00",
-      "new_price": "37.50",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/herschel-supply-co-cove-messenger-bag-black-saddle-brown/p113202207"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Aspinal of London Hudson Leather Business Bag, Green",
-      "percentage": 50.0,
-      "old_price": "695.00",
-      "new_price": "347.50",
-      "timestamp": "2026-01-22T00:48:54.704820",
-      "url": "https://www.johnlewis.com/aspinal-of-london-hudson-leather-business-bag-green/p113971992"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Vivid Go Go UFO Game",
-      "percentage": 50.0,
-      "old_price": "19.99",
-      "new_price": "10.00",
-      "timestamp": "2026-01-24T00:33:29.506308",
-      "url": "https://www.johnlewis.com/vivid-go-go-ufo-game/p112201597"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LEGO ǀ Disney Moana 2 Heihei Buildable Animal Toy 43272",
-      "percentage": 50.0,
-      "old_price": "34.99",
-      "new_price": "17.50",
-      "timestamp": "2026-01-24T00:33:29.506308",
-      "url": "https://www.johnlewis.com/lego-disney-moana-2-heihei-buildable-animal-toy-43272/p112997286"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LEGO Star Wars The Crimson Firehawk Building Toy Set 75384",
-      "percentage": 50.0,
-      "old_price": "46.99",
-      "new_price": "23.50",
-      "timestamp": "2026-01-24T00:33:29.506308",
-      "url": "https://www.johnlewis.com/lego-star-wars-the-crimson-firehawk-building-toy-set-75384/p111388127"
     }
   ]
 }

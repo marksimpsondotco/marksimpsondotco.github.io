@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T22:52:24.723658",
-  "total_drops": 7497,
+  "generated_at": "2026-01-24T22:58:01.366843",
+  "total_drops": 7500,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3783,
+      "count": 3786,
       "max_drop": 80.1,
-      "total_savings": 417430.12
+      "total_savings": 422366.12
     },
     {
       "site": "johnlewis_com",
@@ -445,6 +445,15 @@
       "new_price": "179.00",
       "timestamp": "2026-01-24T09:20:13.440794",
       "url": "https://www.flannels.com/bottega-veneta-atomic-boot-432424"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Soft Plush Hidden Closure Teddy Coat",
+      "percentage": 79.9,
+      "old_price": "5208.00",
+      "new_price": "1049.00",
+      "timestamp": "2026-01-24T22:57:49.227956",
+      "url": "https://www.flannels.com/bottega-veneta-womens-soft-plush-hidden-closure-teddy-coat-601100"
     },
     {
       "site": "flannels_com",
@@ -1111,15 +1120,6 @@
       "new_price": "349.00",
       "timestamp": "2026-01-24T03:08:59.229925",
       "url": "https://www.flannels.com/fendi-womens-square-toe-woven-leather-low-heel-slingbacks-230525"
-    },
-    {
-      "site": "flannels_com",
-      "product": "CHLOE - Pary Espadrille",
-      "percentage": 69.7,
-      "old_price": "525.00",
-      "new_price": "159.00",
-      "timestamp": "2026-01-24T09:20:13.440794",
-      "url": "https://www.flannels.com/chloe-womens-pary-leather-slip-on-espadrilles-230399"
     }
   ]
 }

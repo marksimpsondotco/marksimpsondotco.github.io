@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T23:04:14.410569",
-  "total_drops": 7501,
+  "generated_at": "2026-01-24T23:09:50.254458",
+  "total_drops": 7502,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3787,
+      "count": 3788,
       "max_drop": 80.1,
-      "total_savings": 422607.12
+      "total_savings": 423558.12
     },
     {
       "site": "johnlewis_com",
@@ -452,8 +452,17 @@
       "percentage": 79.9,
       "old_price": "5208.00",
       "new_price": "1049.00",
-      "timestamp": "2026-01-24T23:04:03.819886",
+      "timestamp": "2026-01-24T23:09:40.876420",
       "url": "https://www.flannels.com/bottega-veneta-womens-soft-plush-hidden-closure-teddy-coat-601100"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Mona Pumps",
+      "percentage": 79.9,
+      "old_price": "1190.00",
+      "new_price": "239.00",
+      "timestamp": "2026-01-24T23:09:40.876420",
+      "url": "https://www.flannels.com/chloe-womens-mona-leather-stiletto-court-shoes-243687"
     },
     {
       "site": "flannels_com",
@@ -1111,15 +1120,6 @@
       "new_price": "145.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/prada-womens-long-leather-belt-931371"
-    },
-    {
-      "site": "flannels_com",
-      "product": "FENDI - 46mm Square Toe Woven Slingback Heels",
-      "percentage": 69.7,
-      "old_price": "1150.00",
-      "new_price": "349.00",
-      "timestamp": "2026-01-24T03:08:59.229925",
-      "url": "https://www.flannels.com/fendi-womens-square-toe-woven-leather-low-heel-slingbacks-230525"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T08:35:59.847552",
-  "total_drops": 6601,
+  "generated_at": "2026-01-24T08:41:31.789781",
+  "total_drops": 6607,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "site": "currys_com",
-      "count": 434,
+      "count": 440,
       "max_drop": 49.1,
-      "total_savings": 20561.83
+      "total_savings": 20818.81
     },
     {
       "site": "ukbabycentre_com",
@@ -230,7 +230,7 @@
       "percentage": 79.4,
       "old_price": "378.00",
       "new_price": "78.00",
-      "timestamp": "2026-01-24T08:35:46.254065",
+      "timestamp": "2026-01-24T08:41:18.309035",
       "url": "https://www.flannels.com/bottega-veneta-mens-scarf-907004"
     },
     {

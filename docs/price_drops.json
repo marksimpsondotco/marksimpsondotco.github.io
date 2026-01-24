@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T09:04:17.055207",
-  "total_drops": 6835,
+  "generated_at": "2026-01-24T09:04:48.830671",
+  "total_drops": 6838,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "site": "currys_com",
-      "count": 546,
+      "count": 549,
       "max_drop": 49.1,
-      "total_savings": 27564.68
+      "total_savings": 27599.68
     },
     {
       "site": "ukbabycentre_com",
@@ -230,7 +230,7 @@
       "percentage": 79.9,
       "old_price": "890.00",
       "new_price": "179.00",
-      "timestamp": "2026-01-24T09:04:00.651006",
+      "timestamp": "2026-01-24T09:04:36.625305",
       "url": "https://www.flannels.com/bottega-veneta-atomic-boot-432424"
     },
     {
@@ -239,7 +239,7 @@
       "percentage": 79.4,
       "old_price": "378.00",
       "new_price": "78.00",
-      "timestamp": "2026-01-24T09:04:00.651006",
+      "timestamp": "2026-01-24T09:04:36.625305",
       "url": "https://www.flannels.com/bottega-veneta-mens-scarf-907004"
     },
     {
@@ -491,7 +491,7 @@
       "percentage": 69.9,
       "old_price": "860.00",
       "new_price": "259.00",
-      "timestamp": "2026-01-24T09:04:00.651006",
+      "timestamp": "2026-01-24T09:04:36.625305",
       "url": "https://www.flannels.com/bottega-veneta-womens-sofia-pointed-toe-leather-stiletto-court-shoes-231164"
     },
     {
@@ -545,7 +545,7 @@
       "percentage": 69.8,
       "old_price": "925.00",
       "new_price": "279.00",
-      "timestamp": "2026-01-24T09:04:00.651006",
+      "timestamp": "2026-01-24T09:04:36.625305",
       "url": "https://www.flannels.com/chloe-womens-leonie-leather-stiletto-court-shoes-243846"
     },
     {
@@ -626,7 +626,7 @@
       "percentage": 69.7,
       "old_price": "525.00",
       "new_price": "159.00",
-      "timestamp": "2026-01-24T09:04:00.651006",
+      "timestamp": "2026-01-24T09:04:36.625305",
       "url": "https://www.flannels.com/chloe-womens-pary-leather-slip-on-espadrilles-230399"
     },
     {
@@ -653,7 +653,7 @@
       "percentage": 69.6,
       "old_price": "805.00",
       "new_price": "245.00",
-      "timestamp": "2026-01-24T09:04:00.651006",
+      "timestamp": "2026-01-24T09:04:36.625305",
       "url": "https://www.flannels.com/moncler-gaia-snow-boots-232716"
     },
     {

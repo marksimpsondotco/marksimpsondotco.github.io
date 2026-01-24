@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T10:57:55.130925",
-  "total_drops": 7172,
+  "generated_at": "2026-01-24T11:03:30.616065",
+  "total_drops": 7193,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3560,
+      "count": 3563,
       "max_drop": 80.1,
-      "total_savings": 376337.66
+      "total_savings": 376906.66
     },
     {
       "site": "johnlewis_com",
@@ -29,9 +29,9 @@
     },
     {
       "site": "currys_com",
-      "count": 793,
+      "count": 811,
       "max_drop": 60.5,
-      "total_savings": 35248.74
+      "total_savings": 35405.75
     },
     {
       "site": "fenwick_co_uk",
@@ -236,7 +236,7 @@
       "percentage": 80.1,
       "old_price": "798.00",
       "new_price": "159.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-mens-tailored-fit-shorts-550433"
     },
     {
@@ -245,7 +245,7 @@
       "percentage": 80.1,
       "old_price": "748.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-slingbacks-110507"
     },
     {
@@ -254,7 +254,7 @@
       "percentage": 80.1,
       "old_price": "1050.00",
       "new_price": "209.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-textured-crew-neck-jumper-321402"
     },
     {
@@ -263,7 +263,7 @@
       "percentage": 80.1,
       "old_price": "748.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-straight-jeans-647023"
     },
     {
@@ -272,7 +272,7 @@
       "percentage": 80.1,
       "old_price": "1050.00",
       "new_price": "209.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-heeled-mules-230558"
     },
     {
@@ -281,7 +281,7 @@
       "percentage": 80.1,
       "old_price": "1000.00",
       "new_price": "199.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-sleek-flat-mules-230520"
     },
     {
@@ -290,7 +290,7 @@
       "percentage": 80.1,
       "old_price": "1000.00",
       "new_price": "199.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-italian-stiletto-court-shoes-230536"
     },
     {
@@ -299,7 +299,7 @@
       "percentage": 80.0,
       "old_price": "1075.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-minimalist-slip-dress-321231"
     },
     {
@@ -308,7 +308,7 @@
       "percentage": 80.0,
       "old_price": "546.00",
       "new_price": "109.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-tailored-straight-leg-trousers-540224"
     },
     {
@@ -317,7 +317,7 @@
       "percentage": 80.0,
       "old_price": "1243.00",
       "new_price": "249.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-crew-neck-jumper-321335"
     },
     {
@@ -326,7 +326,7 @@
       "percentage": 80.0,
       "old_price": "2898.00",
       "new_price": "579.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-weather-resistant-clean-lined-parka-660324"
     },
     {
@@ -335,7 +335,7 @@
       "percentage": 79.9,
       "old_price": "1336.00",
       "new_price": "269.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-structured-shift-dress-321363"
     },
     {
@@ -344,7 +344,7 @@
       "percentage": 79.9,
       "old_price": "5460.00",
       "new_price": "1099.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-textured-relaxed-fit-teddy-coat-601101"
     },
     {
@@ -353,7 +353,7 @@
       "percentage": 79.9,
       "old_price": "1588.00",
       "new_price": "319.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-knitted-jumper-dress-660377"
     },
     {
@@ -362,7 +362,7 @@
       "percentage": 79.9,
       "old_price": "5376.00",
       "new_price": "1079.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-tailored-fit-fur-coat-660365"
     },
     {
@@ -371,7 +371,7 @@
       "percentage": 79.9,
       "old_price": "4368.00",
       "new_price": "879.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens--weather-resistant-parka-660338"
     },
     {
@@ -380,7 +380,7 @@
       "percentage": 79.9,
       "old_price": "2184.00",
       "new_price": "439.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-structured-overcoat-660275"
     },
     {
@@ -398,7 +398,7 @@
       "percentage": 79.8,
       "old_price": "966.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-mens-patterned-long-sleeve-shirt-550432"
     },
     {
@@ -407,7 +407,7 @@
       "percentage": 79.8,
       "old_price": "689.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-a-line-skirt-321169"
     },
     {
@@ -416,7 +416,7 @@
       "percentage": 79.8,
       "old_price": "2268.00",
       "new_price": "459.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-structured-sharp-fit-overcoat-660291"
     },
     {
@@ -425,7 +425,7 @@
       "percentage": 79.8,
       "old_price": "1579.00",
       "new_price": "319.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-wide-leg-trousers-670151"
     },
     {
@@ -434,7 +434,7 @@
       "percentage": 79.8,
       "old_price": "2268.00",
       "new_price": "459.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens--structured-tailored-overcoat-660217"
     },
     {
@@ -443,7 +443,7 @@
       "percentage": 79.7,
       "old_price": "764.00",
       "new_price": "155.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-straight-leg-trousers-540343"
     },
     {
@@ -452,7 +452,7 @@
       "percentage": 79.7,
       "old_price": "832.00",
       "new_price": "169.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-textured-knit-crew-sweatshirt-661095"
     },
     {
@@ -461,7 +461,7 @@
       "percentage": 79.7,
       "old_price": "664.00",
       "new_price": "135.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-oversized-t-shirt-650367"
     },
     {
@@ -470,7 +470,7 @@
       "percentage": 79.7,
       "old_price": "714.00",
       "new_price": "145.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-textured-knit-crew-sweatshirt-661095"
     },
     {
@@ -479,7 +479,7 @@
       "percentage": 79.7,
       "old_price": "664.00",
       "new_price": "135.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-block-court-shoes-230445"
     },
     {
@@ -488,7 +488,7 @@
       "percentage": 79.7,
       "old_price": "664.00",
       "new_price": "135.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-slip-on-heeled-mules-230447"
     },
     {
@@ -497,7 +497,7 @@
       "percentage": 79.6,
       "old_price": "1663.00",
       "new_price": "339.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-hooded-multi-pocket-parka-660215"
     },
     {
@@ -506,7 +506,7 @@
       "percentage": 79.6,
       "old_price": "1512.00",
       "new_price": "309.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-crew-sweatshirt-661104"
     },
     {
@@ -515,7 +515,7 @@
       "percentage": 79.5,
       "old_price": "630.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-short-sleeve-polo-shirt-540248"
     },
     {
@@ -524,7 +524,7 @@
       "percentage": 79.5,
       "old_price": "630.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-crew-neck-knitted-sweatshirt-661075"
     },
     {
@@ -533,7 +533,7 @@
       "percentage": 79.5,
       "old_price": "630.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-bold-leather-stiletto-heeled-mules-230440"
     },
     {
@@ -542,7 +542,7 @@
       "percentage": 79.5,
       "old_price": "630.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-24T10:57:41.140747",
+      "timestamp": "2026-01-24T11:03:13.732890",
       "url": "https://www.flannels.com/bottega-veneta-womens-pool-shoes-223052"
     },
     {

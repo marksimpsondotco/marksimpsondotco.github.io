@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T08:53:09.812391",
-  "total_drops": 6763,
+  "generated_at": "2026-01-24T08:58:44.418665",
+  "total_drops": 6805,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3482,
-      "max_drop": 79.4,
-      "total_savings": 325499.17
+      "count": 3499,
+      "max_drop": 79.9,
+      "total_savings": 332304.17
     },
     {
       "site": "johnlewis_com",
@@ -59,9 +59,9 @@
     },
     {
       "site": "currys_com",
-      "count": 510,
+      "count": 535,
       "max_drop": 49.1,
-      "total_savings": 26956.73
+      "total_savings": 27491.69
     },
     {
       "site": "ukbabycentre_com",
@@ -226,11 +226,20 @@
     },
     {
       "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Atomic Boot",
+      "percentage": 79.9,
+      "old_price": "890.00",
+      "new_price": "179.00",
+      "timestamp": "2026-01-24T08:58:31.284289",
+      "url": "https://www.flannels.com/bottega-veneta-atomic-boot-432424"
+    },
+    {
+      "site": "flannels_com",
       "product": "BOTTEGA VENETA - Men's Scarf",
       "percentage": 79.4,
       "old_price": "378.00",
       "new_price": "78.00",
-      "timestamp": "2026-01-24T08:52:48.746093",
+      "timestamp": "2026-01-24T08:58:31.284289",
       "url": "https://www.flannels.com/bottega-veneta-mens-scarf-907004"
     },
     {
@@ -478,6 +487,15 @@
     },
     {
       "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Sofia Pumps",
+      "percentage": 69.9,
+      "old_price": "860.00",
+      "new_price": "259.00",
+      "timestamp": "2026-01-24T08:58:31.284289",
+      "url": "https://www.flannels.com/bottega-veneta-womens-sofia-pointed-toe-leather-stiletto-court-shoes-231164"
+    },
+    {
+      "site": "flannels_com",
       "product": "BALMAIN - Men's B-Court Classic Leather Trainers",
       "percentage": 69.9,
       "old_price": "495.00",
@@ -520,6 +538,15 @@
       "new_price": "299.00",
       "timestamp": "2026-01-24T03:08:59.229925",
       "url": "https://www.flannels.com/chloe-womens-jeannette-wedge-leather-slip-on-clogs-243844"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Leonie Court Heels",
+      "percentage": 69.8,
+      "old_price": "925.00",
+      "new_price": "279.00",
+      "timestamp": "2026-01-24T08:58:31.284289",
+      "url": "https://www.flannels.com/chloe-womens-leonie-leather-stiletto-court-shoes-243846"
     },
     {
       "site": "flannels_com",
@@ -595,6 +622,15 @@
     },
     {
       "site": "flannels_com",
+      "product": "CHLOE - Pary Espadrille",
+      "percentage": 69.7,
+      "old_price": "525.00",
+      "new_price": "159.00",
+      "timestamp": "2026-01-24T08:58:31.284289",
+      "url": "https://www.flannels.com/chloe-womens-pary-leather-slip-on-espadrilles-230399"
+    },
+    {
+      "site": "flannels_com",
       "product": "SAINT LAURENT - Stud Bracelet",
       "percentage": 69.7,
       "old_price": "380.00",
@@ -610,6 +646,15 @@
       "new_price": "429.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/saint-laurent-solferino-small-crossbody-bag-761483"
+    },
+    {
+      "site": "flannels_com",
+      "product": "MONCLER - Gaia Snow Boots",
+      "percentage": 69.6,
+      "old_price": "805.00",
+      "new_price": "245.00",
+      "timestamp": "2026-01-24T08:58:31.284289",
+      "url": "https://www.flannels.com/moncler-gaia-snow-boots-232716"
     },
     {
       "site": "flannels_com",
@@ -1051,51 +1096,6 @@
       "new_price": "269.00",
       "timestamp": "2026-01-24T07:10:40.216355",
       "url": "https://www.flannels.com/moncler-kids-pailly-down-long-sleeve-short-puffer-jacket-602227"
-    },
-    {
-      "site": "flannels_com",
-      "product": "MONCLER - Monaco Scarpa Trainers",
-      "percentage": 50.2,
-      "old_price": "400.00",
-      "new_price": "199.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/moncler-mens-monaco-scarpa-leather-lace-up-low-top-trainers-115934"
-    },
-    {
-      "site": "flannels_com",
-      "product": "MONCLER - Trailgrip Lite 2 Trainers",
-      "percentage": 50.2,
-      "old_price": "480.00",
-      "new_price": "239.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/moncler-mens-trailgrip-lite-2-eva-midsole-ortholite-insole-trainers-127160"
-    },
-    {
-      "site": "flannels_com",
-      "product": "FENDI - Men's Denim Baseball Cap",
-      "percentage": 50.2,
-      "old_price": "440.00",
-      "new_price": "219.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/fendi-fendi-denim-cap-sn53-391605"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Drill Baseball Cap",
-      "percentage": 50.2,
-      "old_price": "520.00",
-      "new_price": "259.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-mens-drill-cotton-baseball-cap-362414"
-    },
-    {
-      "site": "flannels_com",
-      "product": "SAINT LAURENT - Grand Carre Scarf",
-      "percentage": 50.2,
-      "old_price": "460.00",
-      "new_price": "229.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/saint-laurent-mens-grand-carre-monogram-frayed-edge-midweight-scarf-908121"
     }
   ]
 }

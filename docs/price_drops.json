@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T21:20:24.928127",
-  "total_drops": 7446,
+  "generated_at": "2026-01-24T21:26:08.994679",
+  "total_drops": 7490,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3737,
+      "count": 3781,
       "max_drop": 80.1,
-      "total_savings": 393992.12
+      "total_savings": 417220.12
     },
     {
       "site": "johnlewis_com",
@@ -330,7 +330,7 @@
       "old_price": "1243.00",
       "new_price": "249.00",
       "timestamp": "2026-01-24T11:17:23.669758",
-      "url": "https://www.flannels.com/bottega-veneta-womens-crew-neck-jumper-321335"
+      "url": "https://www.flannels.com/bottega-veneta-womens-crew-neck-jumper-321225"
     },
     {
       "site": "flannels_com",
@@ -349,6 +349,24 @@
       "new_price": "32.00",
       "timestamp": "2026-01-24T11:17:23.669758",
       "url": "https://www.flannels.com/bottega-veneta-womens-crew-socks-410344"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Cut Out Dress",
+      "percentage": 80.0,
+      "old_price": "3545.00",
+      "new_price": "709.00",
+      "timestamp": "2026-01-24T21:25:50.960976",
+      "url": "https://www.flannels.com/bottega-veneta-womens-cut-out-dress-321635"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Knitted Dress",
+      "percentage": 80.0,
+      "old_price": "1848.00",
+      "new_price": "369.00",
+      "timestamp": "2026-01-24T21:25:50.960976",
+      "url": "https://www.flannels.com/bottega-veneta-womens-sculpted-knitted-jumper-dress-660263"
     },
     {
       "site": "flannels_com",
@@ -469,12 +487,21 @@
     },
     {
       "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Clean-Cut Structured Overcoat",
+      "percentage": 79.8,
+      "old_price": "3066.00",
+      "new_price": "619.00",
+      "timestamp": "2026-01-24T21:25:50.960976",
+      "url": "https://www.flannels.com/bottega-veneta-womens-clean-cut-structured-overcoat-660329"
+    },
+    {
+      "site": "flannels_com",
       "product": "BOTTEGA VENETA - Women's Straight Leg Trousers",
       "percentage": 79.7,
       "old_price": "764.00",
       "new_price": "155.00",
       "timestamp": "2026-01-24T11:17:23.669758",
-      "url": "https://www.flannels.com/bottega-veneta-womens-straight-leg-trousers-540343"
+      "url": "https://www.flannels.com/bottega-veneta-womens-straight-leg-trousers-540251"
     },
     {
       "site": "flannels_com",
@@ -529,6 +556,42 @@
       "new_price": "205.00",
       "timestamp": "2026-01-24T11:17:23.669758",
       "url": "https://www.flannels.com/bottega-veneta-womens-midweight-scarf-900103"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Straight Trousers",
+      "percentage": 79.7,
+      "old_price": "664.00",
+      "new_price": "135.00",
+      "timestamp": "2026-01-24T21:25:50.960976",
+      "url": "https://www.flannels.com/bottega-veneta-womens-straight-leg-trousers-540368"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Structured Midi Skirt",
+      "percentage": 79.7,
+      "old_price": "1008.00",
+      "new_price": "205.00",
+      "timestamp": "2026-01-24T21:25:50.960976",
+      "url": "https://www.flannels.com/bottega-veneta-womens-structured-midi-skirt-321416"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Shift Dress",
+      "percentage": 79.7,
+      "old_price": "1008.00",
+      "new_price": "205.00",
+      "timestamp": "2026-01-24T21:25:50.960976",
+      "url": "https://www.flannels.com/bottega-veneta-womens-shift-dress-321415"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Textured Knitted Jumper Dress",
+      "percentage": 79.7,
+      "old_price": "2604.00",
+      "new_price": "529.00",
+      "timestamp": "2026-01-24T21:25:50.960976",
+      "url": "https://www.flannels.com/bottega-veneta-womens-textured-knitted-jumper-dress-660312"
     },
     {
       "site": "flannels_com",
@@ -599,8 +662,26 @@
       "percentage": 79.5,
       "old_price": "580.00",
       "new_price": "119.00",
-      "timestamp": "2026-01-24T21:20:11.640927",
+      "timestamp": "2026-01-24T21:25:50.960976",
       "url": "https://www.flannels.com/bottega-veneta-mens-straight-leg-trousers-510265"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Tailored Blazer",
+      "percentage": 79.5,
+      "old_price": "1554.00",
+      "new_price": "319.00",
+      "timestamp": "2026-01-24T21:25:50.960976",
+      "url": "https://www.flannels.com/bottega-veneta-womens-tailored-blazer-600902"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Knitwear Crew Neck Jumper",
+      "percentage": 79.5,
+      "old_price": "1554.00",
+      "new_price": "319.00",
+      "timestamp": "2026-01-24T21:25:50.960976",
+      "url": "https://www.flannels.com/bottega-veneta-womens-knitwear-crew-neck-jumper-321459"
     },
     {
       "site": "flannels_com",
@@ -619,6 +700,15 @@
       "new_price": "78.00",
       "timestamp": "2026-01-24T09:20:13.440794",
       "url": "https://www.flannels.com/bottega-veneta-mens-scarf-907004"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Bomber Jacket",
+      "percentage": 79.4,
+      "old_price": "1260.00",
+      "new_price": "259.00",
+      "timestamp": "2026-01-24T21:25:50.960976",
+      "url": "https://www.flannels.com/bottega-veneta-womens-bomber-jacket-660202"
     },
     {
       "site": "johnlewis_com",
@@ -1024,96 +1114,6 @@
       "new_price": "159.00",
       "timestamp": "2026-01-24T09:20:13.440794",
       "url": "https://www.flannels.com/chloe-womens-pary-leather-slip-on-espadrilles-230399"
-    },
-    {
-      "site": "flannels_com",
-      "product": "SAINT LAURENT - Stud Bracelet",
-      "percentage": 69.7,
-      "old_price": "380.00",
-      "new_price": "115.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/saint-laurent-stud-black-calf-leather-silver-tone-clasp-leather-bracelet-723900"
-    },
-    {
-      "site": "flannels_com",
-      "product": "SAINT LAURENT - Solferino Small Crossbody Bag",
-      "percentage": 69.7,
-      "old_price": "1415.00",
-      "new_price": "429.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/saint-laurent-solferino-small-crossbody-bag-761483"
-    },
-    {
-      "site": "flannels_com",
-      "product": "MONCLER - Gaia Snow Boots",
-      "percentage": 69.6,
-      "old_price": "805.00",
-      "new_price": "245.00",
-      "timestamp": "2026-01-24T09:20:13.440794",
-      "url": "https://www.flannels.com/moncler-gaia-snow-boots-232716"
-    },
-    {
-      "site": "flannels_com",
-      "product": "CHLOE - Iconic Flap With Chain",
-      "percentage": 69.6,
-      "old_price": "950.00",
-      "new_price": "289.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/chloe-womens-iconic-flap-leather-magnetic-wallet-on-chain-884476"
-    },
-    {
-      "site": "flannels_com",
-      "product": "VALENTINO GARAVANI - Rockstud Camouflage Trainers",
-      "percentage": 69.5,
-      "old_price": "640.00",
-      "new_price": "195.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/valentino-garavani-rockstud-camouflage-trainers-116547"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Sweaty Betty 30\" Power Bootcut Gym Trousers",
-      "percentage": 69.4,
-      "old_price": "90.00",
-      "new_price": "27.50",
-      "timestamp": "2026-01-23T11:48:23.302265",
-      "url": "https://www.johnlewis.com/sweaty-betty-30-inch-power-bootcut-gym-trousers/p110730830"
-    },
-    {
-      "site": "flannels_com",
-      "product": "DOLCE AND GABBANA - Logo Thong Sandal",
-      "percentage": 69.3,
-      "old_price": "485.00",
-      "new_price": "149.00",
-      "timestamp": "2026-01-24T03:08:59.229925",
-      "url": "https://www.flannels.com/dolce-and-gabbana-womens-logo-thong-patent-leather-buckle-flat-sandals-238492"
-    },
-    {
-      "site": "flannels_com",
-      "product": "SAINT LAURENT - Collier Chain Bracelet",
-      "percentage": 69.3,
-      "old_price": "420.00",
-      "new_price": "129.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/saint-laurent-collier-chain-bracelet-713191"
-    },
-    {
-      "site": "flannels_com",
-      "product": "SAINT LAURENT - Women's Bridget Flat Sandals",
-      "percentage": 69.3,
-      "old_price": "845.00",
-      "new_price": "259.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/saint-laurent-womens-bridget-flat-sandals-231463"
-    },
-    {
-      "site": "flannels_com",
-      "product": "SAINT LAURENT - Washed Denim Baseball Cap",
-      "percentage": 69.3,
-      "old_price": "420.00",
-      "new_price": "129.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/saint-laurent-womens-cassandre-washed-denim-cotton-baseball-cap-360735"
     }
   ]
 }

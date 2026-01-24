@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T01:48:00.858392",
-  "total_drops": 4975,
+  "generated_at": "2026-01-24T01:53:34.322193",
+  "total_drops": 5152,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 2321,
+      "count": 2498,
       "max_drop": 70.1,
-      "total_savings": 232420.73
+      "total_savings": 241855.7
     },
     {
       "site": "leaderonline_com",
@@ -991,6 +991,15 @@
     },
     {
       "site": "flannels_com",
+      "product": "VALENTINO GARAVANI - Rockstud Untitled Trainers",
+      "percentage": 50.1,
+      "old_price": "680.00",
+      "new_price": "339.00",
+      "timestamp": "2026-01-24T01:53:23.321710",
+      "url": "https://www.flannels.com/valentino-garavani-womens-rockstud-untitled-leather-lace-up-low-top-trainers-234092"
+    },
+    {
+      "site": "flannels_com",
       "product": "PRADA - Suede Loafers",
       "percentage": 50.1,
       "old_price": "720.00",
@@ -1069,15 +1078,6 @@
       "new_price": "439.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/valentino-garavani-womens-rockstud-calfskin-ankle-strap-block-heel-heeled-sandals-231023"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Leather Lace-Up Boots",
-      "percentage": 50.1,
-      "old_price": "1100.00",
-      "new_price": "549.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-womens-leather-lace-up-flat-ankle-boots-232113"
     }
   ]
 }

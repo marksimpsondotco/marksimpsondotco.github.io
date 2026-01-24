@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T07:45:40.161116",
-  "total_drops": 6067,
+  "generated_at": "2026-01-24T07:51:10.562705",
+  "total_drops": 6148,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 3282,
+      "count": 3287,
       "max_drop": 70.1,
-      "total_savings": 306182.21
+      "total_savings": 307881.21
     },
     {
       "site": "leaderonline_com",
@@ -64,16 +64,16 @@
       "total_savings": 4285.11
     },
     {
+      "site": "currys_com",
+      "count": 96,
+      "max_drop": 45.0,
+      "total_savings": 4892.5
+    },
+    {
       "site": "smallsmart_co_uk",
       "count": 121,
       "max_drop": 40.0,
       "total_savings": 361.06
-    },
-    {
-      "site": "currys_com",
-      "count": 20,
-      "max_drop": 38.8,
-      "total_savings": 1251.93
     },
     {
       "site": "condorcycles_com",

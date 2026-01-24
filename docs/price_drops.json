@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T14:34:20.685220",
-  "total_drops": 7295,
+  "generated_at": "2026-01-24T14:39:55.864740",
+  "total_drops": 7296,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 1656,
+      "count": 1657,
       "max_drop": 78.6,
-      "total_savings": 34654.75
+      "total_savings": 34688.75
     },
     {
       "site": "leaderonline_com",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T07:40:10.238916",
-  "total_drops": 6048,
+  "generated_at": "2026-01-24T07:45:40.161116",
+  "total_drops": 6067,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,15 +11,15 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 1596,
+      "count": 1597,
       "max_drop": 78.6,
-      "total_savings": 33728.42
+      "total_savings": 33734.42
     },
     {
       "site": "flannels_com",
-      "count": 3277,
+      "count": 3282,
       "max_drop": 70.1,
-      "total_savings": 305499.21
+      "total_savings": 306182.21
     },
     {
       "site": "leaderonline_com",
@@ -68,6 +68,12 @@
       "count": 121,
       "max_drop": 40.0,
       "total_savings": 361.06
+    },
+    {
+      "site": "currys_com",
+      "count": 20,
+      "max_drop": 38.8,
+      "total_savings": 1251.93
     },
     {
       "site": "condorcycles_com",
@@ -140,12 +146,6 @@
       "count": 16,
       "max_drop": 20.0,
       "total_savings": 980.44
-    },
-    {
-      "site": "currys_com",
-      "count": 7,
-      "max_drop": 20.0,
-      "total_savings": 164.99
     },
     {
       "site": "baby-nest_co_uk",

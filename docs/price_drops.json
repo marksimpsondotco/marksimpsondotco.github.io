@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T11:20:53.958199",
-  "total_drops": 7240,
+  "generated_at": "2026-01-24T11:26:31.396328",
+  "total_drops": 7245,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 1627,
+      "count": 1632,
       "max_drop": 78.6,
-      "total_savings": 34129.69
+      "total_savings": 34234.59
     },
     {
       "site": "leaderonline_com",
@@ -731,8 +731,17 @@
       "percentage": 70.0,
       "old_price": "250.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-24T11:20:22.674285",
+      "timestamp": "2026-01-24T11:25:58.616186",
       "url": "https://www.johnlewis.com/john-lewis-kastrup-rug/p5136378"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Crisp & Fresh Egyptian Cotton Percale 200 Thread Count Bedding",
+      "percentage": 70.0,
+      "old_price": "12.00",
+      "new_price": "3.60",
+      "timestamp": "2026-01-24T11:25:58.616186",
+      "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-egyptian-cotton-percale-200-thread-count-bedding/p5417600"
     },
     {
       "site": "flannels_com",
@@ -1093,15 +1102,6 @@
       "new_price": "14.00",
       "timestamp": "2026-01-23T11:48:23.302265",
       "url": "https://www.johnlewis.com/sweaty-betty-athlete-seamless-t-shirt/p114030189"
-    },
-    {
-      "site": "flannels_com",
-      "product": "MONCLER - Legre Crossbody Bag",
-      "percentage": 68.9,
-      "old_price": "370.00",
-      "new_price": "115.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/moncler-legre-crossbody-bag-836633"
     }
   ]
 }

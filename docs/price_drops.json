@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-25T21:28:48.344503",
-  "total_drops": 42,
-  "top_drops_shown": 42,
+  "generated_at": "2026-01-25T21:33:50.402973",
+  "total_drops": 43,
+  "top_drops_shown": 43,
   "site_stats": [
     {
       "site": "flannels_com",
-      "count": 25,
+      "count": 26,
       "max_drop": 79.6,
-      "total_savings": 1296.0
+      "total_savings": 1311.0
     },
     {
       "site": "johnlewis_com",
@@ -23,7 +23,7 @@
       "percentage": 79.6,
       "old_price": "269.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/bottega-veneta-womens-scoop-neck-swimsuit--scoop-neck-design-350677"
     },
     {
@@ -32,7 +32,7 @@
       "percentage": 40.0,
       "old_price": "50.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/boss-mens-paule-short-sleeve-polo-shirt-541588"
     },
     {
@@ -41,7 +41,7 @@
       "percentage": 40.0,
       "old_price": "40.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/boss-mens-short-sleeve-polo-shirt-542075"
     },
     {
@@ -50,7 +50,7 @@
       "percentage": 38.5,
       "old_price": "65.00",
       "new_price": "40.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/boss-mens-hbo-passenger-premium-design-polo-shirt-544913"
     },
     {
@@ -59,7 +59,7 @@
       "percentage": 29.6,
       "old_price": "240.00",
       "new_price": "169.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/vilebrequin-mens-moorea-quick-drying-swim-shorts-350747"
     },
     {
@@ -68,7 +68,7 @@
       "percentage": 29.5,
       "old_price": "305.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/moncler-kids-large-logo-cotton-long-sleeve-pull-over-hoodie-549882"
     },
     {
@@ -77,7 +77,7 @@
       "percentage": 29.5,
       "old_price": "149.00",
       "new_price": "105.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/aape-mens-aaper-pull-over-hoodie-532184"
     },
     {
@@ -86,7 +86,7 @@
       "percentage": 29.3,
       "old_price": "225.00",
       "new_price": "159.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/polo-ralph-lauren-mens-mesh-knit-cotton-quarter-zip-long-sleeve-crew-neck-jumper-333990"
     },
     {
@@ -95,7 +95,7 @@
       "percentage": 29.3,
       "old_price": "99.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/boss-webossstitch-10257973-01-522930"
     },
     {
@@ -122,7 +122,7 @@
       "percentage": 28.6,
       "old_price": "49.00",
       "new_price": "35.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/hugo-kids-split-logo-short-sleeve-polo-shirt-541255"
     },
     {
@@ -167,7 +167,7 @@
       "percentage": 20.1,
       "old_price": "299.00",
       "new_price": "239.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/versace-mens-grec-short-sleeve-polo-shirt-541570"
     },
     {
@@ -275,7 +275,7 @@
       "percentage": 19.4,
       "old_price": "155.00",
       "new_price": "125.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/polo-ralph-lauren-mens-luxetech-closed-hem-fleece-joggers-482618"
     },
     {
@@ -284,7 +284,7 @@
       "percentage": 18.2,
       "old_price": "165.00",
       "new_price": "135.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/vivienne-westwood-mens-viv-tip-short-sleeve-polo-shirt-540099"
     },
     {
@@ -293,7 +293,7 @@
       "percentage": 18.2,
       "old_price": "165.00",
       "new_price": "135.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/versace-unisex-kids-onesie-560001"
     },
     {
@@ -302,7 +302,7 @@
       "percentage": 18.0,
       "old_price": "128.00",
       "new_price": "105.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/skims-womens-soft-lounge-modal-long-sleeve-pyjama-set-332162"
     },
     {
@@ -311,7 +311,7 @@
       "percentage": 17.9,
       "old_price": "145.00",
       "new_price": "119.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/polo-ralph-lauren-mens-slim-fit-oxford-long-sleeve-cotton-shirt-558452"
     },
     {
@@ -320,7 +320,7 @@
       "percentage": 17.4,
       "old_price": "115.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/versace-versace-logo-polo-jn61-540172"
     },
     {
@@ -334,11 +334,20 @@
     },
     {
       "site": "flannels_com",
+      "product": "REPRESENT - Rep Owners Tee Sn61",
+      "percentage": 16.7,
+      "old_price": "90.00",
+      "new_price": "75.00",
+      "timestamp": "2026-01-25T21:33:48.563098",
+      "url": "https://www.flannels.com/represent-rep-owners-tee-sn61-590570"
+    },
+    {
+      "site": "flannels_com",
       "product": "BOSS - Kids' Logo Pull Over Hoodie",
       "percentage": 16.2,
       "old_price": "105.00",
       "new_price": "88.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/boss-kids-logo-pull-over-hoodie-530133"
     },
     {
@@ -347,7 +356,7 @@
       "percentage": 16.0,
       "old_price": "125.00",
       "new_price": "105.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/the-couture-club-mens-sherpa-zipped-bomber-jacket-602629"
     },
     {
@@ -356,7 +365,7 @@
       "percentage": 16.0,
       "old_price": "50.00",
       "new_price": "42.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/barbour-international-mens-evan-tip-cotton-short-sleeve-polo-shirt-543064"
     },
     {
@@ -365,7 +374,7 @@
       "percentage": 15.8,
       "old_price": "95.00",
       "new_price": "80.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/cole-buxton-mens-cb-sportswear-logo-cotton-short-sleeve-oversized-t-shirts-593051"
     },
     {
@@ -374,7 +383,7 @@
       "percentage": 15.6,
       "old_price": "45.00",
       "new_price": "38.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/the-north-face-unisex-kids-tnf-box-never-stop-exploring-hoodie-530273"
     },
     {
@@ -383,7 +392,7 @@
       "percentage": 15.4,
       "old_price": "65.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-25T21:28:40.071125",
+      "timestamp": "2026-01-25T21:33:48.563098",
       "url": "https://www.flannels.com/the-north-face-yumiori-fleece-juniors-530163"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T10:33:40.942209",
-  "total_drops": 7993,
+  "generated_at": "2026-01-25T10:39:21.364631",
+  "total_drops": 7994,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 1946,
+      "count": 1947,
       "max_drop": 78.6,
-      "total_savings": 38834.92
+      "total_savings": 38861.42
     },
     {
       "site": "leaderonline_com",
@@ -890,7 +890,7 @@
       "percentage": 70.0,
       "old_price": "115.00",
       "new_price": "34.50",
-      "timestamp": "2026-01-25T10:33:11.987669",
+      "timestamp": "2026-01-25T10:38:53.147640",
       "url": "https://www.johnlewis.com/john-lewis-otto-leather-pointed-toe-kitten-heel-ankle-boots/p113907311"
     },
     {

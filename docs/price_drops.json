@@ -1,13 +1,19 @@
 {
-  "generated_at": "2026-01-25T19:33:02.603954",
-  "total_drops": 17,
-  "top_drops_shown": 17,
+  "generated_at": "2026-01-25T19:38:03.899803",
+  "total_drops": 18,
+  "top_drops_shown": 18,
   "site_stats": [
     {
       "site": "johnlewis_com",
       "count": 17,
       "max_drop": 28.6,
       "total_savings": 150.5
+    },
+    {
+      "site": "flannels_com",
+      "count": 1,
+      "max_drop": 16.7,
+      "total_savings": 20.0
     }
   ],
   "drops": [
@@ -154,6 +160,15 @@
       "new_price": "40.00",
       "timestamp": "2026-01-25T18:23:19.837259",
       "url": "https://www.johnlewis.com/polarn-o-pyret-baby-plain-salopettes-black/p109116045"
+    },
+    {
+      "site": "flannels_com",
+      "product": "AMI PARIS - Men's Felted Beanie",
+      "percentage": 16.7,
+      "old_price": "120.00",
+      "new_price": "100.00",
+      "timestamp": "2026-01-25T19:38:02.973572",
+      "url": "https://www.flannels.com/ami-paris-mens-felted-beanie-906009"
     },
     {
       "site": "johnlewis_com",

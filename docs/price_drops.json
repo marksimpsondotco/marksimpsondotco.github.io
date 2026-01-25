@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T06:02:33.687912",
-  "total_drops": 7831,
+  "generated_at": "2026-01-25T06:08:12.689409",
+  "total_drops": 7838,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -203,9 +203,9 @@
     },
     {
       "site": "mansurgavriel_com",
-      "count": 6,
+      "count": 13,
       "max_drop": 3.0,
-      "total_savings": 18.0
+      "total_savings": 58.0
     },
     {
       "site": "ullajohnson_com",

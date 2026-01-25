@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T05:33:00.340823",
-  "total_drops": 7827,
+  "generated_at": "2026-01-25T05:38:41.342360",
+  "total_drops": 7829,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 1799,
+      "count": 1800,
       "max_drop": 78.6,
-      "total_savings": 36201.17
+      "total_savings": 36215.67
     },
     {
       "site": "leaderonline_com",
@@ -137,9 +137,9 @@
     },
     {
       "site": "jigsaw-online_com",
-      "count": 177,
+      "count": 178,
       "max_drop": 25.7,
-      "total_savings": 2378.0
+      "total_savings": 2390.0
     },
     {
       "site": "pureelectric_com",

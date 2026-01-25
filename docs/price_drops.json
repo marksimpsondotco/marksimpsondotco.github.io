@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T05:09:49.828181",
-  "total_drops": 7629,
+  "generated_at": "2026-01-25T05:10:27.214566",
+  "total_drops": 7710,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -158,6 +158,12 @@
       "count": 6,
       "max_drop": 21.9,
       "total_savings": 764.0
+    },
+    {
+      "site": "jigsaw-online_com",
+      "count": 81,
+      "max_drop": 20.5,
+      "total_savings": 1219.0
     },
     {
       "site": "uk_ooni_com",

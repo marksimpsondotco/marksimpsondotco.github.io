@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T10:05:22.110355",
-  "total_drops": 7938,
+  "generated_at": "2026-01-25T10:11:01.500363",
+  "total_drops": 7942,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 1891,
+      "count": 1895,
       "max_drop": 78.6,
-      "total_savings": 38028.87
+      "total_savings": 38152.77
     },
     {
       "site": "leaderonline_com",
@@ -885,6 +885,15 @@
       "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-egyptian-cotton-percale-200-thread-count-bedding/p5417600"
     },
     {
+      "site": "johnlewis_com",
+      "product": "John Lewis Otto Leather Pointed Toe Kitten Heel Ankle Boots",
+      "percentage": 70.0,
+      "old_price": "115.00",
+      "new_price": "34.50",
+      "timestamp": "2026-01-25T10:10:32.624261",
+      "url": "https://www.johnlewis.com/john-lewis-otto-leather-pointed-toe-kitten-heel-ankle-boots/p113907311"
+    },
+    {
       "site": "flannels_com",
       "product": "CHLOE - Andrea Slingback Mules",
       "percentage": 70.0,
@@ -1117,15 +1126,6 @@
       "new_price": "95.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/dolce-and-gabbana-womens-logo-grained-textured-leather-belt-945092"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Long Belt",
-      "percentage": 69.8,
-      "old_price": "480.00",
-      "new_price": "145.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-womens-long-leather-belt-931371"
     }
   ]
 }

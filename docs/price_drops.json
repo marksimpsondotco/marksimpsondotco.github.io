@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T10:51:23.182265",
-  "total_drops": 7994,
+  "generated_at": "2026-01-25T10:57:02.678277",
+  "total_drops": 7997,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 1947,
+      "count": 1950,
       "max_drop": 78.6,
-      "total_savings": 38861.42
+      "total_savings": 38978.92
     },
     {
       "site": "leaderonline_com",
@@ -886,6 +886,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Straight Relaxed Leg Jean",
+      "percentage": 70.0,
+      "old_price": "65.00",
+      "new_price": "19.50",
+      "timestamp": "2026-01-25T10:56:31.196108",
+      "url": "https://www.johnlewis.com/john-lewis-straight-relaxed-leg-jean/p114103538"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Otto Leather Pointed Toe Kitten Heel Ankle Boots",
       "percentage": 70.0,
       "old_price": "115.00",
@@ -1117,15 +1126,6 @@
       "new_price": "389.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/prada-womens-embroidered-leather-sequin-bucket-mini-bag-834657"
-    },
-    {
-      "site": "flannels_com",
-      "product": "DOLCE AND GABBANA - Logo Grained Leather Belt",
-      "percentage": 69.8,
-      "old_price": "315.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/dolce-and-gabbana-womens-logo-grained-textured-leather-belt-945092"
     }
   ]
 }

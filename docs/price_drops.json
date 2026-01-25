@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T09:47:33.679810",
-  "total_drops": 7935,
+  "generated_at": "2026-01-25T09:53:15.419679",
+  "total_drops": 7938,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "pigletinbed_com",
-      "count": 12,
+      "count": 15,
       "max_drop": 53.3,
-      "total_savings": 240.0
+      "total_savings": 282.0
     },
     {
       "site": "hamleys_com",

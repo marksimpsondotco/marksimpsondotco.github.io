@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T05:21:42.356014",
-  "total_drops": 7812,
+  "generated_at": "2026-01-25T05:27:21.870536",
+  "total_drops": 7813,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -137,9 +137,9 @@
     },
     {
       "site": "jigsaw-online_com",
-      "count": 176,
+      "count": 177,
       "max_drop": 25.7,
-      "total_savings": 2375.0
+      "total_savings": 2378.0
     },
     {
       "site": "pureelectric_com",

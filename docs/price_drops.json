@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T11:14:42.649889",
-  "total_drops": 8006,
+  "generated_at": "2026-01-25T11:20:23.351657",
+  "total_drops": 8015,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 1959,
+      "count": 1968,
       "max_drop": 78.6,
-      "total_savings": 39234.87
+      "total_savings": 39271.57
     },
     {
       "site": "leaderonline_com",
@@ -890,7 +890,7 @@
       "percentage": 70.0,
       "old_price": "65.00",
       "new_price": "19.50",
-      "timestamp": "2026-01-25T11:14:12.238378",
+      "timestamp": "2026-01-25T11:19:51.915530",
       "url": "https://www.johnlewis.com/john-lewis-straight-relaxed-leg-jean/p114103538"
     },
     {

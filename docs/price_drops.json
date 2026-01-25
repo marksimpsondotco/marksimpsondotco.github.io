@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-25T21:03:38.307213",
-  "total_drops": 28,
-  "top_drops_shown": 28,
+  "generated_at": "2026-01-25T21:08:39.705020",
+  "total_drops": 35,
+  "top_drops_shown": 35,
   "site_stats": [
     {
       "site": "flannels_com",
-      "count": 11,
+      "count": 18,
       "max_drop": 79.6,
-      "total_savings": 905.0
+      "total_savings": 1093.0
     },
     {
       "site": "johnlewis_com",
@@ -23,7 +23,7 @@
       "percentage": 79.6,
       "old_price": "269.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-25T21:03:38.046023",
+      "timestamp": "2026-01-25T21:08:36.890640",
       "url": "https://www.flannels.com/bottega-veneta-womens-scoop-neck-swimsuit--scoop-neck-design-350677"
     },
     {
@@ -32,7 +32,7 @@
       "percentage": 40.0,
       "old_price": "50.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-25T21:03:38.046023",
+      "timestamp": "2026-01-25T21:08:36.890640",
       "url": "https://www.flannels.com/boss-mens-paule-short-sleeve-polo-shirt-541588"
     },
     {
@@ -41,7 +41,7 @@
       "percentage": 40.0,
       "old_price": "40.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-25T21:03:38.046023",
+      "timestamp": "2026-01-25T21:08:36.890640",
       "url": "https://www.flannels.com/boss-mens-short-sleeve-polo-shirt-542075"
     },
     {
@@ -50,7 +50,7 @@
       "percentage": 38.5,
       "old_price": "65.00",
       "new_price": "40.00",
-      "timestamp": "2026-01-25T21:03:38.046023",
+      "timestamp": "2026-01-25T21:08:36.890640",
       "url": "https://www.flannels.com/boss-mens-hbo-passenger-premium-design-polo-shirt-544913"
     },
     {
@@ -59,8 +59,17 @@
       "percentage": 29.6,
       "old_price": "240.00",
       "new_price": "169.00",
-      "timestamp": "2026-01-25T21:03:38.046023",
+      "timestamp": "2026-01-25T21:08:36.890640",
       "url": "https://www.flannels.com/vilebrequin-mens-moorea-quick-drying-swim-shorts-350747"
+    },
+    {
+      "site": "flannels_com",
+      "product": "MONCLER - Large Logo Hoodie Juniors",
+      "percentage": 29.5,
+      "old_price": "305.00",
+      "new_price": "215.00",
+      "timestamp": "2026-01-25T21:08:36.890640",
+      "url": "https://www.flannels.com/moncler-kids-large-logo-cotton-long-sleeve-pull-over-hoodie-549882"
     },
     {
       "site": "flannels_com",
@@ -68,7 +77,7 @@
       "percentage": 29.3,
       "old_price": "225.00",
       "new_price": "159.00",
-      "timestamp": "2026-01-25T21:03:38.046023",
+      "timestamp": "2026-01-25T21:08:36.890640",
       "url": "https://www.flannels.com/polo-ralph-lauren-mens-mesh-knit-cotton-quarter-zip-long-sleeve-crew-neck-jumper-333990"
     },
     {
@@ -77,7 +86,7 @@
       "percentage": 29.3,
       "old_price": "99.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-25T21:03:38.046023",
+      "timestamp": "2026-01-25T21:08:36.890640",
       "url": "https://www.flannels.com/boss-webossstitch-10257973-01-522930"
     },
     {
@@ -97,6 +106,15 @@
       "new_price": "70.00",
       "timestamp": "2026-01-25T18:23:19.837259",
       "url": "https://www.johnlewis.com/stella-mccartney-kids-kids-jack-teddy-fleece-jacket-blue/p113374587"
+    },
+    {
+      "site": "flannels_com",
+      "product": "HUGO - Kids' Split Logo Short Sleeve Polo Shirt",
+      "percentage": 28.6,
+      "old_price": "49.00",
+      "new_price": "35.00",
+      "timestamp": "2026-01-25T21:08:36.890640",
+      "url": "https://www.flannels.com/hugo-kids-split-logo-short-sleeve-polo-shirt-541255"
     },
     {
       "site": "flannels_com",
@@ -239,8 +257,17 @@
       "percentage": 18.2,
       "old_price": "165.00",
       "new_price": "135.00",
-      "timestamp": "2026-01-25T21:03:38.046023",
+      "timestamp": "2026-01-25T21:08:36.890640",
       "url": "https://www.flannels.com/vivienne-westwood-mens-viv-tip-short-sleeve-polo-shirt-540099"
+    },
+    {
+      "site": "flannels_com",
+      "product": "VERSACE - Unisex Kids' Onesie",
+      "percentage": 18.2,
+      "old_price": "165.00",
+      "new_price": "135.00",
+      "timestamp": "2026-01-25T21:08:36.890640",
+      "url": "https://www.flannels.com/versace-unisex-kids-onesie-560001"
     },
     {
       "site": "flannels_com",
@@ -248,8 +275,17 @@
       "percentage": 18.0,
       "old_price": "128.00",
       "new_price": "105.00",
-      "timestamp": "2026-01-25T21:03:38.046023",
+      "timestamp": "2026-01-25T21:08:36.890640",
       "url": "https://www.flannels.com/skims-womens-soft-lounge-modal-long-sleeve-pyjama-set-332162"
+    },
+    {
+      "site": "flannels_com",
+      "product": "VERSACE - Versace Logo Polo Jn61",
+      "percentage": 17.4,
+      "old_price": "115.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-25T21:08:36.890640",
+      "url": "https://www.flannels.com/versace-versace-logo-polo-jn61-540172"
     },
     {
       "site": "flannels_com",
@@ -259,6 +295,33 @@
       "new_price": "100.00",
       "timestamp": "2026-01-25T20:25:36.195362",
       "url": "https://www.flannels.com/ami-paris-mens-felted-beanie-906009"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOSS - Kids' Logo Pull Over Hoodie",
+      "percentage": 16.2,
+      "old_price": "105.00",
+      "new_price": "88.00",
+      "timestamp": "2026-01-25T21:08:36.890640",
+      "url": "https://www.flannels.com/boss-kids-logo-pull-over-hoodie-530133"
+    },
+    {
+      "site": "flannels_com",
+      "product": "THE NORTH FACE - Unisex Kids TNF Box Never Stop Exploring Hoodie",
+      "percentage": 15.6,
+      "old_price": "45.00",
+      "new_price": "38.00",
+      "timestamp": "2026-01-25T21:08:36.890640",
+      "url": "https://www.flannels.com/the-north-face-unisex-kids-tnf-box-never-stop-exploring-hoodie-530273"
+    },
+    {
+      "site": "flannels_com",
+      "product": "THE NORTH FACE - Yumiori Fleece Juniors",
+      "percentage": 15.4,
+      "old_price": "65.00",
+      "new_price": "55.00",
+      "timestamp": "2026-01-25T21:08:36.890640",
+      "url": "https://www.flannels.com/the-north-face-yumiori-fleece-juniors-530163"
     },
     {
       "site": "johnlewis_com",

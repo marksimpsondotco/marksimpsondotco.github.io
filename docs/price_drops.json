@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T12:58:59.084323",
-  "total_drops": 8031,
+  "generated_at": "2026-01-25T13:04:41.357085",
+  "total_drops": 8035,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -8,6 +8,12 @@
       "count": 5,
       "max_drop": 88.9,
       "total_savings": 7912.3
+    },
+    {
+      "site": "leaderonline_com",
+      "count": 7,
+      "max_drop": 80.7,
+      "total_savings": 215.98
     },
     {
       "site": "flannels_com",
@@ -20,12 +26,6 @@
       "count": 1982,
       "max_drop": 78.6,
       "total_savings": 39733.22
-    },
-    {
-      "site": "leaderonline_com",
-      "count": 3,
-      "max_drop": 66.7,
-      "total_savings": 61.98
     },
     {
       "site": "currys_com",
@@ -253,6 +253,15 @@
       "new_price": "0.22",
       "timestamp": "2026-01-24T06:56:27.639663",
       "url": "https://callidus.shop/products/standard-blade-fuse-30a-32v"
+    },
+    {
+      "site": "leaderonline_com",
+      "product": "Clear Pine Internal Unfinished 2 Panel 2 Light Clear Glass Door (93642)",
+      "percentage": 80.7,
+      "old_price": "109.00",
+      "new_price": "21.00",
+      "timestamp": "2026-01-25T13:04:01.626168",
+      "url": "https://www.leaderonline.com/products/liberty-doors-clear-pine-internal-unfinished-2-panel-2-light-clear-glass-door-93642"
     },
     {
       "site": "flannels_com",
@@ -1117,15 +1126,6 @@
       "new_price": "629.00",
       "timestamp": "2026-01-24T00:59:41.981739",
       "url": "https://www.flannels.com/saint-laurent-downtown-tote-bag-891986"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PRADA - Mini Embroidered Bucket Bag",
-      "percentage": 69.8,
-      "old_price": "1290.00",
-      "new_price": "389.00",
-      "timestamp": "2026-01-24T00:59:41.981739",
-      "url": "https://www.flannels.com/prada-womens-embroidered-leather-sequin-bucket-mini-bag-834657"
     }
   ]
 }

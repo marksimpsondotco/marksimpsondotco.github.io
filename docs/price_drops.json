@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-01-26T22:40:57.552072",
-  "total_drops": 789,
+  "generated_at": "2026-01-26T22:46:04.303845",
+  "total_drops": 834,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "flannels_com",
-      "count": 456,
+      "count": 457,
       "max_drop": 80.1,
-      "total_savings": 89013.3
-    },
-    {
-      "site": "currys_com",
-      "count": 51,
-      "max_drop": 64.0,
-      "total_savings": 3022.13
+      "total_savings": 89015.3
     },
     {
       "site": "johnlewis_com",
-      "count": 275,
-      "max_drop": 59.2,
-      "total_savings": 5065.17
+      "count": 308,
+      "max_drop": 70.0,
+      "total_savings": 5574.7
+    },
+    {
+      "site": "currys_com",
+      "count": 60,
+      "max_drop": 64.0,
+      "total_savings": 3551.45
     },
     {
       "site": "victoriabeckham_com",
@@ -29,9 +29,9 @@
     },
     {
       "site": "hauslondon_com",
-      "count": 5,
+      "count": 7,
       "max_drop": 28.5,
-      "total_savings": 320.8
+      "total_savings": 372.8
     },
     {
       "site": "kingofcotton_com",
@@ -339,12 +339,21 @@
       "url": "https://www.flannels.com/bottega-veneta-womens-tailored-flowing-mini-dress-321687"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Triumph Amourette Half Padded Balconette Bra",
+      "percentage": 70.0,
+      "old_price": "42.00",
+      "new_price": "12.60",
+      "timestamp": "2026-01-26T22:45:56.635628",
+      "url": "https://www.johnlewis.com/triumph-amourette-half-padded-balconette-bra/p112671601"
+    },
+    {
       "site": "currys_com",
       "product": "ORAL-B Pro 3 3500 Electric Toothbrush - Design Edition",
       "percentage": 64.0,
       "old_price": "100.00",
       "new_price": "35.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10296630.html"
     },
     {
@@ -353,7 +362,7 @@
       "percentage": 61.1,
       "old_price": "179.99",
       "new_price": "69.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10281471.html"
     },
     {
@@ -362,7 +371,7 @@
       "percentage": 60.9,
       "old_price": "229.99",
       "new_price": "89.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10289415.html"
     },
     {
@@ -371,7 +380,7 @@
       "percentage": 60.6,
       "old_price": "329.99",
       "new_price": "129.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10234879.html"
     },
     {
@@ -380,7 +389,7 @@
       "percentage": 60.6,
       "old_price": "329.99",
       "new_price": "129.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10286180.html"
     },
     {
@@ -389,7 +398,7 @@
       "percentage": 59.2,
       "old_price": "169.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/carvela-silver2-buckle-leather-ankle-boots-black/p113964990"
     },
     {
@@ -398,7 +407,7 @@
       "percentage": 57.1,
       "old_price": "139.99",
       "new_price": "59.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10259533.html"
     },
     {
@@ -407,7 +416,7 @@
       "percentage": 55.4,
       "old_price": "649.99",
       "new_price": "289.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10263456.html"
     },
     {
@@ -416,7 +425,7 @@
       "percentage": 55.0,
       "old_price": "299.99",
       "new_price": "134.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10234883.html"
     },
     {
@@ -425,7 +434,7 @@
       "percentage": 55.0,
       "old_price": "199.99",
       "new_price": "89.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10286368.html"
     },
     {
@@ -434,7 +443,7 @@
       "percentage": 55.0,
       "old_price": "299.99",
       "new_price": "134.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10290236.html"
     },
     {
@@ -443,7 +452,7 @@
       "percentage": 54.5,
       "old_price": "22.00",
       "new_price": "10.00",
-      "timestamp": "2026-01-26T22:40:52.707615",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/john-lewis-lions-weather-fitted-baby-sheet-pack-of-2-multi/p112564166"
     },
     {
@@ -452,7 +461,7 @@
       "percentage": 54.5,
       "old_price": "549.99",
       "new_price": "249.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10285802.html"
     },
     {
@@ -461,7 +470,7 @@
       "percentage": 54.5,
       "old_price": "439.99",
       "new_price": "199.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10291146.html"
     },
     {
@@ -470,7 +479,7 @@
       "percentage": 54.2,
       "old_price": "119.99",
       "new_price": "54.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10272194.html"
     },
     {
@@ -479,7 +488,7 @@
       "percentage": 54.0,
       "old_price": "99.99",
       "new_price": "45.99",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/mango-americana-irese-double-breasted-blazer-green/p114500973"
     },
     {
@@ -488,7 +497,7 @@
       "percentage": 52.0,
       "old_price": "24.99",
       "new_price": "12.00",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/kaffe-amber-regular-tunic-top/p6170267"
     },
     {
@@ -497,7 +506,7 @@
       "percentage": 51.3,
       "old_price": "39.00",
       "new_price": "19.00",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/ro-zo-linen-blend-maxi-skirt/p113447748"
     },
     {
@@ -506,7 +515,7 @@
       "percentage": 51.0,
       "old_price": "98.00",
       "new_price": "48.00",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/reiss-petite-gabi-slim-fit-suit-trousers/p111648116"
     },
     {
@@ -515,7 +524,7 @@
       "percentage": 50.5,
       "old_price": "99.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/mint-velvet-arella-leather-ruched-flat-ballerina-pumps/p114017257"
     },
     {
@@ -569,7 +578,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-26T22:40:52.170131",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/le-creuset-stoneware-small-pumpkin-casserole-350ml-volcanic/p112276050"
     },
     {
@@ -578,7 +587,7 @@
       "percentage": 50.0,
       "old_price": "15.00",
       "new_price": "7.50",
-      "timestamp": "2026-01-26T22:40:52.170131",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/john-lewis-ambleside-stripe-towels/p113373922"
     },
     {
@@ -587,7 +596,7 @@
       "percentage": 50.0,
       "old_price": "65.00",
       "new_price": "32.50",
-      "timestamp": "2026-01-26T22:40:52.708249",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
     },
     {
@@ -596,7 +605,7 @@
       "percentage": 50.0,
       "old_price": "74.95",
       "new_price": "37.48",
-      "timestamp": "2026-01-26T22:40:52.708292",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/roka-london-canfield-b-recycled-nylon-rolltop-backpack-15l/p112395052"
     },
     {
@@ -605,7 +614,7 @@
       "percentage": 50.0,
       "old_price": "100.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-26T22:40:52.708292",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/herschel-supply-co-retreat-backpack/p110710185"
     },
     {
@@ -614,7 +623,7 @@
       "percentage": 50.0,
       "old_price": "39.00",
       "new_price": "19.50",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/john-lewis-v-neck-merino-wool-sleeveless-jumper/p113744926"
     },
     {
@@ -623,7 +632,7 @@
       "percentage": 50.0,
       "old_price": "59.00",
       "new_price": "29.50",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/john-lewis-gathered-leather-crossbody-bag/p110947333"
     },
     {
@@ -632,8 +641,53 @@
       "percentage": 50.0,
       "old_price": "139.95",
       "new_price": "69.98",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/nydj-waist-match-barbara-bootcut-jeans/p113996772"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Egyptian Cotton Unisex Bath Robe",
+      "percentage": 50.0,
+      "old_price": "60.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-26T22:45:56.635628",
+      "url": "https://www.johnlewis.com/john-lewis-egyptian-cotton-unisex-bath-robe/p111801685"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Chantelle Norah Chic Plunge T-Shirt Bra",
+      "percentage": 50.0,
+      "old_price": "60.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-26T22:45:56.635628",
+      "url": "https://www.johnlewis.com/chantelle-norah-chic-plunge-t-shirt-bra/p111652749"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "sloggi ZERO Feel 2.0 Top",
+      "percentage": 50.0,
+      "old_price": "30.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-26T22:45:56.635628",
+      "url": "https://www.johnlewis.com/sloggi-zero-feel-2-0-top/p112270620"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "FALKE Cosy Wool & Cashmere Blend Socks",
+      "percentage": 50.0,
+      "old_price": "20.00",
+      "new_price": "10.00",
+      "timestamp": "2026-01-26T22:45:56.635628",
+      "url": "https://www.johnlewis.com/falke-cosy-wool-cashmere-blend-socks/p112090754"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Superdry Cable Luxe Knit Bobble Hat",
+      "percentage": 50.0,
+      "old_price": "24.99",
+      "new_price": "12.50",
+      "timestamp": "2026-01-26T22:45:56.635628",
+      "url": "https://www.johnlewis.com/superdry-cable-luxe-knit-bobble-hat/p112434817"
     },
     {
       "site": "flannels_com",
@@ -677,7 +731,7 @@
       "percentage": 50.0,
       "old_price": "99.99",
       "new_price": "49.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10261034.html"
     },
     {
@@ -686,7 +740,7 @@
       "percentage": 50.0,
       "old_price": "39.99",
       "new_price": "19.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10227413.html"
     },
     {
@@ -695,7 +749,7 @@
       "percentage": 50.0,
       "old_price": "354.00",
       "new_price": "177.00",
-      "timestamp": "2026-01-26T22:40:41.608724",
+      "timestamp": "2026-01-26T22:43:55.097699",
       "url": "https://www.victoriabeckham.com/products/corset-top-in-ivory-20170"
     },
     {
@@ -785,7 +839,7 @@
       "percentage": 49.4,
       "old_price": "79.00",
       "new_price": "39.99",
-      "timestamp": "2026-01-26T22:40:56.294900",
+      "timestamp": "2026-01-26T22:46:01.822193",
       "url": "https://www.currys.co.uk/products/10280253.html"
     },
     {
@@ -794,7 +848,7 @@
       "percentage": 49.3,
       "old_price": "71.00",
       "new_price": "36.00",
-      "timestamp": "2026-01-26T22:40:52.708292",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/white-stuff-amelie-metallic-dress-black-multi/p114369277"
     },
     {
@@ -830,7 +884,7 @@
       "percentage": 47.6,
       "old_price": "41.00",
       "new_price": "21.50",
-      "timestamp": "2026-01-26T22:40:52.170131",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/le-creuset-classic-salt-mill/p5065295"
     },
     {
@@ -839,7 +893,7 @@
       "percentage": 46.5,
       "old_price": "129.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/carvela-pienza-wide-fit-leather-ankle-boots-brown/p113964998"
     },
     {
@@ -848,7 +902,7 @@
       "percentage": 46.1,
       "old_price": "129.95",
       "new_price": "69.98",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/nydj-jemma-high-rise-barrel-leg-jeans/p114407685"
     },
     {
@@ -857,8 +911,17 @@
       "percentage": 44.5,
       "old_price": "35.99",
       "new_price": "19.99",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/mango-alegra-zebra-print-mini-dress-black/p114099483"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Mango Amaio Knot Neck Jumper, Pastel Pink",
+      "percentage": 43.5,
+      "old_price": "22.99",
+      "new_price": "12.99",
+      "timestamp": "2026-01-26T22:45:56.635628",
+      "url": "https://www.johnlewis.com/mango-amaio-knot-neck-jumper-pastel-pink/p114406701"
     },
     {
       "site": "johnlewis_com",
@@ -866,7 +929,7 @@
       "percentage": 40.7,
       "old_price": "59.00",
       "new_price": "35.00",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/brora-lace-trim-ribbed-camisole/p110686607"
     },
     {
@@ -875,71 +938,8 @@
       "percentage": 40.5,
       "old_price": "79.00",
       "new_price": "47.00",
-      "timestamp": "2026-01-26T22:40:52.709566",
+      "timestamp": "2026-01-26T22:45:56.635628",
       "url": "https://www.johnlewis.com/dune-london-heat-woven-leather-ballerina-pumps/p113118999"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Matt Finish Toilet Brush",
-      "percentage": 40.0,
-      "old_price": "7.50",
-      "new_price": "4.50",
-      "timestamp": "2026-01-26T22:40:52.170131",
-      "url": "https://www.johnlewis.com/john-lewis-matt-finish-toilet-brush/p3931083"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Simplehuman Slim Pedal Bin, 5L",
-      "percentage": 40.0,
-      "old_price": "49.95",
-      "new_price": "29.98",
-      "timestamp": "2026-01-26T22:40:52.170131",
-      "url": "https://www.johnlewis.com/simplehuman-slim-pedal-bin-5l/p110467245"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Open Check Bath Mat",
-      "percentage": 40.0,
-      "old_price": "15.00",
-      "new_price": "9.00",
-      "timestamp": "2026-01-26T22:40:52.170131",
-      "url": "https://www.johnlewis.com/john-lewis-open-check-bath-mat/p111211274"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Black Marble Soap Dish",
-      "percentage": 40.0,
-      "old_price": "7.50",
-      "new_price": "4.50",
-      "timestamp": "2026-01-26T22:40:52.170131",
-      "url": "https://www.johnlewis.com/john-lewis-black-marble-soap-dish/p4329091"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Sam Edelman Michaela Leather Mary Janes",
-      "percentage": 40.0,
-      "old_price": "75.00",
-      "new_price": "45.00",
-      "timestamp": "2026-01-26T22:40:52.709566",
-      "url": "https://www.johnlewis.com/sam-edelman-michaela-leather-mary-janes/p112156070"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "SAYE M89 Icon Trainers",
-      "percentage": 40.0,
-      "old_price": "69.50",
-      "new_price": "41.70",
-      "timestamp": "2026-01-26T22:40:52.709566",
-      "url": "https://www.johnlewis.com/saye-m89-icon-trainers/p113826466"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Societe Noir - Men's Scribble Fleece Jogger Shorts",
-      "percentage": 40.0,
-      "old_price": "20.00",
-      "new_price": "12.00",
-      "timestamp": "2026-01-26T22:40:54.907994",
-      "url": "https://www.flannels.com/societe-noir-mens-scribble-fleece-jogger-shorts-470967"
     }
   ]
 }

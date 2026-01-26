@@ -1,30 +1,618 @@
 {
-  "generated_at": "2026-01-25T21:33:50.402973",
-  "total_drops": 43,
-  "top_drops_shown": 43,
+  "generated_at": "2026-01-26T22:25:25.504155",
+  "total_drops": 542,
+  "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "flannels_com",
-      "count": 26,
-      "max_drop": 79.6,
-      "total_savings": 1311.0
+      "count": 446,
+      "max_drop": 80.1,
+      "total_savings": 88782.3
+    },
+    {
+      "site": "currys_com",
+      "count": 8,
+      "max_drop": 64.0,
+      "total_savings": 217.02
     },
     {
       "site": "johnlewis_com",
-      "count": 17,
-      "max_drop": 28.6,
-      "total_savings": 150.5
+      "count": 87,
+      "max_drop": 54.5,
+      "total_savings": 1597.02
+    },
+    {
+      "site": "kingofcotton_com",
+      "count": 1,
+      "max_drop": 0.3,
+      "total_savings": 0.05
     }
   ],
   "drops": [
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Long-Sleeve Shirt",
+      "percentage": 80.1,
+      "old_price": "1050.00",
+      "new_price": "209.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-long-sleeve-shirt-321385"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Structured Blazer Dress",
+      "percentage": 80.0,
+      "old_price": "2940.00",
+      "new_price": "589.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-structured-blazer-dress-321599"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Tailored Trench Coat",
+      "percentage": 80.0,
+      "old_price": "5796.00",
+      "new_price": "1159.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-tailored-trench-coat-321726"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Adjustable Belt Trench Coat",
+      "percentage": 80.0,
+      "old_price": "5796.00",
+      "new_price": "1159.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-adjustable-belt-trench-coat-321724"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Slip Dress",
+      "percentage": 80.0,
+      "old_price": "2100.00",
+      "new_price": "419.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-slip-dress-321623"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Long Maxi Dress",
+      "percentage": 80.0,
+      "old_price": "2100.00",
+      "new_price": "419.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-long-maxi-dress-321516"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Shift Dress",
+      "percentage": 80.0,
+      "old_price": "1344.00",
+      "new_price": "269.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-shift-dress-321415"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Clean-Lined Streamlined Fit Bodysuit",
+      "percentage": 80.0,
+      "old_price": "924.00",
+      "new_price": "185.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-clean-lined-streamlined-fit-bodysuit-321359"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Plain Long-Sleeve Shirt",
+      "percentage": 80.0,
+      "old_price": "1075.00",
+      "new_price": "215.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-plain-long-sleeve-shirt-321315"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Midi Skirts",
+      "percentage": 80.0,
+      "old_price": "823.00",
+      "new_price": "165.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-midi-skirts-321131"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Mini Skirt",
+      "percentage": 80.0,
+      "old_price": "546.00",
+      "new_price": "109.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-mini-skirt-321121"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Tailored Blazer Dress",
+      "percentage": 79.9,
+      "old_price": "2436.00",
+      "new_price": "489.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-tailored-blazer-dress-321574"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Tea Dress",
+      "percentage": 79.9,
+      "old_price": "2436.00",
+      "new_price": "489.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-tea-dress-321570"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Blazer Dress",
+      "percentage": 79.9,
+      "old_price": "2184.00",
+      "new_price": "439.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-blazer-dress-321489"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Structured Peplum Dress",
+      "percentage": 79.9,
+      "old_price": "1638.00",
+      "new_price": "329.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-structured-peplum-dress-321469"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Jumpsuit",
+      "percentage": 79.8,
+      "old_price": "3612.00",
+      "new_price": "729.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-tailored-minimalist-jumpsuit-321656"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Top and Short Sets",
+      "percentage": 79.8,
+      "old_price": "3612.00",
+      "new_price": "729.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-top-and-short-sets-321641"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Structured Shift Dress",
+      "percentage": 79.8,
+      "old_price": "1134.00",
+      "new_price": "229.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-structured-shift-dress-321413"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Structured Crew Neck Jumper",
+      "percentage": 79.8,
+      "old_price": "1134.00",
+      "new_price": "229.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-structured-crew-neck-jumper-321406"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Jumper",
+      "percentage": 79.8,
+      "old_price": "739.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-textured-crew-neck-jumper-321402"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Smock Dress",
+      "percentage": 79.8,
+      "old_price": "1084.00",
+      "new_price": "219.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-smock-dress-321279"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Leather Trousers",
+      "percentage": 79.8,
+      "old_price": "2772.00",
+      "new_price": "559.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-leather-trousers-291411"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Men's Structured Tailored Shorts",
+      "percentage": 79.7,
+      "old_price": "1470.00",
+      "new_price": "299.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/bottega-veneta-mens-structured-tailored-shorts-550417"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Midi Skirt",
+      "percentage": 79.7,
+      "old_price": "2512.00",
+      "new_price": "509.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-midi-skirt-321383"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Intrecciato Textured Shift Dress",
+      "percentage": 79.7,
+      "old_price": "1470.00",
+      "new_price": "299.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-intrecciato-textured-shift-dress-321449"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Textured Shift Dress",
+      "percentage": 79.7,
+      "old_price": "1470.00",
+      "new_price": "299.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-textured-shift-dress-321444"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Long Sleeve Plain Shirt",
+      "percentage": 79.7,
+      "old_price": "664.00",
+      "new_price": "135.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-long-sleeve-plain-shirt-321142"
+    },
     {
       "site": "flannels_com",
       "product": "BOTTEGA VENETA - Women's Scoop Neck Swimsuit Scoop Neck Design",
       "percentage": 79.6,
       "old_price": "269.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
+      "timestamp": "2026-01-25T22:28:38.537946",
       "url": "https://www.flannels.com/bottega-veneta-womens-scoop-neck-swimsuit--scoop-neck-design-350677"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Slinky Dress",
+      "percentage": 79.6,
+      "old_price": "1806.00",
+      "new_price": "369.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-slinky-dress-321759"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Flowing Midi Skirt",
+      "percentage": 79.6,
+      "old_price": "2352.00",
+      "new_price": "479.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-flowing-midi-skirt-321553"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's A-Line Midi Skirt",
+      "percentage": 79.6,
+      "old_price": "2352.00",
+      "new_price": "479.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-a-line-midi-skirt-321548"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Flared Skater Dress",
+      "percentage": 79.6,
+      "old_price": "1764.00",
+      "new_price": "359.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-flared-skater-dress-321494"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Women's Tailored Flowing Mini Dress",
+      "percentage": 79.5,
+      "old_price": "3906.00",
+      "new_price": "799.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/bottega-veneta-womens-tailored-flowing-mini-dress-321687"
+    },
+    {
+      "site": "currys_com",
+      "product": "ORAL-B Pro 3 3500 Electric Toothbrush - Design Edition",
+      "percentage": 64.0,
+      "old_price": "100.00",
+      "new_price": "35.99",
+      "timestamp": "2026-01-26T22:25:16.473513",
+      "url": "https://www.currys.co.uk/products/10296630.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Lions Weather Fitted Baby Sheet, Pack of 2, Multi",
+      "percentage": 54.5,
+      "old_price": "22.00",
+      "new_price": "10.00",
+      "timestamp": "2026-01-26T22:25:19.832025",
+      "url": "https://www.johnlewis.com/john-lewis-lions-weather-fitted-baby-sheet-pack-of-2-multi/p112564166"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Kids' Straight Leg Trousers",
+      "percentage": 50.4,
+      "old_price": "260.00",
+      "new_price": "129.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/gucci-kids-straight-leg-trousers-310524"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BURBERRY - Men's Tartan Cotton Simpson Shirt",
+      "percentage": 50.2,
+      "old_price": "520.00",
+      "new_price": "259.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/burberry-mens-simpson-tartan-cotton-long-sleeve-slim-fit-shirt-558817"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Straight Leg Trousers",
+      "percentage": 50.2,
+      "old_price": "540.00",
+      "new_price": "269.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-straight-leg-trousers-511753"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Water Resistant Lightweight Softshell Jacket",
+      "percentage": 50.1,
+      "old_price": "1500.00",
+      "new_price": "749.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-water-resistant-lightweight-softshell-jacket-608065"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Zip Hoodie",
+      "percentage": 50.1,
+      "old_price": "1500.00",
+      "new_price": "749.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-zip-hoodie-533279"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Le Creuset Stoneware Small Pumpkin Casserole, 350ml, Volcanic",
+      "percentage": 50.0,
+      "old_price": "50.00",
+      "new_price": "25.00",
+      "timestamp": "2026-01-26T22:25:19.832025",
+      "url": "https://www.johnlewis.com/le-creuset-stoneware-small-pumpkin-casserole-350ml-volcanic/p112276050"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Ambleside Stripe Towels",
+      "percentage": 50.0,
+      "old_price": "15.00",
+      "new_price": "7.50",
+      "timestamp": "2026-01-26T22:25:19.832025",
+      "url": "https://www.johnlewis.com/john-lewis-ambleside-stripe-towels/p113373922"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Unisex Kids' T-Shirt",
+      "percentage": 50.0,
+      "old_price": "170.00",
+      "new_price": "85.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-unisex-kids-t-shirt-590532"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Weather Resistant Softshell Jacket",
+      "percentage": 50.0,
+      "old_price": "2000.00",
+      "new_price": "999.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-weather-resistant-breathable-softshell-jacket-608051"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Kids' Tailored Shorts",
+      "percentage": 50.0,
+      "old_price": "350.00",
+      "new_price": "175.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/gucci-kids-tailored-shorts-312050"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Kids' Tulle Skirt",
+      "percentage": 50.0,
+      "old_price": "390.00",
+      "new_price": "195.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/gucci-kids-tulle-skirt-297669"
+    },
+    {
+      "site": "currys_com",
+      "product": "BOSCH Series 6 WGG24400GB AntiStain 9 kg 1400 Spin Wash",
+      "percentage": 50.0,
+      "old_price": "99.99",
+      "new_price": "49.99",
+      "timestamp": "2026-01-26T22:25:16.473513",
+      "url": "https://www.currys.co.uk/products/10261034.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "NINTENDO Switch OLED - White",
+      "percentage": 50.0,
+      "old_price": "39.99",
+      "new_price": "19.99",
+      "timestamp": "2026-01-26T22:25:16.473513",
+      "url": "https://www.currys.co.uk/products/10227413.html"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Open Bottom Woven Joggers",
+      "percentage": 49.9,
+      "old_price": "817.00",
+      "new_price": "409.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-open-bottom-woven-joggers-498033"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Jersey Fleece Jogger Shorts",
+      "percentage": 49.9,
+      "old_price": "917.00",
+      "new_price": "459.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-jersey-fleece-jogger-shorts-472168"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Hooded Technical Windbreaker",
+      "percentage": 49.8,
+      "old_price": "1750.00",
+      "new_price": "879.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-hooded-technical-windbreaker-602624"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Weather Resistant Breathable Softshell Jacket",
+      "percentage": 49.7,
+      "old_price": "2583.00",
+      "new_price": "1299.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-weather-resistant-breathable-softshell-jacket-608058"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Sleeveless Gilet",
+      "percentage": 49.7,
+      "old_price": "2483.00",
+      "new_price": "1249.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-sleeveless-gilet-331387"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Tapered Elasticated Cuff Closed Hem Woven Tracksuit Joggers",
+      "percentage": 49.6,
+      "old_price": "792.00",
+      "new_price": "399.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-tapered-elasticated-cuff-closed-hem-woven-tracksuit-joggers-492039"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Full Zip Tailored Fleece",
+      "percentage": 49.5,
+      "old_price": "1583.00",
+      "new_price": "799.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-full-zip-tailored-fleece-551563"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Trinket Box",
+      "percentage": 49.5,
+      "old_price": "275.00",
+      "new_price": "139.00",
+      "timestamp": "2026-01-25T22:28:38.537946",
+      "url": "https://www.flannels.com/gucci-trinket-box-711434"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Weather Resistant Tailored Fit Softshell Jacket",
+      "percentage": 49.4,
+      "old_price": "3750.00",
+      "new_price": "1899.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-weather-resistant-tailored-fit-softshell-jacket-608045"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Kids' Long Sleeve Oxford Shirt",
+      "percentage": 49.3,
+      "old_price": "345.00",
+      "new_price": "175.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-kids-long-sleeve-oxford-shirt-291083"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Italian-Made Structured Blazer",
+      "percentage": 49.3,
+      "old_price": "2167.00",
+      "new_price": "1099.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-italian-made-structured-blazer-604096"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's Long Sleeve Patterned Shirt",
+      "percentage": 49.0,
+      "old_price": "625.00",
+      "new_price": "319.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-long-sleeve-patterned-shirt-552755"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Le Creuset Classic Salt Mill",
+      "percentage": 47.6,
+      "old_price": "41.00",
+      "new_price": "21.50",
+      "timestamp": "2026-01-26T22:25:19.832025",
+      "url": "https://www.johnlewis.com/le-creuset-classic-salt-mill/p5065295"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Matt Finish Toilet Brush",
+      "percentage": 40.0,
+      "old_price": "7.50",
+      "new_price": "4.50",
+      "timestamp": "2026-01-26T22:25:19.832025",
+      "url": "https://www.johnlewis.com/john-lewis-matt-finish-toilet-brush/p3931083"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Simplehuman Slim Pedal Bin, 5L",
+      "percentage": 40.0,
+      "old_price": "49.95",
+      "new_price": "29.98",
+      "timestamp": "2026-01-26T22:25:19.832025",
+      "url": "https://www.johnlewis.com/simplehuman-slim-pedal-bin-5l/p110467245"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Open Check Bath Mat",
+      "percentage": 40.0,
+      "old_price": "15.00",
+      "new_price": "9.00",
+      "timestamp": "2026-01-26T22:25:19.832025",
+      "url": "https://www.johnlewis.com/john-lewis-open-check-bath-mat/p111211274"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Black Marble Soap Dish",
+      "percentage": 40.0,
+      "old_price": "7.50",
+      "new_price": "4.50",
+      "timestamp": "2026-01-26T22:25:19.832025",
+      "url": "https://www.johnlewis.com/john-lewis-black-marble-soap-dish/p4329091"
     },
     {
       "site": "flannels_com",
@@ -32,7 +620,7 @@
       "percentage": 40.0,
       "old_price": "50.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
+      "timestamp": "2026-01-25T22:28:38.537946",
       "url": "https://www.flannels.com/boss-mens-paule-short-sleeve-polo-shirt-541588"
     },
     {
@@ -41,7 +629,7 @@
       "percentage": 40.0,
       "old_price": "40.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
+      "timestamp": "2026-01-25T22:28:38.537946",
       "url": "https://www.flannels.com/boss-mens-short-sleeve-polo-shirt-542075"
     },
     {
@@ -50,359 +638,296 @@
       "percentage": 38.5,
       "old_price": "65.00",
       "new_price": "40.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
+      "timestamp": "2026-01-25T22:28:38.537946",
       "url": "https://www.flannels.com/boss-mens-hbo-passenger-premium-design-polo-shirt-544913"
     },
     {
+      "site": "johnlewis_com",
+      "product": "John Lewis Crisp & Fresh 325 Thread Count Anti Allergy Duvet Cover Set",
+      "percentage": 37.5,
+      "old_price": "33.60",
+      "new_price": "21.00",
+      "timestamp": "2026-01-26T22:25:19.832025",
+      "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-325-thread-count-anti-allergy-duvet-cover-set/p110918602"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Disney Elsa Singing Doll",
+      "percentage": 33.3,
+      "old_price": "29.99",
+      "new_price": "19.99",
+      "timestamp": "2026-01-26T22:25:19.832025",
+      "url": "https://www.johnlewis.com/disney-elsa-singing-doll/p112914059"
+    },
+    {
+      "site": "currys_com",
+      "product": "SONY WH-CH720N Wireless Bluetooth Noise-Cancelling Head",
+      "percentage": 33.3,
+      "old_price": "59.99",
+      "new_price": "39.99",
+      "timestamp": "2026-01-26T22:25:16.473513",
+      "url": "https://www.currys.co.uk/products/10247676.html"
+    },
+    {
       "site": "flannels_com",
-      "product": "VILEBREQUIN - Men's Moorea Quick Drying Swim Shorts",
+      "product": "ACNE STUDIOS - Crewneck Sweatshirt",
+      "percentage": 30.3,
+      "old_price": "300.00",
+      "new_price": "209.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/acne-studios-mens-cotton-long-sleeve-crew-sweatshirt-522762"
+    },
+    {
+      "site": "flannels_com",
+      "product": "LULULEMON - Men's Pull Over Hoodie",
+      "percentage": 30.3,
+      "old_price": "228.00",
+      "new_price": "159.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/lululemon-mens-pull-over-hoodie-532423"
+    },
+    {
+      "site": "flannels_com",
+      "product": "MONCLER - Kids' T-Shirt and Shorts Set",
+      "percentage": 30.3,
+      "old_price": "165.00",
+      "new_price": "115.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/moncler-kids-t-shirt-and-shorts-set-510395"
+    },
+    {
+      "site": "flannels_com",
+      "product": "FENDI - Metal Ff Tee",
+      "percentage": 30.2,
+      "old_price": "600.00",
+      "new_price": "419.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/fendi-mens-metal-ff-cotton-short-sleeve-t-shirt-586190"
+    },
+    {
+      "site": "flannels_com",
+      "product": "ACNE STUDIOS - Men's Penicillin Wide Leg Jeans",
+      "percentage": 30.2,
+      "old_price": "600.00",
+      "new_price": "419.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/acne-studios-mens-penicillin-wide-leg-jeans-334211"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Monsoon Kids' Bow Collared Coat, Navy",
+      "percentage": 30.0,
+      "old_price": "60.00",
+      "new_price": "42.00",
+      "timestamp": "2026-01-25T22:04:07.925374",
+      "url": "https://www.johnlewis.com/monsoon-kids-bow-collared-coat-navy/p113676373"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Striped Fine China Mug, Set of 4, 340ml, Pistachio",
+      "percentage": 30.0,
+      "old_price": "10.00",
+      "new_price": "7.00",
+      "timestamp": "2026-01-26T22:25:19.832025",
+      "url": "https://www.johnlewis.com/john-lewis-striped-fine-china-mug-set-of-4-340ml-pistachio/p112500396"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Paul Smith - Leather Washbag",
+      "percentage": 30.0,
+      "old_price": "250.00",
+      "new_price": "175.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/paul-smith-mens-leather-wash-bag-784033"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PS Paul Smith - Men's Zipped Harrington Jacket",
+      "percentage": 30.0,
+      "old_price": "250.00",
+      "new_price": "175.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
+    },
+    {
+      "site": "flannels_com",
+      "product": "AQUASCUTUM - Checked T-Shirt",
+      "percentage": 30.0,
+      "old_price": "60.00",
+      "new_price": "42.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/aquascutum-mens-active-checked-cotton-short-sleeve-t-shirt-581926"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Fred Perry - Zipped Striped Shirt",
+      "percentage": 30.0,
+      "old_price": "140.00",
+      "new_price": "98.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/fred-perry-mens-zipped-striped-cotton-long-sleeve-polo-shirt-548036"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Levis - Men's Cosy Up Pull Over Hoodie",
+      "percentage": 30.0,
+      "old_price": "60.00",
+      "new_price": "42.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/levis-mens-cosy-up-pull-over-hoodie-532285"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Barbour - Cleveland Crew Neck Jumper",
+      "percentage": 30.0,
+      "old_price": "100.00",
+      "new_price": "70.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/barbour-mens-cleveland-wool-cotton-long-sleeve-crew-neck-jumper-320896"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Barbour - Mens Crew Neck Sweater",
+      "percentage": 30.0,
+      "old_price": "70.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/mens-crew-neck-cotton-jumper-320248"
+    },
+    {
+      "site": "flannels_com",
+      "product": "GUCCI - Men's GG Nylon Jacquard Web Long Sleeve Short Puffer Jacket",
+      "percentage": 30.0,
+      "old_price": "2600.00",
+      "new_price": "1819.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gucci-mens-hooded-long-sleeve-goose-down-short-puffer-jacket-565652"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Samsung Jet Lite Spray Sweeper Cordless Vacuum Cleaner, Santorini Beige",
+      "percentage": 29.9,
+      "old_price": "999.00",
+      "new_price": "699.99",
+      "timestamp": "2026-01-26T22:25:19.832025",
+      "url": "https://www.johnlewis.com/samsung-jet-lite-spray-sweeper-cordless-vacuum-cleaner-santorini-beige/p114249817"
+    },
+    {
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Men's Logo Quick-Drying Swim Shorts",
+      "percentage": 29.8,
+      "old_price": "625.00",
+      "new_price": "439.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/saint-laurent-mens-logo-quick-drying-swim-shorts-353298"
+    },
+    {
+      "site": "flannels_com",
+      "product": "OFF WHITE - Men's Paint Arrow T-Shirt",
+      "percentage": 29.7,
+      "old_price": "269.00",
+      "new_price": "189.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/off-white-mens-paint-arrow-t-shirt-591321"
+    },
+    {
+      "site": "flannels_com",
+      "product": "OFF WHITE - Men's Ink Arrow T-Shirt",
+      "percentage": 29.7,
+      "old_price": "269.00",
+      "new_price": "189.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/off-white-mens-ink-arrow-t-shirt-591230"
+    },
+    {
+      "site": "flannels_com",
+      "product": "OFF WHITE - Men's Big Oversized T-Shirt",
+      "percentage": 29.7,
+      "old_price": "269.00",
+      "new_price": "189.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/off-white-mens-big-oversized-t-shirt-590839"
+    },
+    {
+      "site": "flannels_com",
+      "product": "FENDI - Men's Postcard Woven Tracksuit Shorts",
+      "percentage": 29.7,
+      "old_price": "710.00",
+      "new_price": "499.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/fendi-mens-postcard-woven-tracksuit-shorts-430224"
+    },
+    {
+      "site": "flannels_com",
+      "product": "REPRESENT 247 - Men's Logo Cotton 247 Oversized Hoodie",
+      "percentage": 29.6,
+      "old_price": "135.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/represent-247-mens-cotton-long-sleeve-oversized-performance-hoodie-528588"
+    },
+    {
+      "site": "flannels_com",
+      "product": "VILEBREQUIN - Men's Large Turtle Swim Shorts",
       "percentage": 29.6,
       "old_price": "240.00",
       "new_price": "169.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/vilebrequin-mens-moorea-quick-drying-swim-shorts-350747"
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/vilebrequin-mens-large-turtle-quick-drying-turtle-pattern-swim-shorts-350759"
     },
     {
       "site": "flannels_com",
-      "product": "MONCLER - Large Logo Hoodie Juniors",
-      "percentage": 29.5,
-      "old_price": "305.00",
-      "new_price": "215.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/moncler-kids-large-logo-cotton-long-sleeve-pull-over-hoodie-549882"
+      "product": "VILEBREQUIN - Men's Moorea Quick Dry Tailored Fit Swim Shorts",
+      "percentage": 29.6,
+      "old_price": "240.00",
+      "new_price": "169.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/vilebrequin-mens-moorea-quick-dry-tailored-fit-swim-shorts-350749"
     },
     {
       "site": "flannels_com",
-      "product": "AAPE - Men's Pull Over Hoodie",
-      "percentage": 29.5,
-      "old_price": "149.00",
-      "new_price": "105.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/aape-mens-aaper-pull-over-hoodie-532184"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Polo Ralph Lauren - Mesh-Knit Cotton Quarter-Zip Jumper",
-      "percentage": 29.3,
-      "old_price": "225.00",
-      "new_price": "159.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/polo-ralph-lauren-mens-mesh-knit-cotton-quarter-zip-long-sleeve-crew-neck-jumper-333990"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Boss - We_BossStitch 10257973 01",
-      "percentage": 29.3,
-      "old_price": "99.00",
-      "new_price": "70.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/boss-webossstitch-10257973-01-522930"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Hackett London Kids' Cotton Joggers",
-      "percentage": 28.6,
-      "old_price": "56.00",
-      "new_price": "40.00",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/hackett-london-kids-cotton-joggers/p114165203"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Stella McCartney Kids Kids' Jack Teddy Fleece Jacket, Blue",
-      "percentage": 28.6,
-      "old_price": "98.00",
-      "new_price": "70.00",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/stella-mccartney-kids-kids-jack-teddy-fleece-jacket-blue/p113374587"
-    },
-    {
-      "site": "flannels_com",
-      "product": "HUGO - Kids' Split Logo Short Sleeve Polo Shirt",
-      "percentage": 28.6,
-      "old_price": "49.00",
-      "new_price": "35.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/hugo-kids-split-logo-short-sleeve-polo-shirt-541255"
-    },
-    {
-      "site": "flannels_com",
-      "product": "FUSALP - Fusalp Ada Jkt Ld54",
-      "percentage": 28.5,
-      "old_price": "1370.00",
-      "new_price": "979.00",
-      "timestamp": "2026-01-25T20:25:36.195362",
-      "url": "https://www.flannels.com/fusalp-fusalp-ada-jkt-ld54-420963"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Reiss Kids' Knightsbridge Wool Blend Tailored Trousers, Navy",
-      "percentage": 28.0,
-      "old_price": "25.00",
-      "new_price": "18.00",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/reiss-kids-knightsbridge-wool-blend-tailored-trousers-navy/p114487445"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "HUGO Kids' Slim Leg Jeans, Rinse Wash",
-      "percentage": 25.8,
-      "old_price": "33.00",
-      "new_price": "24.50",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/hugo-kids-slim-leg-jeans-rinse-wash/p113760345"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Kids' Quilted Packaway Jacket, Chilli Oil",
-      "percentage": 23.8,
-      "old_price": "21.00",
-      "new_price": "16.00",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/john-lewis-kids-quilted-packaway-jacket-chilli-oil/p114092572"
-    },
-    {
-      "site": "flannels_com",
-      "product": "VERSACE - Men's Grec Short Sleeve Polo Shirt",
-      "percentage": 20.1,
-      "old_price": "299.00",
-      "new_price": "239.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/versace-mens-grec-short-sleeve-polo-shirt-541570"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' Windproof Water-Repellent Quilted Jacket, Blue",
-      "percentage": 20.0,
-      "old_price": "60.00",
-      "new_price": "48.00",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-windproof-water-repellent-quilted-jacket-blue/p113825346"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' Quilted Water Repellent Jacket",
-      "percentage": 20.0,
-      "old_price": "50.00",
-      "new_price": "40.00",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-quilted-water-repellent-jacket/p110806162"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Baby Waterproof Shell Overall, Dark Sapphire",
-      "percentage": 20.0,
-      "old_price": "100.00",
-      "new_price": "80.00",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-baby-waterproof-shell-overall-dark-sapphire/p5124278"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' Anti-Slip Stripe Socks, Pack of 2, Blue",
-      "percentage": 20.0,
-      "old_price": "10.00",
-      "new_price": "8.00",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-anti-slip-stripe-socks-pack-of-2-blue/p113434233"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' Classic Jeans, Blue",
-      "percentage": 20.0,
-      "old_price": "28.00",
-      "new_price": "22.40",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-classic-jeans-blue/p112977371"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' Waterproof Soft Shell Gloves, Black",
-      "percentage": 20.0,
-      "old_price": "22.00",
-      "new_price": "17.60",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-waterproof-soft-shell-gloves-black/p113824181"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' Wool Blend Bobble Hat",
-      "percentage": 20.0,
-      "old_price": "24.00",
-      "new_price": "19.20",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-wool-blend-bobble-hat/p113992537"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' UPF50 Swim Shorts, Blue",
-      "percentage": 20.0,
-      "old_price": "20.00",
-      "new_price": "16.00",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-upf50-swim-shorts-blue/p110288476"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' Stripe All-In-One Swimsuit, Navy",
-      "percentage": 20.0,
-      "old_price": "45.00",
-      "new_price": "36.00",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-stripe-all-in-one-swimsuit-navy/p5491558"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' Adjustable Waistband Leggings, Blue",
-      "percentage": 20.0,
-      "old_price": "16.00",
-      "new_price": "12.80",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-adjustable-waistband-leggings-blue/p110367151"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Baby Plain Salopettes, Black",
-      "percentage": 20.0,
-      "old_price": "50.00",
-      "new_price": "40.00",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-baby-plain-salopettes-black/p109116045"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Polo Ralph Lauren - Men's LuxeTech Closed Hem Fleece Joggers",
-      "percentage": 19.4,
-      "old_price": "155.00",
-      "new_price": "125.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/polo-ralph-lauren-mens-luxetech-closed-hem-fleece-joggers-482618"
-    },
-    {
-      "site": "flannels_com",
-      "product": "VIVIENNE WESTWOOD - Men's Viv Tip Short Sleeve Polo Shirt",
-      "percentage": 18.2,
-      "old_price": "165.00",
-      "new_price": "135.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/vivienne-westwood-mens-viv-tip-short-sleeve-polo-shirt-540099"
-    },
-    {
-      "site": "flannels_com",
-      "product": "VERSACE - Unisex Kids' Onesie",
-      "percentage": 18.2,
-      "old_price": "165.00",
-      "new_price": "135.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/versace-unisex-kids-onesie-560001"
-    },
-    {
-      "site": "flannels_com",
-      "product": "SKIMS - Womens Soft Lounge Sleep Set",
-      "percentage": 18.0,
-      "old_price": "128.00",
-      "new_price": "105.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/skims-womens-soft-lounge-modal-long-sleeve-pyjama-set-332162"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Polo Ralph Lauren - Men's Slim Fit Oxford Long Sleeve Shirt",
-      "percentage": 17.9,
-      "old_price": "145.00",
-      "new_price": "119.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/polo-ralph-lauren-mens-slim-fit-oxford-long-sleeve-cotton-shirt-558452"
-    },
-    {
-      "site": "flannels_com",
-      "product": "VERSACE - Versace Logo Polo Jn61",
-      "percentage": 17.4,
-      "old_price": "115.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/versace-versace-logo-polo-jn61-540172"
-    },
-    {
-      "site": "flannels_com",
-      "product": "AMI PARIS - Men's Felted Beanie",
-      "percentage": 16.7,
-      "old_price": "120.00",
-      "new_price": "100.00",
-      "timestamp": "2026-01-25T20:25:36.195362",
-      "url": "https://www.flannels.com/ami-paris-mens-felted-beanie-906009"
-    },
-    {
-      "site": "flannels_com",
-      "product": "REPRESENT - Rep Owners Tee Sn61",
-      "percentage": 16.7,
-      "old_price": "90.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/represent-rep-owners-tee-sn61-590570"
-    },
-    {
-      "site": "flannels_com",
-      "product": "BOSS - Kids' Logo Pull Over Hoodie",
-      "percentage": 16.2,
-      "old_price": "105.00",
-      "new_price": "88.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/boss-kids-logo-pull-over-hoodie-530133"
-    },
-    {
-      "site": "flannels_com",
-      "product": "THE COUTURE CLUB - Men's Sherpa Zipped Bomber Jacket",
-      "percentage": 16.0,
+      "product": "Gant - Casual Cotton Half-Zip",
+      "percentage": 29.6,
       "old_price": "125.00",
-      "new_price": "105.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/the-couture-club-mens-sherpa-zipped-bomber-jacket-602629"
+      "new_price": "88.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gant-mens-cotton-half-zip-1-4-zip-knitted-top-338818"
     },
     {
       "site": "flannels_com",
-      "product": "Barbour International - Mens Evan Polo Shirt",
-      "percentage": 16.0,
-      "old_price": "50.00",
-      "new_price": "42.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/barbour-international-mens-evan-tip-cotton-short-sleeve-polo-shirt-543064"
+      "product": "Gant - Shield 1/2 Zip Jumper",
+      "percentage": 29.6,
+      "old_price": "125.00",
+      "new_price": "88.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/gant-mens-shield-half-zip-cotton-long-sleeve-crew-neck-jumper-323438"
     },
     {
       "site": "flannels_com",
-      "product": "COLE BUXTON - Men's Logo Cotton Sportswear T-Shirt",
-      "percentage": 15.8,
-      "old_price": "95.00",
-      "new_price": "80.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/cole-buxton-mens-cb-sportswear-logo-cotton-short-sleeve-oversized-t-shirts-593051"
+      "product": "DSQUARED2 - Men's DSQ Band Logo Slim Fit T-Shirt",
+      "percentage": 29.6,
+      "old_price": "125.00",
+      "new_price": "88.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/dsquared2-mens-dsq-band-logo-slim-fit-t-shirt-593137"
     },
     {
       "site": "flannels_com",
-      "product": "THE NORTH FACE - Unisex Kids TNF Box Never Stop Exploring Hoodie",
-      "percentage": 15.6,
-      "old_price": "45.00",
-      "new_price": "38.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/the-north-face-unisex-kids-tnf-box-never-stop-exploring-hoodie-530273"
+      "product": "AQUASCUTUM - Men's Quarter-Zip Fleece",
+      "percentage": 29.6,
+      "old_price": "135.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/aquascutum-mens-quarter-zip-fleece-551359"
     },
     {
       "site": "flannels_com",
-      "product": "THE NORTH FACE - Yumiori Fleece Juniors",
-      "percentage": 15.4,
-      "old_price": "65.00",
-      "new_price": "55.00",
-      "timestamp": "2026-01-25T21:33:48.563098",
-      "url": "https://www.flannels.com/the-north-face-yumiori-fleece-juniors-530163"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Clarks Kids' Steggy Rex Trainers, Navy",
-      "percentage": 3.8,
-      "old_price": "26.00",
-      "new_price": "25.00",
-      "timestamp": "2026-01-25T18:23:19.837259",
-      "url": "https://www.johnlewis.com/clarks-kids-steggy-rex-trainers-navy/p111948919"
+      "product": "AQUASCUTUM - Men's AquAct Long-Sleeve Polo Shirt",
+      "percentage": 29.6,
+      "old_price": "125.00",
+      "new_price": "88.00",
+      "timestamp": "2026-01-26T00:03:37.766663",
+      "url": "https://www.flannels.com/aquascutum-mens-aquact-long-sleeve-polo-shirt-548067"
     }
   ]
 }

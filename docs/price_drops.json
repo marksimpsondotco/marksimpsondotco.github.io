@@ -1,25 +1,31 @@
 {
-  "generated_at": "2026-01-26T22:25:29.740031",
-  "total_drops": 542,
+  "generated_at": "2026-01-26T22:30:38.780762",
+  "total_drops": 675,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "flannels_com",
-      "count": 446,
+      "count": 452,
       "max_drop": 80.1,
-      "total_savings": 88782.3
+      "total_savings": 88955.3
     },
     {
       "site": "currys_com",
-      "count": 8,
+      "count": 32,
       "max_drop": 64.0,
-      "total_savings": 217.02
+      "total_savings": 1084.11
     },
     {
       "site": "johnlewis_com",
-      "count": 87,
+      "count": 186,
       "max_drop": 54.5,
-      "total_savings": 1597.02
+      "total_savings": 3461.33
+    },
+    {
+      "site": "hauslondon_com",
+      "count": 4,
+      "max_drop": 14.3,
+      "total_savings": 183.3
     },
     {
       "site": "kingofcotton_com",
@@ -332,8 +338,35 @@
       "percentage": 64.0,
       "old_price": "100.00",
       "new_price": "35.99",
-      "timestamp": "2026-01-26T22:25:25.984892",
+      "timestamp": "2026-01-26T22:30:33.992906",
       "url": "https://www.currys.co.uk/products/10296630.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "LOGIK L3AHDM23 High Speed HDMI Cable & Adapters with Et",
+      "percentage": 55.0,
+      "old_price": "299.99",
+      "new_price": "134.99",
+      "timestamp": "2026-01-26T22:30:33.992906",
+      "url": "https://www.currys.co.uk/products/10234883.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "HYPERX Cloud Jet Wireless Gaming Headset - Light Blue",
+      "percentage": 55.0,
+      "old_price": "199.99",
+      "new_price": "89.99",
+      "timestamp": "2026-01-26T22:30:33.992906",
+      "url": "https://www.currys.co.uk/products/10286368.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "TEFAL Pro Express Eco GV9E22G0 Steam Generator Iron - A",
+      "percentage": 55.0,
+      "old_price": "299.99",
+      "new_price": "134.99",
+      "timestamp": "2026-01-26T22:30:33.992906",
+      "url": "https://www.currys.co.uk/products/10290236.html"
     },
     {
       "site": "johnlewis_com",
@@ -341,8 +374,17 @@
       "percentage": 54.5,
       "old_price": "22.00",
       "new_price": "10.00",
-      "timestamp": "2026-01-26T22:25:24.051335",
+      "timestamp": "2026-01-26T22:30:33.440702",
       "url": "https://www.johnlewis.com/john-lewis-lions-weather-fitted-baby-sheet-pack-of-2-multi/p112564166"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Linen Blend Maxi Skirt",
+      "percentage": 51.3,
+      "old_price": "39.00",
+      "new_price": "19.00",
+      "timestamp": "2026-01-26T22:30:33.440702",
+      "url": "https://www.johnlewis.com/ro-zo-linen-blend-maxi-skirt/p113447748"
     },
     {
       "site": "flannels_com",
@@ -395,7 +437,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-26T22:25:24.051335",
+      "timestamp": "2026-01-26T22:30:33.440702",
       "url": "https://www.johnlewis.com/le-creuset-stoneware-small-pumpkin-casserole-350ml-volcanic/p112276050"
     },
     {
@@ -404,8 +446,35 @@
       "percentage": 50.0,
       "old_price": "15.00",
       "new_price": "7.50",
-      "timestamp": "2026-01-26T22:25:24.051335",
+      "timestamp": "2026-01-26T22:30:33.440702",
       "url": "https://www.johnlewis.com/john-lewis-ambleside-stripe-towels/p113373922"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Stackers Hanging Wash Bag",
+      "percentage": 50.0,
+      "old_price": "65.00",
+      "new_price": "32.50",
+      "timestamp": "2026-01-26T22:30:33.440702",
+      "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "ROKA London Canfield B Recycled Nylon Rolltop Backpack, 15L",
+      "percentage": 50.0,
+      "old_price": "74.95",
+      "new_price": "37.48",
+      "timestamp": "2026-01-26T22:30:33.440702",
+      "url": "https://www.johnlewis.com/roka-london-canfield-b-recycled-nylon-rolltop-backpack-15l/p112395052"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Herschel Supply Co. Retreat Backpack",
+      "percentage": 50.0,
+      "old_price": "100.00",
+      "new_price": "50.00",
+      "timestamp": "2026-01-26T22:30:33.440702",
+      "url": "https://www.johnlewis.com/herschel-supply-co-retreat-backpack/p110710185"
     },
     {
       "site": "flannels_com",
@@ -449,7 +518,7 @@
       "percentage": 50.0,
       "old_price": "99.99",
       "new_price": "49.99",
-      "timestamp": "2026-01-26T22:25:25.984892",
+      "timestamp": "2026-01-26T22:30:33.992906",
       "url": "https://www.currys.co.uk/products/10261034.html"
     },
     {
@@ -458,7 +527,7 @@
       "percentage": 50.0,
       "old_price": "39.99",
       "new_price": "19.99",
-      "timestamp": "2026-01-26T22:25:25.984892",
+      "timestamp": "2026-01-26T22:30:33.992906",
       "url": "https://www.currys.co.uk/products/10227413.html"
     },
     {
@@ -543,6 +612,24 @@
       "url": "https://www.flannels.com/gucci-mens-weather-resistant-tailored-fit-softshell-jacket-608045"
     },
     {
+      "site": "currys_com",
+      "product": "SAMSUNG Galaxy Tab S10 FE+ 13.1\" 5G Tablet - 128 GB, Gr",
+      "percentage": 49.4,
+      "old_price": "79.00",
+      "new_price": "39.99",
+      "timestamp": "2026-01-26T22:30:33.992906",
+      "url": "https://www.currys.co.uk/products/10280253.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "White Stuff Amelie Metallic Dress, Black/Multi",
+      "percentage": 49.3,
+      "old_price": "71.00",
+      "new_price": "36.00",
+      "timestamp": "2026-01-26T22:30:33.440702",
+      "url": "https://www.johnlewis.com/white-stuff-amelie-metallic-dress-black-multi/p114369277"
+    },
+    {
       "site": "flannels_com",
       "product": "GUCCI - Kids' Long Sleeve Oxford Shirt",
       "percentage": 49.3,
@@ -575,8 +662,17 @@
       "percentage": 47.6,
       "old_price": "41.00",
       "new_price": "21.50",
-      "timestamp": "2026-01-26T22:25:24.051335",
+      "timestamp": "2026-01-26T22:30:33.440702",
       "url": "https://www.johnlewis.com/le-creuset-classic-salt-mill/p5065295"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Mango Alegra Zebra Print Mini Dress, Black",
+      "percentage": 44.5,
+      "old_price": "35.99",
+      "new_price": "19.99",
+      "timestamp": "2026-01-26T22:30:33.440702",
+      "url": "https://www.johnlewis.com/mango-alegra-zebra-print-mini-dress-black/p114099483"
     },
     {
       "site": "johnlewis_com",
@@ -584,7 +680,7 @@
       "percentage": 40.0,
       "old_price": "7.50",
       "new_price": "4.50",
-      "timestamp": "2026-01-26T22:25:24.051335",
+      "timestamp": "2026-01-26T22:30:33.440702",
       "url": "https://www.johnlewis.com/john-lewis-matt-finish-toilet-brush/p3931083"
     },
     {
@@ -593,7 +689,7 @@
       "percentage": 40.0,
       "old_price": "49.95",
       "new_price": "29.98",
-      "timestamp": "2026-01-26T22:25:24.051335",
+      "timestamp": "2026-01-26T22:30:33.440702",
       "url": "https://www.johnlewis.com/simplehuman-slim-pedal-bin-5l/p110467245"
     },
     {
@@ -602,7 +698,7 @@
       "percentage": 40.0,
       "old_price": "15.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-26T22:25:24.051335",
+      "timestamp": "2026-01-26T22:30:33.440702",
       "url": "https://www.johnlewis.com/john-lewis-open-check-bath-mat/p111211274"
     },
     {
@@ -611,8 +707,17 @@
       "percentage": 40.0,
       "old_price": "7.50",
       "new_price": "4.50",
-      "timestamp": "2026-01-26T22:25:24.051335",
+      "timestamp": "2026-01-26T22:30:33.440702",
       "url": "https://www.johnlewis.com/john-lewis-black-marble-soap-dish/p4329091"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Societe Noir - Men's Scribble Fleece Jogger Shorts",
+      "percentage": 40.0,
+      "old_price": "20.00",
+      "new_price": "12.00",
+      "timestamp": "2026-01-26T22:30:36.170328",
+      "url": "https://www.flannels.com/societe-noir-mens-scribble-fleece-jogger-shorts-470967"
     },
     {
       "site": "flannels_com",
@@ -634,6 +739,33 @@
     },
     {
       "site": "flannels_com",
+      "product": "Albam - Men's Crinkle Short Sleeve Relaxed Fit Shirt",
+      "percentage": 39.7,
+      "old_price": "58.00",
+      "new_price": "35.00",
+      "timestamp": "2026-01-26T22:30:36.170328",
+      "url": "https://www.flannels.com/albam-mens-crinkle-short-sleeve-relaxed-fit-shirt-550349"
+    },
+    {
+      "site": "flannels_com",
+      "product": "OFF WHITE - Men's Jersey Jogger Shorts",
+      "percentage": 39.3,
+      "old_price": "229.00",
+      "new_price": "139.00",
+      "timestamp": "2026-01-26T22:30:36.170328",
+      "url": "https://www.flannels.com/off-white-mens-jersey-jogger-shorts-472550"
+    },
+    {
+      "site": "currys_com",
+      "product": "SOUNDCORE Space One Wireless Bluetooth Noise-Cancelling",
+      "percentage": 38.9,
+      "old_price": "89.99",
+      "new_price": "54.99",
+      "timestamp": "2026-01-26T22:30:33.992906",
+      "url": "https://www.currys.co.uk/products/10268830.html"
+    },
+    {
+      "site": "flannels_com",
       "product": "Boss - Men's HBO Passenger Premium Design Polo Shirt",
       "percentage": 38.5,
       "old_price": "65.00",
@@ -647,8 +779,71 @@
       "percentage": 37.5,
       "old_price": "33.60",
       "new_price": "21.00",
-      "timestamp": "2026-01-26T22:25:24.051335",
+      "timestamp": "2026-01-26T22:30:33.440702",
       "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-325-thread-count-anti-allergy-duvet-cover-set/p110918602"
+    },
+    {
+      "site": "currys_com",
+      "product": "EUFY C220 Pan-Tilt 2K WiFi Indoor Security Camera",
+      "percentage": 37.5,
+      "old_price": "39.99",
+      "new_price": "24.99",
+      "timestamp": "2026-01-26T22:30:33.992906",
+      "url": "https://www.currys.co.uk/products/10268161.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "BRAUN Series 6 62-S7650cc Wet & Dry Shaver & SmartCare",
+      "percentage": 37.5,
+      "old_price": "79.99",
+      "new_price": "49.99",
+      "timestamp": "2026-01-26T22:30:33.992906",
+      "url": "https://www.currys.co.uk/products/10286551.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Albaray High Neck Crushed Velvet Mini Dress, Red",
+      "percentage": 36.2,
+      "old_price": "60.00",
+      "new_price": "38.25",
+      "timestamp": "2026-01-26T22:30:33.440702",
+      "url": "https://www.johnlewis.com/albaray-high-neck-crushed-velvet-mini-dress-red/p114126381"
+    },
+    {
+      "site": "currys_com",
+      "product": "EUFY C31 2K Smart Video Doorbell with MicroSD Card",
+      "percentage": 35.0,
+      "old_price": "99.99",
+      "new_price": "64.99",
+      "timestamp": "2026-01-26T22:30:33.992906",
+      "url": "https://www.currys.co.uk/products/10274028.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "SAMSUNG Galaxy S25 FE - 128 GB, Icy Blue",
+      "percentage": 33.9,
+      "old_price": "179.99",
+      "new_price": "119.00",
+      "timestamp": "2026-01-26T22:30:33.992906",
+      "url": "https://www.currys.co.uk/products/10290589.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "VAX Pro Mop Replacement Pads - Pack of 3",
+      "percentage": 33.9,
+      "old_price": "179.99",
+      "new_price": "119.00",
+      "timestamp": "2026-01-26T22:30:33.992906",
+      "url": "https://www.currys.co.uk/products/21660432.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Ro&Zo Petite Seamed Bodice Maxi Dress",
+      "percentage": 33.6,
+      "old_price": "119.00",
+      "new_price": "79.00",
+      "timestamp": "2026-01-26T22:30:33.440702",
+      "url": "https://www.johnlewis.com/ro-zo-petite-seamed-bodice-maxi-dress/p114464334"
     },
     {
       "site": "johnlewis_com",
@@ -656,8 +851,26 @@
       "percentage": 33.3,
       "old_price": "29.99",
       "new_price": "19.99",
-      "timestamp": "2026-01-26T22:25:24.051335",
+      "timestamp": "2026-01-26T22:30:33.440702",
       "url": "https://www.johnlewis.com/disney-elsa-singing-doll/p112914059"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Aspinal of London Croc Effect Leather Passport Cover",
+      "percentage": 33.3,
+      "old_price": "54.00",
+      "new_price": "36.00",
+      "timestamp": "2026-01-26T22:30:33.440702",
+      "url": "https://www.johnlewis.com/aspinal-of-london-croc-effect-leather-passport-cover/p111166093"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Jigsaw Crackle Midi Dress, Gold",
+      "percentage": 33.3,
+      "old_price": "111.00",
+      "new_price": "74.00",
+      "timestamp": "2026-01-26T22:30:33.440702",
+      "url": "https://www.johnlewis.com/jigsaw-crackle-midi-dress-gold/p114389055"
     },
     {
       "site": "currys_com",
@@ -665,8 +878,35 @@
       "percentage": 33.3,
       "old_price": "59.99",
       "new_price": "39.99",
-      "timestamp": "2026-01-26T22:25:25.984892",
+      "timestamp": "2026-01-26T22:30:33.992906",
       "url": "https://www.currys.co.uk/products/10247676.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "BEATS Powerbeats Fit Wireless Bluetooth Earbuds - Grave",
+      "percentage": 33.3,
+      "old_price": "59.99",
+      "new_price": "39.99",
+      "timestamp": "2026-01-26T22:30:33.992906",
+      "url": "https://www.currys.co.uk/products/10291178.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "French Connection Zaria Ruched Long Sleeve Maxi Dress",
+      "percentage": 32.2,
+      "old_price": "59.00",
+      "new_price": "40.00",
+      "timestamp": "2026-01-26T22:30:33.440702",
+      "url": "https://www.johnlewis.com/french-connection-zaria-ruched-long-sleeve-maxi-dress/p114020335"
+    },
+    {
+      "site": "currys_com",
+      "product": "DYSON Airwrap Co-anda 2x Curly + Coily Hair Multi-Style",
+      "percentage": 31.4,
+      "old_price": "35.99",
+      "new_price": "24.69",
+      "timestamp": "2026-01-26T22:30:33.992906",
+      "url": "https://www.currys.co.uk/products/10292614.html"
     },
     {
       "site": "flannels_com",
@@ -694,240 +934,6 @@
       "new_price": "115.00",
       "timestamp": "2026-01-26T00:03:37.766663",
       "url": "https://www.flannels.com/moncler-kids-t-shirt-and-shorts-set-510395"
-    },
-    {
-      "site": "flannels_com",
-      "product": "FENDI - Metal Ff Tee",
-      "percentage": 30.2,
-      "old_price": "600.00",
-      "new_price": "419.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/fendi-mens-metal-ff-cotton-short-sleeve-t-shirt-586190"
-    },
-    {
-      "site": "flannels_com",
-      "product": "ACNE STUDIOS - Men's Penicillin Wide Leg Jeans",
-      "percentage": 30.2,
-      "old_price": "600.00",
-      "new_price": "419.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/acne-studios-mens-penicillin-wide-leg-jeans-334211"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Monsoon Kids' Bow Collared Coat, Navy",
-      "percentage": 30.0,
-      "old_price": "60.00",
-      "new_price": "42.00",
-      "timestamp": "2026-01-25T22:04:07.925374",
-      "url": "https://www.johnlewis.com/monsoon-kids-bow-collared-coat-navy/p113676373"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Striped Fine China Mug, Set of 4, 340ml, Pistachio",
-      "percentage": 30.0,
-      "old_price": "10.00",
-      "new_price": "7.00",
-      "timestamp": "2026-01-26T22:25:24.051335",
-      "url": "https://www.johnlewis.com/john-lewis-striped-fine-china-mug-set-of-4-340ml-pistachio/p112500396"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Paul Smith - Leather Washbag",
-      "percentage": 30.0,
-      "old_price": "250.00",
-      "new_price": "175.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/paul-smith-mens-leather-wash-bag-784033"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PS Paul Smith - Men's Zipped Harrington Jacket",
-      "percentage": 30.0,
-      "old_price": "250.00",
-      "new_price": "175.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
-    },
-    {
-      "site": "flannels_com",
-      "product": "AQUASCUTUM - Checked T-Shirt",
-      "percentage": 30.0,
-      "old_price": "60.00",
-      "new_price": "42.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/aquascutum-mens-active-checked-cotton-short-sleeve-t-shirt-581926"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Fred Perry - Zipped Striped Shirt",
-      "percentage": 30.0,
-      "old_price": "140.00",
-      "new_price": "98.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/fred-perry-mens-zipped-striped-cotton-long-sleeve-polo-shirt-548036"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Levis - Men's Cosy Up Pull Over Hoodie",
-      "percentage": 30.0,
-      "old_price": "60.00",
-      "new_price": "42.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/levis-mens-cosy-up-pull-over-hoodie-532285"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Barbour - Cleveland Crew Neck Jumper",
-      "percentage": 30.0,
-      "old_price": "100.00",
-      "new_price": "70.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/barbour-mens-cleveland-wool-cotton-long-sleeve-crew-neck-jumper-320896"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Barbour - Mens Crew Neck Sweater",
-      "percentage": 30.0,
-      "old_price": "70.00",
-      "new_price": "49.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/mens-crew-neck-cotton-jumper-320248"
-    },
-    {
-      "site": "flannels_com",
-      "product": "GUCCI - Men's GG Nylon Jacquard Web Long Sleeve Short Puffer Jacket",
-      "percentage": 30.0,
-      "old_price": "2600.00",
-      "new_price": "1819.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/gucci-mens-hooded-long-sleeve-goose-down-short-puffer-jacket-565652"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Samsung Jet Lite Spray Sweeper Cordless Vacuum Cleaner, Santorini Beige",
-      "percentage": 29.9,
-      "old_price": "999.00",
-      "new_price": "699.99",
-      "timestamp": "2026-01-26T22:25:24.051335",
-      "url": "https://www.johnlewis.com/samsung-jet-lite-spray-sweeper-cordless-vacuum-cleaner-santorini-beige/p114249817"
-    },
-    {
-      "site": "flannels_com",
-      "product": "SAINT LAURENT - Men's Logo Quick-Drying Swim Shorts",
-      "percentage": 29.8,
-      "old_price": "625.00",
-      "new_price": "439.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/saint-laurent-mens-logo-quick-drying-swim-shorts-353298"
-    },
-    {
-      "site": "flannels_com",
-      "product": "OFF WHITE - Men's Paint Arrow T-Shirt",
-      "percentage": 29.7,
-      "old_price": "269.00",
-      "new_price": "189.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/off-white-mens-paint-arrow-t-shirt-591321"
-    },
-    {
-      "site": "flannels_com",
-      "product": "OFF WHITE - Men's Ink Arrow T-Shirt",
-      "percentage": 29.7,
-      "old_price": "269.00",
-      "new_price": "189.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/off-white-mens-ink-arrow-t-shirt-591230"
-    },
-    {
-      "site": "flannels_com",
-      "product": "OFF WHITE - Men's Big Oversized T-Shirt",
-      "percentage": 29.7,
-      "old_price": "269.00",
-      "new_price": "189.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/off-white-mens-big-oversized-t-shirt-590839"
-    },
-    {
-      "site": "flannels_com",
-      "product": "FENDI - Men's Postcard Woven Tracksuit Shorts",
-      "percentage": 29.7,
-      "old_price": "710.00",
-      "new_price": "499.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/fendi-mens-postcard-woven-tracksuit-shorts-430224"
-    },
-    {
-      "site": "flannels_com",
-      "product": "REPRESENT 247 - Men's Logo Cotton 247 Oversized Hoodie",
-      "percentage": 29.6,
-      "old_price": "135.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/represent-247-mens-cotton-long-sleeve-oversized-performance-hoodie-528588"
-    },
-    {
-      "site": "flannels_com",
-      "product": "VILEBREQUIN - Men's Large Turtle Swim Shorts",
-      "percentage": 29.6,
-      "old_price": "240.00",
-      "new_price": "169.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/vilebrequin-mens-large-turtle-quick-drying-turtle-pattern-swim-shorts-350759"
-    },
-    {
-      "site": "flannels_com",
-      "product": "VILEBREQUIN - Men's Moorea Quick Dry Tailored Fit Swim Shorts",
-      "percentage": 29.6,
-      "old_price": "240.00",
-      "new_price": "169.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/vilebrequin-mens-moorea-quick-dry-tailored-fit-swim-shorts-350749"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Gant - Casual Cotton Half-Zip",
-      "percentage": 29.6,
-      "old_price": "125.00",
-      "new_price": "88.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/gant-mens-cotton-half-zip-1-4-zip-knitted-top-338818"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Gant - Shield 1/2 Zip Jumper",
-      "percentage": 29.6,
-      "old_price": "125.00",
-      "new_price": "88.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/gant-mens-shield-half-zip-cotton-long-sleeve-crew-neck-jumper-323438"
-    },
-    {
-      "site": "flannels_com",
-      "product": "DSQUARED2 - Men's DSQ Band Logo Slim Fit T-Shirt",
-      "percentage": 29.6,
-      "old_price": "125.00",
-      "new_price": "88.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/dsquared2-mens-dsq-band-logo-slim-fit-t-shirt-593137"
-    },
-    {
-      "site": "flannels_com",
-      "product": "AQUASCUTUM - Men's Quarter-Zip Fleece",
-      "percentage": 29.6,
-      "old_price": "135.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/aquascutum-mens-quarter-zip-fleece-551359"
-    },
-    {
-      "site": "flannels_com",
-      "product": "AQUASCUTUM - Men's AquAct Long-Sleeve Polo Shirt",
-      "percentage": 29.6,
-      "old_price": "125.00",
-      "new_price": "88.00",
-      "timestamp": "2026-01-26T00:03:37.766663",
-      "url": "https://www.flannels.com/aquascutum-mens-aquact-long-sleeve-polo-shirt-548067"
     }
   ]
 }

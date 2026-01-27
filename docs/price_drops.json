@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T11:12:53.898947",
-  "total_drops": 1027,
+  "generated_at": "2026-01-27T11:18:00.421288",
+  "total_drops": 1029,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,15 +29,15 @@
     },
     {
       "site": "ukbabycentre_com",
-      "count": 60,
+      "count": 61,
       "max_drop": 50.8,
-      "total_savings": 2011.88
+      "total_savings": 2012.89
     },
     {
       "site": "flannels_com",
-      "count": 40,
+      "count": 41,
       "max_drop": 39.4,
-      "total_savings": 1524.98
+      "total_savings": 1544.98
     },
     {
       "site": "condorcycles_com",
@@ -89,7 +89,7 @@
       "percentage": 62.7,
       "old_price": "2317.00",
       "new_price": "865.00",
-      "timestamp": "2026-01-27T11:12:38.873495",
+      "timestamp": "2026-01-27T11:17:49.814968",
       "url": "https://www.twentytwentyone.com/products/asplund-claesson-koivisto-rune-vass-40-135-wall"
     },
     {
@@ -152,7 +152,7 @@
       "percentage": 50.8,
       "old_price": "59.00",
       "new_price": "29.00",
-      "timestamp": "2026-01-27T11:12:29.613322",
+      "timestamp": "2026-01-27T11:17:47.908607",
       "url": "https://ukbabycentre.com/products/bugaboo-fox-5-sun-canopy-grey-melange"
     },
     {
@@ -251,7 +251,7 @@
       "percentage": 47.1,
       "old_price": "170.00",
       "new_price": "90.00",
-      "timestamp": "2026-01-27T11:12:38.873495",
+      "timestamp": "2026-01-27T11:17:49.814968",
       "url": "https://www.twentytwentyone.com/products/barber-osgerby-frame"
     },
     {
@@ -278,7 +278,7 @@
       "percentage": 43.1,
       "old_price": "181.00",
       "new_price": "103.00",
-      "timestamp": "2026-01-27T11:12:38.873495",
+      "timestamp": "2026-01-27T11:17:49.814968",
       "url": "https://www.twentytwentyone.com/products/little-architect-desk-ex-display"
     },
     {
@@ -485,7 +485,7 @@
       "percentage": 37.9,
       "old_price": "190.00",
       "new_price": "118.00",
-      "timestamp": "2026-01-27T11:12:38.873495",
+      "timestamp": "2026-01-27T11:17:49.814968",
       "url": "https://www.twentytwentyone.com/products/tom-dixon-spot-surface-orbound"
     },
     {
@@ -620,7 +620,7 @@
       "percentage": 35.9,
       "old_price": "39.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-27T11:12:29.613322",
+      "timestamp": "2026-01-27T11:17:47.908607",
       "url": "https://ukbabycentre.com/products/bugaboo-dragonfly-sun-canopy-skyline-blue"
     },
     {
@@ -773,7 +773,7 @@
       "percentage": 33.3,
       "old_price": "36.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-27T11:12:38.873495",
+      "timestamp": "2026-01-27T11:17:49.814968",
       "url": "https://www.twentytwentyone.com/products/ichendorf-milano-corrado-dotti-cilandro-olive-oil-bottle"
     },
     {
@@ -872,7 +872,7 @@
       "percentage": 32.8,
       "old_price": "3449.00",
       "new_price": "2317.00",
-      "timestamp": "2026-01-27T11:12:38.873495",
+      "timestamp": "2026-01-27T11:17:49.814968",
       "url": "https://www.twentytwentyone.com/products/kilt-sideboard-2011"
     },
     {

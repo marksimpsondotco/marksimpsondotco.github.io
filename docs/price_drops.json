@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T05:01:36.967739",
-  "total_drops": 208,
+  "generated_at": "2026-01-27T05:06:40.407843",
+  "total_drops": 210,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,15 +17,15 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 159,
+      "count": 160,
       "max_drop": 60.0,
-      "total_savings": 4394.33
+      "total_savings": 4404.33
     },
     {
       "site": "flannels_com",
-      "count": 36,
+      "count": 37,
       "max_drop": 39.4,
-      "total_savings": 1388.48
+      "total_savings": 1413.48
     },
     {
       "site": "garrard_com",
@@ -101,7 +101,7 @@
       "percentage": 40.0,
       "old_price": "2.50",
       "new_price": "1.50",
-      "timestamp": "2026-01-27T05:01:32.115019",
+      "timestamp": "2026-01-27T05:06:38.121263",
       "url": "https://www.johnlewis.com/john-lewis-essential-soap-dispenser-white/p111485688"
     },
     {
@@ -110,7 +110,7 @@
       "percentage": 40.0,
       "old_price": "7.50",
       "new_price": "4.50",
-      "timestamp": "2026-01-27T05:01:32.115019",
+      "timestamp": "2026-01-27T05:06:38.121263",
       "url": "https://www.johnlewis.com/john-lewis-sand-effect-soap-dispenser-white/p110486377"
     },
     {
@@ -119,7 +119,7 @@
       "percentage": 40.0,
       "old_price": "7.50",
       "new_price": "4.50",
-      "timestamp": "2026-01-27T05:01:32.115019",
+      "timestamp": "2026-01-27T05:06:38.121263",
       "url": "https://www.johnlewis.com/john-lewis-diamond-toothbrush-holder-black/p110486375"
     },
     {
@@ -128,7 +128,7 @@
       "percentage": 40.0,
       "old_price": "6.00",
       "new_price": "3.60",
-      "timestamp": "2026-01-27T05:01:32.115019",
+      "timestamp": "2026-01-27T05:06:38.121263",
       "url": "https://www.johnlewis.com/john-lewis-sand-effect-bathroom-tumbler-white/p110486379"
     },
     {
@@ -551,7 +551,7 @@
       "percentage": 25.5,
       "old_price": "55.00",
       "new_price": "41.00",
-      "timestamp": "2026-01-27T05:01:27.874572",
+      "timestamp": "2026-01-27T05:06:34.300991",
       "url": "https://www.flannels.com/hugo-mens-logo-label-cotton-long-sleeve-hoodie-529292"
     },
     {
@@ -706,6 +706,15 @@
       "new_price": "37.50",
       "timestamp": "2026-01-27T02:34:36.919057",
       "url": "https://www.flannels.com/hugo-logo-hoodie-534575"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Missoni - Men's Short Sleeve T-Shirt",
+      "percentage": 25.0,
+      "old_price": "100.00",
+      "new_price": "75.00",
+      "timestamp": "2026-01-27T05:06:34.300991",
+      "url": "https://www.flannels.com/missoni-mens-short-sleeve-t-shirt-594217"
     },
     {
       "site": "johnlewis_com",
@@ -931,15 +940,6 @@
       "new_price": "65.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/levis-standard-taper-chinos/p6261276"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Samsung WD80TA046BE Freestanding Washer Dryer, 8kg Wash/5kg Dry Load, 1400rpm, White",
-      "percentage": 18.2,
-      "old_price": "549.00",
-      "new_price": "449.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/samsung-wd80ta046be-freestanding-washer-dryer-8kg-wash-5kg-dry-load-1400rpm-white/p5135883"
     }
   ]
 }

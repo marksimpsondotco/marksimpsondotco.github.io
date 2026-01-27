@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T02:50:00.809075",
-  "total_drops": 188,
+  "generated_at": "2026-01-27T02:55:03.841496",
+  "total_drops": 189,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "currys_com",
-      "count": 5,
+      "count": 6,
       "max_drop": 62.5,
-      "total_savings": 166.0
+      "total_savings": 216.0
     },
     {
       "site": "johnlewis_com",
@@ -47,7 +47,7 @@
       "percentage": 66.7,
       "old_price": "3.00",
       "new_price": "1.00",
-      "timestamp": "2026-01-27T02:49:53.784862",
+      "timestamp": "2026-01-27T02:55:00.861816",
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
@@ -56,8 +56,17 @@
       "percentage": 62.5,
       "old_price": "79.99",
       "new_price": "29.99",
-      "timestamp": "2026-01-27T02:49:53.836781",
+      "timestamp": "2026-01-27T02:54:50.240169",
       "url": "https://www.currys.co.uk/products/10262823.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "LG VX70 Series AI Dry RHX7010TBB 10 kg Heat Pump Tumble",
+      "percentage": 62.5,
+      "old_price": "79.99",
+      "new_price": "29.99",
+      "timestamp": "2026-01-27T02:54:50.240169",
+      "url": "https://www.currys.co.uk/products/10287536.html"
     },
     {
       "site": "johnlewis_com",
@@ -931,15 +940,6 @@
       "new_price": "19.55",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/clarins-radiance-plus-golden-glow-booster-for-face-15ml/p5570847"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Hotter Relax Leather Slippers",
-      "percentage": 14.5,
-      "old_price": "69.00",
-      "new_price": "59.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/hotter-relax-leather-slippers/p111043813"
     }
   ]
 }

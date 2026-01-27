@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T03:40:34.504479",
-  "total_drops": 191,
+  "generated_at": "2026-01-27T03:45:37.566971",
+  "total_drops": 192,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -23,9 +23,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 33,
+      "count": 34,
       "max_drop": 39.4,
-      "total_savings": 1308.49
+      "total_savings": 1362.48
     },
     {
       "site": "garrard_com",
@@ -139,6 +139,15 @@
       "new_price": "85.00",
       "timestamp": "2026-01-27T02:34:36.919057",
       "url": "https://www.flannels.com/adidas-womens-full-zip-soft-fleece-jacket-660586"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Nike - Vomero 18  Mens Running Shoes",
+      "percentage": 38.6,
+      "old_price": "139.99",
+      "new_price": "86.00",
+      "timestamp": "2026-01-27T03:45:36.452751",
+      "url": "https://www.flannels.com/nike-vomero-18-mens-running-shoes-211531"
     },
     {
       "site": "johnlewis_com",
@@ -290,7 +299,7 @@
       "percentage": 30.0,
       "old_price": "50.00",
       "new_price": "35.00",
-      "timestamp": "2026-01-27T03:40:32.549232",
+      "timestamp": "2026-01-27T03:45:36.452751",
       "url": "https://www.flannels.com/tommy-hilfiger-kids-monotype-closed-hem-fleece-joggers-482587"
     },
     {
@@ -931,15 +940,6 @@
       "new_price": "379.00",
       "timestamp": "2026-01-27T03:39:08.904927",
       "url": "https://www.currys.co.uk/products/10198933.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "DIOR Miss Dior Parfum",
-      "percentage": 15.0,
-      "old_price": "80.00",
-      "new_price": "68.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/dior-miss-dior-parfum/p111442829"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-27T17:03:02.914235",
-  "total_drops": 1149,
+  "generated_at": "2026-01-27T17:08:11.588195",
+  "total_drops": 1155,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 255,
+      "count": 258,
       "max_drop": 74.2,
-      "total_savings": 7287.5
+      "total_savings": 7389.3
     },
     {
       "site": "leaderonline_com",
@@ -53,9 +53,9 @@
     },
     {
       "site": "boden_com",
-      "count": 2,
+      "count": 5,
       "max_drop": 17.1,
-      "total_savings": 4.5
+      "total_savings": 12.04
     },
     {
       "site": "percivalclo_com",
@@ -107,7 +107,7 @@
       "percentage": 70.1,
       "old_price": "328.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-27T17:02:54.396446",
+      "timestamp": "2026-01-27T17:08:02.227072",
       "url": "https://www.johnlewis.com/reiss-gable-single-breasted-wool-blend-coat/p114285714"
     },
     {
@@ -161,7 +161,7 @@
       "percentage": 70.0,
       "old_price": "125.00",
       "new_price": "37.50",
-      "timestamp": "2026-01-27T17:02:54.396446",
+      "timestamp": "2026-01-27T17:08:02.227072",
       "url": "https://www.johnlewis.com/john-lewis-portland-leather-zip-front-flatform-ankle-boots/p114401574"
     },
     {
@@ -170,7 +170,7 @@
       "percentage": 70.0,
       "old_price": "69.00",
       "new_price": "20.70",
-      "timestamp": "2026-01-27T17:02:54.396446",
+      "timestamp": "2026-01-27T17:08:02.227072",
       "url": "https://www.johnlewis.com/john-lewis-helm-suede-high-vamp-ballerina-pumps/p113907299"
     },
     {
@@ -181,6 +181,15 @@
       "new_price": "27.50",
       "timestamp": "2026-01-27T14:54:32.763238",
       "url": "https://www.johnlewis.com/sweaty-betty-30-inch-power-bootcut-gym-trousers/p110730830"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty Breathe Easy Long Sleeve Top",
+      "percentage": 69.2,
+      "old_price": "65.00",
+      "new_price": "20.00",
+      "timestamp": "2026-01-27T17:08:02.227072",
+      "url": "https://www.johnlewis.com/sweaty-betty-breathe-easy-long-sleeve-top/p6015575"
     },
     {
       "site": "johnlewis_com",
@@ -350,7 +359,7 @@
       "percentage": 51.0,
       "old_price": "98.00",
       "new_price": "48.00",
-      "timestamp": "2026-01-27T17:02:54.396446",
+      "timestamp": "2026-01-27T17:08:02.227072",
       "url": "https://www.johnlewis.com/reiss-petite-gabi-slim-fit-suit-trousers/p111648116"
     },
     {
@@ -566,7 +575,7 @@
       "percentage": 50.0,
       "old_price": "85.00",
       "new_price": "42.50",
-      "timestamp": "2026-01-27T17:02:54.396446",
+      "timestamp": "2026-01-27T17:08:02.227072",
       "url": "https://www.johnlewis.com/john-lewis-elevated-triple-tote-bag-black/p114013277"
     },
     {
@@ -575,8 +584,17 @@
       "percentage": 50.0,
       "old_price": "159.00",
       "new_price": "79.50",
-      "timestamp": "2026-01-27T17:02:54.396446",
+      "timestamp": "2026-01-27T17:08:02.227072",
       "url": "https://www.johnlewis.com/radley-pockets-medium-crossbody-bag/p113917144"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty Breathe Easy Mesh T-Shirt",
+      "percentage": 50.0,
+      "old_price": "55.00",
+      "new_price": "27.50",
+      "timestamp": "2026-01-27T17:08:02.227072",
+      "url": "https://www.johnlewis.com/sweaty-betty-breathe-easy-mesh-t-shirt/p113791097"
     },
     {
       "site": "currys_com",
@@ -649,6 +667,15 @@
       "new_price": "15.99",
       "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10270746.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty Anytime Explorer Zip Up Jacket, Navy Blue",
+      "percentage": 42.8,
+      "old_price": "68.50",
+      "new_price": "39.20",
+      "timestamp": "2026-01-27T17:08:02.227072",
+      "url": "https://www.johnlewis.com/sweaty-betty-anytime-explorer-zip-up-jacket-navy-blue/p113083651"
     },
     {
       "site": "currys_com",
@@ -955,33 +982,6 @@
       "new_price": "43.99",
       "timestamp": "2026-01-27T02:10:20.651546",
       "url": "https://www.currys.co.uk/products/10271044.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Travalo Milano Refillable Perfume Atomiser Spray",
-      "percentage": 36.8,
-      "old_price": "31.00",
-      "new_price": "19.60",
-      "timestamp": "2026-01-27T11:10:19.117336",
-      "url": "https://www.johnlewis.com/travalo-milano-refillable-perfume-atomiser-spray/p3139891"
-    },
-    {
-      "site": "currys_com",
-      "product": "REVLON One Step Round Brush Attachment - Black",
-      "percentage": 36.7,
-      "old_price": "150.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10286340.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "CURRYS Tech Expert Slippers",
-      "percentage": 36.7,
-      "old_price": "150.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10283554.html"
     }
   ]
 }

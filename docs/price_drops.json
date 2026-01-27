@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T18:15:49.375530",
-  "total_drops": 1245,
+  "generated_at": "2026-01-27T18:20:59.100342",
+  "total_drops": 1265,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -14,6 +14,12 @@
       "count": 1,
       "max_drop": 66.7,
       "total_savings": 2.0
+    },
+    {
+      "site": "radley_co_uk",
+      "count": 19,
+      "max_drop": 65.6,
+      "total_savings": 1855.1
     },
     {
       "site": "twentytwentyone_com",
@@ -59,9 +65,9 @@
     },
     {
       "site": "hauslondon_com",
-      "count": 83,
+      "count": 84,
       "max_drop": 15.4,
-      "total_savings": 11820.0
+      "total_savings": 11893.0
     },
     {
       "site": "percivalclo_com",
@@ -243,6 +249,15 @@
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
+      "site": "radley_co_uk",
+      "product": "Mayfair Lane Large Flapover Shoulder Bag - OHE14603",
+      "percentage": 65.6,
+      "old_price": "259.00",
+      "new_price": "89.00",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/mayfair-lane-large-flapover-shoulder-bag-ohe14603"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Joules Kids' Carin Ditsy Print Padded Jacket, Multi",
       "percentage": 64.6,
@@ -288,6 +303,15 @@
       "url": "https://www.currys.co.uk/products/10287536.html"
     },
     {
+      "site": "radley_co_uk",
+      "product": "UNDER THE SEA SMALL ZIPTOP GRAB CHALK",
+      "percentage": 61.8,
+      "old_price": "259.00",
+      "new_price": "99.00",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/under-the-sea-small-ziptop-grab-chalk"
+    },
+    {
       "site": "currys_com",
       "product": "SALTER Deco EK5832BLK 2-Slice Toaster - Black",
       "percentage": 61.1,
@@ -295,6 +319,51 @@
       "new_price": "35.00",
       "timestamp": "2026-01-27T08:24:27.762656",
       "url": "https://www.currys.co.uk/products/10260547.html"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "It's Written In The Snowflakes Medium Bifold Purse - OSE19101",
+      "percentage": 60.0,
+      "old_price": "79.00",
+      "new_price": "31.60",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/its-written-in-the-snowflakes-medium-bifold-purse-ose19101"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Tavistock Mini Zip Around Cross Body Bag - POHC13201",
+      "percentage": 60.0,
+      "old_price": "159.00",
+      "new_price": "63.60",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/tavistock-mini-zip-around-cross-body-bag-pohc13201"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "DUKES PLACE - CANVAS LARGE OPEN TOP TOTE NATURAL",
+      "percentage": 60.0,
+      "old_price": "259.00",
+      "new_price": "103.60",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "DUKES PLACE LARGE OPEN TOP TOTE CHALK",
+      "percentage": 60.0,
+      "old_price": "279.00",
+      "new_price": "111.60",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/dukes-place-large-open-top-tote-chalk"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "POCKETS MINI ZIPTOP CROSS BODY CHALK",
+      "percentage": 60.0,
+      "old_price": "139.00",
+      "new_price": "55.60",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/pockets-mini-ziptop-cross-body-stone"
     },
     {
       "site": "johnlewis_com",
@@ -405,6 +474,24 @@
       "url": "https://www.johnlewis.com/john-lewis-cashmere-crew-neck-jumper/p113835615"
     },
     {
+      "site": "radley_co_uk",
+      "product": "OAK STREET MEDIUM ZIPTOP TOTE CHALK",
+      "percentage": 50.2,
+      "old_price": "259.00",
+      "new_price": "129.00",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/oak-street-medium-ziptop-tote-utility"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "DEVONSHIRE ROW - DENIM LARGE OPEN TOP GRAB EVENFALL",
+      "percentage": 50.2,
+      "old_price": "299.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": null
+    },
+    {
       "site": "currys_com",
       "product": "SONY WH-1000XM6 Wireless Bluetooth Noise-Cancelling Hea",
       "percentage": 50.1,
@@ -412,6 +499,33 @@
       "new_price": "4.99",
       "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10282441.html"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Dukes Place Medium Ziptop Cross Body Bag - RHC19701",
+      "percentage": 50.0,
+      "old_price": "199.00",
+      "new_price": "99.50",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/dukes-place-medium-ziptop-cross-body-bag-rhc19701"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "SUTHERLAND ROW LARGE OPEN TOP TOTE SADDLE",
+      "percentage": 50.0,
+      "old_price": "109.00",
+      "new_price": "54.50",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "DUKES PLACE MEDIUM ZIPTOP CROSS BODY PECAN",
+      "percentage": 50.0,
+      "old_price": "199.00",
+      "new_price": "99.50",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/dukes-place-medium-ziptop-cross-body-evenfall"
     },
     {
       "site": "johnlewis_com",
@@ -648,6 +762,15 @@
       "url": "https://www.currys.co.uk/products/10295524.html"
     },
     {
+      "site": "radley_co_uk",
+      "product": "Kendal Terrace 31mm With Leather Strap Watch - RY21906A",
+      "percentage": 45.6,
+      "old_price": "90.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/kendal-terrace-31mm-with-leather-strap-watch-ry21906a"
+    },
+    {
       "site": "currys_com",
       "product": "GLOBAL GIZMOS Jellyfish Aquarium Lamp - Black",
       "percentage": 43.3,
@@ -727,6 +850,60 @@
       "new_price": "59.00",
       "timestamp": "2026-01-27T16:23:46.525249",
       "url": "https://www.johnlewis.com/john-lewis-cashmere-edge-to-edge-rib-cardigan/p114013778"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Dukes Place Medium Compartment Cross Body Bag - RHC19702",
+      "percentage": 40.0,
+      "old_price": "239.00",
+      "new_price": "143.40",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/dukes-place-medium-compartment-cross-body-bag-rhc19702"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Fleet Street - Suede Medium Flapover Clutch Bag - RHE21904",
+      "percentage": 40.0,
+      "old_price": "199.00",
+      "new_price": "119.40",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/fleet-street-suede-medium-flapover-clutch-bag-rhe21904"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Halcomb Place Medium Boxed Wallet - BRSE19008",
+      "percentage": 40.0,
+      "old_price": "69.00",
+      "new_price": "41.40",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/halcomb-place-medium-boxed-wallet-brse19008"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Halcomb Place Small Boxed Pencil Case - BRSE19001",
+      "percentage": 40.0,
+      "old_price": "59.00",
+      "new_price": "35.40",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": "https://www.radley.co.uk/products/halcomb-place-small-boxed-pencil-case-brse19001"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "DUKES PLACE - CROCHET MEDIUM ZIPTOP CROSS BODY NATURAL",
+      "percentage": 40.0,
+      "old_price": "199.00",
+      "new_price": "119.40",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "DUKES PLACE - CROCHET MEDIUM COMPARTMENT CROSS BODY NATURAL",
+      "percentage": 40.0,
+      "old_price": "239.00",
+      "new_price": "143.40",
+      "timestamp": "2026-01-27T18:20:38.143181",
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -817,177 +994,6 @@
       "new_price": "14.99",
       "timestamp": "2026-01-27T09:08:08.524208",
       "url": "https://www.currys.co.uk/products/10285436.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Barbour Dog Waxed Flat Cap, Green Olive",
-      "percentage": 39.9,
-      "old_price": "29.95",
-      "new_price": "18.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/barbour-dog-waxed-flat-cap-green-olive/p113937503"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Speedo Essentials 16\" Swim Shorts",
-      "percentage": 39.5,
-      "old_price": "19.00",
-      "new_price": "11.50",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/speedo-essentials-16-inch-swim-shorts/p5167925"
-    },
-    {
-      "site": "flannels_com",
-      "product": "OFF WHITE - Women's Satin Pyjama Crop Shirt",
-      "percentage": 39.4,
-      "old_price": "289.00",
-      "new_price": "175.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": null
-    },
-    {
-      "site": "currys_com",
-      "product": "QDOS HYBRID SOFT + SNAP MagSafe iPhone 15 Plus Case - C",
-      "percentage": 39.4,
-      "old_price": "32.99",
-      "new_price": "19.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10255350.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "HUSH Nessa Wide Leg Jeans",
-      "percentage": 38.9,
-      "old_price": "90.00",
-      "new_price": "55.00",
-      "timestamp": "2026-01-27T14:54:32.763238",
-      "url": "https://www.johnlewis.com/hush-nessa-wide-leg-jeans/p112504449"
-    },
-    {
-      "site": "flannels_com",
-      "product": "adidas - Women's Full Zip Fleece",
-      "percentage": 38.8,
-      "old_price": "139.00",
-      "new_price": "85.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": null
-    },
-    {
-      "site": "flannels_com",
-      "product": "Nike - Vomero 18  Mens Running Shoes",
-      "percentage": 38.6,
-      "old_price": "139.99",
-      "new_price": "86.00",
-      "timestamp": "2026-01-27T04:45:41.906098",
-      "url": "https://www.flannels.com/nike-vomero-18-mens-running-shoes-211531"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Amazon Echo Dot Kids Smart Speaker with Alexa Voice Recognition & Parental Controls, 5th Generation (2022)",
-      "percentage": 38.5,
-      "old_price": "64.99",
-      "new_price": "39.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-echo-dot-kids-smart-speaker-with-alexa-voice-recognition-parental-controls-5th-generation-2022/p109610442"
-    },
-    {
-      "site": "currys_com",
-      "product": "LOGIK L7APHB23 7-port USB 2.0 Hub",
-      "percentage": 38.5,
-      "old_price": "64.99",
-      "new_price": "39.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10235193.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "DAEWOO Denver SDA2745GE Jug Kettle - Cream",
-      "percentage": 38.5,
-      "old_price": "64.99",
-      "new_price": "39.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10271313.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Theragun Prime by Therabody 5th Generation Quiet Deep Tissue Therapy Massage Gun",
-      "percentage": 38.1,
-      "old_price": "299.00",
-      "new_price": "185.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/theragun-prime-by-therabody-5th-generation-quiet-deep-tissue-therapy-massage-gun/p111637297"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Spot Surface Orbound | Ex-Display",
-      "percentage": 37.9,
-      "old_price": "190.00",
-      "new_price": "118.00",
-      "timestamp": "2026-01-27T12:29:15.820303",
-      "url": "https://www.twentytwentyone.com/products/tom-dixon-spot-surface-orbound"
-    },
-    {
-      "site": "currys_com",
-      "product": "GLOBAL GIZMOS Jellyfish Water Bubble Lamp - Blue & Purp",
-      "percentage": 37.9,
-      "old_price": "28.99",
-      "new_price": "17.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10265460.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "GLOBAL GIZMOS Interactive Desktop Light Bar - Twin Pack",
-      "percentage": 37.9,
-      "old_price": "28.99",
-      "new_price": "17.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10265462.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Levi's XX Chino Shorts",
-      "percentage": 37.5,
-      "old_price": "44.00",
-      "new_price": "27.50",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/levis-xx-chino-shorts/p112905193"
-    },
-    {
-      "site": "currys_com",
-      "product": "RUSSELL HOBBS Adventure 24080 2-Slice Toaster - Silver",
-      "percentage": 37.5,
-      "old_price": "39.99",
-      "new_price": "24.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10196850.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "BABYLISS Stardust Shimmer 5914PU Hair Dryer - Gold",
-      "percentage": 37.5,
-      "old_price": "80.00",
-      "new_price": "50.00",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10288885.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "SWAN Retro 45-litre Rectangular Bin - Black",
-      "percentage": 37.5,
-      "old_price": "120.00",
-      "new_price": "74.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10156995.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "CRUCIAL P310 M.2 Internal SSD - 500 GB",
-      "percentage": 37.1,
-      "old_price": "69.99",
-      "new_price": "43.99",
-      "timestamp": "2026-01-27T02:10:20.651546",
-      "url": "https://www.currys.co.uk/products/10271044.html"
     }
   ]
 }

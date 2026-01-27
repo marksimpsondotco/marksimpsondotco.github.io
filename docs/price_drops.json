@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T13:00:38.186661",
+  "generated_at": "2026-01-27T13:05:44.203239",
   "total_drops": 1051,
   "top_drops_shown": 100,
   "site_stats": [
@@ -23,9 +23,9 @@
     },
     {
       "site": "currys_com",
-      "count": 630,
+      "count": 629,
       "max_drop": 62.5,
-      "total_savings": 9681.68
+      "total_savings": 9662.67
     },
     {
       "site": "ukbabycentre_com",
@@ -35,9 +35,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 43,
+      "count": 44,
       "max_drop": 39.4,
-      "total_savings": 1554.48
+      "total_savings": 1575.98
     },
     {
       "site": "condorcycles_com",
@@ -99,7 +99,7 @@
       "old_price": "59.00",
       "new_price": "17.70",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": null
+      "url": "https://www.johnlewis.com/john-lewis-regular-fit-linen-shirt/p6172177"
     },
     {
       "site": "leaderonline_com",
@@ -117,7 +117,7 @@
       "old_price": "42.00",
       "new_price": "14.99",
       "timestamp": "2026-01-27T11:10:19.117336",
-      "url": "https://www.johnlewis.com/crocs-classic-clogs-grey/p113873498"
+      "url": "https://www.johnlewis.com/crocs-classic-clogs/p5529189"
     },
     {
       "site": "twentytwentyone_com",
@@ -603,7 +603,7 @@
       "old_price": "28.99",
       "new_price": "17.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": null
+      "url": "https://www.currys.co.uk/products/10265462.html"
     },
     {
       "site": "johnlewis_com",
@@ -747,7 +747,7 @@
       "old_price": "16.99",
       "new_price": "10.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": null
+      "url": "https://www.currys.co.uk/products/10283815.html"
     },
     {
       "site": "johnlewis_com",
@@ -756,7 +756,7 @@
       "old_price": "129.00",
       "new_price": "83.85",
       "timestamp": "2026-01-27T09:43:28.321029",
-      "url": null
+      "url": "https://www.johnlewis.com/polo-ralph-lauren-cotton-regular-fit-oxford-shirt-classic-camel-heather/p114419361"
     },
     {
       "site": "currys_com",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T18:20:59.100342",
-  "total_drops": 1265,
+  "generated_at": "2026-01-27T18:26:09.837406",
+  "total_drops": 1279,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -10,16 +10,16 @@
       "total_savings": 7389.3
     },
     {
+      "site": "radley_co_uk",
+      "count": 33,
+      "max_drop": 66.9,
+      "total_savings": 2652.3
+    },
+    {
       "site": "leaderonline_com",
       "count": 1,
       "max_drop": 66.7,
       "total_savings": 2.0
-    },
-    {
-      "site": "radley_co_uk",
-      "count": 19,
-      "max_drop": 65.6,
-      "total_savings": 1855.1
     },
     {
       "site": "twentytwentyone_com",
@@ -240,6 +240,15 @@
       "url": "https://www.johnlewis.com/sweaty-betty-all-day-leggings/p113083585"
     },
     {
+      "site": "radley_co_uk",
+      "product": "UNDER THE SEA LARGE OPEN TOP TOTE CHALK",
+      "percentage": 66.9,
+      "old_price": "299.00",
+      "new_price": "99.00",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": "https://www.radley.co.uk/products/under-the-sea-large-open-top-tote-chalk"
+    },
+    {
       "site": "leaderonline_com",
       "product": "2.4m White Painted Skirting Board (LEADT)",
       "percentage": 66.7,
@@ -254,7 +263,7 @@
       "percentage": 65.6,
       "old_price": "259.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": "https://www.radley.co.uk/products/mayfair-lane-large-flapover-shoulder-bag-ohe14603"
     },
     {
@@ -308,7 +317,7 @@
       "percentage": 61.8,
       "old_price": "259.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": "https://www.radley.co.uk/products/under-the-sea-small-ziptop-grab-chalk"
     },
     {
@@ -326,7 +335,7 @@
       "percentage": 60.0,
       "old_price": "79.00",
       "new_price": "31.60",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": "https://www.radley.co.uk/products/its-written-in-the-snowflakes-medium-bifold-purse-ose19101"
     },
     {
@@ -335,7 +344,7 @@
       "percentage": 60.0,
       "old_price": "159.00",
       "new_price": "63.60",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": "https://www.radley.co.uk/products/tavistock-mini-zip-around-cross-body-bag-pohc13201"
     },
     {
@@ -344,7 +353,7 @@
       "percentage": 60.0,
       "old_price": "259.00",
       "new_price": "103.60",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": null
     },
     {
@@ -353,7 +362,7 @@
       "percentage": 60.0,
       "old_price": "279.00",
       "new_price": "111.60",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": "https://www.radley.co.uk/products/dukes-place-large-open-top-tote-chalk"
     },
     {
@@ -362,8 +371,35 @@
       "percentage": 60.0,
       "old_price": "139.00",
       "new_price": "55.60",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": "https://www.radley.co.uk/products/pockets-mini-ziptop-cross-body-stone"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "DUKES PLACE MEDIUM ZIPTOP SLING CHALK",
+      "percentage": 60.0,
+      "old_price": "219.00",
+      "new_price": "87.60",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": "https://www.radley.co.uk/products/dukes-place-medium-ziptop-sling-saddle"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "DANESFIELD LEOPARD-RESPONSIBLE LARGE COSMETIC POUCH HUNTER GREEN",
+      "percentage": 60.0,
+      "old_price": "49.00",
+      "new_price": "19.60",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": "https://www.radley.co.uk/products/danesfield-leopard-responsible-large-cosmetic-pouch-hunter-green"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "DANESFIELD LEOPARD-RESPONSIBLE MEDIUM COSMETIC POUCH HUNTER GREEN",
+      "percentage": 60.0,
+      "old_price": "39.00",
+      "new_price": "15.60",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": "https://www.radley.co.uk/products/danesfield-leopard-responsible-medium-cosmetic-pouch-hunter-green"
     },
     {
       "site": "johnlewis_com",
@@ -479,7 +515,7 @@
       "percentage": 50.2,
       "old_price": "259.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": "https://www.radley.co.uk/products/oak-street-medium-ziptop-tote-utility"
     },
     {
@@ -488,7 +524,7 @@
       "percentage": 50.2,
       "old_price": "299.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": null
     },
     {
@@ -506,7 +542,7 @@
       "percentage": 50.0,
       "old_price": "199.00",
       "new_price": "99.50",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": "https://www.radley.co.uk/products/dukes-place-medium-ziptop-cross-body-bag-rhc19701"
     },
     {
@@ -515,7 +551,7 @@
       "percentage": 50.0,
       "old_price": "109.00",
       "new_price": "54.50",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": null
     },
     {
@@ -524,8 +560,98 @@
       "percentage": 50.0,
       "old_price": "199.00",
       "new_price": "99.50",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": "https://www.radley.co.uk/products/dukes-place-medium-ziptop-cross-body-evenfall"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "THE RATHBONE LARGE PHONE CROSS BODY CHALK",
+      "percentage": 50.0,
+      "old_price": "129.00",
+      "new_price": "64.50",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "COMMUTE STREET MEDIUM  COSMETIC POUCH CARMINE",
+      "percentage": 50.0,
+      "old_price": "79.00",
+      "new_price": "39.50",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "WOOL SCARF DARK OAK",
+      "percentage": 50.0,
+      "old_price": "59.00",
+      "new_price": "29.50",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "WOOL SCARF CARMINE",
+      "percentage": 50.0,
+      "old_price": "59.00",
+      "new_price": "29.50",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "WOOL SCARF PINE NEEDLE",
+      "percentage": 50.0,
+      "old_price": "59.00",
+      "new_price": "29.50",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "RADLEY CHECK PONCHO ASH",
+      "percentage": 50.0,
+      "old_price": "89.00",
+      "new_price": "44.50",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "RADLEY STRIPE PONCHO SNOW",
+      "percentage": 50.0,
+      "old_price": "109.00",
+      "new_price": "54.50",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "RADLEY CHECK BLANKET ASH",
+      "percentage": 50.0,
+      "old_price": "89.00",
+      "new_price": "44.50",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "RADLEY STRIPE BLANKET SNOW",
+      "percentage": 50.0,
+      "old_price": "109.00",
+      "new_price": "54.50",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "LEOPARD SCARF PORCINI",
+      "percentage": 50.0,
+      "old_price": "45.00",
+      "new_price": "22.50",
+      "timestamp": "2026-01-27T18:25:47.230177",
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -767,7 +893,7 @@
       "percentage": 45.6,
       "old_price": "90.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": "https://www.radley.co.uk/products/kendal-terrace-31mm-with-leather-strap-watch-ry21906a"
     },
     {
@@ -857,7 +983,7 @@
       "percentage": 40.0,
       "old_price": "239.00",
       "new_price": "143.40",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": "https://www.radley.co.uk/products/dukes-place-medium-compartment-cross-body-bag-rhc19702"
     },
     {
@@ -866,134 +992,8 @@
       "percentage": 40.0,
       "old_price": "199.00",
       "new_price": "119.40",
-      "timestamp": "2026-01-27T18:20:38.143181",
+      "timestamp": "2026-01-27T18:25:47.230177",
       "url": "https://www.radley.co.uk/products/fleet-street-suede-medium-flapover-clutch-bag-rhe21904"
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "Halcomb Place Medium Boxed Wallet - BRSE19008",
-      "percentage": 40.0,
-      "old_price": "69.00",
-      "new_price": "41.40",
-      "timestamp": "2026-01-27T18:20:38.143181",
-      "url": "https://www.radley.co.uk/products/halcomb-place-medium-boxed-wallet-brse19008"
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "Halcomb Place Small Boxed Pencil Case - BRSE19001",
-      "percentage": 40.0,
-      "old_price": "59.00",
-      "new_price": "35.40",
-      "timestamp": "2026-01-27T18:20:38.143181",
-      "url": "https://www.radley.co.uk/products/halcomb-place-small-boxed-pencil-case-brse19001"
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "DUKES PLACE - CROCHET MEDIUM ZIPTOP CROSS BODY NATURAL",
-      "percentage": 40.0,
-      "old_price": "199.00",
-      "new_price": "119.40",
-      "timestamp": "2026-01-27T18:20:38.143181",
-      "url": null
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "DUKES PLACE - CROCHET MEDIUM COMPARTMENT CROSS BODY NATURAL",
-      "percentage": 40.0,
-      "old_price": "239.00",
-      "new_price": "143.40",
-      "timestamp": "2026-01-27T18:20:38.143181",
-      "url": null
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Essential Soap Dispenser, White",
-      "percentage": 40.0,
-      "old_price": "2.50",
-      "new_price": "1.50",
-      "timestamp": "2026-01-27T05:25:04.264965",
-      "url": "https://www.johnlewis.com/john-lewis-essential-soap-dispenser-white/p111485688"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Sand Effect Soap Dispenser, White",
-      "percentage": 40.0,
-      "old_price": "7.50",
-      "new_price": "4.50",
-      "timestamp": "2026-01-27T05:25:04.264965",
-      "url": "https://www.johnlewis.com/john-lewis-sand-effect-soap-dispenser-white/p110486377"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Diamond Toothbrush Holder, Black",
-      "percentage": 40.0,
-      "old_price": "7.50",
-      "new_price": "4.50",
-      "timestamp": "2026-01-27T05:25:04.264965",
-      "url": "https://www.johnlewis.com/john-lewis-diamond-toothbrush-holder-black/p110486375"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Sand Effect Bathroom Tumbler, White",
-      "percentage": 40.0,
-      "old_price": "6.00",
-      "new_price": "3.60",
-      "timestamp": "2026-01-27T05:25:04.264965",
-      "url": "https://www.johnlewis.com/john-lewis-sand-effect-bathroom-tumbler-white/p110486379"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Sweaty Betty Escape Italian Luxe Fleece Hoodie",
-      "percentage": 40.0,
-      "old_price": "60.00",
-      "new_price": "36.00",
-      "timestamp": "2026-01-27T16:23:46.525249",
-      "url": "https://www.johnlewis.com/sweaty-betty-escape-italian-luxe-fleece-hoodie/p5437821"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Amazon Echo Show 5 (3rd Gen) Kids Smart Speaker with 5.5\" Screen, Alexa Voice Recognition & Parental Controls, Galaxy",
-      "percentage": 40.0,
-      "old_price": "99.99",
-      "new_price": "59.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-echo-show-5-3rd-gen-kids-smart-speaker-with-5-5-inch-screen-alexa-voice-recognition-parental-controls-galaxy/p110582032"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Cashmere Crew Neck Cardigan",
-      "percentage": 40.0,
-      "old_price": "99.00",
-      "new_price": "59.40",
-      "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/john-lewis-cashmere-crew-neck-cardigan/p113835623"
-    },
-    {
-      "site": "currys_com",
-      "product": "GARMIN Venu 4 Smart Watch - Silver with Citron Silicone",
-      "percentage": 40.0,
-      "old_price": "99.99",
-      "new_price": "59.99",
-      "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10291064.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "TRESEMME 5543BU Keratin Smooth Hair Dryer Diffuser Set",
-      "percentage": 40.0,
-      "old_price": "44.99",
-      "new_price": "26.99",
-      "timestamp": "2026-01-27T09:08:08.524208",
-      "url": "https://www.currys.co.uk/products/10257022.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "ULTRAHUMAN Ring Air - Bionic Gold, Size 13",
-      "percentage": 40.0,
-      "old_price": "24.99",
-      "new_price": "14.99",
-      "timestamp": "2026-01-27T09:08:08.524208",
-      "url": "https://www.currys.co.uk/products/10285436.html"
     }
   ]
 }

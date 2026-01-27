@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T19:54:41.849002",
-  "total_drops": 1427,
+  "generated_at": "2026-01-27T19:59:52.710465",
+  "total_drops": 1444,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -41,9 +41,9 @@
     },
     {
       "site": "oliversweeney_com",
-      "count": 13,
+      "count": 30,
       "max_drop": 43.7,
-      "total_savings": 490.0
+      "total_savings": 895.0
     },
     {
       "site": "flannels_com",
@@ -941,7 +941,7 @@
       "percentage": 43.7,
       "old_price": "229.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-27T19:54:10.838736",
+      "timestamp": "2026-01-27T19:59:29.513175",
       "url": "https://www.oliversweeney.com/products/ossos-black"
     },
     {

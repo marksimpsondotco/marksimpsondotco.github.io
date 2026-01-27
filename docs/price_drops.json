@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-27T15:50:34.205647",
-  "total_drops": 1089,
+  "generated_at": "2026-01-27T15:55:44.608451",
+  "total_drops": 1098,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 228,
+      "count": 236,
       "max_drop": 74.2,
-      "total_savings": 6255.2
+      "total_savings": 6551.5
     },
     {
       "site": "leaderonline_com",
@@ -47,9 +47,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 10,
+      "count": 11,
       "max_drop": 20.1,
-      "total_savings": 445.0
+      "total_savings": 487.0
     },
     {
       "site": "percivalclo_com",
@@ -94,6 +94,24 @@
       "new_price": "17.70",
       "timestamp": "2026-01-27T11:54:59.934845",
       "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Olive Leather Block Heel Ankle Boots",
+      "percentage": 70.0,
+      "old_price": "99.00",
+      "new_price": "29.70",
+      "timestamp": "2026-01-27T15:55:38.281225",
+      "url": "https://www.johnlewis.com/john-lewis-olive-leather-block-heel-ankle-boots/p113907301"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Otto Leather Pointed Toe Kitten Heel Ankle Boots",
+      "percentage": 70.0,
+      "old_price": "115.00",
+      "new_price": "34.50",
+      "timestamp": "2026-01-27T15:55:38.281225",
+      "url": "https://www.johnlewis.com/john-lewis-otto-leather-pointed-toe-kitten-heel-ankle-boots/p113907311"
     },
     {
       "site": "johnlewis_com",
@@ -574,6 +592,24 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Roll Neck Cashmere Jumper",
+      "percentage": 40.4,
+      "old_price": "109.00",
+      "new_price": "65.00",
+      "timestamp": "2026-01-27T15:55:38.281225",
+      "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Cashmere Edge to Edge Rib Cardigan",
+      "percentage": 40.4,
+      "old_price": "99.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-27T15:55:38.281225",
+      "url": "https://www.johnlewis.com/john-lewis-cashmere-edge-to-edge-rib-cardigan/p114013778"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Essential Soap Dispenser, White",
       "percentage": 40.0,
       "old_price": "2.50",
@@ -607,6 +643,15 @@
       "new_price": "3.60",
       "timestamp": "2026-01-27T05:25:04.264965",
       "url": "https://www.johnlewis.com/john-lewis-sand-effect-bathroom-tumbler-white/p110486379"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty Escape Italian Luxe Fleece Hoodie",
+      "percentage": 40.0,
+      "old_price": "60.00",
+      "new_price": "36.00",
+      "timestamp": "2026-01-27T15:55:38.281225",
+      "url": "https://www.johnlewis.com/sweaty-betty-escape-italian-luxe-fleece-hoodie/p5437821"
     },
     {
       "site": "johnlewis_com",
@@ -931,51 +976,6 @@
       "new_price": "83.85",
       "timestamp": "2026-01-27T09:43:28.321029",
       "url": "https://www.johnlewis.com/polo-ralph-lauren-cotton-regular-fit-oxford-shirt-classic-camel-heather/p114419361"
-    },
-    {
-      "site": "currys_com",
-      "product": "LUCECO Solar Guardian Outdoor LED Wall Light with PIR M",
-      "percentage": 35.0,
-      "old_price": "19.99",
-      "new_price": "12.99",
-      "timestamp": "2026-01-27T09:55:27.606242",
-      "url": "https://www.currys.co.uk/products/10262991.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "CORSAIR Hydro X Series XF 45° Rotary Fitting Adapter -",
-      "percentage": 35.0,
-      "old_price": "19.99",
-      "new_price": "12.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10205798.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "ALPHASON Portland Executive Chair",
-      "percentage": 34.3,
-      "old_price": "289.00",
-      "new_price": "190.00",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10160537.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "TOWER Renaissance T20065GRY 4-Slice Toaster - Grey",
-      "percentage": 34.2,
-      "old_price": "114.00",
-      "new_price": "74.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10237313.html"
-    },
-    {
-      "site": "flannels_com",
-      "product": "BALENCIAGA - Men's Classic Lace-Up Derby Shoes",
-      "percentage": 33.8,
-      "old_price": "225.00",
-      "new_price": "149.00",
-      "timestamp": "2026-01-27T06:55:41.938061",
-      "url": "https://www.flannels.com/balenciaga-mens-classic-lace-up-derby-shoes-112027"
     }
   ]
 }

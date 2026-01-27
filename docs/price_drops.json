@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T11:18:00.421288",
-  "total_drops": 1029,
+  "generated_at": "2026-01-27T11:23:06.845828",
+  "total_drops": 1031,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 183,
+      "count": 185,
       "max_drop": 64.3,
-      "total_savings": 4747.95
+      "total_savings": 4788.95
     },
     {
       "site": "twentytwentyone_com",
@@ -89,7 +89,7 @@
       "percentage": 62.7,
       "old_price": "2317.00",
       "new_price": "865.00",
-      "timestamp": "2026-01-27T11:17:49.814968",
+      "timestamp": "2026-01-27T11:22:36.778562",
       "url": "https://www.twentytwentyone.com/products/asplund-claesson-koivisto-rune-vass-40-135-wall"
     },
     {
@@ -152,7 +152,7 @@
       "percentage": 50.8,
       "old_price": "59.00",
       "new_price": "29.00",
-      "timestamp": "2026-01-27T11:17:47.908607",
+      "timestamp": "2026-01-27T11:23:01.923416",
       "url": "https://ukbabycentre.com/products/bugaboo-fox-5-sun-canopy-grey-melange"
     },
     {
@@ -228,6 +228,15 @@
       "url": "https://www.johnlewis.com/berghaus-explorer-backpack-25l-jet-black/p112960890"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Le Creuset Classic Pepper Mill",
+      "percentage": 50.0,
+      "old_price": "43.00",
+      "new_price": "21.50",
+      "timestamp": "2026-01-27T11:23:01.968142",
+      "url": "https://www.johnlewis.com/le-creuset-classic-pepper-mill/p5067050"
+    },
+    {
       "site": "currys_com",
       "product": "SKY 120 Sky TV Remote Control",
       "percentage": 50.0,
@@ -246,12 +255,21 @@
       "url": "https://www.currys.co.uk/products/10256608.html"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Le Creuset Classic Salt Mill",
+      "percentage": 47.6,
+      "old_price": "41.00",
+      "new_price": "21.50",
+      "timestamp": "2026-01-27T11:23:01.968142",
+      "url": "https://www.johnlewis.com/le-creuset-classic-salt-mill/p5065295"
+    },
+    {
       "site": "twentytwentyone_com",
       "product": "Barber Osgerby Frame",
       "percentage": 47.1,
       "old_price": "170.00",
       "new_price": "90.00",
-      "timestamp": "2026-01-27T11:17:49.814968",
+      "timestamp": "2026-01-27T11:22:36.778562",
       "url": "https://www.twentytwentyone.com/products/barber-osgerby-frame"
     },
     {
@@ -278,7 +296,7 @@
       "percentage": 43.1,
       "old_price": "181.00",
       "new_price": "103.00",
-      "timestamp": "2026-01-27T11:17:49.814968",
+      "timestamp": "2026-01-27T11:22:36.778562",
       "url": "https://www.twentytwentyone.com/products/little-architect-desk-ex-display"
     },
     {
@@ -485,7 +503,7 @@
       "percentage": 37.9,
       "old_price": "190.00",
       "new_price": "118.00",
-      "timestamp": "2026-01-27T11:17:49.814968",
+      "timestamp": "2026-01-27T11:22:36.778562",
       "url": "https://www.twentytwentyone.com/products/tom-dixon-spot-surface-orbound"
     },
     {
@@ -620,7 +638,7 @@
       "percentage": 35.9,
       "old_price": "39.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-27T11:17:47.908607",
+      "timestamp": "2026-01-27T11:23:01.923416",
       "url": "https://ukbabycentre.com/products/bugaboo-dragonfly-sun-canopy-skyline-blue"
     },
     {
@@ -773,7 +791,7 @@
       "percentage": 33.3,
       "old_price": "36.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-27T11:17:49.814968",
+      "timestamp": "2026-01-27T11:22:36.778562",
       "url": "https://www.twentytwentyone.com/products/ichendorf-milano-corrado-dotti-cilandro-olive-oil-bottle"
     },
     {
@@ -872,7 +890,7 @@
       "percentage": 32.8,
       "old_price": "3449.00",
       "new_price": "2317.00",
-      "timestamp": "2026-01-27T11:17:49.814968",
+      "timestamp": "2026-01-27T11:22:36.778562",
       "url": "https://www.twentytwentyone.com/products/kilt-sideboard-2011"
     },
     {
@@ -946,24 +964,6 @@
       "new_price": "12.99",
       "timestamp": "2026-01-27T09:08:08.524208",
       "url": "https://www.currys.co.uk/products/10270984.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Amazon Echo Spot (2024) Smart Alarm Clock with 2.8” Screen & Alexa Voice Recognition & Control",
-      "percentage": 31.3,
-      "old_price": "79.99",
-      "new_price": "54.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-echo-spot-2024-smart-alarm-clock-with-2-8-screen-alexa-voice-recognition-control/p112233048"
-    },
-    {
-      "site": "currys_com",
-      "product": "WEBB Eco WEV20PSB2 Cordless Pruner Chainsaw - Green & B",
-      "percentage": 31.3,
-      "old_price": "79.99",
-      "new_price": "54.99",
-      "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10265293.html"
     }
   ]
 }

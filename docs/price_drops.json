@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T04:00:50.238670",
-  "total_drops": 192,
+  "generated_at": "2026-01-27T04:05:52.822477",
+  "total_drops": 196,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 145,
+      "count": 149,
       "max_drop": 60.0,
-      "total_savings": 4293.38
+      "total_savings": 4321.18
     },
     {
       "site": "flannels_com",
@@ -146,7 +146,7 @@
       "percentage": 38.6,
       "old_price": "139.99",
       "new_price": "86.00",
-      "timestamp": "2026-01-27T04:00:49.618119",
+      "timestamp": "2026-01-27T04:05:47.068354",
       "url": "https://www.flannels.com/nike-vomero-18-mens-running-shoes-211531"
     },
     {
@@ -202,6 +202,15 @@
       "new_price": "79.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/carvela-tempt-wide-fit-heeled-ankle-boots-black/p113964979"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Cheerful Yellow Flower Stoneware Mug, 380ml, Blue",
+      "percentage": 33.3,
+      "old_price": "6.00",
+      "new_price": "4.00",
+      "timestamp": "2026-01-27T04:05:48.818156",
+      "url": "https://www.johnlewis.com/john-lewis-cheerful-yellow-flower-stoneware-mug-380ml-blue/p113396988"
     },
     {
       "site": "johnlewis_com",
@@ -286,6 +295,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Farmhouse Pumpkin Stoneware Lidded Bowl, 16cm, Cream",
+      "percentage": 30.0,
+      "old_price": "10.00",
+      "new_price": "7.00",
+      "timestamp": "2026-01-27T04:05:48.818156",
+      "url": "https://www.johnlewis.com/john-lewis-farmhouse-pumpkin-stoneware-lidded-bowl-16cm-cream/p113290061"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Superdry Cotton Cargo Shorts",
       "percentage": 30.0,
       "old_price": "44.99",
@@ -299,7 +317,7 @@
       "percentage": 30.0,
       "old_price": "50.00",
       "new_price": "35.00",
-      "timestamp": "2026-01-27T04:00:49.618119",
+      "timestamp": "2026-01-27T04:05:47.068354",
       "url": "https://www.flannels.com/tommy-hilfiger-kids-monotype-closed-hem-fleece-joggers-482587"
     },
     {
@@ -337,6 +355,24 @@
       "new_price": "149.00",
       "timestamp": "2026-01-27T02:34:36.919057",
       "url": "https://www.flannels.com/ganni-womens-jacquard-mini-dress-654825"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Jamie Oliver by Tefal Carbon Steel Non-Stick Round Springform Cake Tin, Blue",
+      "percentage": 28.6,
+      "old_price": "16.80",
+      "new_price": "12.00",
+      "timestamp": "2026-01-27T04:05:48.818156",
+      "url": "https://www.johnlewis.com/jamie-oliver-by-tefal-carbon-steel-non-stick-round-springform-cake-tin-blue/p110504426"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Brabantia MindSet Toilet Accessories Set, Mineral Fresh White",
+      "percentage": 28.6,
+      "old_price": "63.00",
+      "new_price": "45.00",
+      "timestamp": "2026-01-27T04:05:48.818156",
+      "url": "https://www.johnlewis.com/brabantia-mindset-toilet-accessories-set-mineral-fresh-white/p112814918"
     },
     {
       "site": "johnlewis_com",
@@ -904,42 +940,6 @@
       "new_price": "499.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/bosch-series-2-mha133br0b-built-in-electric-double-oven-stainless-steel/p4875102"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Smeg Victoria TR103 Dual Fuel Range Cooker, 100cm Wide",
-      "percentage": 16.7,
-      "old_price": "2999.00",
-      "new_price": "2499.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/smeg-victoria-tr103-dual-fuel-range-cooker-100cm-wide/p3314072"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Timberland Kids' Cotton Blend Short Sleeved Logo Graphic T-Shirt",
-      "percentage": 16.7,
-      "old_price": "11.40",
-      "new_price": "9.50",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/timberland-kids-cotton-blend-short-sleeved-logo-graphic-t-shirt/p113757980"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Hotpoint NSWM1046WUK Freestanding Washing Machine, 10kg Load, 1400rpm Spin, White",
-      "percentage": 15.8,
-      "old_price": "379.00",
-      "new_price": "319.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/hotpoint-nswm1046wuk-freestanding-washing-machine-10kg-load-1400rpm-spin-white/p112363270"
-    },
-    {
-      "site": "currys_com",
-      "product": "NINTENDO Switch Joy-Con Wireless Controllers - Pastel P",
-      "percentage": 15.6,
-      "old_price": "449.00",
-      "new_price": "379.00",
-      "timestamp": "2026-01-27T03:39:08.904927",
-      "url": "https://www.currys.co.uk/products/10198933.html"
     }
   ]
 }

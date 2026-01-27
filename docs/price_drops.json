@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T06:32:50.237204",
-  "total_drops": 220,
+  "generated_at": "2026-01-27T06:37:55.215461",
+  "total_drops": 232,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -26,6 +26,12 @@
       "count": 39,
       "max_drop": 39.4,
       "total_savings": 1513.98
+    },
+    {
+      "site": "condorcycles_com",
+      "count": 12,
+      "max_drop": 33.3,
+      "total_savings": 383.82
     },
     {
       "site": "percivalclo_com",
@@ -242,7 +248,7 @@
       "percentage": 33.8,
       "old_price": "225.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-27T06:32:45.532205",
+      "timestamp": "2026-01-27T06:37:48.421617",
       "url": "https://www.flannels.com/balenciaga-mens-classic-lace-up-derby-shoes-112027"
     },
     {
@@ -253,6 +259,15 @@
       "new_price": "79.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/carvela-tempt-wide-fit-heeled-ankle-boots-black/p113964979"
+    },
+    {
+      "site": "condorcycles_com",
+      "product": "PEdALED Element Merino Base Layer",
+      "percentage": 33.3,
+      "old_price": "75.00",
+      "new_price": "49.99",
+      "timestamp": "2026-01-27T06:37:45.635782",
+      "url": "https://www.condorcycles.com/products/pedaled-element-merino-base-layer"
     },
     {
       "site": "johnlewis_com",
@@ -336,6 +351,15 @@
       "url": "https://www.flannels.com/balenciaga-womens-flat-mules-230767"
     },
     {
+      "site": "condorcycles_com",
+      "product": "PEdALED Element Cap",
+      "percentage": 32.0,
+      "old_price": "25.00",
+      "new_price": "16.99",
+      "timestamp": "2026-01-27T06:37:45.635782",
+      "url": "https://www.condorcycles.com/products/pedaled-element-cap"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Amazon Echo Spot (2024) Smart Alarm Clock with 2.8” Screen & Alexa Voice Recognition & Control",
       "percentage": 31.3,
@@ -343,6 +367,15 @@
       "new_price": "54.99",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/amazon-echo-spot-2024-smart-alarm-clock-with-2-8-screen-alexa-voice-recognition-control/p112233048"
+    },
+    {
+      "site": "condorcycles_com",
+      "product": "PEdALED Odyssey Alpha Cap",
+      "percentage": 30.6,
+      "old_price": "72.00",
+      "new_price": "49.99",
+      "timestamp": "2026-01-27T06:37:45.635782",
+      "url": "https://www.condorcycles.com/products/pedaled-odyssey-alpha-cap"
     },
     {
       "site": "johnlewis_com",
@@ -381,6 +414,24 @@
       "url": "https://www.flannels.com/palm-angels-logo-print-touch-strap-leather-sneakers-juniors-091806"
     },
     {
+      "site": "condorcycles_com",
+      "product": "PEdALED Element Waterproof Jacket",
+      "percentage": 29.6,
+      "old_price": "213.00",
+      "new_price": "149.99",
+      "timestamp": "2026-01-27T06:37:45.635782",
+      "url": "https://www.condorcycles.com/products/pedaled-element-waterproof-jacket"
+    },
+    {
+      "site": "condorcycles_com",
+      "product": "PEdALED Element Alpha® Gloves",
+      "percentage": 29.4,
+      "old_price": "85.00",
+      "new_price": "59.99",
+      "timestamp": "2026-01-27T06:37:45.635782",
+      "url": "https://www.condorcycles.com/products/pedaled-element-alpha-gloves-2025"
+    },
+    {
       "site": "flannels_com",
       "product": "Steve Madden - Women's Adison Slip-On Cushioned Loafers",
       "percentage": 29.4,
@@ -388,6 +439,15 @@
       "new_price": "60.00",
       "timestamp": "2026-01-27T02:34:36.919057",
       "url": "https://www.flannels.com/steve-madden-womens-adison-slip-on-cushioned-loafers-230337"
+    },
+    {
+      "site": "condorcycles_com",
+      "product": "PEdALED Element Arm Warmers",
+      "percentage": 29.0,
+      "old_price": "38.00",
+      "new_price": "26.99",
+      "timestamp": "2026-01-27T06:37:45.635782",
+      "url": "https://www.condorcycles.com/products/pedaled-element-arm-warmers-fw24"
     },
     {
       "site": "johnlewis_com",
@@ -525,6 +585,15 @@
       "url": "https://www.flannels.com/balmain-embroidered-paris-sweatshirt-juniors-526827"
     },
     {
+      "site": "condorcycles_com",
+      "product": "PEdALED Element Tights",
+      "percentage": 26.3,
+      "old_price": "190.00",
+      "new_price": "139.99",
+      "timestamp": "2026-01-27T06:37:45.635782",
+      "url": "https://www.condorcycles.com/products/pedaled-element-tights"
+    },
+    {
       "site": "flannels_com",
       "product": "Coach - Lowline Luxe Sneakers",
       "percentage": 26.1,
@@ -566,7 +635,7 @@
       "percentage": 25.5,
       "old_price": "55.00",
       "new_price": "41.00",
-      "timestamp": "2026-01-27T06:32:45.532205",
+      "timestamp": "2026-01-27T06:37:48.421617",
       "url": "https://www.flannels.com/hugo-mens-logo-label-cotton-long-sleeve-hoodie-529292"
     },
     {
@@ -586,6 +655,51 @@
       "new_price": "161.00",
       "timestamp": "2026-01-27T02:34:36.919057",
       "url": "https://www.flannels.com/boss-mens-dressletic-loaf-bope-derby-shoes-112408"
+    },
+    {
+      "site": "condorcycles_com",
+      "product": "Koo Alibi Glasses",
+      "percentage": 25.0,
+      "old_price": "170.00",
+      "new_price": "127.50",
+      "timestamp": "2026-01-27T06:37:45.635782",
+      "url": "https://www.condorcycles.com/products/koo-alibi-glasses"
+    },
+    {
+      "site": "condorcycles_com",
+      "product": "Koo Demos Cycling Sunglasses",
+      "percentage": 25.0,
+      "old_price": "195.00",
+      "new_price": "146.25",
+      "timestamp": "2026-01-27T06:37:45.635782",
+      "url": "https://www.condorcycles.com/products/koo-demos-glasses"
+    },
+    {
+      "site": "condorcycles_com",
+      "product": "Koo Eyewear Cosmo Lifestyle Glasses",
+      "percentage": 25.0,
+      "old_price": "105.00",
+      "new_price": "78.75",
+      "timestamp": "2026-01-27T06:37:45.635782",
+      "url": "https://www.condorcycles.com/products/koo-eyewear-cosmo-lifestyle-glasses"
+    },
+    {
+      "site": "condorcycles_com",
+      "product": "Koo Eyewear Nova Glasses",
+      "percentage": 25.0,
+      "old_price": "189.00",
+      "new_price": "141.75",
+      "timestamp": "2026-01-27T06:37:45.635782",
+      "url": "https://www.condorcycles.com/products/koo-eyewear-nova-glasses"
+    },
+    {
+      "site": "condorcycles_com",
+      "product": "Koo Optical Clip",
+      "percentage": 25.0,
+      "old_price": "59.99",
+      "new_price": "44.99",
+      "timestamp": "2026-01-27T06:37:45.635782",
+      "url": "https://www.condorcycles.com/products/koo-optical-clip"
     },
     {
       "site": "johnlewis_com",
@@ -728,7 +842,7 @@
       "percentage": 25.0,
       "old_price": "100.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-27T06:32:45.532205",
+      "timestamp": "2026-01-27T06:37:48.421617",
       "url": "https://www.flannels.com/missoni-mens-short-sleeve-t-shirt-594217"
     },
     {
@@ -737,7 +851,7 @@
       "percentage": 25.0,
       "old_price": "98.00",
       "new_price": "73.50",
-      "timestamp": "2026-01-27T06:32:45.532205",
+      "timestamp": "2026-01-27T06:37:48.421617",
       "url": "https://www.flannels.com/barbour-international-mens-inline-zip-through-hooded-cotton-long-sleeve-overshirt-547046"
     },
     {
@@ -838,114 +952,6 @@
       "new_price": "28.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/my-expert-midwife-birthday-bag-gift-set/p114331193"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "New Balance 327 Wakame Trainers, Khaki/Black",
-      "percentage": 20.0,
-      "old_price": "100.00",
-      "new_price": "80.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/new-balance-327-wakame-trainers-khaki-black/p114631393"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tommy Hilfiger Plus Shorts, Navy",
-      "percentage": 20.0,
-      "old_price": "52.50",
-      "new_price": "42.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tommy-hilfiger-plus-shorts-navy/p113613389"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tommy Hilfiger Patent Leather Penny Loafers, Desert Sky",
-      "percentage": 20.0,
-      "old_price": "150.00",
-      "new_price": "120.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tommy-hilfiger-patent-leather-penny-loafers-desert-sky/p114441980"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tommy Hilfiger Kids' Cotton Cable Knit Jumper",
-      "percentage": 20.0,
-      "old_price": "30.00",
-      "new_price": "24.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tommy-hilfiger-kids-cotton-cable-knit-jumper/p114025814"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' Organic Cotton Corduroy Trousers",
-      "percentage": 20.0,
-      "old_price": "32.00",
-      "new_price": "25.60",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-organic-cotton-corduroy-trousers/p113992035"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' Organic Cotton Long Sleeve T-Shirt",
-      "percentage": 20.0,
-      "old_price": "18.00",
-      "new_price": "14.40",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-organic-cotton-long-sleeve-t-shirt/p112220642"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polarn O. Pyret Kids' Merino Wool Long Sleeve Top",
-      "percentage": 20.0,
-      "old_price": "28.00",
-      "new_price": "22.40",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/polarn-o-pyret-kids-merino-wool-long-sleeve-top/p5099191"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tommy Hilfiger Kids' Cotton Blend Varsity Sweatshirt",
-      "percentage": 20.0,
-      "old_price": "30.00",
-      "new_price": "24.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tommy-hilfiger-kids-cotton-blend-varsity-sweatshirt/p114025826"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tommy Hilfiger Kids' Ivy Relaxed Denim Shacket, Random",
-      "percentage": 20.0,
-      "old_price": "35.00",
-      "new_price": "28.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tommy-hilfiger-kids-ivy-relaxed-denim-shacket-random/p113154495"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tommy Hilfiger Kids' Cotton Short Sleeved Polo Shirt",
-      "percentage": 20.0,
-      "old_price": "31.50",
-      "new_price": "25.20",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tommy-hilfiger-kids-cotton-short-sleeved-polo-shirt/p113656294"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tommy Hilfiger Kids' Flag Oxford Shirt",
-      "percentage": 20.0,
-      "old_price": "22.50",
-      "new_price": "18.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tommy-hilfiger-kids-flag-oxford-shirt/p114025837"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Munchkin Bluetooth Baby Swing",
-      "percentage": 20.0,
-      "old_price": "179.99",
-      "new_price": "144.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/munchkin-bluetooth-baby-swing/p111533624"
     }
   ]
 }

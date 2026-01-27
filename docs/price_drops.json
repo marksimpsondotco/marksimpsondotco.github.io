@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T06:02:26.655752",
-  "total_drops": 217,
+  "generated_at": "2026-01-27T06:07:29.609630",
+  "total_drops": 219,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 164,
+      "count": 166,
       "max_drop": 60.0,
-      "total_savings": 4419.18
+      "total_savings": 4446.28
     },
     {
       "site": "flannels_com",
@@ -242,7 +242,7 @@
       "percentage": 33.8,
       "old_price": "225.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-27T06:02:22.810163",
+      "timestamp": "2026-01-27T06:07:27.408645",
       "url": "https://www.flannels.com/balenciaga-mens-classic-lace-up-derby-shoes-112027"
     },
     {
@@ -566,7 +566,7 @@
       "percentage": 25.5,
       "old_price": "55.00",
       "new_price": "41.00",
-      "timestamp": "2026-01-27T06:02:22.810163",
+      "timestamp": "2026-01-27T06:07:27.408645",
       "url": "https://www.flannels.com/hugo-mens-logo-label-cotton-long-sleeve-hoodie-529292"
     },
     {
@@ -728,7 +728,7 @@
       "percentage": 25.0,
       "old_price": "100.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-27T06:02:22.810163",
+      "timestamp": "2026-01-27T06:07:27.408645",
       "url": "https://www.flannels.com/missoni-mens-short-sleeve-t-shirt-594217"
     },
     {
@@ -737,7 +737,7 @@
       "percentage": 25.0,
       "old_price": "98.00",
       "new_price": "73.50",
-      "timestamp": "2026-01-27T06:02:22.810163",
+      "timestamp": "2026-01-27T06:07:27.408645",
       "url": "https://www.flannels.com/barbour-international-mens-inline-zip-through-hooded-cotton-long-sleeve-overshirt-547046"
     },
     {
@@ -820,6 +820,15 @@
       "new_price": "419.00",
       "timestamp": "2026-01-27T02:34:36.919057",
       "url": "https://www.flannels.com/balenciaga-womens-bal-back-dry-t-shirt-653212"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "HUGO BOSS BOSS The Scent Elixir Parfum Intense for Her",
+      "percentage": 20.0,
+      "old_price": "89.00",
+      "new_price": "71.20",
+      "timestamp": "2026-01-27T06:07:25.501870",
+      "url": "https://www.johnlewis.com/hugo-boss-boss-the-scent-elixir-parfum-intense-for-her/p112724981"
     },
     {
       "site": "johnlewis_com",
@@ -937,15 +946,6 @@
       "new_price": "144.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/munchkin-bluetooth-baby-swing/p111533624"
-    },
-    {
-      "site": "flannels_com",
-      "product": "BALENCIAGA - Womens Wrap Dress",
-      "percentage": 19.5,
-      "old_price": "1490.00",
-      "new_price": "1199.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/balenciaga-womens-bal-wrap-mini-dress-653209"
     }
   ]
 }

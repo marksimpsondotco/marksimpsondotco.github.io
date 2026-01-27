@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-27T00:28:18.715888",
-  "total_drops": 38,
-  "top_drops_shown": 38,
+  "generated_at": "2026-01-27T00:33:20.871267",
+  "total_drops": 54,
+  "top_drops_shown": 54,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 38,
+      "count": 54,
       "max_drop": 60.0,
-      "total_savings": 909.74
+      "total_savings": 1259.24
     }
   ],
   "drops": [
@@ -17,7 +17,7 @@
       "percentage": 60.0,
       "old_price": "49.99",
       "new_price": "19.99",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/the-gruffalo-plush-soft-toy/p230652259"
     },
     {
@@ -26,8 +26,62 @@
       "percentage": 50.0,
       "old_price": "100.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/berghaus-explorer-backpack-25l-jet-black/p112960890"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "KG Kurt Geiger Trekker Cuff Ankle Boots, Black",
+      "percentage": 41.4,
+      "old_price": "169.00",
+      "new_price": "99.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/kg-kurt-geiger-trekker-cuff-ankle-boots-black/p113823084"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Levi's XX Chino Shorts",
+      "percentage": 37.5,
+      "old_price": "44.00",
+      "new_price": "27.50",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/levis-xx-chino-shorts/p112905193"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Carvela Tempt Wide Fit Heeled Ankle Boots, Black",
+      "percentage": 33.6,
+      "old_price": "119.00",
+      "new_price": "79.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/carvela-tempt-wide-fit-heeled-ankle-boots-black/p113964979"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Superdry Cotton Cargo Shorts",
+      "percentage": 30.0,
+      "old_price": "44.99",
+      "new_price": "31.49",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/superdry-cotton-cargo-shorts/p111942392"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Dune London Emmelino Suede Trainers, Brown",
+      "percentage": 27.8,
+      "old_price": "90.00",
+      "new_price": "65.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/dune-london-emmelino-suede-trainers-brown/p114081502"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Dune London Patley Leather Chunky Lace Up Ankle Boots",
+      "percentage": 27.7,
+      "old_price": "159.00",
+      "new_price": "115.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/dune-london-patley-leather-chunky-lace-up-ankle-boots/p113947929"
     },
     {
       "site": "johnlewis_com",
@@ -35,7 +89,7 @@
       "percentage": 26.7,
       "old_price": "44.99",
       "new_price": "32.99",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/baby-einstein-4-in-1-kickin-tunes-music-and-language-discovery-activity-gym/p3845072"
     },
     {
@@ -44,7 +98,7 @@
       "percentage": 25.0,
       "old_price": "34.99",
       "new_price": "26.25",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/lego-wicked-75688-glindas-wedding-day-building-toy-set/p113656676"
     },
     {
@@ -53,8 +107,17 @@
       "percentage": 21.7,
       "old_price": "22.99",
       "new_price": "17.99",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/lego-friends-42649-heartlake-city-sweet-shop/p112772662"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Dune London Paxten Suede Pointed Heeled Ankle Boots, Sand",
+      "percentage": 20.3,
+      "old_price": "79.00",
+      "new_price": "63.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/dune-london-paxten-suede-pointed-heeled-ankle-boots-sand/p112241804"
     },
     {
       "site": "johnlewis_com",
@@ -62,8 +125,26 @@
       "percentage": 20.0,
       "old_price": "35.00",
       "new_price": "28.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/my-expert-midwife-birthday-bag-gift-set/p114331193"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "New Balance 327 Wakame Trainers, Khaki/Black",
+      "percentage": 20.0,
+      "old_price": "100.00",
+      "new_price": "80.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/new-balance-327-wakame-trainers-khaki-black/p114631393"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Tommy Hilfiger Plus Shorts, Navy",
+      "percentage": 20.0,
+      "old_price": "52.50",
+      "new_price": "42.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/tommy-hilfiger-plus-shorts-navy/p113613389"
     },
     {
       "site": "johnlewis_com",
@@ -71,7 +152,7 @@
       "percentage": 19.0,
       "old_price": "315.00",
       "new_price": "255.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/samsonite-re-lite-spinner-4-wheel-78cm-expandable-suitcase-black/p113455945"
     },
     {
@@ -80,7 +161,7 @@
       "percentage": 18.2,
       "old_price": "549.00",
       "new_price": "449.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/samsung-wd80ta046be-freestanding-washer-dryer-8kg-wash-5kg-dry-load-1400rpm-white/p5135883"
     },
     {
@@ -89,8 +170,26 @@
       "percentage": 18.2,
       "old_price": "549.00",
       "new_price": "449.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/samsung-dv80cgc0b0ae-freestanding-tumble-dryer-ai-energy-8kg-load-white/p111200332"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "BOSS Mix&Match Embroidered Logo Shorts",
+      "percentage": 17.9,
+      "old_price": "39.00",
+      "new_price": "32.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/boss-mix-match-embroidered-logo-shorts/p111568831"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Dune London Manifesting Embellished Heeled Sandals, Gold",
+      "percentage": 16.8,
+      "old_price": "119.00",
+      "new_price": "99.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/dune-london-manifesting-embellished-heeled-sandals-gold/p114144901"
     },
     {
       "site": "johnlewis_com",
@@ -98,7 +197,7 @@
       "percentage": 15.0,
       "old_price": "80.00",
       "new_price": "68.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/dior-miss-dior-parfum/p111442829"
     },
     {
@@ -107,7 +206,7 @@
       "percentage": 15.0,
       "old_price": "16.00",
       "new_price": "13.60",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/bobbi-brown-soothing-cleansing-oil/p111209322"
     },
     {
@@ -116,7 +215,7 @@
       "percentage": 13.6,
       "old_price": "43.99",
       "new_price": "37.99",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/lego-botanicals-10342-pretty-pink-flower-bouquet-decor-set/p112772611"
     },
     {
@@ -125,8 +224,26 @@
       "percentage": 13.3,
       "old_price": "299.99",
       "new_price": "260.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/uppababy-4-piece-accessory-pack-greyson/p112770203"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Polo Ralph Lauren Slim Fit Denim Jeans, Rinse Stretch",
+      "percentage": 11.0,
+      "old_price": "145.00",
+      "new_price": "129.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/polo-ralph-lauren-slim-fit-denim-jeans-rinse-stretch/p112036458"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Polo Ralph Lauren Sullivan Slim Fit Jeans, Murphy",
+      "percentage": 10.3,
+      "old_price": "155.00",
+      "new_price": "139.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/polo-ralph-lauren-sullivan-slim-fit-jeans-murphy/p112036457"
     },
     {
       "site": "johnlewis_com",
@@ -134,7 +251,7 @@
       "percentage": 10.0,
       "old_price": "19.99",
       "new_price": "17.99",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/littlelife-ladybird-toddler-backpack-red/p5207700"
     },
     {
@@ -143,7 +260,7 @@
       "percentage": 10.0,
       "old_price": "999.00",
       "new_price": "899.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/samsung-the-frame-2025-qled-art-mode-smart-ai-tv-with-slim-fit-wall-mount-55-inch/p113562153"
     },
     {
@@ -152,7 +269,7 @@
       "percentage": 9.1,
       "old_price": "43.99",
       "new_price": "39.99",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/lego-botanical-collection-10313-wildflower-bouquet-set/p109825721"
     },
     {
@@ -161,8 +278,17 @@
       "percentage": 8.5,
       "old_price": "30.60",
       "new_price": "28.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/bobbi-brown-luxe-cashmere-matte-lipstick/p113656727"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Polo Ralph Lauren Slim Polo Shirt",
+      "percentage": 8.0,
+      "old_price": "125.00",
+      "new_price": "115.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/polo-ralph-lauren-slim-polo-shirt/p5657622"
     },
     {
       "site": "johnlewis_com",
@@ -170,8 +296,17 @@
       "percentage": 7.9,
       "old_price": "140.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/stokke-clikk-highchair/p112684837"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Polo Ralph Lauren Long Sleeve Quarter Zip Jumper",
+      "percentage": 7.5,
+      "old_price": "200.00",
+      "new_price": "185.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/polo-ralph-lauren-long-sleeve-quarter-zip-jumper/p111227416"
     },
     {
       "site": "johnlewis_com",
@@ -179,7 +314,7 @@
       "percentage": 7.3,
       "old_price": "149.99",
       "new_price": "139.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/vax-spinscrub-power-carpet-cleaner-grey-blue/p113769643"
     },
     {
@@ -188,7 +323,7 @@
       "percentage": 6.7,
       "old_price": "270.00",
       "new_price": "252.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/obaby-stamford-mini-cotbed-white/p114445850"
     },
     {
@@ -197,7 +332,7 @@
       "percentage": 5.3,
       "old_price": "189.99",
       "new_price": "179.99",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/maxi-cosi-dove-pro-baby-bouncer/p113001345"
     },
     {
@@ -206,8 +341,17 @@
       "percentage": 5.3,
       "old_price": "759.00",
       "new_price": "719.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/lg-fdv709w-freestanding-heat-pump-tumble-dryer-9kg-load-white/p6249629"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Polo Ralph Lauren Cotton Cable Knit Jumper",
+      "percentage": 5.0,
+      "old_price": "200.00",
+      "new_price": "190.00",
+      "timestamp": "2026-01-27T00:33:19.544044",
+      "url": "https://www.johnlewis.com/polo-ralph-lauren-cotton-cable-knit-jumper/p5085683"
     },
     {
       "site": "johnlewis_com",
@@ -215,7 +359,7 @@
       "percentage": 4.8,
       "old_price": "1049.00",
       "new_price": "999.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/samsung-series-9-dv90f09f4su1-freestanding-heat-pump-tumble-dryer-ai-energy-9kg-load-dark-steel/p113821458"
     },
     {
@@ -224,7 +368,7 @@
       "percentage": 4.2,
       "old_price": "479.00",
       "new_price": "459.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/samsung-ww11dg6b25leu1-freestanding-washing-machine-ai-energy-11kg-load-1400rpm-white/p111981403"
     },
     {
@@ -233,7 +377,7 @@
       "percentage": 4.0,
       "old_price": "599.00",
       "new_price": "575.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/samsung-jet-lite-ai-cordless-vacuum-cleaner-pebble-grey/p114249816"
     },
     {
@@ -242,7 +386,7 @@
       "percentage": 3.8,
       "old_price": "1299.00",
       "new_price": "1249.99",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/2025-apple-ipad-pro-13-inch-m5-processor-ipados-wi-fi-256gb/p114464913"
     },
     {
@@ -251,7 +395,7 @@
       "percentage": 3.4,
       "old_price": "641.00",
       "new_price": "619.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/2025-apple-ipad-air-11-inch-m3-processor-ipados-wi-fi-256gb/p113465196"
     },
     {
@@ -260,7 +404,7 @@
       "percentage": 3.1,
       "old_price": "850.00",
       "new_price": "824.01",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/bugaboo-fox-cub-stroller-essential-bundle-desert-beige/p241684692"
     },
     {
@@ -269,7 +413,7 @@
       "percentage": 2.2,
       "old_price": "1182.50",
       "new_price": "1156.51",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/bugaboo-donkey-5-duo-pushchair-carrycot-accessories-essential-bundle-desert-taupe/p241684702"
     },
     {
@@ -278,7 +422,7 @@
       "percentage": 1.7,
       "old_price": "1199.00",
       "new_price": "1179.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/2024-apple-imac-24-all-in-one-m4-processor-16gb-ram-256gb-ssd-8-core-gpu-23-5-4-5k/p112836174"
     },
     {
@@ -287,7 +431,7 @@
       "percentage": 1.4,
       "old_price": "1832.00",
       "new_price": "1806.01",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/bugaboo-fox-5-renew-pushchair-cybex-cloud-t-i-size-car-seat-with-base-and-accessories-bundle-forest-green/p241696692"
     },
     {
@@ -296,7 +440,7 @@
       "percentage": 1.3,
       "old_price": "151.99",
       "new_price": "149.99",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/philips-hue-signe-gradient-table-lamp-1040-lumens/p5863743"
     },
     {
@@ -305,7 +449,7 @@
       "percentage": 0.4,
       "old_price": "1197.32",
       "new_price": "1192.32",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/bugaboo-fox-5-renew-pushchair-accessories-essential-bundle-black/p241604691"
     },
     {
@@ -314,7 +458,7 @@
       "percentage": 0.4,
       "old_price": "223.99",
       "new_price": "223.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/philips-hue-signe-gradient-floor-lamp-2550-lumens/p5864119"
     },
     {
@@ -323,7 +467,7 @@
       "percentage": 0.2,
       "old_price": "2302.83",
       "new_price": "2297.83",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/bugaboo-donkey-5-twin-pushchair-carrycot-with-bugaboo-otter-by-nuna-baby-car-seat-360-base-ultimate-bundle-forest-green/p241684709"
     },
     {
@@ -332,7 +476,7 @@
       "percentage": 0.2,
       "old_price": "311.54",
       "new_price": "311.04",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/shark-az3900ukt-powerdetect-powered-lift-away-upright-pet-vacuum-cleaner-dark-teal/p112561797"
     },
     {
@@ -341,7 +485,7 @@
       "percentage": 0.1,
       "old_price": "397.55",
       "new_price": "397.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/samsung-jet-95-pro-cordless-stick-vacuum-cleaner-with-spray-spinning-sweeper-midnight-blue/p110983453"
     },
     {
@@ -350,7 +494,7 @@
       "percentage": 0.1,
       "old_price": "679.00",
       "new_price": "678.00",
-      "timestamp": "2026-01-27T00:28:17.414807",
+      "timestamp": "2026-01-27T00:33:19.544044",
       "url": "https://www.johnlewis.com/lg-f4x7013tbb-freestanding-washing-machine-13kg-load-1400rpm-spin-matte-black/p113847397"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T16:00:53.730442",
-  "total_drops": 1103,
+  "generated_at": "2026-01-27T16:06:03.192930",
+  "total_drops": 1110,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 45,
+      "count": 50,
       "max_drop": 39.4,
-      "total_savings": 1580.98
+      "total_savings": 1615.98
     },
     {
       "site": "condorcycles_com",
@@ -47,9 +47,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 11,
-      "max_drop": 20.1,
-      "total_savings": 487.0
+      "count": 13,
+      "max_drop": 20.3,
+      "total_savings": 527.0
     },
     {
       "site": "percivalclo_com",
@@ -101,7 +101,7 @@
       "percentage": 70.0,
       "old_price": "99.00",
       "new_price": "29.70",
-      "timestamp": "2026-01-27T16:00:47.240011",
+      "timestamp": "2026-01-27T16:05:55.387256",
       "url": "https://www.johnlewis.com/john-lewis-olive-leather-block-heel-ankle-boots/p113907301"
     },
     {
@@ -110,7 +110,7 @@
       "percentage": 70.0,
       "old_price": "115.00",
       "new_price": "34.50",
-      "timestamp": "2026-01-27T16:00:47.240011",
+      "timestamp": "2026-01-27T16:05:55.387256",
       "url": "https://www.johnlewis.com/john-lewis-otto-leather-pointed-toe-kitten-heel-ankle-boots/p113907311"
     },
     {
@@ -425,7 +425,7 @@
       "percentage": 50.0,
       "old_price": "125.00",
       "new_price": "62.50",
-      "timestamp": "2026-01-27T16:00:47.240011",
+      "timestamp": "2026-01-27T16:05:55.387256",
       "url": "https://www.johnlewis.com/veja-campo-bold-lace-up-suede-trainers/p114304018"
     },
     {
@@ -434,7 +434,7 @@
       "percentage": 50.0,
       "old_price": "19.00",
       "new_price": "9.50",
-      "timestamp": "2026-01-27T16:00:47.240011",
+      "timestamp": "2026-01-27T16:05:55.387256",
       "url": "https://www.johnlewis.com/john-lewis-supima-cotton-regular-fit-crew-neck-t-shirt/p6030384"
     },
     {
@@ -614,7 +614,7 @@
       "percentage": 40.4,
       "old_price": "109.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-27T16:00:47.240011",
+      "timestamp": "2026-01-27T16:05:55.387256",
       "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
     },
     {
@@ -623,7 +623,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-27T16:00:47.240011",
+      "timestamp": "2026-01-27T16:05:55.387256",
       "url": "https://www.johnlewis.com/john-lewis-cashmere-edge-to-edge-rib-cardigan/p114013778"
     },
     {
@@ -668,7 +668,7 @@
       "percentage": 40.0,
       "old_price": "60.00",
       "new_price": "36.00",
-      "timestamp": "2026-01-27T16:00:47.240011",
+      "timestamp": "2026-01-27T16:05:55.387256",
       "url": "https://www.johnlewis.com/sweaty-betty-escape-italian-luxe-fleece-hoodie/p5437821"
     },
     {

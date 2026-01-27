@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T21:33:53.827784",
-  "total_drops": 1477,
+  "generated_at": "2026-01-27T21:39:03.404353",
+  "total_drops": 1479,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -80,6 +80,12 @@
       "count": 85,
       "max_drop": 16.4,
       "total_savings": 11902.0
+    },
+    {
+      "site": "hoxtonmacs_co_uk",
+      "count": 2,
+      "max_drop": 15.1,
+      "total_savings": 180.0
     },
     {
       "site": "percivalclo_com",

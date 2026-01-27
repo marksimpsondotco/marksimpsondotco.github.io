@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T19:49:29.540664",
-  "total_drops": 1417,
+  "generated_at": "2026-01-27T19:54:41.849002",
+  "total_drops": 1427,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -40,6 +40,12 @@
       "total_savings": 2057.87
     },
     {
+      "site": "oliversweeney_com",
+      "count": 13,
+      "max_drop": 43.7,
+      "total_savings": 490.0
+    },
+    {
       "site": "flannels_com",
       "count": 60,
       "max_drop": 39.4,
@@ -56,12 +62,6 @@
       "count": 130,
       "max_drop": 24.3,
       "total_savings": 6842.75
-    },
-    {
-      "site": "oliversweeney_com",
-      "count": 3,
-      "max_drop": 20.4,
-      "total_savings": 50.0
     },
     {
       "site": "dusk_com",
@@ -936,6 +936,15 @@
       "url": "https://www.radley.co.uk/products/kendal-terrace-31mm-with-leather-strap-watch-ry21906a"
     },
     {
+      "site": "oliversweeney_com",
+      "product": "Ossos Black",
+      "percentage": 43.7,
+      "old_price": "229.00",
+      "new_price": "129.00",
+      "timestamp": "2026-01-27T19:54:10.838736",
+      "url": "https://www.oliversweeney.com/products/ossos-black"
+    },
+    {
       "site": "currys_com",
       "product": "GLOBAL GIZMOS Jellyfish Aquarium Lamp - Black",
       "percentage": 43.3,
@@ -997,15 +1006,6 @@
       "new_price": "99.99",
       "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10293168.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Roll Neck Cashmere Jumper",
-      "percentage": 40.4,
-      "old_price": "109.00",
-      "new_price": "65.00",
-      "timestamp": "2026-01-27T16:23:46.525249",
-      "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-27T16:31:52.880840",
-  "total_drops": 1136,
+  "generated_at": "2026-01-27T16:37:02.456938",
+  "total_drops": 1138,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 242,
+      "count": 244,
       "max_drop": 74.2,
-      "total_savings": 6698.3
+      "total_savings": 6810.8
     },
     {
       "site": "leaderonline_com",
@@ -148,6 +148,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Portland Leather Zip Front Flatform Ankle Boots",
+      "percentage": 70.0,
+      "old_price": "125.00",
+      "new_price": "37.50",
+      "timestamp": "2026-01-27T16:36:55.451620",
+      "url": "https://www.johnlewis.com/john-lewis-portland-leather-zip-front-flatform-ankle-boots/p114401574"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Sweaty Betty 30\" Power Bootcut Gym Trousers",
       "percentage": 69.4,
       "old_price": "90.00",
@@ -198,7 +207,7 @@
       "old_price": "3.00",
       "new_price": "1.00",
       "timestamp": "2026-01-27T03:39:02.430383",
-      "url": null
+      "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
       "site": "johnlewis_com",
@@ -953,7 +962,7 @@
       "percentage": 36.4,
       "old_price": "22.00",
       "new_price": "14.00",
-      "timestamp": "2026-01-27T16:31:45.729698",
+      "timestamp": "2026-01-27T16:36:56.066161",
       "url": "https://www.flannels.com/amylynn-amylynn-jhnna-fl-tp-ld99-336463"
     },
     {
@@ -973,15 +982,6 @@
       "new_price": "31.99",
       "timestamp": "2026-01-27T09:08:08.524208",
       "url": "https://www.currys.co.uk/products/10202404.html"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "Bugaboo Dragonfly Sun Canopy - Skyline Blue",
-      "percentage": 35.9,
-      "old_price": "39.00",
-      "new_price": "25.00",
-      "timestamp": "2026-01-27T11:38:34.349989",
-      "url": null
     }
   ]
 }

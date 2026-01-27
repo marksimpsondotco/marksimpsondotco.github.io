@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T01:13:51.314642",
-  "total_drops": 156,
+  "generated_at": "2026-01-27T01:18:54.138307",
+  "total_drops": 160,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -20,6 +20,12 @@
       "count": 1,
       "max_drop": 6.5,
       "total_savings": 200.0
+    },
+    {
+      "site": "khaite_com",
+      "count": 4,
+      "max_drop": 2.9,
+      "total_savings": 120.0
     }
   ],
   "drops": [
@@ -173,7 +179,7 @@
       "percentage": 29.7,
       "old_price": "155.00",
       "new_price": "109.00",
-      "timestamp": "2026-01-27T01:13:42.513470",
+      "timestamp": "2026-01-27T01:18:50.638265",
       "url": "https://www.flannels.com/palm-angels-logo-print-touch-strap-leather-sneakers-juniors-091806"
     },
     {
@@ -200,7 +206,7 @@
       "percentage": 28.6,
       "old_price": "70.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-27T01:13:42.513470",
+      "timestamp": "2026-01-27T01:18:50.638265",
       "url": "https://www.flannels.com/polo-ralph-lauren-logo-print-hoodie-junior-530680"
     },
     {
@@ -236,7 +242,7 @@
       "percentage": 26.4,
       "old_price": "129.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-27T01:13:42.513470",
+      "timestamp": "2026-01-27T01:18:50.638265",
       "url": "https://www.flannels.com/balmain-embroidered-paris-sweatshirt-juniors-526827"
     },
     {
@@ -245,7 +251,7 @@
       "percentage": 25.6,
       "old_price": "39.00",
       "new_price": "29.00",
-      "timestamp": "2026-01-27T01:13:42.513470",
+      "timestamp": "2026-01-27T01:18:50.638265",
       "url": "https://www.flannels.com/amylynn-womens--structured-denim-blazer-551258"
     },
     {
@@ -254,7 +260,7 @@
       "percentage": 25.1,
       "old_price": "215.00",
       "new_price": "161.00",
-      "timestamp": "2026-01-27T01:13:42.513470",
+      "timestamp": "2026-01-27T01:18:50.638265",
       "url": "https://www.flannels.com/boss-mens-dressletic-loaf-bope-derby-shoes-112408"
     },
     {
@@ -344,7 +350,7 @@
       "percentage": 25.0,
       "old_price": "88.00",
       "new_price": "66.00",
-      "timestamp": "2026-01-27T01:13:42.513470",
+      "timestamp": "2026-01-27T01:18:50.638265",
       "url": "https://www.flannels.com/lacoste-mens-small-croc-cotton-long-sleeve-crew-sweatshirt-528146"
     },
     {
@@ -353,7 +359,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T01:13:42.513470",
+      "timestamp": "2026-01-27T01:18:50.638265",
       "url": "https://www.flannels.com/ted-baker-mens-3-pack-logo-mid-rise-boxer-briefs-420382"
     },
     {
@@ -362,7 +368,7 @@
       "percentage": 25.0,
       "old_price": "70.00",
       "new_price": "52.50",
-      "timestamp": "2026-01-27T01:13:42.513470",
+      "timestamp": "2026-01-27T01:18:50.638265",
       "url": "https://www.flannels.com/boss-h-delaware-10263385-02-slim-fit-jeans-mens-644639"
     },
     {
@@ -371,7 +377,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T01:13:42.513470",
+      "timestamp": "2026-01-27T01:18:50.638265",
       "url": "https://www.flannels.com/societe-noir-mens-scribble-fleece-jogger-shorts-470967"
     },
     {
@@ -380,7 +386,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T01:13:42.513470",
+      "timestamp": "2026-01-27T01:18:50.638265",
       "url": "https://www.flannels.com/pretty-lavish-womens-p-fern-off-shoulder-bardot-mini-dress-653790"
     },
     {

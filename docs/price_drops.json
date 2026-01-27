@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T10:57:29.099111",
-  "total_drops": 1020,
+  "generated_at": "2026-01-27T11:02:35.529728",
+  "total_drops": 1024,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 176,
+      "count": 180,
       "max_drop": 64.3,
-      "total_savings": 4663.0
+      "total_savings": 4719.8
     },
     {
       "site": "twentytwentyone_com",
@@ -80,7 +80,7 @@
       "percentage": 64.3,
       "old_price": "42.00",
       "new_price": "14.99",
-      "timestamp": "2026-01-27T10:57:23.461725",
+      "timestamp": "2026-01-27T11:02:28.758736",
       "url": "https://www.johnlewis.com/crocs-classic-clogs/p111547583"
     },
     {
@@ -89,7 +89,7 @@
       "percentage": 62.7,
       "old_price": "2317.00",
       "new_price": "865.00",
-      "timestamp": "2026-01-27T10:57:14.270032",
+      "timestamp": "2026-01-27T11:02:18.673777",
       "url": "https://www.twentytwentyone.com/products/asplund-claesson-koivisto-rune-vass-40-135-wall"
     },
     {
@@ -152,7 +152,7 @@
       "percentage": 50.8,
       "old_price": "59.00",
       "new_price": "29.00",
-      "timestamp": "2026-01-27T10:57:22.115823",
+      "timestamp": "2026-01-27T11:02:18.347320",
       "url": "https://ukbabycentre.com/products/bugaboo-fox-5-sun-canopy-grey-melange"
     },
     {
@@ -188,7 +188,7 @@
       "percentage": 50.0,
       "old_price": "40.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-27T10:57:23.461725",
+      "timestamp": "2026-01-27T11:02:28.758736",
       "url": "https://www.johnlewis.com/john-lewis-rib-weave-cushion/p111891232"
     },
     {
@@ -197,8 +197,26 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-27T10:57:23.461725",
+      "timestamp": "2026-01-27T11:02:28.758736",
       "url": "https://www.johnlewis.com/john-lewis-luce-textured-cushion/p112399300"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis ANYDAY Spots Reversible Toddler Pure Cotton Duvet Cover & Pillowcase Set",
+      "percentage": 50.0,
+      "old_price": "18.00",
+      "new_price": "9.00",
+      "timestamp": "2026-01-27T11:02:28.758736",
+      "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Stackers Hanging Wash Bag",
+      "percentage": 50.0,
+      "old_price": "65.00",
+      "new_price": "32.50",
+      "timestamp": "2026-01-27T11:02:28.758736",
+      "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
     },
     {
       "site": "johnlewis_com",
@@ -233,7 +251,7 @@
       "percentage": 47.1,
       "old_price": "170.00",
       "new_price": "90.00",
-      "timestamp": "2026-01-27T10:57:14.270032",
+      "timestamp": "2026-01-27T11:02:18.673777",
       "url": "https://www.twentytwentyone.com/products/barber-osgerby-frame"
     },
     {
@@ -260,7 +278,7 @@
       "percentage": 43.1,
       "old_price": "181.00",
       "new_price": "103.00",
-      "timestamp": "2026-01-27T10:57:14.270032",
+      "timestamp": "2026-01-27T11:02:18.673777",
       "url": "https://www.twentytwentyone.com/products/little-architect-desk-ex-display"
     },
     {
@@ -467,7 +485,7 @@
       "percentage": 37.9,
       "old_price": "190.00",
       "new_price": "118.00",
-      "timestamp": "2026-01-27T10:57:14.270032",
+      "timestamp": "2026-01-27T11:02:18.673777",
       "url": "https://www.twentytwentyone.com/products/tom-dixon-spot-surface-orbound"
     },
     {
@@ -593,7 +611,7 @@
       "percentage": 35.9,
       "old_price": "39.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-27T10:57:22.115823",
+      "timestamp": "2026-01-27T11:02:18.347320",
       "url": "https://ukbabycentre.com/products/bugaboo-dragonfly-sun-canopy-skyline-blue"
     },
     {
@@ -746,7 +764,7 @@
       "percentage": 33.3,
       "old_price": "36.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-27T10:57:14.270032",
+      "timestamp": "2026-01-27T11:02:18.673777",
       "url": "https://www.twentytwentyone.com/products/ichendorf-milano-corrado-dotti-cilandro-olive-oil-bottle"
     },
     {
@@ -845,7 +863,7 @@
       "percentage": 32.8,
       "old_price": "3449.00",
       "new_price": "2317.00",
-      "timestamp": "2026-01-27T10:57:14.270032",
+      "timestamp": "2026-01-27T11:02:18.673777",
       "url": "https://www.twentytwentyone.com/products/kilt-sideboard-2011"
     },
     {
@@ -946,24 +964,6 @@
       "new_price": "54.99",
       "timestamp": "2026-01-27T09:55:27.606242",
       "url": "https://www.currys.co.uk/products/10263393.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "JBL Go Essential 2 Portable Bluetooth Speaker - Black",
-      "percentage": 31.3,
-      "old_price": "79.99",
-      "new_price": "54.99",
-      "timestamp": "2026-01-27T09:08:08.524208",
-      "url": "https://www.currys.co.uk/products/10275487.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "KENSINGTON SmartFit Easy Riser Go Laptop Cooling Stand",
-      "percentage": 31.0,
-      "old_price": "28.99",
-      "new_price": "19.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10210208.html"
     }
   ]
 }

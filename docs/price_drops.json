@@ -1,7 +1,159 @@
 {
-  "generated_at": "2026-01-27T00:18:14.765003",
-  "total_drops": 0,
-  "top_drops_shown": 0,
-  "site_stats": [],
-  "drops": []
+  "generated_at": "2026-01-27T00:23:16.848172",
+  "total_drops": 16,
+  "top_drops_shown": 16,
+  "site_stats": [
+    {
+      "site": "johnlewis_com",
+      "count": 16,
+      "max_drop": 60.0,
+      "total_savings": 223.7
+    }
+  ],
+  "drops": [
+    {
+      "site": "johnlewis_com",
+      "product": "The Gruffalo Plush Soft Toy",
+      "percentage": 60.0,
+      "old_price": "49.99",
+      "new_price": "19.99",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/the-gruffalo-plush-soft-toy/p230652259"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Baby Einstein 4-in-1 Kickin' Tunes Music and Language Discovery Activity Gym",
+      "percentage": 26.7,
+      "old_price": "44.99",
+      "new_price": "32.99",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/baby-einstein-4-in-1-kickin-tunes-music-and-language-discovery-activity-gym/p3845072"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "LEGO Wicked 75688 Glinda's Wedding Day Building Toy Set",
+      "percentage": 25.0,
+      "old_price": "34.99",
+      "new_price": "26.25",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/lego-wicked-75688-glindas-wedding-day-building-toy-set/p113656676"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "LEGO Friends 42649 Heartlake City Sweet Shop",
+      "percentage": 21.7,
+      "old_price": "22.99",
+      "new_price": "17.99",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/lego-friends-42649-heartlake-city-sweet-shop/p112772662"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "My Expert Midwife BIRTHday Bag Gift Set",
+      "percentage": 20.0,
+      "old_price": "35.00",
+      "new_price": "28.00",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/my-expert-midwife-birthday-bag-gift-set/p114331193"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "LEGO Botanicals 10342 Pretty Pink Flower Bouquet Decor Set",
+      "percentage": 13.6,
+      "old_price": "43.99",
+      "new_price": "37.99",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/lego-botanicals-10342-pretty-pink-flower-bouquet-decor-set/p112772611"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "UPPAbaby 4 Piece Accessory Pack, Greyson",
+      "percentage": 13.3,
+      "old_price": "299.99",
+      "new_price": "260.00",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/uppababy-4-piece-accessory-pack-greyson/p112770203"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "LittleLife Ladybird Toddler Backpack, Red",
+      "percentage": 10.0,
+      "old_price": "19.99",
+      "new_price": "17.99",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/littlelife-ladybird-toddler-backpack-red/p5207700"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "LEGO Botanical Collection 10313 Wildflower Bouquet Set",
+      "percentage": 9.1,
+      "old_price": "43.99",
+      "new_price": "39.99",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/lego-botanical-collection-10313-wildflower-bouquet-set/p109825721"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Stokke Clikk Highchair",
+      "percentage": 7.9,
+      "old_price": "140.00",
+      "new_price": "129.00",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/stokke-clikk-highchair/p112684837"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Maxi-Cosi Dove Pro Baby Bouncer",
+      "percentage": 5.3,
+      "old_price": "189.99",
+      "new_price": "179.99",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/maxi-cosi-dove-pro-baby-bouncer/p113001345"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Bugaboo Fox Cub Stroller Essential Bundle, Desert Beige",
+      "percentage": 3.1,
+      "old_price": "850.00",
+      "new_price": "824.01",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/bugaboo-fox-cub-stroller-essential-bundle-desert-beige/p241684692"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Bugaboo Donkey 5 Duo Pushchair, Carrycot & Accessories Essential Bundle, Desert Taupe",
+      "percentage": 2.2,
+      "old_price": "1182.50",
+      "new_price": "1156.51",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/bugaboo-donkey-5-duo-pushchair-carrycot-accessories-essential-bundle-desert-taupe/p241684702"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Bugaboo Fox 5 Renew Pushchair, Cybex Cloud T i-Size Car Seat with Base and Accessories Bundle, Forest Green",
+      "percentage": 1.4,
+      "old_price": "1832.00",
+      "new_price": "1806.01",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/bugaboo-fox-5-renew-pushchair-cybex-cloud-t-i-size-car-seat-with-base-and-accessories-bundle-forest-green/p241696692"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Bugaboo Fox 5 Renew Pushchair & Accessories Essential Bundle, Black",
+      "percentage": 0.4,
+      "old_price": "1197.32",
+      "new_price": "1192.32",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/bugaboo-fox-5-renew-pushchair-accessories-essential-bundle-black/p241604691"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Bugaboo Donkey 5 Twin Pushchair & Carrycot with Bugaboo Otter by Nuna Baby Car Seat & 360 Base Ultimate Bundle, Forest Green",
+      "percentage": 0.2,
+      "old_price": "2302.83",
+      "new_price": "2297.83",
+      "timestamp": "2026-01-27T00:23:16.232892",
+      "url": "https://www.johnlewis.com/bugaboo-donkey-5-twin-pushchair-carrycot-with-bugaboo-otter-by-nuna-baby-car-seat-360-base-ultimate-bundle-forest-green/p241684709"
+    }
+  ]
 }

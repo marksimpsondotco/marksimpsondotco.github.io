@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T23:12:51.481554",
-  "total_drops": 1483,
+  "generated_at": "2026-01-27T23:18:01.449683",
+  "total_drops": 1484,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 60,
+      "count": 61,
       "max_drop": 39.4,
-      "total_savings": 1701.98
+      "total_savings": 1744.48
     },
     {
       "site": "condorcycles_com",

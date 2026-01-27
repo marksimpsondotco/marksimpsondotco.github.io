@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T05:47:13.381565",
-  "total_drops": 214,
+  "generated_at": "2026-01-27T05:52:16.825419",
+  "total_drops": 216,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -23,9 +23,15 @@
     },
     {
       "site": "flannels_com",
-      "count": 37,
+      "count": 38,
       "max_drop": 39.4,
-      "total_savings": 1413.48
+      "total_savings": 1437.98
+    },
+    {
+      "site": "percivalclo_com",
+      "count": 1,
+      "max_drop": 9.2,
+      "total_savings": 6.0
     },
     {
       "site": "garrard_com",
@@ -551,7 +557,7 @@
       "percentage": 25.5,
       "old_price": "55.00",
       "new_price": "41.00",
-      "timestamp": "2026-01-27T05:47:02.544880",
+      "timestamp": "2026-01-27T05:52:12.028962",
       "url": "https://www.flannels.com/hugo-mens-logo-label-cotton-long-sleeve-hoodie-529292"
     },
     {
@@ -713,8 +719,17 @@
       "percentage": 25.0,
       "old_price": "100.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-27T05:47:02.544880",
+      "timestamp": "2026-01-27T05:52:12.028962",
       "url": "https://www.flannels.com/missoni-mens-short-sleeve-t-shirt-594217"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Barbour International - Men's Inline Cotton Long Sleeve Overshirt",
+      "percentage": 25.0,
+      "old_price": "98.00",
+      "new_price": "73.50",
+      "timestamp": "2026-01-27T05:52:12.028962",
+      "url": "https://www.flannels.com/barbour-international-mens-inline-zip-through-hooded-cotton-long-sleeve-overshirt-547046"
     },
     {
       "site": "johnlewis_com",
@@ -931,15 +946,6 @@
       "new_price": "255.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/samsonite-re-lite-spinner-4-wheel-78cm-expandable-suitcase-black/p113455945"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Levi's Standard Taper Chinos",
-      "percentage": 18.8,
-      "old_price": "80.00",
-      "new_price": "65.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/levis-standard-taper-chinos/p6261276"
     }
   ]
 }

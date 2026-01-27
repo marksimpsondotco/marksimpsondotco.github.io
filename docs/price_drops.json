@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T15:45:18.588162",
-  "total_drops": 1080,
+  "generated_at": "2026-01-27T15:50:34.205647",
+  "total_drops": 1089,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 1,
-      "max_drop": 13.6,
-      "total_savings": 3.0
+      "count": 10,
+      "max_drop": 20.1,
+      "total_savings": 445.0
     },
     {
       "site": "percivalclo_com",

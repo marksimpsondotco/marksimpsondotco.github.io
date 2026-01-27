@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-27T14:27:50.041981",
-  "total_drops": 1064,
+  "generated_at": "2026-01-27T14:32:57.369289",
+  "total_drops": 1068,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 213,
-      "max_drop": 72.8,
-      "total_savings": 5660.45
+      "count": 217,
+      "max_drop": 74.2,
+      "total_savings": 5765.7
     },
     {
       "site": "leaderonline_com",
@@ -71,6 +71,15 @@
     }
   ],
   "drops": [
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Cornell Leather Loafers",
+      "percentage": 74.2,
+      "old_price": "99.00",
+      "new_price": "25.50",
+      "timestamp": "2026-01-27T14:32:51.182562",
+      "url": "https://www.johnlewis.com/john-lewis-cornell-leather-loafers/p111627299"
+    },
     {
       "site": "johnlewis_com",
       "product": "John Lewis Harrietta Mary Jane Leather Pumps",
@@ -176,7 +185,7 @@
       "percentage": 57.1,
       "old_price": "14.00",
       "new_price": "6.00",
-      "timestamp": "2026-01-27T14:27:44.481923",
+      "timestamp": "2026-01-27T14:32:51.182562",
       "url": "https://www.johnlewis.com/john-lewis-connect-check-towels/p111662913"
     },
     {
@@ -284,7 +293,7 @@
       "percentage": 50.0,
       "old_price": "165.00",
       "new_price": "82.50",
-      "timestamp": "2026-01-27T14:27:44.481923",
+      "timestamp": "2026-01-27T14:32:51.182562",
       "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
     },
     {
@@ -293,7 +302,7 @@
       "percentage": 50.0,
       "old_price": "60.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-27T14:27:44.481923",
+      "timestamp": "2026-01-27T14:32:51.182562",
       "url": "https://www.johnlewis.com/adidas-vl-court-contrast-sole-trainers/p111331988"
     },
     {
@@ -302,8 +311,17 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-27T14:27:44.481923",
+      "timestamp": "2026-01-27T14:32:51.182562",
       "url": "https://www.johnlewis.com/john-lewis-beatrice-upturn-disc-twirl-fascinator/p111454501"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Velvet Silk Blend Bow Tie",
+      "percentage": 50.0,
+      "old_price": "20.00",
+      "new_price": "10.00",
+      "timestamp": "2026-01-27T14:32:51.182562",
+      "url": "https://www.johnlewis.com/john-lewis-velvet-silk-blend-bow-tie/p110997453"
     },
     {
       "site": "johnlewis_com",
@@ -572,7 +590,7 @@
       "percentage": 38.9,
       "old_price": "90.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-27T14:27:44.481923",
+      "timestamp": "2026-01-27T14:32:51.182562",
       "url": "https://www.johnlewis.com/hush-nessa-wide-leg-jeans/p112504449"
     },
     {
@@ -952,24 +970,6 @@
       "new_price": "48.00",
       "timestamp": "2026-01-27T02:34:36.919057",
       "url": null
-    },
-    {
-      "site": "currys_com",
-      "product": "INSTAX Square Camera Film - 20 Shot Pack",
-      "percentage": 33.3,
-      "old_price": "44.99",
-      "new_price": "29.99",
-      "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10217393.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "NINTENDO SWITCH Spyro Trilogy Reignited",
-      "percentage": 33.3,
-      "old_price": "89.99",
-      "new_price": "59.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10194452.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T20:31:13.155481",
-  "total_drops": 1466,
+  "generated_at": "2026-01-27T20:36:24.066651",
+  "total_drops": 1468,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -53,9 +53,9 @@
     },
     {
       "site": "condorcycles_com",
-      "count": 12,
+      "count": 14,
       "max_drop": 33.3,
-      "total_savings": 383.82
+      "total_savings": 972.82
     },
     {
       "site": "chelseababy_com",

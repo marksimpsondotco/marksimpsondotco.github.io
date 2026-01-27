@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T10:26:41.080447",
-  "total_drops": 967,
+  "generated_at": "2026-01-27T10:31:47.656780",
+  "total_drops": 1000,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,15 +11,15 @@
     },
     {
       "site": "twentytwentyone_com",
-      "count": 75,
+      "count": 96,
       "max_drop": 62.7,
-      "total_savings": 28334.0
+      "total_savings": 31591.0
     },
     {
       "site": "currys_com",
-      "count": 603,
+      "count": 615,
       "max_drop": 62.5,
-      "total_savings": 9217.64
+      "total_savings": 9458.66
     },
     {
       "site": "johnlewis_com",
@@ -80,7 +80,7 @@
       "percentage": 62.7,
       "old_price": "2317.00",
       "new_price": "865.00",
-      "timestamp": "2026-01-27T10:26:14.788034",
+      "timestamp": "2026-01-27T10:31:20.651987",
       "url": "https://www.twentytwentyone.com/products/asplund-claesson-koivisto-rune-vass-40-135-wall"
     },
     {
@@ -143,7 +143,7 @@
       "percentage": 50.8,
       "old_price": "59.00",
       "new_price": "29.00",
-      "timestamp": "2026-01-27T10:26:35.192585",
+      "timestamp": "2026-01-27T10:31:32.989866",
       "url": "https://ukbabycentre.com/products/bugaboo-fox-5-sun-canopy-grey-melange"
     },
     {
@@ -170,7 +170,7 @@
       "percentage": 50.1,
       "old_price": "9.99",
       "new_price": "4.99",
-      "timestamp": "2026-01-27T10:26:30.623446",
+      "timestamp": "2026-01-27T10:31:44.878820",
       "url": "https://www.currys.co.uk/products/10282441.html"
     },
     {
@@ -188,7 +188,7 @@
       "percentage": 50.0,
       "old_price": "159.99",
       "new_price": "79.99",
-      "timestamp": "2026-01-27T10:26:30.623446",
+      "timestamp": "2026-01-27T10:31:44.878820",
       "url": "https://www.currys.co.uk/products/11267649.html"
     },
     {
@@ -206,7 +206,7 @@
       "percentage": 47.1,
       "old_price": "170.00",
       "new_price": "90.00",
-      "timestamp": "2026-01-27T10:26:14.788034",
+      "timestamp": "2026-01-27T10:31:20.651987",
       "url": "https://www.twentytwentyone.com/products/barber-osgerby-frame"
     },
     {
@@ -215,7 +215,7 @@
       "percentage": 46.9,
       "old_price": "999.00",
       "new_price": "529.99",
-      "timestamp": "2026-01-27T10:26:30.623446",
+      "timestamp": "2026-01-27T10:31:44.878820",
       "url": "https://www.currys.co.uk/products/10275076.html"
     },
     {
@@ -228,12 +228,21 @@
       "url": "https://www.currys.co.uk/products/10265461.html"
     },
     {
+      "site": "twentytwentyone_com",
+      "product": "Little Architect Desk | Ex-Display",
+      "percentage": 43.1,
+      "old_price": "181.00",
+      "new_price": "103.00",
+      "timestamp": "2026-01-27T10:31:20.651987",
+      "url": "https://www.twentytwentyone.com/products/little-architect-desk-ex-display"
+    },
+    {
       "site": "currys_com",
       "product": "SONOS Arc Ultra Sound Bar with Dolby Atmos & Amazon Ale",
       "percentage": 42.9,
       "old_price": "27.99",
       "new_price": "15.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
+      "timestamp": "2026-01-27T10:31:44.878820",
       "url": "https://www.currys.co.uk/products/10270746.html"
     },
     {
@@ -251,7 +260,7 @@
       "percentage": 41.2,
       "old_price": "169.99",
       "new_price": "99.99",
-      "timestamp": "2026-01-27T10:26:30.623446",
+      "timestamp": "2026-01-27T10:31:44.878820",
       "url": "https://www.currys.co.uk/products/10293168.html"
     },
     {
@@ -305,7 +314,7 @@
       "percentage": 40.0,
       "old_price": "99.99",
       "new_price": "59.99",
-      "timestamp": "2026-01-27T10:26:30.623446",
+      "timestamp": "2026-01-27T10:31:44.878820",
       "url": "https://www.currys.co.uk/products/10291064.html"
     },
     {
@@ -415,6 +424,15 @@
       "new_price": "185.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/theragun-prime-by-therabody-5th-generation-quiet-deep-tissue-therapy-massage-gun/p111637297"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Spot Surface Orbound | Ex-Display",
+      "percentage": 37.9,
+      "old_price": "190.00",
+      "new_price": "118.00",
+      "timestamp": "2026-01-27T10:31:20.651987",
+      "url": "https://www.twentytwentyone.com/products/tom-dixon-spot-surface-orbound"
     },
     {
       "site": "currys_com",
@@ -539,7 +557,7 @@
       "percentage": 35.9,
       "old_price": "39.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-27T10:26:35.192585",
+      "timestamp": "2026-01-27T10:31:32.989866",
       "url": "https://ukbabycentre.com/products/bugaboo-dragonfly-sun-canopy-skyline-blue"
     },
     {
@@ -692,7 +710,7 @@
       "percentage": 33.3,
       "old_price": "36.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-27T10:26:14.788034",
+      "timestamp": "2026-01-27T10:31:20.651987",
       "url": "https://www.twentytwentyone.com/products/ichendorf-milano-corrado-dotti-cilandro-olive-oil-bottle"
     },
     {
@@ -728,7 +746,7 @@
       "percentage": 33.3,
       "old_price": "44.99",
       "new_price": "29.99",
-      "timestamp": "2026-01-27T10:26:30.623446",
+      "timestamp": "2026-01-27T10:31:44.878820",
       "url": "https://www.currys.co.uk/products/10217393.html"
     },
     {
@@ -791,7 +809,7 @@
       "percentage": 32.8,
       "old_price": "3449.00",
       "new_price": "2317.00",
-      "timestamp": "2026-01-27T10:26:14.788034",
+      "timestamp": "2026-01-27T10:31:20.651987",
       "url": "https://www.twentytwentyone.com/products/kilt-sideboard-2011"
     },
     {
@@ -836,7 +854,7 @@
       "percentage": 31.8,
       "old_price": "109.99",
       "new_price": "74.99",
-      "timestamp": "2026-01-27T10:26:30.623446",
+      "timestamp": "2026-01-27T10:31:44.878820",
       "url": "https://www.currys.co.uk/products/10262666.html"
     },
     {
@@ -881,7 +899,7 @@
       "percentage": 31.3,
       "old_price": "79.99",
       "new_price": "54.99",
-      "timestamp": "2026-01-27T10:26:30.623446",
+      "timestamp": "2026-01-27T10:31:44.878820",
       "url": "https://www.currys.co.uk/products/10265293.html"
     },
     {
@@ -946,24 +964,6 @@
       "new_price": "31.49",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/superdry-cotton-cargo-shorts/p111942392"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Tommy Hilfiger - Kids' Monotype Closed Hem Fleece Joggers",
-      "percentage": 30.0,
-      "old_price": "50.00",
-      "new_price": "35.00",
-      "timestamp": "2026-01-27T04:45:41.906098",
-      "url": "https://www.flannels.com/tommy-hilfiger-kids-monotype-closed-hem-fleece-joggers-482587"
-    },
-    {
-      "site": "currys_com",
-      "product": "HISENSE E6422SC 60 cm Electric Ceramic Hob - Black",
-      "percentage": 30.0,
-      "old_price": "99.99",
-      "new_price": "69.99",
-      "timestamp": "2026-01-27T10:26:30.623446",
-      "url": "https://www.currys.co.uk/products/10272693.html"
     }
   ]
 }

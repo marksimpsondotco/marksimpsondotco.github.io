@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T12:55:31.912715",
-  "total_drops": 1050,
+  "generated_at": "2026-01-27T13:00:38.186661",
+  "total_drops": 1051,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -23,9 +23,9 @@
     },
     {
       "site": "currys_com",
-      "count": 629,
+      "count": 630,
       "max_drop": 62.5,
-      "total_savings": 9662.67
+      "total_savings": 9681.68
     },
     {
       "site": "ukbabycentre_com",
@@ -297,7 +297,7 @@
       "old_price": "60.00",
       "new_price": "30.00",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": null
+      "url": "https://www.johnlewis.com/john-lewis-egyptian-cotton-unisex-bath-robe/p111801685"
     },
     {
       "site": "johnlewis_com",
@@ -306,7 +306,7 @@
       "old_price": "44.00",
       "new_price": "22.00",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": null
+      "url": "https://www.johnlewis.com/falke-soft-merino-wool-blend-opaque-tights/p3111060"
     },
     {
       "site": "currys_com",
@@ -648,7 +648,7 @@
       "old_price": "69.99",
       "new_price": "43.99",
       "timestamp": "2026-01-27T02:10:20.651546",
-      "url": "https://www.currys.co.uk/products/10271060.html"
+      "url": "https://www.currys.co.uk/products/10271044.html"
     },
     {
       "site": "johnlewis_com",
@@ -954,7 +954,7 @@
       "old_price": "44.99",
       "new_price": "29.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": null
+      "url": "https://www.currys.co.uk/products/10293601.html"
     },
     {
       "site": "currys_com",

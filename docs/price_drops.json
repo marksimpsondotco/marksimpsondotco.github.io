@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T14:07:18.890225",
-  "total_drops": 1051,
+  "generated_at": "2026-01-27T14:12:26.328466",
+  "total_drops": 1052,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -44,6 +44,12 @@
       "count": 12,
       "max_drop": 33.3,
       "total_savings": 383.82
+    },
+    {
+      "site": "dusk_com",
+      "count": 1,
+      "max_drop": 13.6,
+      "total_savings": 3.0
     },
     {
       "site": "percivalclo_com",
@@ -369,7 +375,7 @@
       "old_price": "181.00",
       "new_price": "103.00",
       "timestamp": "2026-01-27T12:29:15.820303",
-      "url": null
+      "url": "https://www.twentytwentyone.com/products/little-architect-desk-ex-display"
     },
     {
       "site": "currys_com",

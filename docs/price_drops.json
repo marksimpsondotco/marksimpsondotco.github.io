@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-27T14:17:34.527626",
-  "total_drops": 1052,
+  "generated_at": "2026-01-27T14:22:43.035296",
+  "total_drops": 1059,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 201,
+      "count": 208,
       "max_drop": 72.8,
-      "total_savings": 5337.75
+      "total_savings": 5543.45
     },
     {
       "site": "leaderonline_com",
@@ -171,6 +171,15 @@
       "url": null
     },
     {
+      "site": "johnlewis_com",
+      "product": "John Lewis Connect Check Towels",
+      "percentage": 57.1,
+      "old_price": "14.00",
+      "new_price": "6.00",
+      "timestamp": "2026-01-27T14:22:35.631948",
+      "url": "https://www.johnlewis.com/john-lewis-connect-check-towels/p111662913"
+    },
+    {
       "site": "currys_com",
       "product": "OURA Ring 4 - Brushed Silver, Size 11",
       "percentage": 54.6,
@@ -268,6 +277,15 @@
       "new_price": "32.50",
       "timestamp": "2026-01-27T11:10:19.117336",
       "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "UGG Classic Mini II Short Sheepskin Boots",
+      "percentage": 50.0,
+      "old_price": "165.00",
+      "new_price": "82.50",
+      "timestamp": "2026-01-27T14:22:35.631948",
+      "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
     },
     {
       "site": "johnlewis_com",
@@ -952,24 +970,6 @@
       "new_price": "19.99",
       "timestamp": "2026-01-27T08:24:27.762656",
       "url": "https://www.currys.co.uk/products/10259698.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "PAULMANN Velora Rainbow RGB LED Ceiling Lamp - White",
-      "percentage": 33.3,
-      "old_price": "44.99",
-      "new_price": "29.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10293601.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "APPLE iPhone 17 Pro Max - 1 TB, Deep Blue",
-      "percentage": 33.3,
-      "old_price": "89.99",
-      "new_price": "59.99",
-      "timestamp": "2026-01-27T09:08:08.524208",
-      "url": "https://www.currys.co.uk/products/10290136.html"
     }
   ]
 }

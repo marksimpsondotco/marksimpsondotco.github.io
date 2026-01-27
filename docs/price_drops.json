@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T02:09:27.304039",
-  "total_drops": 177,
+  "generated_at": "2026-01-27T02:14:30.568023",
+  "total_drops": 182,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 27,
+      "count": 32,
       "max_drop": 39.4,
-      "total_savings": 1127.49
+      "total_savings": 1293.49
     },
     {
       "site": "currys_com",
@@ -95,7 +95,7 @@
       "percentage": 39.4,
       "old_price": "289.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/off-white-womens-satin-pyjama-crop-shirt-658052"
     },
     {
@@ -104,7 +104,7 @@
       "percentage": 38.8,
       "old_price": "139.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/adidas-womens-full-zip-soft-fleece-jacket-660586"
     },
     {
@@ -140,7 +140,7 @@
       "percentage": 37.1,
       "old_price": "69.99",
       "new_price": "43.99",
-      "timestamp": "2026-01-27T02:09:26.241235",
+      "timestamp": "2026-01-27T02:10:20.651546",
       "url": "https://www.currys.co.uk/products/10271044.html"
     },
     {
@@ -194,7 +194,7 @@
       "percentage": 33.3,
       "old_price": "67.50",
       "new_price": "45.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/yeezy-mens-500-leather-adiprene--cushioning-desert-boots-114731"
     },
     {
@@ -203,8 +203,17 @@
       "percentage": 33.3,
       "old_price": "42.00",
       "new_price": "28.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/new-balance-991-v1-trainers-105348"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Boss - Women's Milie Sandal Flat Sandals",
+      "percentage": 33.3,
+      "old_price": "72.00",
+      "new_price": "48.00",
+      "timestamp": "2026-01-27T02:14:29.545979",
+      "url": "https://www.flannels.com/boss-womens-milie-sandal-flat-sandals-230959"
     },
     {
       "site": "flannels_com",
@@ -212,8 +221,17 @@
       "percentage": 32.6,
       "old_price": "93.50",
       "new_price": "63.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/nike-air-max-90-trainers-mens-121004"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BALENCIAGA - Women's Flat Mules",
+      "percentage": 32.2,
+      "old_price": "199.00",
+      "new_price": "135.00",
+      "timestamp": "2026-01-27T02:14:29.545979",
+      "url": "https://www.flannels.com/balenciaga-womens-flat-mules-230767"
     },
     {
       "site": "johnlewis_com",
@@ -239,8 +257,17 @@
       "percentage": 29.7,
       "old_price": "155.00",
       "new_price": "109.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/palm-angels-logo-print-touch-strap-leather-sneakers-juniors-091806"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Steve Madden - Women's Adison Slip-On Cushioned Loafers",
+      "percentage": 29.4,
+      "old_price": "85.00",
+      "new_price": "60.00",
+      "timestamp": "2026-01-27T02:14:29.545979",
+      "url": "https://www.flannels.com/steve-madden-womens-adison-slip-on-cushioned-loafers-230337"
     },
     {
       "site": "johnlewis_com",
@@ -257,7 +284,7 @@
       "percentage": 28.7,
       "old_price": "209.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/ganni-womens-jacquard-mini-dress-654825"
     },
     {
@@ -275,7 +302,7 @@
       "percentage": 28.6,
       "old_price": "70.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/polo-ralph-lauren-logo-print-hoodie-junior-530680"
     },
     {
@@ -284,7 +311,7 @@
       "percentage": 28.6,
       "old_price": "245.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/ganni-womens-organza-mini-dress-654839"
     },
     {
@@ -293,8 +320,17 @@
       "percentage": 28.6,
       "old_price": "175.00",
       "new_price": "125.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/ganni-womens-smock-dress-654793"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Steve Madden - Women's Carleigh Heeled Mules",
+      "percentage": 28.6,
+      "old_price": "105.00",
+      "new_price": "75.00",
+      "timestamp": "2026-01-27T02:14:29.545979",
+      "url": "https://www.flannels.com/steve-madden-womens-carleigh-heeled-mules-230351"
     },
     {
       "site": "johnlewis_com",
@@ -320,7 +356,7 @@
       "percentage": 27.7,
       "old_price": "65.00",
       "new_price": "47.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/mars-the-label-womens-sculpt-maxi-dress-650646"
     },
     {
@@ -338,8 +374,17 @@
       "percentage": 26.4,
       "old_price": "129.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/balmain-embroidered-paris-sweatshirt-juniors-526827"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Coach - Lowline Luxe Sneakers",
+      "percentage": 26.1,
+      "old_price": "88.00",
+      "new_price": "65.00",
+      "timestamp": "2026-01-27T02:14:29.545979",
+      "url": "https://www.flannels.com/coach-womens-lowline-luxe-leather-lace-up-low-top-trainers-244281"
     },
     {
       "site": "flannels_com",
@@ -347,7 +392,7 @@
       "percentage": 25.8,
       "old_price": "33.00",
       "new_price": "24.50",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/tommy-hilfiger-mens-harlow-1d-canvas-lace-up-canvas-trainers-246078"
     },
     {
@@ -356,7 +401,7 @@
       "percentage": 25.6,
       "old_price": "39.00",
       "new_price": "29.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/amylynn-womens--structured-denim-blazer-551258"
     },
     {
@@ -365,7 +410,7 @@
       "percentage": 25.6,
       "old_price": "45.00",
       "new_price": "33.50",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/boss-mens-waffle-over-the-head-hoodie-532930"
     },
     {
@@ -374,7 +419,7 @@
       "percentage": 25.3,
       "old_price": "84.99",
       "new_price": "63.50",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/nike-stride-jacket-454309"
     },
     {
@@ -383,7 +428,7 @@
       "percentage": 25.1,
       "old_price": "215.00",
       "new_price": "161.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/boss-mens-dressletic-loaf-bope-derby-shoes-112408"
     },
     {
@@ -473,7 +518,7 @@
       "percentage": 25.0,
       "old_price": "88.00",
       "new_price": "66.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/lacoste-mens-small-croc-cotton-long-sleeve-crew-sweatshirt-528146"
     },
     {
@@ -482,7 +527,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/ted-baker-mens-3-pack-logo-mid-rise-boxer-briefs-420382"
     },
     {
@@ -491,7 +536,7 @@
       "percentage": 25.0,
       "old_price": "70.00",
       "new_price": "52.50",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/boss-h-delaware-10263385-02-slim-fit-jeans-mens-644639"
     },
     {
@@ -500,7 +545,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/societe-noir-mens-scribble-fleece-jogger-shorts-470967"
     },
     {
@@ -509,7 +554,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/pretty-lavish-womens-p-fern-off-shoulder-bardot-mini-dress-653790"
     },
     {
@@ -518,7 +563,7 @@
       "percentage": 25.0,
       "old_price": "50.00",
       "new_price": "37.50",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/hugo-logo-hoodie-534575"
     },
     {
@@ -599,7 +644,7 @@
       "percentage": 20.2,
       "old_price": "525.00",
       "new_price": "419.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/balenciaga-womens-bal-back-dry-t-shirt-653212"
     },
     {
@@ -725,7 +770,7 @@
       "percentage": 19.5,
       "old_price": "1490.00",
       "new_price": "1199.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/balenciaga-womens-bal-wrap-mini-dress-653209"
     },
     {
@@ -878,7 +923,7 @@
       "percentage": 14.4,
       "old_price": "139.00",
       "new_price": "119.00",
-      "timestamp": "2026-01-27T02:09:17.998722",
+      "timestamp": "2026-01-27T02:14:29.545979",
       "url": "https://www.flannels.com/tom-ford-womens-logo-modal-signature-bra-646257"
     },
     {
@@ -889,51 +934,6 @@
       "new_price": "119.99",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/amazon-fire-tv-cube-2022-4k-ultra-hd-streaming-device-with-alexa-voice-remote-tv-guide-with-live-tv/p109614949"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Monsoon Kids' Hooded Faux Fur Parka Coat",
-      "percentage": 14.0,
-      "old_price": "39.90",
-      "new_price": "34.30",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/monsoon-kids-hooded-faux-fur-parka-coat/p113679550"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LEGO Botanicals 10342 Pretty Pink Flower Bouquet Decor Set",
-      "percentage": 13.6,
-      "old_price": "43.99",
-      "new_price": "37.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/lego-botanicals-10342-pretty-pink-flower-bouquet-decor-set/p112772611"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Beko DIS15020 Fully Integrated Slimline Dishwasher",
-      "percentage": 13.4,
-      "old_price": "299.00",
-      "new_price": "259.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/beko-dis15020-fully-integrated-slimline-dishwasher/p6223050"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "UPPAbaby 4 Piece Accessory Pack, Greyson",
-      "percentage": 13.3,
-      "old_price": "299.99",
-      "new_price": "260.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/uppababy-4-piece-accessory-pack-greyson/p112770203"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Belling Farmhouse 90cm Electric Induction Hob Range Cooker, Cream",
-      "percentage": 12.8,
-      "old_price": "1699.00",
-      "new_price": "1481.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/belling-farmhouse-90cm-electric-induction-hob-range-cooker-cream/p112742236"
     }
   ]
 }

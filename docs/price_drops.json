@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T22:15:38.407365",
-  "total_drops": 1482,
+  "generated_at": "2026-01-27T22:20:51.685866",
+  "total_drops": 1483,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -71,9 +71,9 @@
     },
     {
       "site": "boden_com",
-      "count": 18,
+      "count": 19,
       "max_drop": 17.1,
-      "total_savings": 40.24
+      "total_savings": 43.49
     },
     {
       "site": "hauslondon_com",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T10:47:14.751573",
-  "total_drops": 1015,
+  "generated_at": "2026-01-27T10:52:22.197690",
+  "total_drops": 1020,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 171,
+      "count": 176,
       "max_drop": 64.3,
-      "total_savings": 4571.45
+      "total_savings": 4663.0
     },
     {
       "site": "twentytwentyone_com",
@@ -80,7 +80,7 @@
       "percentage": 64.3,
       "old_price": "42.00",
       "new_price": "14.99",
-      "timestamp": "2026-01-27T10:47:08.170411",
+      "timestamp": "2026-01-27T10:52:15.642775",
       "url": "https://www.johnlewis.com/crocs-classic-clogs/p111547583"
     },
     {
@@ -89,7 +89,7 @@
       "percentage": 62.7,
       "old_price": "2317.00",
       "new_price": "865.00",
-      "timestamp": "2026-01-27T10:46:52.229990",
+      "timestamp": "2026-01-27T10:51:43.854132",
       "url": "https://www.twentytwentyone.com/products/asplund-claesson-koivisto-rune-vass-40-135-wall"
     },
     {
@@ -152,7 +152,7 @@
       "percentage": 50.8,
       "old_price": "59.00",
       "new_price": "29.00",
-      "timestamp": "2026-01-27T10:47:07.466230",
+      "timestamp": "2026-01-27T10:52:12.049641",
       "url": "https://ukbabycentre.com/products/bugaboo-fox-5-sun-canopy-grey-melange"
     },
     {
@@ -179,8 +179,26 @@
       "percentage": 50.1,
       "old_price": "9.99",
       "new_price": "4.99",
-      "timestamp": "2026-01-27T10:47:10.904583",
+      "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10282441.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Rib Weave Cushion",
+      "percentage": 50.0,
+      "old_price": "40.00",
+      "new_price": "20.00",
+      "timestamp": "2026-01-27T10:52:15.642775",
+      "url": "https://www.johnlewis.com/john-lewis-rib-weave-cushion/p111891232"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Luce Textured Cushion",
+      "percentage": 50.0,
+      "old_price": "45.00",
+      "new_price": "22.50",
+      "timestamp": "2026-01-27T10:52:15.642775",
+      "url": "https://www.johnlewis.com/john-lewis-luce-textured-cushion/p112399300"
     },
     {
       "site": "johnlewis_com",
@@ -197,7 +215,7 @@
       "percentage": 50.0,
       "old_price": "159.99",
       "new_price": "79.99",
-      "timestamp": "2026-01-27T10:47:10.904583",
+      "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/11267649.html"
     },
     {
@@ -215,7 +233,7 @@
       "percentage": 47.1,
       "old_price": "170.00",
       "new_price": "90.00",
-      "timestamp": "2026-01-27T10:46:52.229990",
+      "timestamp": "2026-01-27T10:51:43.854132",
       "url": "https://www.twentytwentyone.com/products/barber-osgerby-frame"
     },
     {
@@ -224,7 +242,7 @@
       "percentage": 46.9,
       "old_price": "999.00",
       "new_price": "529.99",
-      "timestamp": "2026-01-27T10:47:10.904583",
+      "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10275076.html"
     },
     {
@@ -242,7 +260,7 @@
       "percentage": 43.1,
       "old_price": "181.00",
       "new_price": "103.00",
-      "timestamp": "2026-01-27T10:46:52.229990",
+      "timestamp": "2026-01-27T10:51:43.854132",
       "url": "https://www.twentytwentyone.com/products/little-architect-desk-ex-display"
     },
     {
@@ -251,7 +269,7 @@
       "percentage": 42.9,
       "old_price": "27.99",
       "new_price": "15.99",
-      "timestamp": "2026-01-27T10:47:10.904583",
+      "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10270746.html"
     },
     {
@@ -260,7 +278,7 @@
       "percentage": 42.5,
       "old_price": "39.99",
       "new_price": "22.99",
-      "timestamp": "2026-01-27T10:47:10.904583",
+      "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10279058.html"
     },
     {
@@ -278,7 +296,7 @@
       "percentage": 41.2,
       "old_price": "169.99",
       "new_price": "99.99",
-      "timestamp": "2026-01-27T10:47:10.904583",
+      "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10293168.html"
     },
     {
@@ -332,7 +350,7 @@
       "percentage": 40.0,
       "old_price": "99.99",
       "new_price": "59.99",
-      "timestamp": "2026-01-27T10:47:10.904583",
+      "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10291064.html"
     },
     {
@@ -449,7 +467,7 @@
       "percentage": 37.9,
       "old_price": "190.00",
       "new_price": "118.00",
-      "timestamp": "2026-01-27T10:46:52.229990",
+      "timestamp": "2026-01-27T10:51:43.854132",
       "url": "https://www.twentytwentyone.com/products/tom-dixon-spot-surface-orbound"
     },
     {
@@ -575,7 +593,7 @@
       "percentage": 35.9,
       "old_price": "39.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-27T10:47:07.466230",
+      "timestamp": "2026-01-27T10:52:12.049641",
       "url": "https://ukbabycentre.com/products/bugaboo-dragonfly-sun-canopy-skyline-blue"
     },
     {
@@ -728,7 +746,7 @@
       "percentage": 33.3,
       "old_price": "36.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-27T10:46:52.229990",
+      "timestamp": "2026-01-27T10:51:43.854132",
       "url": "https://www.twentytwentyone.com/products/ichendorf-milano-corrado-dotti-cilandro-olive-oil-bottle"
     },
     {
@@ -764,7 +782,7 @@
       "percentage": 33.3,
       "old_price": "44.99",
       "new_price": "29.99",
-      "timestamp": "2026-01-27T10:47:10.904583",
+      "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10217393.html"
     },
     {
@@ -827,7 +845,7 @@
       "percentage": 32.8,
       "old_price": "3449.00",
       "new_price": "2317.00",
-      "timestamp": "2026-01-27T10:46:52.229990",
+      "timestamp": "2026-01-27T10:51:43.854132",
       "url": "https://www.twentytwentyone.com/products/kilt-sideboard-2011"
     },
     {
@@ -872,7 +890,7 @@
       "percentage": 31.8,
       "old_price": "109.99",
       "new_price": "74.99",
-      "timestamp": "2026-01-27T10:47:10.904583",
+      "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10262666.html"
     },
     {
@@ -917,7 +935,7 @@
       "percentage": 31.3,
       "old_price": "79.99",
       "new_price": "54.99",
-      "timestamp": "2026-01-27T10:47:10.904583",
+      "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10265293.html"
     },
     {
@@ -946,24 +964,6 @@
       "new_price": "19.99",
       "timestamp": "2026-01-27T08:24:27.762656",
       "url": "https://www.currys.co.uk/products/10210208.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "MOCCAMASTER KBGT 79414 Filter Coffee Machine - Off Whit",
-      "percentage": 30.9,
-      "old_price": "27.49",
-      "new_price": "18.99",
-      "timestamp": "2026-01-27T09:08:08.524208",
-      "url": "https://www.currys.co.uk/products/10293717.html"
-    },
-    {
-      "site": "condorcycles_com",
-      "product": "PEdALED Odyssey Alpha Cap",
-      "percentage": 30.6,
-      "old_price": "72.00",
-      "new_price": "49.99",
-      "timestamp": "2026-01-27T08:50:50.562577",
-      "url": "https://www.condorcycles.com/products/pedaled-odyssey-alpha-cap"
     }
   ]
 }

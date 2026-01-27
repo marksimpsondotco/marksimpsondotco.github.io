@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-27T16:06:11.195982",
-  "total_drops": 1111,
+  "generated_at": "2026-01-27T16:11:19.177330",
+  "total_drops": 1119,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 240,
+      "count": 242,
       "max_drop": 74.2,
-      "total_savings": 6643.7
+      "total_savings": 6698.3
     },
     {
       "site": "leaderonline_com",
@@ -35,9 +35,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 50,
+      "count": 56,
       "max_drop": 39.4,
-      "total_savings": 1615.98
+      "total_savings": 1665.98
     },
     {
       "site": "condorcycles_com",
@@ -101,7 +101,7 @@
       "percentage": 70.0,
       "old_price": "99.00",
       "new_price": "29.70",
-      "timestamp": "2026-01-27T16:06:04.630493",
+      "timestamp": "2026-01-27T16:11:12.972214",
       "url": "https://www.johnlewis.com/john-lewis-olive-leather-block-heel-ankle-boots/p113907301"
     },
     {
@@ -110,7 +110,7 @@
       "percentage": 70.0,
       "old_price": "115.00",
       "new_price": "34.50",
-      "timestamp": "2026-01-27T16:06:04.630493",
+      "timestamp": "2026-01-27T16:11:12.972214",
       "url": "https://www.johnlewis.com/john-lewis-otto-leather-pointed-toe-kitten-heel-ankle-boots/p113907311"
     },
     {
@@ -193,6 +193,15 @@
       "new_price": "1.00",
       "timestamp": "2026-01-27T03:39:02.430383",
       "url": null
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Joules Kids' Carin Ditsy Print Padded Jacket, Multi",
+      "percentage": 64.6,
+      "old_price": "65.00",
+      "new_price": "23.00",
+      "timestamp": "2026-01-27T16:11:12.972214",
+      "url": "https://www.johnlewis.com/joules-kids-carin-ditsy-print-padded-jacket-multi/p114201862"
     },
     {
       "site": "johnlewis_com",
@@ -425,7 +434,7 @@
       "percentage": 50.0,
       "old_price": "125.00",
       "new_price": "62.50",
-      "timestamp": "2026-01-27T16:06:04.630493",
+      "timestamp": "2026-01-27T16:11:12.972214",
       "url": "https://www.johnlewis.com/veja-campo-bold-lace-up-suede-trainers/p114304018"
     },
     {
@@ -434,7 +443,7 @@
       "percentage": 50.0,
       "old_price": "19.00",
       "new_price": "9.50",
-      "timestamp": "2026-01-27T16:06:04.630493",
+      "timestamp": "2026-01-27T16:11:12.972214",
       "url": "https://www.johnlewis.com/john-lewis-supima-cotton-regular-fit-crew-neck-t-shirt/p6030384"
     },
     {
@@ -614,7 +623,7 @@
       "percentage": 40.4,
       "old_price": "109.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-27T16:06:04.630493",
+      "timestamp": "2026-01-27T16:11:12.972214",
       "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
     },
     {
@@ -623,7 +632,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-27T16:06:04.630493",
+      "timestamp": "2026-01-27T16:11:12.972214",
       "url": "https://www.johnlewis.com/john-lewis-cashmere-edge-to-edge-rib-cardigan/p114013778"
     },
     {
@@ -668,7 +677,7 @@
       "percentage": 40.0,
       "old_price": "60.00",
       "new_price": "36.00",
-      "timestamp": "2026-01-27T16:06:04.630493",
+      "timestamp": "2026-01-27T16:11:12.972214",
       "url": "https://www.johnlewis.com/sweaty-betty-escape-italian-luxe-fleece-hoodie/p5437821"
     },
     {
@@ -933,6 +942,15 @@
       "url": "https://www.currys.co.uk/products/10250066.html"
     },
     {
+      "site": "flannels_com",
+      "product": "AmyLynn - AmyLynn Jhnna Fl Tp Ld99",
+      "percentage": 36.4,
+      "old_price": "22.00",
+      "new_price": "14.00",
+      "timestamp": "2026-01-27T16:11:14.307228",
+      "url": "https://www.flannels.com/amylynn-amylynn-jhnna-fl-tp-ld99-336463"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Amazon Fire TV Stick 4K Select (2025) Ultra HD Streaming Device with Alexa Voice Remote Enhanced & TV Guide with Live TV",
       "percentage": 36.0,
@@ -958,24 +976,6 @@
       "new_price": "25.00",
       "timestamp": "2026-01-27T11:38:34.349989",
       "url": null
-    },
-    {
-      "site": "currys_com",
-      "product": "LAY-Z-SPA Hot Tub Floor Protector ‑ Round",
-      "percentage": 35.6,
-      "old_price": "72.99",
-      "new_price": "46.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10273503.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "RAZER Cobra RGB Optical Gaming Mouse - Pokémon Gengar E",
-      "percentage": 35.5,
-      "old_price": "169.00",
-      "new_price": "109.00",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10252934.html"
     }
   ]
 }

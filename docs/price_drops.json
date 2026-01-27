@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T05:57:20.393898",
-  "total_drops": 216,
+  "generated_at": "2026-01-27T06:02:23.818093",
+  "total_drops": 217,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -23,9 +23,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 38,
+      "count": 39,
       "max_drop": 39.4,
-      "total_savings": 1437.98
+      "total_savings": 1513.98
     },
     {
       "site": "percivalclo_com",
@@ -235,6 +235,15 @@
       "new_price": "31.99",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/amazon-fire-tv-stick-4k-select-2025-ultra-hd-streaming-device-with-alexa-voice-remote-enhanced-tv-guide-with-live-tv/p114416983"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BALENCIAGA - Men's Classic Lace-Up Derby Shoes",
+      "percentage": 33.8,
+      "old_price": "225.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-27T06:02:22.810163",
+      "url": "https://www.flannels.com/balenciaga-mens-classic-lace-up-derby-shoes-112027"
     },
     {
       "site": "johnlewis_com",
@@ -557,7 +566,7 @@
       "percentage": 25.5,
       "old_price": "55.00",
       "new_price": "41.00",
-      "timestamp": "2026-01-27T05:57:11.141842",
+      "timestamp": "2026-01-27T06:02:22.810163",
       "url": "https://www.flannels.com/hugo-mens-logo-label-cotton-long-sleeve-hoodie-529292"
     },
     {
@@ -719,7 +728,7 @@
       "percentage": 25.0,
       "old_price": "100.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-27T05:57:11.141842",
+      "timestamp": "2026-01-27T06:02:22.810163",
       "url": "https://www.flannels.com/missoni-mens-short-sleeve-t-shirt-594217"
     },
     {
@@ -728,7 +737,7 @@
       "percentage": 25.0,
       "old_price": "98.00",
       "new_price": "73.50",
-      "timestamp": "2026-01-27T05:57:11.141842",
+      "timestamp": "2026-01-27T06:02:22.810163",
       "url": "https://www.flannels.com/barbour-international-mens-inline-zip-through-hooded-cotton-long-sleeve-overshirt-547046"
     },
     {
@@ -937,15 +946,6 @@
       "new_price": "1199.00",
       "timestamp": "2026-01-27T02:34:36.919057",
       "url": "https://www.flannels.com/balenciaga-womens-bal-wrap-mini-dress-653209"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Samsonite Re-Lite Spinner 4-Wheel 78cm Expandable Suitcase, Black",
-      "percentage": 19.0,
-      "old_price": "315.00",
-      "new_price": "255.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/samsonite-re-lite-spinner-4-wheel-78cm-expandable-suitcase-black/p113455945"
     }
   ]
 }

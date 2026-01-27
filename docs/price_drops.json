@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-27T15:03:55.766724",
-  "total_drops": 1074,
+  "generated_at": "2026-01-27T15:09:03.555456",
+  "total_drops": 1077,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 222,
+      "count": 225,
       "max_drop": 74.2,
-      "total_savings": 5934.7
+      "total_savings": 6057.2
     },
     {
       "site": "leaderonline_com",
@@ -285,6 +285,15 @@
       "url": "https://www.currys.co.uk/products/10289233.html"
     },
     {
+      "site": "johnlewis_com",
+      "product": "John Lewis Cashmere Crew Neck Jumper",
+      "percentage": 50.5,
+      "old_price": "99.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-27T15:08:57.310409",
+      "url": "https://www.johnlewis.com/john-lewis-cashmere-crew-neck-jumper/p113835615"
+    },
+    {
       "site": "currys_com",
       "product": "SONY WH-1000XM6 Wireless Bluetooth Noise-Cancelling Hea",
       "percentage": 50.1,
@@ -364,6 +373,24 @@
       "new_price": "10.00",
       "timestamp": "2026-01-27T14:54:32.763238",
       "url": "https://www.johnlewis.com/john-lewis-velvet-silk-blend-bow-tie/p110997453"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Herschel Supply Co. Retreat Backpack",
+      "percentage": 50.0,
+      "old_price": "100.00",
+      "new_price": "50.00",
+      "timestamp": "2026-01-27T15:08:57.310409",
+      "url": "https://www.johnlewis.com/herschel-supply-co-retreat-backpack/p110710185"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Merino Wool Crew Neck Jumper",
+      "percentage": 50.0,
+      "old_price": "45.00",
+      "new_price": "22.50",
+      "timestamp": "2026-01-27T15:08:57.310409",
+      "url": "https://www.johnlewis.com/john-lewis-merino-wool-crew-neck-jumper/p113797003"
     },
     {
       "site": "johnlewis_com",
@@ -949,33 +976,6 @@
       "new_price": "4.00",
       "timestamp": "2026-01-27T04:38:15.093311",
       "url": null
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Amazon Fire TV Stick 4K (2024) Ultra HD Streaming Device with Alexa Voice Remote & TV Guide with Live TV",
-      "percentage": 33.3,
-      "old_price": "59.99",
-      "new_price": "39.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-fire-tv-stick-4k-2024-ultra-hd-streaming-device-with-alexa-voice-remote-tv-guide-with-live-tv/p112757860"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Amazon Echo Show 5 (3rd Gen) Smart Speaker with 5.5\" Screen & Alexa Voice Recognition & Control",
-      "percentage": 33.3,
-      "old_price": "89.99",
-      "new_price": "59.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-echo-show-5-3rd-gen-smart-speaker-with-5-5-inch-screen-alexa-voice-recognition-control/p110556129"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Amazon Echo Pop Smart Speaker with Alexa Voice Recognition & Control",
-      "percentage": 33.3,
-      "old_price": "44.99",
-      "new_price": "29.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-echo-pop-smart-speaker-with-alexa-voice-recognition-control/p110556133"
     }
   ]
 }

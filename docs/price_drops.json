@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T07:38:44.508917",
-  "total_drops": 234,
+  "generated_at": "2026-01-27T10:26:35.178086",
+  "total_drops": 967,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -10,22 +10,34 @@
       "total_savings": 2.0
     },
     {
+      "site": "twentytwentyone_com",
+      "count": 75,
+      "max_drop": 62.7,
+      "total_savings": 28334.0
+    },
+    {
       "site": "currys_com",
-      "count": 7,
+      "count": 603,
       "max_drop": 62.5,
-      "total_savings": 286.0
+      "total_savings": 9217.64
     },
     {
       "site": "johnlewis_com",
-      "count": 169,
+      "count": 170,
       "max_drop": 60.0,
-      "total_savings": 4499.29
+      "total_savings": 4544.44
+    },
+    {
+      "site": "ukbabycentre_com",
+      "count": 60,
+      "max_drop": 50.8,
+      "total_savings": 2011.88
     },
     {
       "site": "flannels_com",
-      "count": 39,
+      "count": 40,
       "max_drop": 39.4,
-      "total_savings": 1513.98
+      "total_savings": 1524.98
     },
     {
       "site": "condorcycles_com",
@@ -63,6 +75,15 @@
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
+      "site": "twentytwentyone_com",
+      "product": "Vass 40:135 Wall",
+      "percentage": 62.7,
+      "old_price": "2317.00",
+      "new_price": "865.00",
+      "timestamp": "2026-01-27T10:26:14.788034",
+      "url": "https://www.twentytwentyone.com/products/asplund-claesson-koivisto-rune-vass-40-135-wall"
+    },
+    {
       "site": "currys_com",
       "product": "BOSCH Series 4 SMV4HTX00G Full-size Fully Integrated Wi",
       "percentage": 62.5,
@@ -81,6 +102,15 @@
       "url": "https://www.currys.co.uk/products/10287536.html"
     },
     {
+      "site": "currys_com",
+      "product": "SALTER Deco EK5832BLK 2-Slice Toaster - Black",
+      "percentage": 61.1,
+      "old_price": "89.99",
+      "new_price": "35.00",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10260547.html"
+    },
+    {
       "site": "johnlewis_com",
       "product": "The Gruffalo Plush Soft Toy",
       "percentage": 60.0,
@@ -88,6 +118,60 @@
       "new_price": "19.99",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/the-gruffalo-plush-soft-toy/p230652259"
+    },
+    {
+      "site": "currys_com",
+      "product": "OURA Ring 4 - Brushed Silver, Size 11",
+      "percentage": 54.6,
+      "old_price": "21.99",
+      "new_price": "9.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10278148.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "NINJA Woodfire XL Electric BBQ Grill Flat Plate",
+      "percentage": 52.8,
+      "old_price": "179.99",
+      "new_price": "84.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10260844.html"
+    },
+    {
+      "site": "ukbabycentre_com",
+      "product": "Bugaboo Fox 5 Sun Canopy - Grey Melange",
+      "percentage": 50.8,
+      "old_price": "59.00",
+      "new_price": "29.00",
+      "timestamp": "2026-01-27T10:25:48.412744",
+      "url": "https://ukbabycentre.com/products/bugaboo-fox-5-sun-canopy-grey-melange"
+    },
+    {
+      "site": "currys_com",
+      "product": "BOSCH MyMoment TAT3M141GB 4-Slice Toaster - White",
+      "percentage": 50.7,
+      "old_price": "74.99",
+      "new_price": "36.99",
+      "timestamp": "2026-01-27T09:55:27.606242",
+      "url": "https://www.currys.co.uk/products/10267186.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "TONIES Toniebox 2 Starter Set (Sunset Red) & Audio Figu",
+      "percentage": 50.7,
+      "old_price": "74.99",
+      "new_price": "36.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10289233.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "SONY WH-1000XM6 Wireless Bluetooth Noise-Cancelling Hea",
+      "percentage": 50.1,
+      "old_price": "9.99",
+      "new_price": "4.99",
+      "timestamp": "2026-01-27T10:26:30.623446",
+      "url": "https://www.currys.co.uk/products/10282441.html"
     },
     {
       "site": "johnlewis_com",
@@ -99,6 +183,60 @@
       "url": "https://www.johnlewis.com/berghaus-explorer-backpack-25l-jet-black/p112960890"
     },
     {
+      "site": "currys_com",
+      "product": "SKY 120 Sky TV Remote Control",
+      "percentage": 50.0,
+      "old_price": "159.99",
+      "new_price": "79.99",
+      "timestamp": "2026-01-27T10:26:30.623446",
+      "url": "https://www.currys.co.uk/products/11267649.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "AUDIO PRO Drumfire II Wireless Multi-room Speaker - Whi",
+      "percentage": 50.0,
+      "old_price": "59.99",
+      "new_price": "29.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10256608.html"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Barber Osgerby Frame",
+      "percentage": 47.1,
+      "old_price": "170.00",
+      "new_price": "90.00",
+      "timestamp": "2026-01-27T10:26:14.788034",
+      "url": "https://www.twentytwentyone.com/products/barber-osgerby-frame"
+    },
+    {
+      "site": "currys_com",
+      "product": "GIGABYTE GeForce RTX 5060 Ti 16 GB WINDFORCE MAX OC Gra",
+      "percentage": 46.9,
+      "old_price": "999.00",
+      "new_price": "529.99",
+      "timestamp": "2026-01-27T10:26:30.623446",
+      "url": "https://www.currys.co.uk/products/10275076.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "GLOBAL GIZMOS Jellyfish Aquarium Lamp - Black",
+      "percentage": 43.3,
+      "old_price": "29.99",
+      "new_price": "16.99",
+      "timestamp": "2026-01-27T09:55:27.606242",
+      "url": "https://www.currys.co.uk/products/10265461.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "SONOS Arc Ultra Sound Bar with Dolby Atmos & Amazon Ale",
+      "percentage": 42.9,
+      "old_price": "27.99",
+      "new_price": "15.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10270746.html"
+    },
+    {
       "site": "johnlewis_com",
       "product": "KG Kurt Geiger Trekker Cuff Ankle Boots, Black",
       "percentage": 41.4,
@@ -106,6 +244,15 @@
       "new_price": "99.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/kg-kurt-geiger-trekker-cuff-ankle-boots-black/p113823084"
+    },
+    {
+      "site": "currys_com",
+      "product": "SHARK TH200UK TurboBlade Cool + Heat High-Speed Multi-D",
+      "percentage": 41.2,
+      "old_price": "169.99",
+      "new_price": "99.99",
+      "timestamp": "2026-01-27T10:26:30.623446",
+      "url": "https://www.currys.co.uk/products/10293168.html"
     },
     {
       "site": "johnlewis_com",
@@ -153,6 +300,33 @@
       "url": "https://www.johnlewis.com/amazon-echo-show-5-3rd-gen-kids-smart-speaker-with-5-5-inch-screen-alexa-voice-recognition-parental-controls-galaxy/p110582032"
     },
     {
+      "site": "currys_com",
+      "product": "GARMIN Venu 4 Smart Watch - Silver with Citron Silicone",
+      "percentage": 40.0,
+      "old_price": "99.99",
+      "new_price": "59.99",
+      "timestamp": "2026-01-27T10:26:30.623446",
+      "url": "https://www.currys.co.uk/products/10291064.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "TRESEMME 5543BU Keratin Smooth Hair Dryer Diffuser Set",
+      "percentage": 40.0,
+      "old_price": "44.99",
+      "new_price": "26.99",
+      "timestamp": "2026-01-27T09:08:08.524208",
+      "url": "https://www.currys.co.uk/products/10257022.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "ULTRAHUMAN Ring Air - Bionic Gold, Size 13",
+      "percentage": 40.0,
+      "old_price": "24.99",
+      "new_price": "14.99",
+      "timestamp": "2026-01-27T09:08:08.524208",
+      "url": "https://www.currys.co.uk/products/10285436.html"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Barbour Dog Waxed Flat Cap, Green Olive",
       "percentage": 39.9,
@@ -178,6 +352,15 @@
       "new_price": "175.00",
       "timestamp": "2026-01-27T02:34:36.919057",
       "url": "https://www.flannels.com/off-white-womens-satin-pyjama-crop-shirt-658052"
+    },
+    {
+      "site": "currys_com",
+      "product": "QDOS HYBRID SOFT + SNAP MagSafe iPhone 15 Plus Case - C",
+      "percentage": 39.4,
+      "old_price": "32.99",
+      "new_price": "19.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10255354.html"
     },
     {
       "site": "flannels_com",
@@ -207,6 +390,24 @@
       "url": "https://www.johnlewis.com/amazon-echo-dot-kids-smart-speaker-with-alexa-voice-recognition-parental-controls-5th-generation-2022/p109610442"
     },
     {
+      "site": "currys_com",
+      "product": "LOGIK L7APHB23 7-port USB 2.0 Hub",
+      "percentage": 38.5,
+      "old_price": "64.99",
+      "new_price": "39.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10235193.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "DAEWOO Denver SDA2745GE Jug Kettle - Cream",
+      "percentage": 38.5,
+      "old_price": "64.99",
+      "new_price": "39.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10271313.html"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Theragun Prime by Therabody 5th Generation Quiet Deep Tissue Therapy Massage Gun",
       "percentage": 38.1,
@@ -214,6 +415,24 @@
       "new_price": "185.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/theragun-prime-by-therabody-5th-generation-quiet-deep-tissue-therapy-massage-gun/p111637297"
+    },
+    {
+      "site": "currys_com",
+      "product": "GLOBAL GIZMOS Jellyfish Water Bubble Lamp - Blue & Purp",
+      "percentage": 37.9,
+      "old_price": "28.99",
+      "new_price": "17.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10265460.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "GLOBAL GIZMOS Interactive Desktop Light Bar - Twin Pack",
+      "percentage": 37.9,
+      "old_price": "28.99",
+      "new_price": "17.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10265462.html"
     },
     {
       "site": "johnlewis_com",
@@ -226,12 +445,75 @@
     },
     {
       "site": "currys_com",
+      "product": "RUSSELL HOBBS Adventure 24080 2-Slice Toaster - Silver",
+      "percentage": 37.5,
+      "old_price": "39.99",
+      "new_price": "24.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10196850.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "BABYLISS Stardust Shimmer 5914PU Hair Dryer - Gold",
+      "percentage": 37.5,
+      "old_price": "80.00",
+      "new_price": "50.00",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10288885.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "SWAN Retro 45-litre Rectangular Bin - Black",
+      "percentage": 37.5,
+      "old_price": "120.00",
+      "new_price": "74.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10156995.html"
+    },
+    {
+      "site": "currys_com",
       "product": "CRUCIAL P310 M.2 Internal SSD - 500 GB",
       "percentage": 37.1,
       "old_price": "69.99",
       "new_price": "43.99",
       "timestamp": "2026-01-27T02:10:20.651546",
       "url": "https://www.currys.co.uk/products/10271044.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "REVLON One Step Round Brush Attachment - Black",
+      "percentage": 36.7,
+      "old_price": "150.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10286340.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "CURRYS Tech Expert Slippers",
+      "percentage": 36.7,
+      "old_price": "150.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10283554.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "TEFAL Oleoclean Compact FR701640 Deep Fryer - Stainless",
+      "percentage": 36.7,
+      "old_price": "150.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10182430.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "REVAMP Steamcare Ceramic Hair Straightener - Black",
+      "percentage": 36.7,
+      "old_price": "150.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10250066.html"
     },
     {
       "site": "johnlewis_com",
@@ -241,6 +523,96 @@
       "new_price": "31.99",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/amazon-fire-tv-stick-4k-select-2025-ultra-hd-streaming-device-with-alexa-voice-remote-enhanced-tv-guide-with-live-tv/p114416983"
+    },
+    {
+      "site": "currys_com",
+      "product": "NINJA HB150UK Hot & Cold Blender & Soup Maker - Black",
+      "percentage": 36.0,
+      "old_price": "49.99",
+      "new_price": "31.99",
+      "timestamp": "2026-01-27T09:08:08.524208",
+      "url": "https://www.currys.co.uk/products/10202404.html"
+    },
+    {
+      "site": "ukbabycentre_com",
+      "product": "Bugaboo Dragonfly Sun Canopy - Skyline Blue",
+      "percentage": 35.9,
+      "old_price": "39.00",
+      "new_price": "25.00",
+      "timestamp": "2026-01-27T10:25:48.412744",
+      "url": "https://ukbabycentre.com/products/bugaboo-dragonfly-sun-canopy-skyline-blue"
+    },
+    {
+      "site": "currys_com",
+      "product": "LAY-Z-SPA Hot Tub Floor Protector ‑ Round",
+      "percentage": 35.6,
+      "old_price": "72.99",
+      "new_price": "46.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10273503.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "RAZER Cobra RGB Optical Gaming Mouse - Pokémon Gengar E",
+      "percentage": 35.5,
+      "old_price": "169.00",
+      "new_price": "109.00",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10252934.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "FELLOWES Breyta Desk Mat - Sage",
+      "percentage": 35.3,
+      "old_price": "16.99",
+      "new_price": "10.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10283815.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Polo Ralph Lauren Cotton Regular Fit Oxford Shirt, Classic Camel Heather",
+      "percentage": 35.0,
+      "old_price": "129.00",
+      "new_price": "83.85",
+      "timestamp": "2026-01-27T09:43:28.321029",
+      "url": "https://www.johnlewis.com/polo-ralph-lauren-cotton-regular-fit-oxford-shirt-classic-camel-heather/p114419361"
+    },
+    {
+      "site": "currys_com",
+      "product": "LUCECO Solar Guardian Outdoor LED Wall Light with PIR M",
+      "percentage": 35.0,
+      "old_price": "19.99",
+      "new_price": "12.99",
+      "timestamp": "2026-01-27T09:55:27.606242",
+      "url": "https://www.currys.co.uk/products/10262991.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "CORSAIR Hydro X Series XF 45° Rotary Fitting Adapter -",
+      "percentage": 35.0,
+      "old_price": "19.99",
+      "new_price": "12.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10205798.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "ALPHASON Portland Executive Chair",
+      "percentage": 34.3,
+      "old_price": "289.00",
+      "new_price": "190.00",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10160537.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "TOWER Renaissance T20065GRY 4-Slice Toaster - Grey",
+      "percentage": 34.2,
+      "old_price": "114.00",
+      "new_price": "74.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10237313.html"
     },
     {
       "site": "flannels_com",
@@ -261,12 +633,21 @@
       "url": "https://www.johnlewis.com/carvela-tempt-wide-fit-heeled-ankle-boots-black/p113964979"
     },
     {
+      "site": "currys_com",
+      "product": "STATESMAN U355S Undercounter Freezer - Silver",
+      "percentage": 33.4,
+      "old_price": "749.00",
+      "new_price": "499.00",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10247551.html"
+    },
+    {
       "site": "condorcycles_com",
       "product": "PEdALED Element Merino Base Layer",
       "percentage": 33.3,
       "old_price": "75.00",
       "new_price": "49.99",
-      "timestamp": "2026-01-27T07:38:31.478343",
+      "timestamp": "2026-01-27T08:50:50.562577",
       "url": "https://www.condorcycles.com/products/pedaled-element-merino-base-layer"
     },
     {
@@ -306,6 +687,15 @@
       "url": "https://www.johnlewis.com/amazon-echo-pop-smart-speaker-with-alexa-voice-recognition-control/p110556133"
     },
     {
+      "site": "twentytwentyone_com",
+      "product": "Cilindro Olive Oil Bottle",
+      "percentage": 33.3,
+      "old_price": "36.00",
+      "new_price": "24.00",
+      "timestamp": "2026-01-27T10:26:14.788034",
+      "url": "https://www.twentytwentyone.com/products/ichendorf-milano-corrado-dotti-cilandro-olive-oil-bottle"
+    },
+    {
       "site": "flannels_com",
       "product": "Yeezy - Men's 500 Boots with adiPRENE+ Cushioning",
       "percentage": 33.3,
@@ -333,6 +723,87 @@
       "url": "https://www.flannels.com/boss-womens-milie-sandal-flat-sandals-230959"
     },
     {
+      "site": "currys_com",
+      "product": "INSTAX Square Camera Film - 20 Shot Pack",
+      "percentage": 33.3,
+      "old_price": "44.99",
+      "new_price": "29.99",
+      "timestamp": "2026-01-27T10:26:30.623446",
+      "url": "https://www.currys.co.uk/products/10217393.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "NINTENDO SWITCH Spyro Trilogy Reignited",
+      "percentage": 33.3,
+      "old_price": "89.99",
+      "new_price": "59.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10194452.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "DYSON Airwrap Co-anda 2x Curly + Coily Hair Multi-Style",
+      "percentage": 33.3,
+      "old_price": "89.99",
+      "new_price": "59.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10292614.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "FELLOWES Lotus DX Stand-Up Desk Workstation - White",
+      "percentage": 33.3,
+      "old_price": "29.99",
+      "new_price": "19.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10260370.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "WEBB WEH30 Cordless Cylinder Lawn Mower - Green, Orange",
+      "percentage": 33.3,
+      "old_price": "29.99",
+      "new_price": "19.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10259698.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "PAULMANN Velora Rainbow RGB LED Ceiling Lamp - White",
+      "percentage": 33.3,
+      "old_price": "44.99",
+      "new_price": "29.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10293601.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "APPLE iPhone 17 Pro Max - 1 TB, Deep Blue",
+      "percentage": 33.3,
+      "old_price": "89.99",
+      "new_price": "59.99",
+      "timestamp": "2026-01-27T09:08:08.524208",
+      "url": "https://www.currys.co.uk/products/10290136.html"
+    },
+    {
+      "site": "twentytwentyone_com",
+      "product": "Kilt Sideboard 180",
+      "percentage": 32.8,
+      "old_price": "3449.00",
+      "new_price": "2317.00",
+      "timestamp": "2026-01-27T10:26:14.788034",
+      "url": "https://www.twentytwentyone.com/products/kilt-sideboard-2011"
+    },
+    {
+      "site": "currys_com",
+      "product": "XOOTZ Aprilia 12V Kids' Electric Ride-On Bike - White",
+      "percentage": 32.8,
+      "old_price": "57.99",
+      "new_price": "38.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10277249.html"
+    },
+    {
       "site": "flannels_com",
       "product": "Nike - Air Max 90 Trainers Mens",
       "percentage": 32.6,
@@ -356,8 +827,44 @@
       "percentage": 32.0,
       "old_price": "25.00",
       "new_price": "16.99",
-      "timestamp": "2026-01-27T07:38:31.478343",
+      "timestamp": "2026-01-27T08:50:50.562577",
       "url": "https://www.condorcycles.com/products/pedaled-element-cap"
+    },
+    {
+      "site": "currys_com",
+      "product": "LG US77TY 3.1.3 Wireless Sound Bar with Dolby Atmos",
+      "percentage": 31.8,
+      "old_price": "109.99",
+      "new_price": "74.99",
+      "timestamp": "2026-01-27T10:26:30.623446",
+      "url": "https://www.currys.co.uk/products/10262666.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "PANASONIC LUMIX S 70-300mm f/4.5-5.6 MACRO O.I.S. Telep",
+      "percentage": 31.6,
+      "old_price": "37.99",
+      "new_price": "25.99",
+      "timestamp": "2026-01-27T09:55:27.606242",
+      "url": "https://www.currys.co.uk/products/10288266.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "ASUS GeForce RTX 5070 Ti 16 GB TUF Gaming OC Graphics C",
+      "percentage": 31.6,
+      "old_price": "18.99",
+      "new_price": "12.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10275046.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "VOGELS Comfort TVM 3625 Full Motion 40-77\" TV Bracket",
+      "percentage": 31.6,
+      "old_price": "18.99",
+      "new_price": "12.99",
+      "timestamp": "2026-01-27T09:08:08.524208",
+      "url": "https://www.currys.co.uk/products/10270984.html"
     },
     {
       "site": "johnlewis_com",
@@ -369,12 +876,57 @@
       "url": "https://www.johnlewis.com/amazon-echo-spot-2024-smart-alarm-clock-with-2-8-screen-alexa-voice-recognition-control/p112233048"
     },
     {
+      "site": "currys_com",
+      "product": "WEBB Eco WEV20PSB2 Cordless Pruner Chainsaw - Green & B",
+      "percentage": 31.3,
+      "old_price": "79.99",
+      "new_price": "54.99",
+      "timestamp": "2026-01-27T10:26:30.623446",
+      "url": "https://www.currys.co.uk/products/10265293.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "APPLE Refurbished iPhone 13 - 128 GB, Starlight (Good C",
+      "percentage": 31.3,
+      "old_price": "79.99",
+      "new_price": "54.99",
+      "timestamp": "2026-01-27T09:55:27.606242",
+      "url": "https://www.currys.co.uk/products/10263393.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "JBL Go Essential 2 Portable Bluetooth Speaker - Black",
+      "percentage": 31.3,
+      "old_price": "79.99",
+      "new_price": "54.99",
+      "timestamp": "2026-01-27T09:08:08.524208",
+      "url": "https://www.currys.co.uk/products/10275487.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "KENSINGTON SmartFit Easy Riser Go Laptop Cooling Stand",
+      "percentage": 31.0,
+      "old_price": "28.99",
+      "new_price": "19.99",
+      "timestamp": "2026-01-27T08:24:27.762656",
+      "url": "https://www.currys.co.uk/products/10210208.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "MOCCAMASTER KBGT 79414 Filter Coffee Machine - Off Whit",
+      "percentage": 30.9,
+      "old_price": "27.49",
+      "new_price": "18.99",
+      "timestamp": "2026-01-27T09:08:08.524208",
+      "url": "https://www.currys.co.uk/products/10293717.html"
+    },
+    {
       "site": "condorcycles_com",
       "product": "PEdALED Odyssey Alpha Cap",
       "percentage": 30.6,
       "old_price": "72.00",
       "new_price": "49.99",
-      "timestamp": "2026-01-27T07:38:31.478343",
+      "timestamp": "2026-01-27T08:50:50.562577",
       "url": "https://www.condorcycles.com/products/pedaled-odyssey-alpha-cap"
     },
     {
@@ -405,553 +957,13 @@
       "url": "https://www.flannels.com/tommy-hilfiger-kids-monotype-closed-hem-fleece-joggers-482587"
     },
     {
-      "site": "flannels_com",
-      "product": "PALM ANGELS - Logo-Print Touch-Strap Leather Sneakers Juniors",
-      "percentage": 29.7,
-      "old_price": "155.00",
-      "new_price": "109.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/palm-angels-logo-print-touch-strap-leather-sneakers-juniors-091806"
-    },
-    {
-      "site": "condorcycles_com",
-      "product": "PEdALED Element Waterproof Jacket",
-      "percentage": 29.6,
-      "old_price": "213.00",
-      "new_price": "149.99",
-      "timestamp": "2026-01-27T07:38:31.478343",
-      "url": "https://www.condorcycles.com/products/pedaled-element-waterproof-jacket"
-    },
-    {
-      "site": "condorcycles_com",
-      "product": "PEdALED Element Alpha® Gloves",
-      "percentage": 29.4,
-      "old_price": "85.00",
-      "new_price": "59.99",
-      "timestamp": "2026-01-27T07:38:31.478343",
-      "url": "https://www.condorcycles.com/products/pedaled-element-alpha-gloves-2025"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Steve Madden - Women's Adison Slip-On Cushioned Loafers",
-      "percentage": 29.4,
-      "old_price": "85.00",
-      "new_price": "60.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/steve-madden-womens-adison-slip-on-cushioned-loafers-230337"
-    },
-    {
-      "site": "condorcycles_com",
-      "product": "PEdALED Element Arm Warmers",
-      "percentage": 29.0,
-      "old_price": "38.00",
-      "new_price": "26.99",
-      "timestamp": "2026-01-27T07:38:31.478343",
-      "url": "https://www.condorcycles.com/products/pedaled-element-arm-warmers-fw24"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Petlibro Automatic Cat Feeder, 3L",
-      "percentage": 29.0,
-      "old_price": "69.00",
-      "new_price": "48.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/petlibro-automatic-cat-feeder-3l/p110138017"
-    },
-    {
-      "site": "flannels_com",
-      "product": "GANNI - Women's Jacquard Mini Dress",
-      "percentage": 28.7,
-      "old_price": "209.00",
-      "new_price": "149.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/ganni-womens-jacquard-mini-dress-654825"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Jamie Oliver by Tefal Carbon Steel Non-Stick Round Springform Cake Tin, Blue",
-      "percentage": 28.6,
-      "old_price": "16.80",
-      "new_price": "12.00",
-      "timestamp": "2026-01-27T04:38:15.093311",
-      "url": "https://www.johnlewis.com/jamie-oliver-by-tefal-carbon-steel-non-stick-round-springform-cake-tin-blue/p110504426"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Brabantia MindSet Toilet Accessories Set, Mineral Fresh White",
-      "percentage": 28.6,
-      "old_price": "63.00",
-      "new_price": "45.00",
-      "timestamp": "2026-01-27T04:38:15.093311",
-      "url": "https://www.johnlewis.com/brabantia-mindset-toilet-accessories-set-mineral-fresh-white/p112814918"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "New Balance Kids' 515 Lace Up Trainers, Pink",
-      "percentage": 28.6,
-      "old_price": "31.50",
-      "new_price": "22.50",
-      "timestamp": "2026-01-27T07:34:33.095347",
-      "url": "https://www.johnlewis.com/new-balance-kids-515-lace-up-trainers-pink/p113518601"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Amazon Fire TV Stick 4K Max (2nd Generation) Ultra HD Streaming Device with Alexa Voice Remote Enhanced & TV Guide with Live TV",
-      "percentage": 28.6,
-      "old_price": "69.99",
-      "new_price": "49.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-fire-tv-stick-4k-max-2nd-generation-ultra-hd-streaming-device-with-alexa-voice-remote-enhanced-tv-guide-with-live-tv/p113022459"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Polo Ralph Lauren - Logo Print Hoodie Junior",
-      "percentage": 28.6,
-      "old_price": "70.00",
-      "new_price": "50.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/polo-ralph-lauren-logo-print-hoodie-junior-530680"
-    },
-    {
-      "site": "flannels_com",
-      "product": "GANNI - Women's Organza Mini Dress",
-      "percentage": 28.6,
-      "old_price": "245.00",
-      "new_price": "175.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/ganni-womens-organza-mini-dress-654839"
-    },
-    {
-      "site": "flannels_com",
-      "product": "GANNI - Women's Smock Dress",
-      "percentage": 28.6,
-      "old_price": "175.00",
-      "new_price": "125.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/ganni-womens-smock-dress-654793"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Steve Madden - Women's Carleigh Heeled Mules",
-      "percentage": 28.6,
-      "old_price": "105.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/steve-madden-womens-carleigh-heeled-mules-230351"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Barbour - Womens Banbury Wellington Boots",
-      "percentage": 28.6,
-      "old_price": "42.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-27T04:45:41.906098",
-      "url": "https://www.flannels.com/womens-mid-height-wellington-boots-180143"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Dune London Emmelino Suede Trainers, Brown",
-      "percentage": 27.8,
-      "old_price": "90.00",
-      "new_price": "65.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/dune-london-emmelino-suede-trainers-brown/p114081502"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Dune London Patley Leather Chunky Lace Up Ankle Boots",
-      "percentage": 27.7,
-      "old_price": "159.00",
-      "new_price": "115.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/dune-london-patley-leather-chunky-lace-up-ankle-boots/p113947929"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Mars The Label - Women's Sculpt Maxi Dress",
-      "percentage": 27.7,
-      "old_price": "65.00",
-      "new_price": "47.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/mars-the-label-womens-sculpt-maxi-dress-650646"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Baby Einstein 4-in-1 Kickin' Tunes Music and Language Discovery Activity Gym",
-      "percentage": 26.7,
-      "old_price": "44.99",
-      "new_price": "32.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/baby-einstein-4-in-1-kickin-tunes-music-and-language-discovery-activity-gym/p3845072"
-    },
-    {
-      "site": "flannels_com",
-      "product": "BALMAIN - Embroidered Paris Sweatshirt Juniors",
-      "percentage": 26.4,
-      "old_price": "129.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/balmain-embroidered-paris-sweatshirt-juniors-526827"
-    },
-    {
-      "site": "condorcycles_com",
-      "product": "PEdALED Element Tights",
-      "percentage": 26.3,
-      "old_price": "190.00",
-      "new_price": "139.99",
-      "timestamp": "2026-01-27T07:38:31.478343",
-      "url": "https://www.condorcycles.com/products/pedaled-element-tights"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Coach - Lowline Luxe Sneakers",
-      "percentage": 26.1,
-      "old_price": "88.00",
-      "new_price": "65.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/coach-womens-lowline-luxe-leather-lace-up-low-top-trainers-244281"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Tommy Hilfiger - Harlow 1D Canvas Trainers",
-      "percentage": 25.8,
-      "old_price": "33.00",
-      "new_price": "24.50",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/tommy-hilfiger-mens-harlow-1d-canvas-lace-up-canvas-trainers-246078"
-    },
-    {
-      "site": "flannels_com",
-      "product": "AmyLynn - Women's  Structured Denim Blazer",
-      "percentage": 25.6,
-      "old_price": "39.00",
-      "new_price": "29.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/amylynn-womens--structured-denim-blazer-551258"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Boss - Men's BW Waffle Hoodie Texture Design",
-      "percentage": 25.6,
-      "old_price": "45.00",
-      "new_price": "33.50",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/boss-mens-waffle-over-the-head-hoodie-532930"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Hugo - Logo Label Hoodie",
-      "percentage": 25.5,
-      "old_price": "55.00",
-      "new_price": "41.00",
-      "timestamp": "2026-01-27T06:55:41.938061",
-      "url": "https://www.flannels.com/hugo-mens-logo-label-cotton-long-sleeve-hoodie-529292"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Nike - Stride Jacket",
-      "percentage": 25.3,
-      "old_price": "84.99",
-      "new_price": "63.50",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/nike-stride-jacket-454309"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Boss - Dressletic Loaf Bope 10227902 Derby Shoes Mens",
-      "percentage": 25.1,
-      "old_price": "215.00",
-      "new_price": "161.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/boss-mens-dressletic-loaf-bope-derby-shoes-112408"
-    },
-    {
-      "site": "condorcycles_com",
-      "product": "Koo Alibi Glasses",
-      "percentage": 25.0,
-      "old_price": "170.00",
-      "new_price": "127.50",
-      "timestamp": "2026-01-27T07:38:31.478343",
-      "url": "https://www.condorcycles.com/products/koo-alibi-glasses"
-    },
-    {
-      "site": "condorcycles_com",
-      "product": "Koo Demos Cycling Sunglasses",
-      "percentage": 25.0,
-      "old_price": "195.00",
-      "new_price": "146.25",
-      "timestamp": "2026-01-27T07:38:31.478343",
-      "url": "https://www.condorcycles.com/products/koo-demos-glasses"
-    },
-    {
-      "site": "condorcycles_com",
-      "product": "Koo Eyewear Cosmo Lifestyle Glasses",
-      "percentage": 25.0,
-      "old_price": "105.00",
-      "new_price": "78.75",
-      "timestamp": "2026-01-27T07:38:31.478343",
-      "url": "https://www.condorcycles.com/products/koo-eyewear-cosmo-lifestyle-glasses"
-    },
-    {
-      "site": "condorcycles_com",
-      "product": "Koo Eyewear Nova Glasses",
-      "percentage": 25.0,
-      "old_price": "189.00",
-      "new_price": "141.75",
-      "timestamp": "2026-01-27T07:38:31.478343",
-      "url": "https://www.condorcycles.com/products/koo-eyewear-nova-glasses"
-    },
-    {
-      "site": "condorcycles_com",
-      "product": "Koo Optical Clip",
-      "percentage": 25.0,
-      "old_price": "59.99",
-      "new_price": "44.99",
-      "timestamp": "2026-01-27T07:38:31.478343",
-      "url": "https://www.condorcycles.com/products/koo-optical-clip"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LEGO Wicked 75688 Glinda's Wedding Day Building Toy Set",
-      "percentage": 25.0,
-      "old_price": "34.99",
-      "new_price": "26.25",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/lego-wicked-75688-glindas-wedding-day-building-toy-set/p113656676"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tommy Hilfiger Pure Cotton Towelling Robe",
-      "percentage": 25.0,
-      "old_price": "120.00",
-      "new_price": "90.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tommy-hilfiger-pure-cotton-towelling-robe/p5245611"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Le Creuset Stoneware Butter Dish",
-      "percentage": 25.0,
-      "old_price": "45.00",
-      "new_price": "33.75",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/le-creuset-stoneware-butter-dish/p5065089"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Amazon Fire TV Stick HD (2024) Full HD Streaming Device with Alexa Voice Remote & TV Guide with Live TV",
-      "percentage": 25.0,
-      "old_price": "39.99",
-      "new_price": "29.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-fire-tv-stick-hd-2024-full-hd-streaming-device-with-alexa-voice-remote-tv-guide-with-live-tv/p112757859"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "AEG FFX52607ZW Freestanding Dishwasher, White",
-      "percentage": 25.0,
-      "old_price": "519.00",
-      "new_price": "389.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/aeg-ffx52607zw-freestanding-dishwasher-white/p111935294"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "AEG 8000 LF8E8436BI Integrated Washing Machine, 8kg Load, 1400rpm Spin, White",
-      "percentage": 25.0,
-      "old_price": "919.00",
-      "new_price": "689.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/aeg-8000-lf8e8436bi-integrated-washing-machine-8kg-load-1400rpm-spin-white/p110268970"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Reiss Kids' Eric Joggers, Grey Melange",
-      "percentage": 25.0,
-      "old_price": "20.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/reiss-kids-eric-joggers-grey-melange/p114355786"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "tonies Toniebox 2 Paw Patrol Play Set",
-      "percentage": 25.0,
-      "old_price": "119.99",
-      "new_price": "89.95",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tonies-toniebox-2-paw-patrol-play-set/p113997444"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "tonies Toniebox 2 Gabby's Dollhouse Cat Scavenger Hunt Tonieplay Game",
-      "percentage": 25.0,
-      "old_price": "19.99",
-      "new_price": "14.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tonies-toniebox-2-gabbys-dollhouse-cat-scavenger-hunt-tonieplay-game/p114221013"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Lacoste - Men's Basic Crew-Neck Sweatshirt",
-      "percentage": 25.0,
-      "old_price": "88.00",
-      "new_price": "66.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/lacoste-mens-small-croc-cotton-long-sleeve-crew-sweatshirt-528146"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Ted Baker - TB 3-Pack Logo Boxer Briefs Mens",
-      "percentage": 25.0,
-      "old_price": "20.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/ted-baker-mens-3-pack-logo-mid-rise-boxer-briefs-420382"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Boss - H-Delaware 10263385 02 Slim Fit Jeans Mens",
-      "percentage": 25.0,
-      "old_price": "70.00",
-      "new_price": "52.50",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/boss-h-delaware-10263385-02-slim-fit-jeans-mens-644639"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Societe Noir - Men's Scribble Fleece Jogger Shorts",
-      "percentage": 25.0,
-      "old_price": "20.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/societe-noir-mens-scribble-fleece-jogger-shorts-470967"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Pretty Lavish - Women's P Fern Off-Shoulder Bardot Mini Dress",
-      "percentage": 25.0,
-      "old_price": "20.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/pretty-lavish-womens-p-fern-off-shoulder-bardot-mini-dress-653790"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Hugo - Logo Hoodie",
-      "percentage": 25.0,
-      "old_price": "50.00",
-      "new_price": "37.50",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/hugo-logo-hoodie-534575"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Missoni - Men's Short Sleeve T-Shirt",
-      "percentage": 25.0,
-      "old_price": "100.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-27T06:55:41.938061",
-      "url": "https://www.flannels.com/missoni-mens-short-sleeve-t-shirt-594217"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Barbour International - Men's Inline Cotton Long Sleeve Overshirt",
-      "percentage": 25.0,
-      "old_price": "98.00",
-      "new_price": "73.50",
-      "timestamp": "2026-01-27T06:55:41.938061",
-      "url": "https://www.flannels.com/barbour-international-mens-inline-zip-through-hooded-cotton-long-sleeve-overshirt-547046"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "tonies Quizzlys Tonieplay Game",
-      "percentage": 24.8,
-      "old_price": "16.95",
-      "new_price": "12.74",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tonies-quizzlys-tonieplay-game/p114221014"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Berghaus Men's Trawd Synthetic Hydroloft Iinsulated Jacket, Jet Black",
-      "percentage": 23.1,
-      "old_price": "97.50",
-      "new_price": "75.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/berghaus-mens-trawd-synthetic-hydroloft-iinsulated-jacket-jet-black/p112019936"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LEGO Friends 42649 Heartlake City Sweet Shop",
-      "percentage": 21.7,
-      "old_price": "22.99",
-      "new_price": "17.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/lego-friends-42649-heartlake-city-sweet-shop/p112772662"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Petlibro Automatic Cordless Dual Pet Cat Feeder, Black",
-      "percentage": 21.4,
-      "old_price": "89.00",
+      "site": "currys_com",
+      "product": "HISENSE E6422SC 60 cm Electric Ceramic Hob - Black",
+      "percentage": 30.0,
+      "old_price": "99.99",
       "new_price": "69.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/petlibro-automatic-cordless-dual-pet-cat-feeder-black/p111502950"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Fisher-Price Little People Big ABC Animal Train Toy",
-      "percentage": 21.1,
-      "old_price": "37.99",
-      "new_price": "29.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/fisher-price-little-people-big-abc-animal-train-toy/p109096134"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Le Creuset Stoneware Egg Cup, Set of 6, Rainbow",
-      "percentage": 20.4,
-      "old_price": "59.00",
-      "new_price": "46.95",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/le-creuset-stoneware-egg-cup-set-of-6-rainbow/p113601097"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Dune London Paxten Suede Pointed Heeled Ankle Boots, Sand",
-      "percentage": 20.3,
-      "old_price": "79.00",
-      "new_price": "63.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/dune-london-paxten-suede-pointed-heeled-ankle-boots-sand/p112241804"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tutti Bambini Bola Ball Pit, Mushroom",
-      "percentage": 20.2,
-      "old_price": "99.00",
-      "new_price": "79.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tutti-bambini-bola-ball-pit-mushroom/p113521824"
-    },
-    {
-      "site": "flannels_com",
-      "product": "BALENCIAGA - Womens Logo T-Shirt",
-      "percentage": 20.2,
-      "old_price": "525.00",
-      "new_price": "419.00",
-      "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/balenciaga-womens-bal-back-dry-t-shirt-653212"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "HUGO BOSS BOSS The Scent Elixir Parfum Intense for Her",
-      "percentage": 20.0,
-      "old_price": "89.00",
-      "new_price": "71.20",
-      "timestamp": "2026-01-27T06:08:33.385914",
-      "url": "https://www.johnlewis.com/hugo-boss-boss-the-scent-elixir-parfum-intense-for-her/p112724981"
+      "timestamp": "2026-01-27T10:26:30.623446",
+      "url": "https://www.currys.co.uk/products/10272693.html"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T12:24:49.655939",
+  "generated_at": "2026-01-27T12:29:52.782135",
   "total_drops": 1050,
   "top_drops_shown": 100,
   "site_stats": [
@@ -72,7 +72,7 @@
       "old_price": "65.00",
       "new_price": "17.70",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -81,7 +81,7 @@
       "old_price": "105.00",
       "new_price": "31.50",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/john-lewis-palmer-leather-round-toe-chelsea-boots/p113908310"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -90,7 +90,7 @@
       "old_price": "65.00",
       "new_price": "19.50",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/john-lewis-straight-relaxed-leg-jean/p114103538"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -99,7 +99,7 @@
       "old_price": "59.00",
       "new_price": "17.70",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/john-lewis-regular-fit-linen-shirt/p6172177"
+      "url": null
     },
     {
       "site": "leaderonline_com",
@@ -108,7 +108,7 @@
       "old_price": "3.00",
       "new_price": "1.00",
       "timestamp": "2026-01-27T03:39:02.430383",
-      "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -117,7 +117,7 @@
       "old_price": "42.00",
       "new_price": "14.99",
       "timestamp": "2026-01-27T11:10:19.117336",
-      "url": "https://www.johnlewis.com/crocs-classic-clogs/p111547583"
+      "url": null
     },
     {
       "site": "twentytwentyone_com",
@@ -125,8 +125,8 @@
       "percentage": 62.7,
       "old_price": "2317.00",
       "new_price": "865.00",
-      "timestamp": "2026-01-27T12:24:19.241572",
-      "url": "https://www.twentytwentyone.com/products/asplund-claesson-koivisto-rune-vass-40-135-wall"
+      "timestamp": "2026-01-27T12:29:15.820303",
+      "url": null
     },
     {
       "site": "currys_com",
@@ -135,7 +135,7 @@
       "old_price": "79.99",
       "new_price": "29.99",
       "timestamp": "2026-01-27T02:55:42.536171",
-      "url": "https://www.currys.co.uk/products/10262823.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -144,7 +144,7 @@
       "old_price": "79.99",
       "new_price": "29.99",
       "timestamp": "2026-01-27T02:55:42.536171",
-      "url": "https://www.currys.co.uk/products/10287536.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -153,7 +153,7 @@
       "old_price": "89.99",
       "new_price": "35.00",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10260547.html"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -162,7 +162,7 @@
       "old_price": "49.99",
       "new_price": "19.99",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/the-gruffalo-plush-soft-toy/p230652259"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -171,7 +171,7 @@
       "old_price": "21.99",
       "new_price": "9.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10278148.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -180,7 +180,7 @@
       "old_price": "179.99",
       "new_price": "84.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10260844.html"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -189,7 +189,7 @@
       "old_price": "100.00",
       "new_price": "48.00",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/levis-501-cropped-jeans/p112906802"
+      "url": null
     },
     {
       "site": "ukbabycentre_com",
@@ -198,7 +198,7 @@
       "old_price": "59.00",
       "new_price": "29.00",
       "timestamp": "2026-01-27T11:38:34.349989",
-      "url": "https://ukbabycentre.com/products/bugaboo-fox-5-sun-canopy-grey-melange"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -207,7 +207,7 @@
       "old_price": "74.99",
       "new_price": "36.99",
       "timestamp": "2026-01-27T09:55:27.606242",
-      "url": "https://www.currys.co.uk/products/10267186.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -216,7 +216,7 @@
       "old_price": "74.99",
       "new_price": "36.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10289233.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -225,7 +225,7 @@
       "old_price": "9.99",
       "new_price": "4.99",
       "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10282441.html"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -234,7 +234,7 @@
       "old_price": "40.00",
       "new_price": "20.00",
       "timestamp": "2026-01-27T11:10:19.117336",
-      "url": "https://www.johnlewis.com/john-lewis-rib-weave-cushion/p111891232"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -243,7 +243,7 @@
       "old_price": "45.00",
       "new_price": "22.50",
       "timestamp": "2026-01-27T11:10:19.117336",
-      "url": "https://www.johnlewis.com/john-lewis-luce-textured-cushion/p112399300"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -252,7 +252,7 @@
       "old_price": "18.00",
       "new_price": "9.00",
       "timestamp": "2026-01-27T11:10:19.117336",
-      "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -261,7 +261,7 @@
       "old_price": "65.00",
       "new_price": "32.50",
       "timestamp": "2026-01-27T11:10:19.117336",
-      "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -270,7 +270,7 @@
       "old_price": "100.00",
       "new_price": "50.00",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/berghaus-explorer-backpack-25l-jet-black/p112960890"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -279,7 +279,7 @@
       "old_price": "43.00",
       "new_price": "21.50",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/le-creuset-classic-pepper-mill/p5067050"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -288,7 +288,7 @@
       "old_price": "39.00",
       "new_price": "19.50",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/john-lewis-v-neck-merino-wool-sleeveless-jumper/p113744926"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -297,7 +297,7 @@
       "old_price": "60.00",
       "new_price": "30.00",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/john-lewis-egyptian-cotton-unisex-bath-robe/p111801685"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -306,7 +306,7 @@
       "old_price": "44.00",
       "new_price": "22.00",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/falke-soft-merino-wool-blend-opaque-tights/p3111060"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -315,7 +315,7 @@
       "old_price": "159.99",
       "new_price": "79.99",
       "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/11267649.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -324,7 +324,7 @@
       "old_price": "59.99",
       "new_price": "29.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10256608.html"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -333,7 +333,7 @@
       "old_price": "41.00",
       "new_price": "21.50",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/le-creuset-classic-salt-mill/p5065295"
+      "url": null
     },
     {
       "site": "twentytwentyone_com",
@@ -341,8 +341,8 @@
       "percentage": 47.1,
       "old_price": "170.00",
       "new_price": "90.00",
-      "timestamp": "2026-01-27T12:24:19.241572",
-      "url": "https://www.twentytwentyone.com/products/barber-osgerby-frame"
+      "timestamp": "2026-01-27T12:29:15.820303",
+      "url": null
     },
     {
       "site": "currys_com",
@@ -351,7 +351,7 @@
       "old_price": "999.00",
       "new_price": "529.99",
       "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10275076.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -360,7 +360,7 @@
       "old_price": "29.99",
       "new_price": "16.99",
       "timestamp": "2026-01-27T09:55:27.606242",
-      "url": "https://www.currys.co.uk/products/10265461.html"
+      "url": null
     },
     {
       "site": "twentytwentyone_com",
@@ -368,8 +368,8 @@
       "percentage": 43.1,
       "old_price": "181.00",
       "new_price": "103.00",
-      "timestamp": "2026-01-27T12:24:19.241572",
-      "url": "https://www.twentytwentyone.com/products/little-architect-desk-ex-display"
+      "timestamp": "2026-01-27T12:29:15.820303",
+      "url": null
     },
     {
       "site": "currys_com",
@@ -378,7 +378,7 @@
       "old_price": "27.99",
       "new_price": "15.99",
       "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10270746.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -387,7 +387,7 @@
       "old_price": "39.99",
       "new_price": "22.99",
       "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10279058.html"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -396,7 +396,7 @@
       "old_price": "169.00",
       "new_price": "99.00",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/kg-kurt-geiger-trekker-cuff-ankle-boots-black/p113823084"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -405,7 +405,7 @@
       "old_price": "169.99",
       "new_price": "99.99",
       "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10293168.html"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -414,7 +414,7 @@
       "old_price": "2.50",
       "new_price": "1.50",
       "timestamp": "2026-01-27T05:25:04.264965",
-      "url": "https://www.johnlewis.com/john-lewis-essential-soap-dispenser-white/p111485688"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -423,7 +423,7 @@
       "old_price": "7.50",
       "new_price": "4.50",
       "timestamp": "2026-01-27T05:25:04.264965",
-      "url": "https://www.johnlewis.com/john-lewis-sand-effect-soap-dispenser-white/p110486377"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -432,7 +432,7 @@
       "old_price": "7.50",
       "new_price": "4.50",
       "timestamp": "2026-01-27T05:25:04.264965",
-      "url": "https://www.johnlewis.com/john-lewis-diamond-toothbrush-holder-black/p110486375"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -441,7 +441,7 @@
       "old_price": "6.00",
       "new_price": "3.60",
       "timestamp": "2026-01-27T05:25:04.264965",
-      "url": "https://www.johnlewis.com/john-lewis-sand-effect-bathroom-tumbler-white/p110486379"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -450,7 +450,7 @@
       "old_price": "99.99",
       "new_price": "59.99",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-echo-show-5-3rd-gen-kids-smart-speaker-with-5-5-inch-screen-alexa-voice-recognition-parental-controls-galaxy/p110582032"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -459,7 +459,7 @@
       "old_price": "99.00",
       "new_price": "59.40",
       "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/john-lewis-cashmere-crew-neck-cardigan/p113835623"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -468,7 +468,7 @@
       "old_price": "99.99",
       "new_price": "59.99",
       "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10291064.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -477,7 +477,7 @@
       "old_price": "44.99",
       "new_price": "26.99",
       "timestamp": "2026-01-27T09:08:08.524208",
-      "url": "https://www.currys.co.uk/products/10257022.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -486,7 +486,7 @@
       "old_price": "24.99",
       "new_price": "14.99",
       "timestamp": "2026-01-27T09:08:08.524208",
-      "url": "https://www.currys.co.uk/products/10285436.html"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -495,7 +495,7 @@
       "old_price": "29.95",
       "new_price": "18.00",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/barbour-dog-waxed-flat-cap-green-olive/p113937503"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -504,7 +504,7 @@
       "old_price": "19.00",
       "new_price": "11.50",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/speedo-essentials-16-inch-swim-shorts/p5167925"
+      "url": null
     },
     {
       "site": "flannels_com",
@@ -513,7 +513,7 @@
       "old_price": "289.00",
       "new_price": "175.00",
       "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/off-white-womens-satin-pyjama-crop-shirt-658052"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -522,7 +522,7 @@
       "old_price": "32.99",
       "new_price": "19.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10255354.html"
+      "url": null
     },
     {
       "site": "flannels_com",
@@ -531,7 +531,7 @@
       "old_price": "139.00",
       "new_price": "85.00",
       "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/adidas-womens-full-zip-soft-fleece-jacket-660586"
+      "url": null
     },
     {
       "site": "flannels_com",
@@ -540,7 +540,7 @@
       "old_price": "139.99",
       "new_price": "86.00",
       "timestamp": "2026-01-27T04:45:41.906098",
-      "url": "https://www.flannels.com/nike-vomero-18-mens-running-shoes-211531"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -549,7 +549,7 @@
       "old_price": "64.99",
       "new_price": "39.99",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-echo-dot-kids-smart-speaker-with-alexa-voice-recognition-parental-controls-5th-generation-2022/p109610442"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -558,7 +558,7 @@
       "old_price": "64.99",
       "new_price": "39.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10235193.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -567,7 +567,7 @@
       "old_price": "64.99",
       "new_price": "39.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10271313.html"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -576,7 +576,7 @@
       "old_price": "299.00",
       "new_price": "185.00",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/theragun-prime-by-therabody-5th-generation-quiet-deep-tissue-therapy-massage-gun/p111637297"
+      "url": null
     },
     {
       "site": "twentytwentyone_com",
@@ -584,8 +584,8 @@
       "percentage": 37.9,
       "old_price": "190.00",
       "new_price": "118.00",
-      "timestamp": "2026-01-27T12:24:19.241572",
-      "url": "https://www.twentytwentyone.com/products/tom-dixon-spot-surface-orbound"
+      "timestamp": "2026-01-27T12:29:15.820303",
+      "url": null
     },
     {
       "site": "currys_com",
@@ -594,7 +594,7 @@
       "old_price": "28.99",
       "new_price": "17.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10265460.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -603,7 +603,7 @@
       "old_price": "28.99",
       "new_price": "17.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10265462.html"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -612,7 +612,7 @@
       "old_price": "44.00",
       "new_price": "27.50",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/levis-xx-chino-shorts/p112905193"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -621,7 +621,7 @@
       "old_price": "39.99",
       "new_price": "24.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10196850.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -630,7 +630,7 @@
       "old_price": "80.00",
       "new_price": "50.00",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10288885.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -639,7 +639,7 @@
       "old_price": "120.00",
       "new_price": "74.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10156995.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -648,7 +648,7 @@
       "old_price": "69.99",
       "new_price": "43.99",
       "timestamp": "2026-01-27T02:10:20.651546",
-      "url": "https://www.currys.co.uk/products/10271044.html"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -657,7 +657,7 @@
       "old_price": "31.00",
       "new_price": "19.60",
       "timestamp": "2026-01-27T11:10:19.117336",
-      "url": "https://www.johnlewis.com/travalo-milano-refillable-perfume-atomiser-spray/p3139891"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -666,7 +666,7 @@
       "old_price": "150.00",
       "new_price": "95.00",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10286340.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -675,7 +675,7 @@
       "old_price": "150.00",
       "new_price": "95.00",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10283554.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -684,7 +684,7 @@
       "old_price": "150.00",
       "new_price": "95.00",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10182430.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -693,7 +693,7 @@
       "old_price": "150.00",
       "new_price": "95.00",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10250066.html"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -702,7 +702,7 @@
       "old_price": "49.99",
       "new_price": "31.99",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-fire-tv-stick-4k-select-2025-ultra-hd-streaming-device-with-alexa-voice-remote-enhanced-tv-guide-with-live-tv/p114416983"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -711,7 +711,7 @@
       "old_price": "49.99",
       "new_price": "31.99",
       "timestamp": "2026-01-27T09:08:08.524208",
-      "url": "https://www.currys.co.uk/products/10202404.html"
+      "url": null
     },
     {
       "site": "ukbabycentre_com",
@@ -720,7 +720,7 @@
       "old_price": "39.00",
       "new_price": "25.00",
       "timestamp": "2026-01-27T11:38:34.349989",
-      "url": "https://ukbabycentre.com/products/bugaboo-dragonfly-sun-canopy-skyline-blue"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -729,7 +729,7 @@
       "old_price": "72.99",
       "new_price": "46.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10273503.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -738,7 +738,7 @@
       "old_price": "169.00",
       "new_price": "109.00",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10252934.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -747,7 +747,7 @@
       "old_price": "16.99",
       "new_price": "10.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10283815.html"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -756,7 +756,7 @@
       "old_price": "129.00",
       "new_price": "83.85",
       "timestamp": "2026-01-27T09:43:28.321029",
-      "url": "https://www.johnlewis.com/polo-ralph-lauren-cotton-regular-fit-oxford-shirt-classic-camel-heather/p114419361"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -765,7 +765,7 @@
       "old_price": "19.99",
       "new_price": "12.99",
       "timestamp": "2026-01-27T09:55:27.606242",
-      "url": "https://www.currys.co.uk/products/10262991.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -774,7 +774,7 @@
       "old_price": "19.99",
       "new_price": "12.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10205798.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -783,7 +783,7 @@
       "old_price": "289.00",
       "new_price": "190.00",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10160537.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -792,7 +792,7 @@
       "old_price": "114.00",
       "new_price": "74.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10237313.html"
+      "url": null
     },
     {
       "site": "flannels_com",
@@ -801,7 +801,7 @@
       "old_price": "225.00",
       "new_price": "149.00",
       "timestamp": "2026-01-27T06:55:41.938061",
-      "url": "https://www.flannels.com/balenciaga-mens-classic-lace-up-derby-shoes-112027"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -810,7 +810,7 @@
       "old_price": "119.00",
       "new_price": "79.00",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/carvela-tempt-wide-fit-heeled-ankle-boots-black/p113964979"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -819,7 +819,7 @@
       "old_price": "749.00",
       "new_price": "499.00",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10247551.html"
+      "url": null
     },
     {
       "site": "condorcycles_com",
@@ -828,7 +828,7 @@
       "old_price": "75.00",
       "new_price": "49.99",
       "timestamp": "2026-01-27T08:50:50.562577",
-      "url": "https://www.condorcycles.com/products/pedaled-element-merino-base-layer"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -837,7 +837,7 @@
       "old_price": "6.00",
       "new_price": "4.00",
       "timestamp": "2026-01-27T04:38:15.093311",
-      "url": "https://www.johnlewis.com/john-lewis-cheerful-yellow-flower-stoneware-mug-380ml-blue/p113396988"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -846,7 +846,7 @@
       "old_price": "59.99",
       "new_price": "39.99",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-fire-tv-stick-4k-2024-ultra-hd-streaming-device-with-alexa-voice-remote-tv-guide-with-live-tv/p112757860"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -855,7 +855,7 @@
       "old_price": "89.99",
       "new_price": "59.99",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-echo-show-5-3rd-gen-smart-speaker-with-5-5-inch-screen-alexa-voice-recognition-control/p110556129"
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -864,7 +864,7 @@
       "old_price": "44.99",
       "new_price": "29.99",
       "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-echo-pop-smart-speaker-with-alexa-voice-recognition-control/p110556133"
+      "url": null
     },
     {
       "site": "twentytwentyone_com",
@@ -872,8 +872,8 @@
       "percentage": 33.3,
       "old_price": "36.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-27T12:24:19.241572",
-      "url": "https://www.twentytwentyone.com/products/ichendorf-milano-corrado-dotti-cilandro-olive-oil-bottle"
+      "timestamp": "2026-01-27T12:29:15.820303",
+      "url": null
     },
     {
       "site": "flannels_com",
@@ -882,7 +882,7 @@
       "old_price": "67.50",
       "new_price": "45.00",
       "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/yeezy-mens-500-leather-adiprene--cushioning-desert-boots-114731"
+      "url": null
     },
     {
       "site": "flannels_com",
@@ -891,7 +891,7 @@
       "old_price": "42.00",
       "new_price": "28.00",
       "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/new-balance-991-v1-trainers-105348"
+      "url": null
     },
     {
       "site": "flannels_com",
@@ -900,7 +900,7 @@
       "old_price": "72.00",
       "new_price": "48.00",
       "timestamp": "2026-01-27T02:34:36.919057",
-      "url": "https://www.flannels.com/boss-womens-milie-sandal-flat-sandals-230959"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -909,7 +909,7 @@
       "old_price": "44.99",
       "new_price": "29.99",
       "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10217393.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -918,7 +918,7 @@
       "old_price": "89.99",
       "new_price": "59.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10194452.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -927,7 +927,7 @@
       "old_price": "89.99",
       "new_price": "59.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10292614.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -936,7 +936,7 @@
       "old_price": "29.99",
       "new_price": "19.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10260370.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -945,7 +945,7 @@
       "old_price": "29.99",
       "new_price": "19.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10259698.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -954,7 +954,7 @@
       "old_price": "44.99",
       "new_price": "29.99",
       "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10293601.html"
+      "url": null
     },
     {
       "site": "currys_com",
@@ -963,7 +963,7 @@
       "old_price": "89.99",
       "new_price": "59.99",
       "timestamp": "2026-01-27T09:08:08.524208",
-      "url": "https://www.currys.co.uk/products/10290136.html"
+      "url": null
     }
   ]
 }

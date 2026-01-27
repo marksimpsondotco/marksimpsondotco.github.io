@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T18:05:29.385000",
-  "total_drops": 1244,
+  "generated_at": "2026-01-27T18:10:39.711710",
+  "total_drops": 1245,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "site": "hauslondon_com",
-      "count": 82,
+      "count": 83,
       "max_drop": 15.4,
-      "total_savings": 11795.0
+      "total_savings": 11820.0
     },
     {
       "site": "percivalclo_com",

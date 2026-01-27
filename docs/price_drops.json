@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-27T16:37:02.456938",
-  "total_drops": 1138,
+  "generated_at": "2026-01-27T16:42:10.757424",
+  "total_drops": 1144,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 244,
+      "count": 250,
       "max_drop": 74.2,
-      "total_savings": 6810.8
+      "total_savings": 7265.6
     },
     {
       "site": "leaderonline_com",
@@ -103,6 +103,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Reiss Gable Single Breasted Wool Blend Coat",
+      "percentage": 70.1,
+      "old_price": "328.00",
+      "new_price": "98.00",
+      "timestamp": "2026-01-27T16:42:03.991428",
+      "url": "https://www.johnlewis.com/reiss-gable-single-breasted-wool-blend-coat/p114285714"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Olive Leather Block Heel Ankle Boots",
       "percentage": 70.0,
       "old_price": "99.00",
@@ -152,8 +161,17 @@
       "percentage": 70.0,
       "old_price": "125.00",
       "new_price": "37.50",
-      "timestamp": "2026-01-27T16:36:55.451620",
+      "timestamp": "2026-01-27T16:42:03.991428",
       "url": "https://www.johnlewis.com/john-lewis-portland-leather-zip-front-flatform-ankle-boots/p114401574"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Helm Suede High Vamp Ballerina Pumps",
+      "percentage": 70.0,
+      "old_price": "69.00",
+      "new_price": "20.70",
+      "timestamp": "2026-01-27T16:42:03.991428",
+      "url": "https://www.johnlewis.com/john-lewis-helm-suede-high-vamp-ballerina-pumps/p113907299"
     },
     {
       "site": "johnlewis_com",
@@ -325,6 +343,15 @@
       "new_price": "48.00",
       "timestamp": "2026-01-27T15:38:57.098840",
       "url": "https://www.johnlewis.com/reiss-blackhall-funnel-neck-merino-wool-jumper/p5519859"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Reiss Petite Gabi Slim Fit Suit Trousers",
+      "percentage": 51.0,
+      "old_price": "98.00",
+      "new_price": "48.00",
+      "timestamp": "2026-01-27T16:42:03.991428",
+      "url": "https://www.johnlewis.com/reiss-petite-gabi-slim-fit-suit-trousers/p111648116"
     },
     {
       "site": "ukbabycentre_com",
@@ -532,6 +559,24 @@
       "new_price": "22.00",
       "timestamp": "2026-01-27T11:54:59.934845",
       "url": "https://www.johnlewis.com/falke-soft-merino-wool-blend-opaque-tights/p3111060"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Elevated Triple Tote Bag, Black",
+      "percentage": 50.0,
+      "old_price": "85.00",
+      "new_price": "42.50",
+      "timestamp": "2026-01-27T16:42:03.991428",
+      "url": "https://www.johnlewis.com/john-lewis-elevated-triple-tote-bag-black/p114013277"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Radley Pockets Medium Crossbody Bag",
+      "percentage": 50.0,
+      "old_price": "159.00",
+      "new_price": "79.50",
+      "timestamp": "2026-01-27T16:42:03.991428",
+      "url": "https://www.johnlewis.com/radley-pockets-medium-crossbody-bag/p113917144"
     },
     {
       "site": "currys_com",
@@ -937,51 +982,6 @@
       "new_price": "95.00",
       "timestamp": "2026-01-27T08:24:27.762656",
       "url": "https://www.currys.co.uk/products/10283554.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "TEFAL Oleoclean Compact FR701640 Deep Fryer - Stainless",
-      "percentage": 36.7,
-      "old_price": "150.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10182430.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "REVAMP Steamcare Ceramic Hair Straightener - Black",
-      "percentage": 36.7,
-      "old_price": "150.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10250066.html"
-    },
-    {
-      "site": "flannels_com",
-      "product": "AmyLynn - AmyLynn Jhnna Fl Tp Ld99",
-      "percentage": 36.4,
-      "old_price": "22.00",
-      "new_price": "14.00",
-      "timestamp": "2026-01-27T16:36:56.066161",
-      "url": "https://www.flannels.com/amylynn-amylynn-jhnna-fl-tp-ld99-336463"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Amazon Fire TV Stick 4K Select (2025) Ultra HD Streaming Device with Alexa Voice Remote Enhanced & TV Guide with Live TV",
-      "percentage": 36.0,
-      "old_price": "49.99",
-      "new_price": "31.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/amazon-fire-tv-stick-4k-select-2025-ultra-hd-streaming-device-with-alexa-voice-remote-enhanced-tv-guide-with-live-tv/p114416983"
-    },
-    {
-      "site": "currys_com",
-      "product": "NINJA HB150UK Hot & Cold Blender & Soup Maker - Black",
-      "percentage": 36.0,
-      "old_price": "49.99",
-      "new_price": "31.99",
-      "timestamp": "2026-01-27T09:08:08.524208",
-      "url": "https://www.currys.co.uk/products/10202404.html"
     }
   ]
 }

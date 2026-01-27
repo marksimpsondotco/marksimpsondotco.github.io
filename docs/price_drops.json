@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-27T16:52:39.147923",
-  "total_drops": 1144,
+  "generated_at": "2026-01-27T16:57:53.053721",
+  "total_drops": 1149,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 250,
+      "count": 255,
       "max_drop": 74.2,
-      "total_savings": 7265.6
+      "total_savings": 7287.5
     },
     {
       "site": "leaderonline_com",
@@ -107,7 +107,7 @@
       "percentage": 70.1,
       "old_price": "328.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-27T16:52:33.202848",
+      "timestamp": "2026-01-27T16:57:44.833360",
       "url": "https://www.johnlewis.com/reiss-gable-single-breasted-wool-blend-coat/p114285714"
     },
     {
@@ -161,7 +161,7 @@
       "percentage": 70.0,
       "old_price": "125.00",
       "new_price": "37.50",
-      "timestamp": "2026-01-27T16:52:33.202848",
+      "timestamp": "2026-01-27T16:57:44.833360",
       "url": "https://www.johnlewis.com/john-lewis-portland-leather-zip-front-flatform-ankle-boots/p114401574"
     },
     {
@@ -170,7 +170,7 @@
       "percentage": 70.0,
       "old_price": "69.00",
       "new_price": "20.70",
-      "timestamp": "2026-01-27T16:52:33.202848",
+      "timestamp": "2026-01-27T16:57:44.833360",
       "url": "https://www.johnlewis.com/john-lewis-helm-suede-high-vamp-ballerina-pumps/p113907299"
     },
     {
@@ -350,7 +350,7 @@
       "percentage": 51.0,
       "old_price": "98.00",
       "new_price": "48.00",
-      "timestamp": "2026-01-27T16:52:33.202848",
+      "timestamp": "2026-01-27T16:57:44.833360",
       "url": "https://www.johnlewis.com/reiss-petite-gabi-slim-fit-suit-trousers/p111648116"
     },
     {
@@ -360,7 +360,7 @@
       "old_price": "59.00",
       "new_price": "29.00",
       "timestamp": "2026-01-27T11:38:34.349989",
-      "url": null
+      "url": "https://ukbabycentre.com/products/bugaboo-fox-5-sun-canopy-grey-melange"
     },
     {
       "site": "currys_com",
@@ -566,7 +566,7 @@
       "percentage": 50.0,
       "old_price": "85.00",
       "new_price": "42.50",
-      "timestamp": "2026-01-27T16:52:33.202848",
+      "timestamp": "2026-01-27T16:57:44.833360",
       "url": "https://www.johnlewis.com/john-lewis-elevated-triple-tote-bag-black/p114013277"
     },
     {
@@ -575,7 +575,7 @@
       "percentage": 50.0,
       "old_price": "159.00",
       "new_price": "79.50",
-      "timestamp": "2026-01-27T16:52:33.202848",
+      "timestamp": "2026-01-27T16:57:44.833360",
       "url": "https://www.johnlewis.com/radley-pockets-medium-crossbody-bag/p113917144"
     },
     {

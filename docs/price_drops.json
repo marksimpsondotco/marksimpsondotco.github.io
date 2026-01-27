@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T17:08:19.824416",
-  "total_drops": 1155,
+  "generated_at": "2026-01-27T17:13:27.901335",
+  "total_drops": 1159,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 56,
+      "count": 60,
       "max_drop": 39.4,
-      "total_savings": 1665.98
+      "total_savings": 1701.98
     },
     {
       "site": "condorcycles_com",
@@ -107,7 +107,7 @@
       "percentage": 70.1,
       "old_price": "328.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-27T17:08:13.952047",
+      "timestamp": "2026-01-27T17:11:03.408025",
       "url": "https://www.johnlewis.com/reiss-gable-single-breasted-wool-blend-coat/p114285714"
     },
     {
@@ -161,7 +161,7 @@
       "percentage": 70.0,
       "old_price": "125.00",
       "new_price": "37.50",
-      "timestamp": "2026-01-27T17:08:13.952047",
+      "timestamp": "2026-01-27T17:11:03.408025",
       "url": "https://www.johnlewis.com/john-lewis-portland-leather-zip-front-flatform-ankle-boots/p114401574"
     },
     {
@@ -170,7 +170,7 @@
       "percentage": 70.0,
       "old_price": "69.00",
       "new_price": "20.70",
-      "timestamp": "2026-01-27T17:08:13.952047",
+      "timestamp": "2026-01-27T17:11:03.408025",
       "url": "https://www.johnlewis.com/john-lewis-helm-suede-high-vamp-ballerina-pumps/p113907299"
     },
     {
@@ -188,7 +188,7 @@
       "percentage": 69.2,
       "old_price": "65.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-27T17:08:13.952047",
+      "timestamp": "2026-01-27T17:11:03.408025",
       "url": "https://www.johnlewis.com/sweaty-betty-breathe-easy-long-sleeve-top/p6015575"
     },
     {
@@ -359,7 +359,7 @@
       "percentage": 51.0,
       "old_price": "98.00",
       "new_price": "48.00",
-      "timestamp": "2026-01-27T17:08:13.952047",
+      "timestamp": "2026-01-27T17:11:03.408025",
       "url": "https://www.johnlewis.com/reiss-petite-gabi-slim-fit-suit-trousers/p111648116"
     },
     {
@@ -575,7 +575,7 @@
       "percentage": 50.0,
       "old_price": "85.00",
       "new_price": "42.50",
-      "timestamp": "2026-01-27T17:08:13.952047",
+      "timestamp": "2026-01-27T17:11:03.408025",
       "url": "https://www.johnlewis.com/john-lewis-elevated-triple-tote-bag-black/p114013277"
     },
     {
@@ -584,7 +584,7 @@
       "percentage": 50.0,
       "old_price": "159.00",
       "new_price": "79.50",
-      "timestamp": "2026-01-27T17:08:13.952047",
+      "timestamp": "2026-01-27T17:11:03.408025",
       "url": "https://www.johnlewis.com/radley-pockets-medium-crossbody-bag/p113917144"
     },
     {
@@ -593,7 +593,7 @@
       "percentage": 50.0,
       "old_price": "55.00",
       "new_price": "27.50",
-      "timestamp": "2026-01-27T17:08:13.952047",
+      "timestamp": "2026-01-27T17:11:03.408025",
       "url": "https://www.johnlewis.com/sweaty-betty-breathe-easy-mesh-t-shirt/p113791097"
     },
     {
@@ -674,7 +674,7 @@
       "percentage": 42.8,
       "old_price": "68.50",
       "new_price": "39.20",
-      "timestamp": "2026-01-27T17:08:13.952047",
+      "timestamp": "2026-01-27T17:11:03.408025",
       "url": "https://www.johnlewis.com/sweaty-betty-anytime-explorer-zip-up-jacket-navy-blue/p113083651"
     },
     {

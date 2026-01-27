@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T01:23:58.010866",
-  "total_drops": 160,
+  "generated_at": "2026-01-27T01:29:00.756124",
+  "total_drops": 163,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 11,
+      "count": 14,
       "max_drop": 29.7,
-      "total_savings": 223.5
+      "total_savings": 268.99
     },
     {
       "site": "garrard_com",
@@ -179,7 +179,7 @@
       "percentage": 29.7,
       "old_price": "155.00",
       "new_price": "109.00",
-      "timestamp": "2026-01-27T01:23:57.345268",
+      "timestamp": "2026-01-27T01:28:56.496686",
       "url": "https://www.flannels.com/palm-angels-logo-print-touch-strap-leather-sneakers-juniors-091806"
     },
     {
@@ -206,7 +206,7 @@
       "percentage": 28.6,
       "old_price": "70.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-27T01:23:57.345268",
+      "timestamp": "2026-01-27T01:28:56.496686",
       "url": "https://www.flannels.com/polo-ralph-lauren-logo-print-hoodie-junior-530680"
     },
     {
@@ -242,7 +242,7 @@
       "percentage": 26.4,
       "old_price": "129.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-27T01:23:57.345268",
+      "timestamp": "2026-01-27T01:28:56.496686",
       "url": "https://www.flannels.com/balmain-embroidered-paris-sweatshirt-juniors-526827"
     },
     {
@@ -251,8 +251,26 @@
       "percentage": 25.6,
       "old_price": "39.00",
       "new_price": "29.00",
-      "timestamp": "2026-01-27T01:23:57.345268",
+      "timestamp": "2026-01-27T01:28:56.496686",
       "url": "https://www.flannels.com/amylynn-womens--structured-denim-blazer-551258"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Boss - Men's BW Waffle Hoodie Texture Design",
+      "percentage": 25.6,
+      "old_price": "45.00",
+      "new_price": "33.50",
+      "timestamp": "2026-01-27T01:28:56.496686",
+      "url": "https://www.flannels.com/boss-mens-waffle-over-the-head-hoodie-532930"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Nike - Stride Jacket",
+      "percentage": 25.3,
+      "old_price": "84.99",
+      "new_price": "63.50",
+      "timestamp": "2026-01-27T01:28:56.496686",
+      "url": "https://www.flannels.com/nike-stride-jacket-454309"
     },
     {
       "site": "flannels_com",
@@ -260,7 +278,7 @@
       "percentage": 25.1,
       "old_price": "215.00",
       "new_price": "161.00",
-      "timestamp": "2026-01-27T01:23:57.345268",
+      "timestamp": "2026-01-27T01:28:56.496686",
       "url": "https://www.flannels.com/boss-mens-dressletic-loaf-bope-derby-shoes-112408"
     },
     {
@@ -350,7 +368,7 @@
       "percentage": 25.0,
       "old_price": "88.00",
       "new_price": "66.00",
-      "timestamp": "2026-01-27T01:23:57.345268",
+      "timestamp": "2026-01-27T01:28:56.496686",
       "url": "https://www.flannels.com/lacoste-mens-small-croc-cotton-long-sleeve-crew-sweatshirt-528146"
     },
     {
@@ -359,7 +377,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T01:23:57.345268",
+      "timestamp": "2026-01-27T01:28:56.496686",
       "url": "https://www.flannels.com/ted-baker-mens-3-pack-logo-mid-rise-boxer-briefs-420382"
     },
     {
@@ -368,7 +386,7 @@
       "percentage": 25.0,
       "old_price": "70.00",
       "new_price": "52.50",
-      "timestamp": "2026-01-27T01:23:57.345268",
+      "timestamp": "2026-01-27T01:28:56.496686",
       "url": "https://www.flannels.com/boss-h-delaware-10263385-02-slim-fit-jeans-mens-644639"
     },
     {
@@ -377,7 +395,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T01:23:57.345268",
+      "timestamp": "2026-01-27T01:28:56.496686",
       "url": "https://www.flannels.com/societe-noir-mens-scribble-fleece-jogger-shorts-470967"
     },
     {
@@ -386,8 +404,17 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T01:23:57.345268",
+      "timestamp": "2026-01-27T01:28:56.496686",
       "url": "https://www.flannels.com/pretty-lavish-womens-p-fern-off-shoulder-bardot-mini-dress-653790"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Hugo - Logo Hoodie",
+      "percentage": 25.0,
+      "old_price": "50.00",
+      "new_price": "37.50",
+      "timestamp": "2026-01-27T01:28:56.496686",
+      "url": "https://www.flannels.com/hugo-logo-hoodie-534575"
     },
     {
       "site": "johnlewis_com",
@@ -901,33 +928,6 @@
       "new_price": "66.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/sony-wh-ch720-noise-cancelling-bluetooth-wireless-over-ear-headphones-with-mic-remote/p110194491"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LEGO Icons 10302 Optimus Prime",
-      "percentage": 9.4,
-      "old_price": "159.99",
-      "new_price": "144.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/lego-icons-10302-optimus-prime/p6305554"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LEGO Botanical Collection 10313 Wildflower Bouquet Set",
-      "percentage": 9.1,
-      "old_price": "43.99",
-      "new_price": "39.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/lego-botanical-collection-10313-wildflower-bouquet-set/p109825721"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Silentnight Luxury Hotel Collection Duvet, 10.5 tog",
-      "percentage": 9.1,
-      "old_price": "33.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/silentnight-luxury-hotel-collection-duvet-10-5-tog/p6293494"
     }
   ]
 }

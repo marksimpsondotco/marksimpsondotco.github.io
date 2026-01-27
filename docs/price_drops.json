@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-27T14:22:43.035296",
-  "total_drops": 1059,
+  "generated_at": "2026-01-27T14:27:50.041981",
+  "total_drops": 1064,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 208,
+      "count": 213,
       "max_drop": 72.8,
-      "total_savings": 5543.45
+      "total_savings": 5660.45
     },
     {
       "site": "leaderonline_com",
@@ -176,7 +176,7 @@
       "percentage": 57.1,
       "old_price": "14.00",
       "new_price": "6.00",
-      "timestamp": "2026-01-27T14:22:35.631948",
+      "timestamp": "2026-01-27T14:27:44.481923",
       "url": "https://www.johnlewis.com/john-lewis-connect-check-towels/p111662913"
     },
     {
@@ -284,8 +284,26 @@
       "percentage": 50.0,
       "old_price": "165.00",
       "new_price": "82.50",
-      "timestamp": "2026-01-27T14:22:35.631948",
+      "timestamp": "2026-01-27T14:27:44.481923",
       "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "adidas VL Court Contrast Sole Trainers",
+      "percentage": 50.0,
+      "old_price": "60.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-27T14:27:44.481923",
+      "url": "https://www.johnlewis.com/adidas-vl-court-contrast-sole-trainers/p111331988"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Beatrice Upturn Disc Twirl Fascinator",
+      "percentage": 50.0,
+      "old_price": "45.00",
+      "new_price": "22.50",
+      "timestamp": "2026-01-27T14:27:44.481923",
+      "url": "https://www.johnlewis.com/john-lewis-beatrice-upturn-disc-twirl-fascinator/p111454501"
     },
     {
       "site": "johnlewis_com",
@@ -547,6 +565,15 @@
       "new_price": "19.99",
       "timestamp": "2026-01-27T08:24:27.762656",
       "url": "https://www.currys.co.uk/products/10255350.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "HUSH Nessa Wide Leg Jeans",
+      "percentage": 38.9,
+      "old_price": "90.00",
+      "new_price": "55.00",
+      "timestamp": "2026-01-27T14:27:44.481923",
+      "url": "https://www.johnlewis.com/hush-nessa-wide-leg-jeans/p112504449"
     },
     {
       "site": "flannels_com",
@@ -943,33 +970,6 @@
       "new_price": "59.99",
       "timestamp": "2026-01-27T08:24:27.762656",
       "url": "https://www.currys.co.uk/products/10194452.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "DYSON Airwrap Co-anda 2x Curly + Coily Hair Multi-Style",
-      "percentage": 33.3,
-      "old_price": "89.99",
-      "new_price": "59.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10292614.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "FELLOWES Lotus DX Stand-Up Desk Workstation - White",
-      "percentage": 33.3,
-      "old_price": "29.99",
-      "new_price": "19.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10260370.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "WEBB WEH30 Cordless Cylinder Lawn Mower - Green, Orange",
-      "percentage": 33.3,
-      "old_price": "29.99",
-      "new_price": "19.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10259698.html"
     }
   ]
 }

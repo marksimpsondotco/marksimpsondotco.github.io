@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T01:03:43.024633",
-  "total_drops": 153,
+  "generated_at": "2026-01-27T01:08:46.406927",
+  "total_drops": 156,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 8,
-      "max_drop": 25.6,
-      "total_savings": 123.5
+      "count": 11,
+      "max_drop": 29.7,
+      "total_savings": 223.5
     },
     {
       "site": "garrard_com",
@@ -168,6 +168,15 @@
       "url": "https://www.johnlewis.com/superdry-cotton-cargo-shorts/p111942392"
     },
     {
+      "site": "flannels_com",
+      "product": "PALM ANGELS - Logo-Print Touch-Strap Leather Sneakers Juniors",
+      "percentage": 29.7,
+      "old_price": "155.00",
+      "new_price": "109.00",
+      "timestamp": "2026-01-27T01:08:39.271072",
+      "url": "https://www.flannels.com/palm-angels-logo-print-touch-strap-leather-sneakers-juniors-091806"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Petlibro Automatic Cat Feeder, 3L",
       "percentage": 29.0,
@@ -184,6 +193,15 @@
       "new_price": "49.99",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/amazon-fire-tv-stick-4k-max-2nd-generation-ultra-hd-streaming-device-with-alexa-voice-remote-enhanced-tv-guide-with-live-tv/p113022459"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Polo Ralph Lauren - Logo Print Hoodie Junior",
+      "percentage": 28.6,
+      "old_price": "70.00",
+      "new_price": "50.00",
+      "timestamp": "2026-01-27T01:08:39.271072",
+      "url": "https://www.flannels.com/polo-ralph-lauren-logo-print-hoodie-junior-530680"
     },
     {
       "site": "johnlewis_com",
@@ -214,11 +232,20 @@
     },
     {
       "site": "flannels_com",
+      "product": "BALMAIN - Embroidered Paris Sweatshirt Juniors",
+      "percentage": 26.4,
+      "old_price": "129.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-27T01:08:39.271072",
+      "url": "https://www.flannels.com/balmain-embroidered-paris-sweatshirt-juniors-526827"
+    },
+    {
+      "site": "flannels_com",
       "product": "AmyLynn - Women's  Structured Denim Blazer",
       "percentage": 25.6,
       "old_price": "39.00",
       "new_price": "29.00",
-      "timestamp": "2026-01-27T01:03:33.331103",
+      "timestamp": "2026-01-27T01:08:39.271072",
       "url": "https://www.flannels.com/amylynn-womens--structured-denim-blazer-551258"
     },
     {
@@ -227,7 +254,7 @@
       "percentage": 25.1,
       "old_price": "215.00",
       "new_price": "161.00",
-      "timestamp": "2026-01-27T01:03:33.331103",
+      "timestamp": "2026-01-27T01:08:39.271072",
       "url": "https://www.flannels.com/boss-mens-dressletic-loaf-bope-derby-shoes-112408"
     },
     {
@@ -317,7 +344,7 @@
       "percentage": 25.0,
       "old_price": "88.00",
       "new_price": "66.00",
-      "timestamp": "2026-01-27T01:03:33.331103",
+      "timestamp": "2026-01-27T01:08:39.271072",
       "url": "https://www.flannels.com/lacoste-mens-small-croc-cotton-long-sleeve-crew-sweatshirt-528146"
     },
     {
@@ -326,7 +353,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T01:03:33.331103",
+      "timestamp": "2026-01-27T01:08:39.271072",
       "url": "https://www.flannels.com/ted-baker-mens-3-pack-logo-mid-rise-boxer-briefs-420382"
     },
     {
@@ -335,7 +362,7 @@
       "percentage": 25.0,
       "old_price": "70.00",
       "new_price": "52.50",
-      "timestamp": "2026-01-27T01:03:33.331103",
+      "timestamp": "2026-01-27T01:08:39.271072",
       "url": "https://www.flannels.com/boss-h-delaware-10263385-02-slim-fit-jeans-mens-644639"
     },
     {
@@ -344,7 +371,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T01:03:33.331103",
+      "timestamp": "2026-01-27T01:08:39.271072",
       "url": "https://www.flannels.com/societe-noir-mens-scribble-fleece-jogger-shorts-470967"
     },
     {
@@ -353,7 +380,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T01:03:33.331103",
+      "timestamp": "2026-01-27T01:08:39.271072",
       "url": "https://www.flannels.com/pretty-lavish-womens-p-fern-off-shoulder-bardot-mini-dress-653790"
     },
     {
@@ -895,33 +922,6 @@
       "new_price": "30.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/silentnight-luxury-hotel-collection-duvet-10-5-tog/p6293494"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "AEG DCB331010M Built In Electric Double Oven, Stainless Steel",
-      "percentage": 9.1,
-      "old_price": "549.00",
-      "new_price": "499.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/aeg-dcb331010m-built-in-electric-double-oven-stainless-steel/p3190936"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Joie Baby Litetrax Pro Pushchair",
-      "percentage": 9.1,
-      "old_price": "165.00",
-      "new_price": "150.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/joie-baby-litetrax-pro-pushchair/p111762015"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Bobbi Brown Luxe Cashmere Matte Lipstick",
-      "percentage": 8.5,
-      "old_price": "30.60",
-      "new_price": "28.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/bobbi-brown-luxe-cashmere-matte-lipstick/p113656727"
     }
   ]
 }

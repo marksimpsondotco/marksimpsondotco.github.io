@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T19:44:17.626003",
-  "total_drops": 1414,
+  "generated_at": "2026-01-27T19:49:29.540664",
+  "total_drops": 1417,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -56,6 +56,12 @@
       "count": 130,
       "max_drop": 24.3,
       "total_savings": 6842.75
+    },
+    {
+      "site": "oliversweeney_com",
+      "count": 3,
+      "max_drop": 20.4,
+      "total_savings": 50.0
     },
     {
       "site": "dusk_com",

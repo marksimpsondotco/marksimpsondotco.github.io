@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T04:46:27.609405",
-  "total_drops": 198,
+  "generated_at": "2026-01-27T04:51:30.369981",
+  "total_drops": 202,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 150,
+      "count": 154,
       "max_drop": 60.0,
-      "total_savings": 4327.93
+      "total_savings": 4337.33
     },
     {
       "site": "flannels_com",
@@ -94,6 +94,42 @@
       "new_price": "99.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/kg-kurt-geiger-trekker-cuff-ankle-boots-black/p113823084"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Essential Soap Dispenser, White",
+      "percentage": 40.0,
+      "old_price": "2.50",
+      "new_price": "1.50",
+      "timestamp": "2026-01-27T04:51:26.836872",
+      "url": "https://www.johnlewis.com/john-lewis-essential-soap-dispenser-white/p111485688"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Sand Effect Soap Dispenser, White",
+      "percentage": 40.0,
+      "old_price": "7.50",
+      "new_price": "4.50",
+      "timestamp": "2026-01-27T04:51:26.836872",
+      "url": "https://www.johnlewis.com/john-lewis-sand-effect-soap-dispenser-white/p110486377"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Diamond Toothbrush Holder, Black",
+      "percentage": 40.0,
+      "old_price": "7.50",
+      "new_price": "4.50",
+      "timestamp": "2026-01-27T04:51:26.836872",
+      "url": "https://www.johnlewis.com/john-lewis-diamond-toothbrush-holder-black/p110486375"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Sand Effect Bathroom Tumbler, White",
+      "percentage": 40.0,
+      "old_price": "6.00",
+      "new_price": "3.60",
+      "timestamp": "2026-01-27T04:51:26.836872",
+      "url": "https://www.johnlewis.com/john-lewis-sand-effect-bathroom-tumbler-white/p110486379"
     },
     {
       "site": "johnlewis_com",
@@ -904,42 +940,6 @@
       "new_price": "449.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/samsung-dv80cgc0b0ae-freestanding-tumble-dryer-ai-energy-8kg-load-white/p111200332"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "BOSS Mix&Match Embroidered Logo Shorts",
-      "percentage": 17.9,
-      "old_price": "39.00",
-      "new_price": "32.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/boss-mix-match-embroidered-logo-shorts/p111568831"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LEGO Harry Potter Talking Sorting Hat Set for Adults 76429",
-      "percentage": 17.5,
-      "old_price": "79.99",
-      "new_price": "65.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/lego-harry-potter-talking-sorting-hat-set-for-adults-76429/p111671949"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "AEG OAB7N82EF Integrated Under Counter Freezer, White",
-      "percentage": 16.9,
-      "old_price": "599.00",
-      "new_price": "498.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/aeg-oab7n82ef-integrated-under-counter-freezer-white/p111267409"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Dune London Manifesting Embellished Heeled Sandals, Gold",
-      "percentage": 16.8,
-      "old_price": "119.00",
-      "new_price": "99.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/dune-london-manifesting-embellished-heeled-sandals-gold/p114144901"
     }
   ]
 }

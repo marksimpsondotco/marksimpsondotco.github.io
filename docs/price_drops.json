@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-27T00:38:23.756296",
-  "total_drops": 68,
-  "top_drops_shown": 68,
+  "generated_at": "2026-01-27T00:43:26.128846",
+  "total_drops": 91,
+  "top_drops_shown": 91,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 65,
+      "count": 85,
       "max_drop": 60.0,
-      "total_savings": 1409.04
+      "total_savings": 2059.95
     },
     {
       "site": "flannels_com",
-      "count": 3,
+      "count": 6,
       "max_drop": 25.1,
-      "total_savings": 81.0
+      "total_savings": 108.5
     }
   ],
   "drops": [
@@ -23,7 +23,7 @@
       "percentage": 60.0,
       "old_price": "49.99",
       "new_price": "19.99",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/the-gruffalo-plush-soft-toy/p230652259"
     },
     {
@@ -32,7 +32,7 @@
       "percentage": 50.0,
       "old_price": "100.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/berghaus-explorer-backpack-25l-jet-black/p112960890"
     },
     {
@@ -41,8 +41,26 @@
       "percentage": 41.4,
       "old_price": "169.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/kg-kurt-geiger-trekker-cuff-ankle-boots-black/p113823084"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Amazon Echo Show 5 (3rd Gen) Kids Smart Speaker with 5.5\" Screen, Alexa Voice Recognition & Parental Controls, Galaxy",
+      "percentage": 40.0,
+      "old_price": "99.99",
+      "new_price": "59.99",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/amazon-echo-show-5-3rd-gen-kids-smart-speaker-with-5-5-inch-screen-alexa-voice-recognition-parental-controls-galaxy/p110582032"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Barbour Dog Waxed Flat Cap, Green Olive",
+      "percentage": 39.9,
+      "old_price": "29.95",
+      "new_price": "18.00",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/barbour-dog-waxed-flat-cap-green-olive/p113937503"
     },
     {
       "site": "johnlewis_com",
@@ -50,8 +68,17 @@
       "percentage": 39.5,
       "old_price": "19.00",
       "new_price": "11.50",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/speedo-essentials-16-inch-swim-shorts/p5167925"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Amazon Echo Dot Kids Smart Speaker with Alexa Voice Recognition & Parental Controls, 5th Generation (2022)",
+      "percentage": 38.5,
+      "old_price": "64.99",
+      "new_price": "39.99",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/amazon-echo-dot-kids-smart-speaker-with-alexa-voice-recognition-parental-controls-5th-generation-2022/p109610442"
     },
     {
       "site": "johnlewis_com",
@@ -59,8 +86,17 @@
       "percentage": 37.5,
       "old_price": "44.00",
       "new_price": "27.50",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/levis-xx-chino-shorts/p112905193"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Amazon Fire TV Stick 4K Select (2025) Ultra HD Streaming Device with Alexa Voice Remote Enhanced & TV Guide with Live TV",
+      "percentage": 36.0,
+      "old_price": "49.99",
+      "new_price": "31.99",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/amazon-fire-tv-stick-4k-select-2025-ultra-hd-streaming-device-with-alexa-voice-remote-enhanced-tv-guide-with-live-tv/p114416983"
     },
     {
       "site": "johnlewis_com",
@@ -68,8 +104,44 @@
       "percentage": 33.6,
       "old_price": "119.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/carvela-tempt-wide-fit-heeled-ankle-boots-black/p113964979"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Amazon Fire TV Stick 4K (2024) Ultra HD Streaming Device with Alexa Voice Remote & TV Guide with Live TV",
+      "percentage": 33.3,
+      "old_price": "59.99",
+      "new_price": "39.99",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/amazon-fire-tv-stick-4k-2024-ultra-hd-streaming-device-with-alexa-voice-remote-tv-guide-with-live-tv/p112757860"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Amazon Echo Show 5 (3rd Gen) Smart Speaker with 5.5\" Screen & Alexa Voice Recognition & Control",
+      "percentage": 33.3,
+      "old_price": "89.99",
+      "new_price": "59.99",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/amazon-echo-show-5-3rd-gen-smart-speaker-with-5-5-inch-screen-alexa-voice-recognition-control/p110556129"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Amazon Echo Pop Smart Speaker with Alexa Voice Recognition & Control",
+      "percentage": 33.3,
+      "old_price": "44.99",
+      "new_price": "29.99",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/amazon-echo-pop-smart-speaker-with-alexa-voice-recognition-control/p110556133"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Amazon Echo Spot (2024) Smart Alarm Clock with 2.8” Screen & Alexa Voice Recognition & Control",
+      "percentage": 31.3,
+      "old_price": "79.99",
+      "new_price": "54.99",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/amazon-echo-spot-2024-smart-alarm-clock-with-2-8-screen-alexa-voice-recognition-control/p112233048"
     },
     {
       "site": "johnlewis_com",
@@ -77,8 +149,26 @@
       "percentage": 30.0,
       "old_price": "44.99",
       "new_price": "31.49",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/superdry-cotton-cargo-shorts/p111942392"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Petlibro Automatic Cat Feeder, 3L",
+      "percentage": 29.0,
+      "old_price": "69.00",
+      "new_price": "48.99",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/petlibro-automatic-cat-feeder-3l/p110138017"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Amazon Fire TV Stick 4K Max (2nd Generation) Ultra HD Streaming Device with Alexa Voice Remote Enhanced & TV Guide with Live TV",
+      "percentage": 28.6,
+      "old_price": "69.99",
+      "new_price": "49.99",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/amazon-fire-tv-stick-4k-max-2nd-generation-ultra-hd-streaming-device-with-alexa-voice-remote-enhanced-tv-guide-with-live-tv/p113022459"
     },
     {
       "site": "johnlewis_com",
@@ -86,7 +176,7 @@
       "percentage": 27.8,
       "old_price": "90.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/dune-london-emmelino-suede-trainers-brown/p114081502"
     },
     {
@@ -95,7 +185,7 @@
       "percentage": 27.7,
       "old_price": "159.00",
       "new_price": "115.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/dune-london-patley-leather-chunky-lace-up-ankle-boots/p113947929"
     },
     {
@@ -104,7 +194,7 @@
       "percentage": 26.7,
       "old_price": "44.99",
       "new_price": "32.99",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/baby-einstein-4-in-1-kickin-tunes-music-and-language-discovery-activity-gym/p3845072"
     },
     {
@@ -113,7 +203,7 @@
       "percentage": 25.1,
       "old_price": "215.00",
       "new_price": "161.00",
-      "timestamp": "2026-01-27T00:38:16.268004",
+      "timestamp": "2026-01-27T00:43:24.237458",
       "url": "https://www.flannels.com/boss-mens-dressletic-loaf-bope-derby-shoes-112408"
     },
     {
@@ -122,7 +212,7 @@
       "percentage": 25.0,
       "old_price": "34.99",
       "new_price": "26.25",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/lego-wicked-75688-glindas-wedding-day-building-toy-set/p113656676"
     },
     {
@@ -131,7 +221,7 @@
       "percentage": 25.0,
       "old_price": "120.00",
       "new_price": "90.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/tommy-hilfiger-pure-cotton-towelling-robe/p5245611"
     },
     {
@@ -140,8 +230,26 @@
       "percentage": 25.0,
       "old_price": "45.00",
       "new_price": "33.75",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/le-creuset-stoneware-butter-dish/p5065089"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Amazon Fire TV Stick HD (2024) Full HD Streaming Device with Alexa Voice Remote & TV Guide with Live TV",
+      "percentage": 25.0,
+      "old_price": "39.99",
+      "new_price": "29.99",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/amazon-fire-tv-stick-hd-2024-full-hd-streaming-device-with-alexa-voice-remote-tv-guide-with-live-tv/p112757859"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "AEG FFX52607ZW Freestanding Dishwasher, White",
+      "percentage": 25.0,
+      "old_price": "519.00",
+      "new_price": "389.00",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/aeg-ffx52607zw-freestanding-dishwasher-white/p111935294"
     },
     {
       "site": "flannels_com",
@@ -149,8 +257,35 @@
       "percentage": 25.0,
       "old_price": "88.00",
       "new_price": "66.00",
-      "timestamp": "2026-01-27T00:38:16.268004",
+      "timestamp": "2026-01-27T00:43:24.237458",
       "url": "https://www.flannels.com/lacoste-mens-small-croc-cotton-long-sleeve-crew-sweatshirt-528146"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Ted Baker - TB 3-Pack Logo Boxer Briefs Mens",
+      "percentage": 25.0,
+      "old_price": "20.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-27T00:43:24.237458",
+      "url": "https://www.flannels.com/ted-baker-mens-3-pack-logo-mid-rise-boxer-briefs-420382"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Boss - H-Delaware 10263385 02 Slim Fit Jeans Mens",
+      "percentage": 25.0,
+      "old_price": "70.00",
+      "new_price": "52.50",
+      "timestamp": "2026-01-27T00:43:24.237458",
+      "url": "https://www.flannels.com/boss-h-delaware-10263385-02-slim-fit-jeans-mens-644639"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Societe Noir - Men's Scribble Fleece Jogger Shorts",
+      "percentage": 25.0,
+      "old_price": "20.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-27T00:43:24.237458",
+      "url": "https://www.flannels.com/societe-noir-mens-scribble-fleece-jogger-shorts-470967"
     },
     {
       "site": "johnlewis_com",
@@ -158,7 +293,7 @@
       "percentage": 21.7,
       "old_price": "22.99",
       "new_price": "17.99",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/lego-friends-42649-heartlake-city-sweet-shop/p112772662"
     },
     {
@@ -167,7 +302,7 @@
       "percentage": 20.4,
       "old_price": "59.00",
       "new_price": "46.95",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/le-creuset-stoneware-egg-cup-set-of-6-rainbow/p113601097"
     },
     {
@@ -176,7 +311,7 @@
       "percentage": 20.3,
       "old_price": "79.00",
       "new_price": "63.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/dune-london-paxten-suede-pointed-heeled-ankle-boots-sand/p112241804"
     },
     {
@@ -185,7 +320,7 @@
       "percentage": 20.0,
       "old_price": "35.00",
       "new_price": "28.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/my-expert-midwife-birthday-bag-gift-set/p114331193"
     },
     {
@@ -194,7 +329,7 @@
       "percentage": 20.0,
       "old_price": "100.00",
       "new_price": "80.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/new-balance-327-wakame-trainers-khaki-black/p114631393"
     },
     {
@@ -203,7 +338,7 @@
       "percentage": 20.0,
       "old_price": "52.50",
       "new_price": "42.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/tommy-hilfiger-plus-shorts-navy/p113613389"
     },
     {
@@ -212,7 +347,7 @@
       "percentage": 20.0,
       "old_price": "150.00",
       "new_price": "120.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/tommy-hilfiger-patent-leather-penny-loafers-desert-sky/p114441980"
     },
     {
@@ -221,7 +356,7 @@
       "percentage": 19.0,
       "old_price": "315.00",
       "new_price": "255.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/samsonite-re-lite-spinner-4-wheel-78cm-expandable-suitcase-black/p113455945"
     },
     {
@@ -230,7 +365,7 @@
       "percentage": 18.8,
       "old_price": "80.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/levis-standard-taper-chinos/p6261276"
     },
     {
@@ -239,7 +374,7 @@
       "percentage": 18.2,
       "old_price": "549.00",
       "new_price": "449.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/samsung-wd80ta046be-freestanding-washer-dryer-8kg-wash-5kg-dry-load-1400rpm-white/p5135883"
     },
     {
@@ -248,7 +383,7 @@
       "percentage": 18.2,
       "old_price": "549.00",
       "new_price": "449.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/samsung-dv80cgc0b0ae-freestanding-tumble-dryer-ai-energy-8kg-load-white/p111200332"
     },
     {
@@ -257,7 +392,7 @@
       "percentage": 17.9,
       "old_price": "39.00",
       "new_price": "32.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/boss-mix-match-embroidered-logo-shorts/p111568831"
     },
     {
@@ -266,7 +401,7 @@
       "percentage": 16.8,
       "old_price": "119.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/dune-london-manifesting-embellished-heeled-sandals-gold/p114144901"
     },
     {
@@ -275,7 +410,7 @@
       "percentage": 15.0,
       "old_price": "80.00",
       "new_price": "68.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/dior-miss-dior-parfum/p111442829"
     },
     {
@@ -284,7 +419,7 @@
       "percentage": 15.0,
       "old_price": "16.00",
       "new_price": "13.60",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/bobbi-brown-soothing-cleansing-oil/p111209322"
     },
     {
@@ -293,8 +428,17 @@
       "percentage": 14.5,
       "old_price": "69.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/hotter-relax-leather-slippers/p111043813"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Amazon Fire TV Cube (2022) 4K Ultra HD Streaming Device with Alexa Voice Remote & TV Guide with Live TV",
+      "percentage": 14.3,
+      "old_price": "139.99",
+      "new_price": "119.99",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/amazon-fire-tv-cube-2022-4k-ultra-hd-streaming-device-with-alexa-voice-remote-tv-guide-with-live-tv/p109614949"
     },
     {
       "site": "johnlewis_com",
@@ -302,8 +446,17 @@
       "percentage": 13.6,
       "old_price": "43.99",
       "new_price": "37.99",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/lego-botanicals-10342-pretty-pink-flower-bouquet-decor-set/p112772611"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Beko DIS15020 Fully Integrated Slimline Dishwasher",
+      "percentage": 13.4,
+      "old_price": "299.00",
+      "new_price": "259.00",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/beko-dis15020-fully-integrated-slimline-dishwasher/p6223050"
     },
     {
       "site": "johnlewis_com",
@@ -311,7 +464,7 @@
       "percentage": 13.3,
       "old_price": "299.99",
       "new_price": "260.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/uppababy-4-piece-accessory-pack-greyson/p112770203"
     },
     {
@@ -320,7 +473,7 @@
       "percentage": 11.2,
       "old_price": "179.00",
       "new_price": "159.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/barbour-wax-cotton-and-leather-trim-satchel-olive/p3168645"
     },
     {
@@ -329,7 +482,7 @@
       "percentage": 11.0,
       "old_price": "145.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/polo-ralph-lauren-slim-fit-denim-jeans-rinse-stretch/p112036458"
     },
     {
@@ -338,7 +491,7 @@
       "percentage": 10.3,
       "old_price": "155.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/polo-ralph-lauren-sullivan-slim-fit-jeans-murphy/p112036457"
     },
     {
@@ -347,7 +500,7 @@
       "percentage": 10.0,
       "old_price": "19.99",
       "new_price": "17.99",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/littlelife-ladybird-toddler-backpack-red/p5207700"
     },
     {
@@ -356,8 +509,17 @@
       "percentage": 10.0,
       "old_price": "999.00",
       "new_price": "899.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/samsung-the-frame-2025-qled-art-mode-smart-ai-tv-with-slim-fit-wall-mount-55-inch/p113562153"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sony WH-CH720 Noise Cancelling Bluetooth Wireless Over-Ear Headphones with Mic/Remote",
+      "percentage": 9.6,
+      "old_price": "72.99",
+      "new_price": "66.00",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/sony-wh-ch720-noise-cancelling-bluetooth-wireless-over-ear-headphones-with-mic-remote/p110194491"
     },
     {
       "site": "johnlewis_com",
@@ -365,7 +527,7 @@
       "percentage": 9.1,
       "old_price": "43.99",
       "new_price": "39.99",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/lego-botanical-collection-10313-wildflower-bouquet-set/p109825721"
     },
     {
@@ -374,7 +536,7 @@
       "percentage": 9.1,
       "old_price": "33.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/silentnight-luxury-hotel-collection-duvet-10-5-tog/p6293494"
     },
     {
@@ -383,7 +545,7 @@
       "percentage": 8.5,
       "old_price": "30.60",
       "new_price": "28.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/bobbi-brown-luxe-cashmere-matte-lipstick/p113656727"
     },
     {
@@ -392,7 +554,7 @@
       "percentage": 8.0,
       "old_price": "125.00",
       "new_price": "115.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/polo-ralph-lauren-slim-polo-shirt/p5657622"
     },
     {
@@ -401,7 +563,7 @@
       "percentage": 7.9,
       "old_price": "140.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/stokke-clikk-highchair/p112684837"
     },
     {
@@ -410,7 +572,7 @@
       "percentage": 7.5,
       "old_price": "200.00",
       "new_price": "185.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/polo-ralph-lauren-long-sleeve-quarter-zip-jumper/p111227416"
     },
     {
@@ -419,8 +581,17 @@
       "percentage": 7.3,
       "old_price": "149.99",
       "new_price": "139.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/vax-spinscrub-power-carpet-cleaner-grey-blue/p113769643"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Smeg FAB32RPK6UK Freestanding 70/30 Fridge Freezer",
+      "percentage": 6.9,
+      "old_price": "1879.00",
+      "new_price": "1749.00",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/smeg-fab32rpk6uk-freestanding-70-30-fridge-freezer/p114491397"
     },
     {
       "site": "johnlewis_com",
@@ -428,7 +599,7 @@
       "percentage": 6.7,
       "old_price": "270.00",
       "new_price": "252.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/obaby-stamford-mini-cotbed-white/p114445850"
     },
     {
@@ -437,7 +608,7 @@
       "percentage": 6.5,
       "old_price": "155.00",
       "new_price": "145.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/ugg-classic-ultra-mini-boots-black/p114423317"
     },
     {
@@ -446,7 +617,7 @@
       "percentage": 5.3,
       "old_price": "189.99",
       "new_price": "179.99",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/maxi-cosi-dove-pro-baby-bouncer/p113001345"
     },
     {
@@ -455,7 +626,7 @@
       "percentage": 5.3,
       "old_price": "759.00",
       "new_price": "719.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/lg-fdv709w-freestanding-heat-pump-tumble-dryer-9kg-load-white/p6249629"
     },
     {
@@ -464,7 +635,7 @@
       "percentage": 5.0,
       "old_price": "200.00",
       "new_price": "190.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/polo-ralph-lauren-cotton-cable-knit-jumper/p5085683"
     },
     {
@@ -473,8 +644,17 @@
       "percentage": 4.8,
       "old_price": "1049.00",
       "new_price": "999.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/samsung-series-9-dv90f09f4su1-freestanding-heat-pump-tumble-dryer-ai-energy-9kg-load-dark-steel/p113821458"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "black+blum Cooler Lunch Bag, 6.7L",
+      "percentage": 4.8,
+      "old_price": "19.95",
+      "new_price": "19.00",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/black-blum-cooler-lunch-bag-6-7l/p112736645"
     },
     {
       "site": "flannels_com",
@@ -482,7 +662,7 @@
       "percentage": 4.5,
       "old_price": "109.99",
       "new_price": "104.99",
-      "timestamp": "2026-01-27T00:38:16.268004",
+      "timestamp": "2026-01-27T00:43:24.237458",
       "url": "https://www.flannels.com/nike-metcon-10-trainers-mens-131239"
     },
     {
@@ -491,8 +671,17 @@
       "percentage": 4.2,
       "old_price": "479.00",
       "new_price": "459.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/samsung-ww11dg6b25leu1-freestanding-washing-machine-ai-energy-11kg-load-1400rpm-white/p111981403"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "2025 Apple iPad Pro 11\", M5 Processor, iPadOS, Wi-Fi, 512GB",
+      "percentage": 4.1,
+      "old_price": "1199.00",
+      "new_price": "1149.99",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/2025-apple-ipad-pro-11-inch-m5-processor-ipados-wi-fi-512gb/p114464899"
     },
     {
       "site": "johnlewis_com",
@@ -500,8 +689,17 @@
       "percentage": 4.0,
       "old_price": "599.00",
       "new_price": "575.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/samsung-jet-lite-ai-cordless-vacuum-cleaner-pebble-grey/p114249816"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Samsung Series 11 DW60BG730FSL Freestanding Dishwasher, Silver",
+      "percentage": 4.0,
+      "old_price": "749.00",
+      "new_price": "719.00",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/samsung-series-11-dw60bg730fsl-freestanding-dishwasher-silver/p110629877"
     },
     {
       "site": "johnlewis_com",
@@ -509,7 +707,7 @@
       "percentage": 3.8,
       "old_price": "1299.00",
       "new_price": "1249.99",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/2025-apple-ipad-pro-13-inch-m5-processor-ipados-wi-fi-256gb/p114464913"
     },
     {
@@ -518,7 +716,7 @@
       "percentage": 3.4,
       "old_price": "641.00",
       "new_price": "619.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/2025-apple-ipad-air-11-inch-m3-processor-ipados-wi-fi-256gb/p113465196"
     },
     {
@@ -527,7 +725,7 @@
       "percentage": 3.1,
       "old_price": "850.00",
       "new_price": "824.01",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/bugaboo-fox-cub-stroller-essential-bundle-desert-beige/p241684692"
     },
     {
@@ -536,7 +734,7 @@
       "percentage": 2.2,
       "old_price": "1182.50",
       "new_price": "1156.51",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/bugaboo-donkey-5-duo-pushchair-carrycot-accessories-essential-bundle-desert-taupe/p241684702"
     },
     {
@@ -545,8 +743,17 @@
       "percentage": 1.7,
       "old_price": "1199.00",
       "new_price": "1179.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/2024-apple-imac-24-all-in-one-m4-processor-16gb-ram-256gb-ssd-8-core-gpu-23-5-4-5k/p112836174"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Bosch Series 4 SPV4EMX25G Fully Integrated Slimline Dishwasher, Stainless Steel",
+      "percentage": 1.7,
+      "old_price": "528.00",
+      "new_price": "519.00",
+      "timestamp": "2026-01-27T00:43:24.442224",
+      "url": "https://www.johnlewis.com/bosch-series-4-spv4emx25g-fully-integrated-slimline-dishwasher-stainless-steel/p111920957"
     },
     {
       "site": "johnlewis_com",
@@ -554,7 +761,7 @@
       "percentage": 1.4,
       "old_price": "1832.00",
       "new_price": "1806.01",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/bugaboo-fox-5-renew-pushchair-cybex-cloud-t-i-size-car-seat-with-base-and-accessories-bundle-forest-green/p241696692"
     },
     {
@@ -563,7 +770,7 @@
       "percentage": 1.4,
       "old_price": "70.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/raging-bull-classic-zip-through-hoodie-navy/p111579698"
     },
     {
@@ -572,7 +779,7 @@
       "percentage": 1.3,
       "old_price": "151.99",
       "new_price": "149.99",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/philips-hue-signe-gradient-table-lamp-1040-lumens/p5863743"
     },
     {
@@ -581,7 +788,7 @@
       "percentage": 0.4,
       "old_price": "1197.32",
       "new_price": "1192.32",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/bugaboo-fox-5-renew-pushchair-accessories-essential-bundle-black/p241604691"
     },
     {
@@ -590,7 +797,7 @@
       "percentage": 0.4,
       "old_price": "223.99",
       "new_price": "223.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/philips-hue-signe-gradient-floor-lamp-2550-lumens/p5864119"
     },
     {
@@ -599,7 +806,7 @@
       "percentage": 0.2,
       "old_price": "2302.83",
       "new_price": "2297.83",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/bugaboo-donkey-5-twin-pushchair-carrycot-with-bugaboo-otter-by-nuna-baby-car-seat-360-base-ultimate-bundle-forest-green/p241684709"
     },
     {
@@ -608,7 +815,7 @@
       "percentage": 0.2,
       "old_price": "311.54",
       "new_price": "311.04",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/shark-az3900ukt-powerdetect-powered-lift-away-upright-pet-vacuum-cleaner-dark-teal/p112561797"
     },
     {
@@ -617,7 +824,7 @@
       "percentage": 0.1,
       "old_price": "397.55",
       "new_price": "397.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/samsung-jet-95-pro-cordless-stick-vacuum-cleaner-with-spray-spinning-sweeper-midnight-blue/p110983453"
     },
     {
@@ -626,7 +833,7 @@
       "percentage": 0.1,
       "old_price": "679.00",
       "new_price": "678.00",
-      "timestamp": "2026-01-27T00:38:20.711977",
+      "timestamp": "2026-01-27T00:43:24.442224",
       "url": "https://www.johnlewis.com/lg-f4x7013tbb-freestanding-washing-machine-13kg-load-1400rpm-spin-matte-black/p113847397"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T11:02:35.529728",
-  "total_drops": 1024,
+  "generated_at": "2026-01-27T11:07:42.069864",
+  "total_drops": 1027,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 180,
+      "count": 183,
       "max_drop": 64.3,
-      "total_savings": 4719.8
+      "total_savings": 4747.95
     },
     {
       "site": "twentytwentyone_com",
@@ -80,7 +80,7 @@
       "percentage": 64.3,
       "old_price": "42.00",
       "new_price": "14.99",
-      "timestamp": "2026-01-27T11:02:28.758736",
+      "timestamp": "2026-01-27T11:07:36.043642",
       "url": "https://www.johnlewis.com/crocs-classic-clogs/p111547583"
     },
     {
@@ -89,7 +89,7 @@
       "percentage": 62.7,
       "old_price": "2317.00",
       "new_price": "865.00",
-      "timestamp": "2026-01-27T11:02:18.673777",
+      "timestamp": "2026-01-27T11:06:54.166897",
       "url": "https://www.twentytwentyone.com/products/asplund-claesson-koivisto-rune-vass-40-135-wall"
     },
     {
@@ -152,7 +152,7 @@
       "percentage": 50.8,
       "old_price": "59.00",
       "new_price": "29.00",
-      "timestamp": "2026-01-27T11:02:18.347320",
+      "timestamp": "2026-01-27T11:07:29.228179",
       "url": "https://ukbabycentre.com/products/bugaboo-fox-5-sun-canopy-grey-melange"
     },
     {
@@ -188,7 +188,7 @@
       "percentage": 50.0,
       "old_price": "40.00",
       "new_price": "20.00",
-      "timestamp": "2026-01-27T11:02:28.758736",
+      "timestamp": "2026-01-27T11:07:36.043642",
       "url": "https://www.johnlewis.com/john-lewis-rib-weave-cushion/p111891232"
     },
     {
@@ -197,7 +197,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-27T11:02:28.758736",
+      "timestamp": "2026-01-27T11:07:36.043642",
       "url": "https://www.johnlewis.com/john-lewis-luce-textured-cushion/p112399300"
     },
     {
@@ -206,7 +206,7 @@
       "percentage": 50.0,
       "old_price": "18.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-27T11:02:28.758736",
+      "timestamp": "2026-01-27T11:07:36.043642",
       "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
     },
     {
@@ -215,7 +215,7 @@
       "percentage": 50.0,
       "old_price": "65.00",
       "new_price": "32.50",
-      "timestamp": "2026-01-27T11:02:28.758736",
+      "timestamp": "2026-01-27T11:07:36.043642",
       "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
     },
     {
@@ -251,7 +251,7 @@
       "percentage": 47.1,
       "old_price": "170.00",
       "new_price": "90.00",
-      "timestamp": "2026-01-27T11:02:18.673777",
+      "timestamp": "2026-01-27T11:06:54.166897",
       "url": "https://www.twentytwentyone.com/products/barber-osgerby-frame"
     },
     {
@@ -278,7 +278,7 @@
       "percentage": 43.1,
       "old_price": "181.00",
       "new_price": "103.00",
-      "timestamp": "2026-01-27T11:02:18.673777",
+      "timestamp": "2026-01-27T11:06:54.166897",
       "url": "https://www.twentytwentyone.com/products/little-architect-desk-ex-display"
     },
     {
@@ -485,7 +485,7 @@
       "percentage": 37.9,
       "old_price": "190.00",
       "new_price": "118.00",
-      "timestamp": "2026-01-27T11:02:18.673777",
+      "timestamp": "2026-01-27T11:06:54.166897",
       "url": "https://www.twentytwentyone.com/products/tom-dixon-spot-surface-orbound"
     },
     {
@@ -552,6 +552,15 @@
       "url": "https://www.currys.co.uk/products/10271044.html"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Travalo Milano Refillable Perfume Atomiser Spray",
+      "percentage": 36.8,
+      "old_price": "31.00",
+      "new_price": "19.60",
+      "timestamp": "2026-01-27T11:07:36.043642",
+      "url": "https://www.johnlewis.com/travalo-milano-refillable-perfume-atomiser-spray/p3139891"
+    },
+    {
       "site": "currys_com",
       "product": "REVLON One Step Round Brush Attachment - Black",
       "percentage": 36.7,
@@ -611,7 +620,7 @@
       "percentage": 35.9,
       "old_price": "39.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-27T11:02:18.347320",
+      "timestamp": "2026-01-27T11:07:29.228179",
       "url": "https://ukbabycentre.com/products/bugaboo-dragonfly-sun-canopy-skyline-blue"
     },
     {
@@ -764,7 +773,7 @@
       "percentage": 33.3,
       "old_price": "36.00",
       "new_price": "24.00",
-      "timestamp": "2026-01-27T11:02:18.673777",
+      "timestamp": "2026-01-27T11:06:54.166897",
       "url": "https://www.twentytwentyone.com/products/ichendorf-milano-corrado-dotti-cilandro-olive-oil-bottle"
     },
     {
@@ -863,7 +872,7 @@
       "percentage": 32.8,
       "old_price": "3449.00",
       "new_price": "2317.00",
-      "timestamp": "2026-01-27T11:02:18.673777",
+      "timestamp": "2026-01-27T11:06:54.166897",
       "url": "https://www.twentytwentyone.com/products/kilt-sideboard-2011"
     },
     {
@@ -955,15 +964,6 @@
       "new_price": "54.99",
       "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10265293.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "APPLE Refurbished iPhone 13 - 128 GB, Starlight (Good C",
-      "percentage": 31.3,
-      "old_price": "79.99",
-      "new_price": "54.99",
-      "timestamp": "2026-01-27T09:55:27.606242",
-      "url": "https://www.currys.co.uk/products/10263393.html"
     }
   ]
 }

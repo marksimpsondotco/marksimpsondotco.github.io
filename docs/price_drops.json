@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T01:34:05.816395",
-  "total_drops": 163,
+  "generated_at": "2026-01-27T01:39:08.121259",
+  "total_drops": 166,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 14,
-      "max_drop": 29.7,
-      "total_savings": 268.99
+      "count": 17,
+      "max_drop": 33.3,
+      "total_savings": 330.49
     },
     {
       "site": "garrard_com",
@@ -156,6 +156,24 @@
       "url": "https://www.johnlewis.com/amazon-echo-pop-smart-speaker-with-alexa-voice-recognition-control/p110556133"
     },
     {
+      "site": "flannels_com",
+      "product": "Yeezy - Men's 500 Boots with adiPRENE+ Cushioning",
+      "percentage": 33.3,
+      "old_price": "67.50",
+      "new_price": "45.00",
+      "timestamp": "2026-01-27T01:39:00.068663",
+      "url": "https://www.flannels.com/yeezy-mens-500-leather-adiprene--cushioning-desert-boots-114731"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Nike - Air Max 90 Trainers Mens",
+      "percentage": 32.6,
+      "old_price": "93.50",
+      "new_price": "63.00",
+      "timestamp": "2026-01-27T01:39:00.068663",
+      "url": "https://www.flannels.com/nike-air-max-90-trainers-mens-121004"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Amazon Echo Spot (2024) Smart Alarm Clock with 2.8” Screen & Alexa Voice Recognition & Control",
       "percentage": 31.3,
@@ -179,7 +197,7 @@
       "percentage": 29.7,
       "old_price": "155.00",
       "new_price": "109.00",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/palm-angels-logo-print-touch-strap-leather-sneakers-juniors-091806"
     },
     {
@@ -206,7 +224,7 @@
       "percentage": 28.6,
       "old_price": "70.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/polo-ralph-lauren-logo-print-hoodie-junior-530680"
     },
     {
@@ -242,8 +260,17 @@
       "percentage": 26.4,
       "old_price": "129.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/balmain-embroidered-paris-sweatshirt-juniors-526827"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Tommy Hilfiger - Harlow 1D Canvas Trainers",
+      "percentage": 25.8,
+      "old_price": "33.00",
+      "new_price": "24.50",
+      "timestamp": "2026-01-27T01:39:00.068663",
+      "url": "https://www.flannels.com/tommy-hilfiger-mens-harlow-1d-canvas-lace-up-canvas-trainers-246078"
     },
     {
       "site": "flannels_com",
@@ -251,7 +278,7 @@
       "percentage": 25.6,
       "old_price": "39.00",
       "new_price": "29.00",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/amylynn-womens--structured-denim-blazer-551258"
     },
     {
@@ -260,7 +287,7 @@
       "percentage": 25.6,
       "old_price": "45.00",
       "new_price": "33.50",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/boss-mens-waffle-over-the-head-hoodie-532930"
     },
     {
@@ -269,7 +296,7 @@
       "percentage": 25.3,
       "old_price": "84.99",
       "new_price": "63.50",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/nike-stride-jacket-454309"
     },
     {
@@ -278,7 +305,7 @@
       "percentage": 25.1,
       "old_price": "215.00",
       "new_price": "161.00",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/boss-mens-dressletic-loaf-bope-derby-shoes-112408"
     },
     {
@@ -368,7 +395,7 @@
       "percentage": 25.0,
       "old_price": "88.00",
       "new_price": "66.00",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/lacoste-mens-small-croc-cotton-long-sleeve-crew-sweatshirt-528146"
     },
     {
@@ -377,7 +404,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/ted-baker-mens-3-pack-logo-mid-rise-boxer-briefs-420382"
     },
     {
@@ -386,7 +413,7 @@
       "percentage": 25.0,
       "old_price": "70.00",
       "new_price": "52.50",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/boss-h-delaware-10263385-02-slim-fit-jeans-mens-644639"
     },
     {
@@ -395,7 +422,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/societe-noir-mens-scribble-fleece-jogger-shorts-470967"
     },
     {
@@ -404,7 +431,7 @@
       "percentage": 25.0,
       "old_price": "20.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/pretty-lavish-womens-p-fern-off-shoulder-bardot-mini-dress-653790"
     },
     {
@@ -413,7 +440,7 @@
       "percentage": 25.0,
       "old_price": "50.00",
       "new_price": "37.50",
-      "timestamp": "2026-01-27T01:34:02.030079",
+      "timestamp": "2026-01-27T01:39:00.068663",
       "url": "https://www.flannels.com/hugo-logo-hoodie-534575"
     },
     {
@@ -901,33 +928,6 @@
       "new_price": "314.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/beko-lsg4545w-freestanding-fridge-white/p111319404"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "TOMY Toomies Swimming Bluey Bath Toy",
-      "percentage": 10.0,
-      "old_price": "19.99",
-      "new_price": "17.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/tomy-toomies-swimming-bluey-bath-toy/p110849297"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LEGO Marvel Super Heroes 76321 Spider-Man vs. Doc Ock Subway Train Scene",
-      "percentage": 10.0,
-      "old_price": "39.99",
-      "new_price": "35.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/lego-marvel-super-heroes-76321-spider-man-vs-doc-ock-subway-train-scene/p113656645"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Sony WH-CH720 Noise Cancelling Bluetooth Wireless Over-Ear Headphones with Mic/Remote",
-      "percentage": 9.6,
-      "old_price": "72.99",
-      "new_price": "66.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/sony-wh-ch720-noise-cancelling-bluetooth-wireless-over-ear-headphones-with-mic-remote/p110194491"
     }
   ]
 }

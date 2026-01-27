@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T03:10:13.070162",
-  "total_drops": 189,
+  "generated_at": "2026-01-27T03:15:16.285514",
+  "total_drops": 191,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "currys_com",
-      "count": 6,
+      "count": 7,
       "max_drop": 62.5,
-      "total_savings": 216.0
+      "total_savings": 286.0
     },
     {
       "site": "johnlewis_com",
@@ -23,9 +23,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 32,
+      "count": 33,
       "max_drop": 39.4,
-      "total_savings": 1293.49
+      "total_savings": 1308.49
     },
     {
       "site": "garrard_com",
@@ -47,7 +47,7 @@
       "percentage": 66.7,
       "old_price": "3.00",
       "new_price": "1.00",
-      "timestamp": "2026-01-27T03:10:10.911204",
+      "timestamp": "2026-01-27T03:15:12.755173",
       "url": "https://www.leaderonline.com/products/leader-white-24m-painted-base-board-122302"
     },
     {
@@ -283,6 +283,15 @@
       "new_price": "31.49",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/superdry-cotton-cargo-shorts/p111942392"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Tommy Hilfiger - Kids' Monotype Closed Hem Fleece Joggers",
+      "percentage": 30.0,
+      "old_price": "50.00",
+      "new_price": "35.00",
+      "timestamp": "2026-01-27T03:15:15.071136",
+      "url": "https://www.flannels.com/tommy-hilfiger-kids-monotype-closed-hem-fleece-joggers-482587"
     },
     {
       "site": "flannels_com",
@@ -915,6 +924,15 @@
       "url": "https://www.johnlewis.com/hotpoint-nswm1046wuk-freestanding-washing-machine-10kg-load-1400rpm-spin-white/p112363270"
     },
     {
+      "site": "currys_com",
+      "product": "NINTENDO Switch Joy-Con Wireless Controllers - Pastel P",
+      "percentage": 15.6,
+      "old_price": "449.00",
+      "new_price": "379.00",
+      "timestamp": "2026-01-27T03:15:14.739170",
+      "url": "https://www.currys.co.uk/products/10198933.html"
+    },
+    {
       "site": "johnlewis_com",
       "product": "DIOR Miss Dior Parfum",
       "percentage": 15.0,
@@ -922,24 +940,6 @@
       "new_price": "68.00",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": "https://www.johnlewis.com/dior-miss-dior-parfum/p111442829"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Bobbi Brown Soothing Cleansing Oil",
-      "percentage": 15.0,
-      "old_price": "16.00",
-      "new_price": "13.60",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/bobbi-brown-soothing-cleansing-oil/p111209322"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Clarins Radiance-Plus Golden Glow Booster for Face, 15ml",
-      "percentage": 15.0,
-      "old_price": "23.00",
-      "new_price": "19.55",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/clarins-radiance-plus-golden-glow-booster-for-face-15ml/p5570847"
     }
   ]
 }

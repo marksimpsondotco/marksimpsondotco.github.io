@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-28T10:25:04.685743",
-  "total_drops": 3128,
+  "generated_at": "2026-01-28T10:30:36.876221",
+  "total_drops": 3139,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 401,
+      "count": 405,
       "max_drop": 74.2,
-      "total_savings": 11863.79
+      "total_savings": 11982.49
     },
     {
       "site": "radley_co_uk",
@@ -23,15 +23,15 @@
     },
     {
       "site": "currys_com",
-      "count": 1623,
+      "count": 1628,
       "max_drop": 63.7,
-      "total_savings": 42201.33
+      "total_savings": 42337.33
     },
     {
       "site": "fenwick_co_uk",
-      "count": 291,
+      "count": 292,
       "max_drop": 63.6,
-      "total_savings": 4689.99
+      "total_savings": 4690.49
     },
     {
       "site": "twentytwentyone_com",
@@ -68,6 +68,12 @@
       "count": 1,
       "max_drop": 39.2,
       "total_savings": 190.0
+    },
+    {
+      "site": "pigletinbed_com",
+      "count": 3,
+      "max_drop": 33.5,
+      "total_savings": 100.0
     },
     {
       "site": "condorcycles_com",
@@ -110,12 +116,6 @@
       "count": 85,
       "max_drop": 16.4,
       "total_savings": 11902.0
-    },
-    {
-      "site": "pigletinbed_com",
-      "count": 2,
-      "max_drop": 15.5,
-      "total_savings": 30.0
     },
     {
       "site": "percivalclo_com",
@@ -247,6 +247,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Straight Relaxed Leg Jean",
+      "percentage": 70.0,
+      "old_price": "65.00",
+      "new_price": "19.50",
+      "timestamp": "2026-01-28T10:30:09.340922",
+      "url": "https://www.johnlewis.com/john-lewis-straight-relaxed-leg-jean/p114103538"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Olive Leather Block Heel Ankle Boots",
       "percentage": 70.0,
       "old_price": "99.00",
@@ -271,15 +280,6 @@
       "new_price": "31.50",
       "timestamp": "2026-01-27T11:54:59.934845",
       "url": "https://www.johnlewis.com/john-lewis-palmer-leather-round-toe-chelsea-boots/p113908310"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Straight Relaxed Leg Jean",
-      "percentage": 70.0,
-      "old_price": "65.00",
-      "new_price": "19.50",
-      "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/john-lewis-straight-relaxed-leg-jean/p114103538"
     },
     {
       "site": "johnlewis_com",
@@ -431,7 +431,7 @@
       "percentage": 63.6,
       "old_price": "5.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-28T10:24:37.290152",
+      "timestamp": "2026-01-28T10:30:16.825422",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
     },
     {
@@ -458,7 +458,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T10:24:37.290152",
+      "timestamp": "2026-01-28T10:30:16.825422",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -962,7 +962,7 @@
       "percentage": 57.1,
       "old_price": "7.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T10:24:37.290152",
+      "timestamp": "2026-01-28T10:30:16.825422",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     },
     {

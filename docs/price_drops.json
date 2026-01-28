@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T14:34:01.144820",
-  "total_drops": 3264,
+  "generated_at": "2026-01-28T14:39:22.701276",
+  "total_drops": 3265,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -95,9 +95,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 47,
+      "count": 48,
       "max_drop": 25.0,
-      "total_savings": 1436.0
+      "total_savings": 1441.0
     },
     {
       "site": "chelseababy_com",
@@ -302,7 +302,7 @@
       "percentage": 70.0,
       "old_price": "1199.00",
       "new_price": "359.70",
-      "timestamp": "2026-01-28T14:33:42.933855",
+      "timestamp": "2026-01-28T14:39:04.020980",
       "url": "https://www.johnlewis.com/john-lewis-x-ray-6-8-seater-extending-dining-table/p5672019"
     },
     {

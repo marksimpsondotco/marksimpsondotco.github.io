@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T14:01:10.578894",
-  "total_drops": 3250,
+  "generated_at": "2026-01-28T14:06:36.583305",
+  "total_drops": 3251,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 437,
+      "count": 438,
       "max_drop": 74.2,
-      "total_savings": 13213.85
+      "total_savings": 13293.85
     },
     {
       "site": "radley_co_uk",

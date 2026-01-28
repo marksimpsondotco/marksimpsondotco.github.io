@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T01:39:47.589870",
-  "total_drops": 1759,
+  "generated_at": "2026-01-28T01:45:02.293008",
+  "total_drops": 1778,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "radley_co_uk",
-      "count": 37,
-      "max_drop": 66.9,
-      "total_savings": 3024.5
+      "count": 56,
+      "max_drop": 70.0,
+      "total_savings": 4146.3
     },
     {
       "site": "leaderonline_com",
@@ -151,6 +151,24 @@
       "new_price": "98.00",
       "timestamp": "2026-01-27T17:11:03.408025",
       "url": "https://www.johnlewis.com/reiss-gable-single-breasted-wool-blend-coat/p114285714"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Heritage Radley - Protect Leather Small Bifold Card Holder in Black - 112433",
+      "percentage": 70.0,
+      "old_price": "49.00",
+      "new_price": "14.70",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Windsor Lane Fabric Large Ziptop Tote Bag in Black - 111688",
+      "percentage": 70.0,
+      "old_price": "159.00",
+      "new_price": "47.70",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/windsor-lane-large-ziptop-backpack-black"
     },
     {
       "site": "johnlewis_com",
@@ -329,7 +347,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T01:39:19.744223",
+      "timestamp": "2026-01-28T01:44:48.413748",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -360,6 +378,15 @@
       "url": "https://www.radley.co.uk/products/under-the-sea-small-ziptop-grab-chalk"
     },
     {
+      "site": "radley_co_uk",
+      "product": "Holmes Avenue Leather Small Card Holder in Black - 111772",
+      "percentage": 61.5,
+      "old_price": "39.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/holmes-avenue-small-card-holder-latte"
+    },
+    {
       "site": "currys_com",
       "product": "SALTER Deco EK5832BLK 2-Slice Toaster - Black",
       "percentage": 61.1,
@@ -367,6 +394,123 @@
       "new_price": "35.00",
       "timestamp": "2026-01-27T08:24:27.762656",
       "url": "https://www.currys.co.uk/products/10260547.html"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Arragon Row Fabric Small Zip Around Grab Bag in Black - 111710",
+      "percentage": 60.3,
+      "old_price": "219.00",
+      "new_price": "87.00",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/arragon-row-small-zip-around-grab-drizzle"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Newick Road Leather Large Bifold Wallet in Black - 112437",
+      "percentage": 60.0,
+      "old_price": "99.00",
+      "new_price": "39.60",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/newick-road-large-bifold-purse-teal"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Heritage Radley - Protect Leather Large Flapover Wallet in Black - 112431",
+      "percentage": 60.0,
+      "old_price": "99.00",
+      "new_price": "39.60",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Heritage Radley - Protect Leather Medium Bifold Wallet in Black - 112429",
+      "percentage": 60.0,
+      "old_price": "79.00",
+      "new_price": "31.60",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Heritage Radley - Protect Leather Small Trifold Wallet in Black - 112430",
+      "percentage": 60.0,
+      "old_price": "69.00",
+      "new_price": "27.60",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Floribunda Leather Small Ziptop Coin Purse in Black - 112446",
+      "percentage": 60.0,
+      "old_price": "39.00",
+      "new_price": "15.60",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/floribunda-small-ziptop-cross-body-ochre"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Bishops Lane Fabric Responsible Umbrella in Black - 111536",
+      "percentage": 60.0,
+      "old_price": "30.00",
+      "new_price": "12.00",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/bishops-lane-stripe-responsible-foldaway-black"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Heritage Radley - Protect Leather Small Ziptop Coin Purse in Black - 112434",
+      "percentage": 60.0,
+      "old_price": "39.00",
+      "new_price": "15.60",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Newick Road Leather Medium Bifold Wallet in Black - 112435",
+      "percentage": 60.0,
+      "old_price": "79.00",
+      "new_price": "31.60",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/newick-road-medium-bifold-purse-teal"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Floribunda Leather Large Zip Around Wallet in Black - 112444",
+      "percentage": 60.0,
+      "old_price": "99.00",
+      "new_price": "39.60",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Tulip Street Leather Large Open Top Shoulder Bag in Black - 112406",
+      "percentage": 60.0,
+      "old_price": "239.00",
+      "new_price": "95.60",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/tulip-street-large-open-top-shoulder-snow"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Danesfield Mews Fabric Mini Ziptop Backpack in Black - 112424",
+      "percentage": 60.0,
+      "old_price": "139.00",
+      "new_price": "55.60",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/danesfield-mews-responsible-mini-ziptop-backpack-black"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Danesfield Mews Fabric Mini Zip Around Cross Body Bag in Black - 112423",
+      "percentage": 60.0,
+      "old_price": "109.00",
+      "new_price": "43.60",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/danesfield-mews-responsible-mini-zip-around-cross-body-black"
     },
     {
       "site": "radley_co_uk",
@@ -658,6 +802,15 @@
     },
     {
       "site": "radley_co_uk",
+      "product": "Chester Row Leather Small Card Holder in Black - 112064",
+      "percentage": 50.0,
+      "old_price": "59.00",
+      "new_price": "29.50",
+      "timestamp": "2026-01-28T01:44:45.693237",
+      "url": "https://www.radley.co.uk/products/chester-row-small-card-holder-black"
+    },
+    {
+      "site": "radley_co_uk",
       "product": "Dukes Place Medium Ziptop Cross Body Bag - RHC19701",
       "percentage": 50.0,
       "old_price": "199.00",
@@ -871,159 +1024,6 @@
       "new_price": "9.50",
       "timestamp": "2026-01-27T16:23:46.525249",
       "url": "https://www.johnlewis.com/john-lewis-supima-cotton-regular-fit-crew-neck-t-shirt/p6030384"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Sweaty Betty Soft Cloud Knitted Beanie Hat",
-      "percentage": 50.0,
-      "old_price": "35.00",
-      "new_price": "17.50",
-      "timestamp": "2026-01-28T00:30:52.648375",
-      "url": "https://www.johnlewis.com/sweaty-betty-soft-cloud-knitted-beanie-hat/p114464698"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Herschel Supply Co. Retreat Backpack",
-      "percentage": 50.0,
-      "old_price": "100.00",
-      "new_price": "50.00",
-      "timestamp": "2026-01-27T15:38:57.098840",
-      "url": "https://www.johnlewis.com/herschel-supply-co-retreat-backpack/p110710185"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Merino Wool Crew Neck Jumper",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-27T15:38:57.098840",
-      "url": "https://www.johnlewis.com/john-lewis-merino-wool-crew-neck-jumper/p113797003"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polo Ralph Lauren Cotton Cable Knit Jumper",
-      "percentage": 50.0,
-      "old_price": "190.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-27T15:38:57.098840",
-      "url": "https://www.johnlewis.com/polo-ralph-lauren-cotton-cable-knit-jumper/p5085683"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Berghaus Explorer Backpack, 25L, Jet Black",
-      "percentage": 50.0,
-      "old_price": "100.00",
-      "new_price": "50.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/berghaus-explorer-backpack-25l-jet-black/p112960890"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Le Creuset Classic Pepper Mill",
-      "percentage": 50.0,
-      "old_price": "43.00",
-      "new_price": "21.50",
-      "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/le-creuset-classic-pepper-mill/p5067050"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis V-Neck Merino Wool Sleeveless Jumper",
-      "percentage": 50.0,
-      "old_price": "39.00",
-      "new_price": "19.50",
-      "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/john-lewis-v-neck-merino-wool-sleeveless-jumper/p113744926"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Egyptian Cotton Unisex Bath Robe",
-      "percentage": 50.0,
-      "old_price": "60.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/john-lewis-egyptian-cotton-unisex-bath-robe/p111801685"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "FALKE Soft Merino Wool Blend Opaque Tights",
-      "percentage": 50.0,
-      "old_price": "44.00",
-      "new_price": "22.00",
-      "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/falke-soft-merino-wool-blend-opaque-tights/p3111060"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Elevated Triple Tote Bag, Black",
-      "percentage": 50.0,
-      "old_price": "85.00",
-      "new_price": "42.50",
-      "timestamp": "2026-01-27T17:11:03.408025",
-      "url": "https://www.johnlewis.com/john-lewis-elevated-triple-tote-bag-black/p114013277"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Radley Pockets Medium Crossbody Bag",
-      "percentage": 50.0,
-      "old_price": "159.00",
-      "new_price": "79.50",
-      "timestamp": "2026-01-27T17:11:03.408025",
-      "url": "https://www.johnlewis.com/radley-pockets-medium-crossbody-bag/p113917144"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Sweaty Betty Breathe Easy Mesh T-Shirt",
-      "percentage": 50.0,
-      "old_price": "55.00",
-      "new_price": "27.50",
-      "timestamp": "2026-01-27T17:11:03.408025",
-      "url": "https://www.johnlewis.com/sweaty-betty-breathe-easy-mesh-t-shirt/p113791097"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Barlow Flat Cap",
-      "percentage": 50.0,
-      "old_price": "33.00",
-      "new_price": "16.50",
-      "timestamp": "2026-01-28T01:39:19.744223",
-      "url": "https://fenwick.co.uk/products/barbour-barbour-barlow-flat-cap-navy-mha0483"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Conon Flat Cap",
-      "percentage": 50.0,
-      "old_price": "35.00",
-      "new_price": "17.50",
-      "timestamp": "2026-01-28T01:39:19.744223",
-      "url": "https://fenwick.co.uk/products/barbour-conon-flat-cap-navy-mha0857"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Cotton Blend Crew Socks",
-      "percentage": 50.0,
-      "old_price": "12.00",
-      "new_price": "6.00",
-      "timestamp": "2026-01-28T01:39:19.744223",
-      "url": "https://fenwick.co.uk/products/ralph-lauren-combed-cotton-color-shop-crew-college-green-dark-red-4499159908"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "No Problemo Sock White",
-      "percentage": 50.0,
-      "old_price": "11.40",
-      "new_price": "5.70",
-      "timestamp": "2026-01-28T01:39:19.744223",
-      "url": "https://fenwick.co.uk/products/no-problemo-no-problemo-sock-white-np00043-04"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Plain Lambswool Scarf",
-      "percentage": 50.0,
-      "old_price": "32.00",
-      "new_price": "16.00",
-      "timestamp": "2026-01-28T01:39:19.744223",
-      "url": "https://fenwick.co.uk/products/barbour-barbour-plain-lambswool-scarf-charcoalgrey-usc0008"
     }
   ]
 }

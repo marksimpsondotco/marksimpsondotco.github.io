@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T03:30:49.260517",
-  "total_drops": 1958,
+  "generated_at": "2026-01-28T03:36:03.937732",
+  "total_drops": 1964,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 246,
+      "count": 252,
       "max_drop": 62.5,
-      "total_savings": 3813.96
+      "total_savings": 3860.73
     },
     {
       "site": "currys_com",
@@ -401,7 +401,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T03:30:21.168888",
+      "timestamp": "2026-01-28T03:35:40.295573",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {

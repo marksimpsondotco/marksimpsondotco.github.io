@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T09:24:31.222023",
-  "total_drops": 2993,
+  "generated_at": "2026-01-28T09:29:58.061156",
+  "total_drops": 3004,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -22,16 +22,16 @@
       "total_savings": 2.0
     },
     {
+      "site": "currys_com",
+      "count": 1539,
+      "max_drop": 63.7,
+      "total_savings": 38303.82
+    },
+    {
       "site": "fenwick_co_uk",
       "count": 291,
       "max_drop": 63.6,
       "total_savings": 4689.99
-    },
-    {
-      "site": "currys_com",
-      "count": 1530,
-      "max_drop": 63.1,
-      "total_savings": 37993.84
     },
     {
       "site": "twentytwentyone_com",
@@ -62,6 +62,12 @@
       "count": 74,
       "max_drop": 39.4,
       "total_savings": 2340.48
+    },
+    {
+      "site": "hollinsandhollinshead_com",
+      "count": 1,
+      "max_drop": 39.2,
+      "total_savings": 190.0
     },
     {
       "site": "condorcycles_com",
@@ -125,9 +131,9 @@
     },
     {
       "site": "ullajohnson_com",
-      "count": 44,
+      "count": 45,
       "max_drop": 3.4,
-      "total_savings": 267.0
+      "total_savings": 272.0
     },
     {
       "site": "khaite_com",
@@ -405,12 +411,21 @@
       "url": "https://www.johnlewis.com/crocs-classic-clogs/p5529189"
     },
     {
+      "site": "currys_com",
+      "product": "PANASONIC Series 300 EW-DJ26-V311 Water Flosser - Viole",
+      "percentage": 63.7,
+      "old_price": "79.99",
+      "new_price": "29.00",
+      "timestamp": "2026-01-28T09:29:50.380784",
+      "url": "https://www.currys.co.uk/products/10267415.html"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Floral Edie Bow Alice",
       "percentage": 63.6,
       "old_price": "5.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-28T09:24:05.048057",
+      "timestamp": "2026-01-28T09:29:25.593497",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
     },
     {
@@ -437,7 +452,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T09:24:05.048057",
+      "timestamp": "2026-01-28T09:29:25.593497",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -941,7 +956,7 @@
       "percentage": 57.1,
       "old_price": "7.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T09:24:05.048057",
+      "timestamp": "2026-01-28T09:29:25.593497",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     },
     {
@@ -959,7 +974,7 @@
       "percentage": 56.5,
       "old_price": "114.99",
       "new_price": "49.99",
-      "timestamp": "2026-01-28T09:24:26.131389",
+      "timestamp": "2026-01-28T09:29:50.380784",
       "url": "https://www.currys.co.uk/products/21502353.html"
     },
     {
@@ -968,7 +983,7 @@
       "percentage": 56.5,
       "old_price": "114.99",
       "new_price": "49.99",
-      "timestamp": "2026-01-28T09:24:26.131389",
+      "timestamp": "2026-01-28T09:29:50.380784",
       "url": "https://www.currys.co.uk/products/21524322.html"
     },
     {
@@ -1033,15 +1048,6 @@
       "new_price": "25.00",
       "timestamp": "2026-01-28T08:52:02.041087",
       "url": "https://www.currys.co.uk/products/10288045.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "NINJA Woodfire XL Electric BBQ Grill Flat Plate",
-      "percentage": 52.8,
-      "old_price": "179.99",
-      "new_price": "84.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10260844.html"
     }
   ]
 }

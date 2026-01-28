@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T13:00:22.079582",
-  "total_drops": 3223,
+  "generated_at": "2026-01-28T13:05:51.177868",
+  "total_drops": 3225,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 426,
+      "count": 428,
       "max_drop": 74.2,
-      "total_savings": 12940.66
+      "total_savings": 12967.66
     },
     {
       "site": "radley_co_uk",
@@ -496,11 +496,20 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Sweaty Betty Stamina Seamless Sports Bra",
+      "percentage": 64.3,
+      "old_price": "35.00",
+      "new_price": "12.50",
+      "timestamp": "2026-01-28T13:05:31.486170",
+      "url": "https://www.johnlewis.com/sweaty-betty-stamina-seamless-sports-bra/p113084940"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Connect Check Towels",
       "percentage": 64.0,
       "old_price": "10.00",
       "new_price": "3.60",
-      "timestamp": "2026-01-28T12:59:57.408787",
+      "timestamp": "2026-01-28T13:05:31.486170",
       "url": "https://www.johnlewis.com/john-lewis-connect-check-towels/p111662913"
     },
     {
@@ -1069,15 +1078,6 @@
       "new_price": "49.99",
       "timestamp": "2026-01-28T09:39:14.337475",
       "url": "https://www.currys.co.uk/products/21524322.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "HOMEDICS Pro Physio Handheld Body Massager - Black",
-      "percentage": 56.5,
-      "old_price": "299.00",
-      "new_price": "129.99",
-      "timestamp": "2026-01-28T09:39:14.337475",
-      "url": "https://www.currys.co.uk/products/10265209.html"
     }
   ]
 }

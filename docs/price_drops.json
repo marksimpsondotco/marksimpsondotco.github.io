@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T02:32:33.521307",
-  "total_drops": 1937,
+  "generated_at": "2026-01-28T02:37:52.088380",
+  "total_drops": 1940,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -41,9 +41,9 @@
     },
     {
       "site": "ukbabycentre_com",
-      "count": 64,
+      "count": 65,
       "max_drop": 50.8,
-      "total_savings": 2057.87
+      "total_savings": 2158.82
     },
     {
       "site": "oliversweeney_com",
@@ -82,6 +82,12 @@
       "total_savings": 991.0
     },
     {
+      "site": "hoxtonmacs_co_uk",
+      "count": 3,
+      "max_drop": 18.3,
+      "total_savings": 280.0
+    },
+    {
       "site": "boden_com",
       "count": 19,
       "max_drop": 17.1,
@@ -92,12 +98,6 @@
       "count": 85,
       "max_drop": 16.4,
       "total_savings": 11902.0
-    },
-    {
-      "site": "hoxtonmacs_co_uk",
-      "count": 2,
-      "max_drop": 15.1,
-      "total_savings": 180.0
     },
     {
       "site": "percivalclo_com",
@@ -119,9 +119,9 @@
     },
     {
       "site": "khaite_com",
-      "count": 4,
+      "count": 5,
       "max_drop": 2.9,
-      "total_savings": 120.0
+      "total_savings": 125.0
     }
   ],
   "drops": [
@@ -401,7 +401,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T02:32:13.031730",
+      "timestamp": "2026-01-28T02:37:25.504069",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T13:39:16.087672",
-  "total_drops": 3247,
+  "generated_at": "2026-01-28T13:44:43.027542",
+  "total_drops": 3248,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -128,6 +128,12 @@
       "count": 86,
       "max_drop": 16.4,
       "total_savings": 11925.0
+    },
+    {
+      "site": "kingofcotton_com",
+      "count": 1,
+      "max_drop": 14.8,
+      "total_savings": 20.0
     },
     {
       "site": "berrysjewellers_co_uk",
@@ -359,7 +365,7 @@
       "percentage": 70.0,
       "old_price": "150.00",
       "new_price": "45.00",
-      "timestamp": "2026-01-28T13:38:51.946818",
+      "timestamp": "2026-01-28T13:44:21.003349",
       "url": "https://www.johnlewis.com/sam-edelman-michaela-leather-mary-janes/p112156070"
     },
     {
@@ -1052,7 +1058,7 @@
       "percentage": 60.0,
       "old_price": "34.99",
       "new_price": "14.00",
-      "timestamp": "2026-01-28T13:38:51.946818",
+      "timestamp": "2026-01-28T13:44:21.003349",
       "url": "https://www.johnlewis.com/saint-tropez-mila-3-4-sleeve-jumper/p112393072"
     },
     {

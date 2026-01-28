@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-28T00:36:00.356402",
-  "total_drops": 1604,
+  "generated_at": "2026-01-28T00:41:16.926642",
+  "total_drops": 1618,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 326,
+      "count": 328,
       "max_drop": 74.2,
-      "total_savings": 9264.9
+      "total_savings": 9294.22
     },
     {
       "site": "radley_co_uk",
@@ -29,9 +29,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 47,
+      "count": 59,
       "max_drop": 62.5,
-      "total_savings": 821.54
+      "total_savings": 982.14
     },
     {
       "site": "currys_com",
@@ -329,7 +329,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T00:35:48.847377",
+      "timestamp": "2026-01-28T00:40:47.258957",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -977,7 +977,7 @@
       "percentage": 50.0,
       "old_price": "33.00",
       "new_price": "16.50",
-      "timestamp": "2026-01-28T00:35:48.847377",
+      "timestamp": "2026-01-28T00:40:47.258957",
       "url": "https://fenwick.co.uk/products/barbour-barbour-barlow-flat-cap-navy-mha0483"
     },
     {
@@ -986,7 +986,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-28T00:35:48.847377",
+      "timestamp": "2026-01-28T00:40:47.258957",
       "url": "https://fenwick.co.uk/products/barbour-conon-flat-cap-navy-mha0857"
     },
     {
@@ -995,7 +995,7 @@
       "percentage": 50.0,
       "old_price": "12.00",
       "new_price": "6.00",
-      "timestamp": "2026-01-28T00:35:48.847377",
+      "timestamp": "2026-01-28T00:40:47.258957",
       "url": "https://fenwick.co.uk/products/ralph-lauren-combed-cotton-color-shop-crew-college-green-dark-red-4499159908"
     },
     {
@@ -1004,26 +1004,26 @@
       "percentage": 50.0,
       "old_price": "11.40",
       "new_price": "5.70",
-      "timestamp": "2026-01-28T00:35:48.847377",
+      "timestamp": "2026-01-28T00:40:47.258957",
       "url": "https://fenwick.co.uk/products/no-problemo-no-problemo-sock-white-np00043-04"
     },
     {
-      "site": "currys_com",
-      "product": "SKY 120 Sky TV Remote Control",
+      "site": "fenwick_co_uk",
+      "product": "Plain Lambswool Scarf",
       "percentage": 50.0,
-      "old_price": "159.99",
-      "new_price": "79.99",
-      "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/11267649.html"
+      "old_price": "32.00",
+      "new_price": "16.00",
+      "timestamp": "2026-01-28T00:40:47.258957",
+      "url": "https://fenwick.co.uk/products/barbour-barbour-plain-lambswool-scarf-charcoalgrey-usc0008"
     },
     {
-      "site": "currys_com",
-      "product": "AUDIO PRO Drumfire II Wireless Multi-room Speaker - Whi",
+      "site": "fenwick_co_uk",
+      "product": "Tartan Lambswool Scarf",
       "percentage": 50.0,
-      "old_price": "59.99",
-      "new_price": "29.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10256608.html"
+      "old_price": "30.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-28T00:40:47.258957",
+      "url": "https://fenwick.co.uk/products/barbour-tartan-lambswool-scarf-cranberry-tartan-usc0001"
     }
   ]
 }

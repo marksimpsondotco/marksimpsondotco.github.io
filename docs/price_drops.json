@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T12:49:18.932867",
-  "total_drops": 3221,
+  "generated_at": "2026-01-28T12:54:47.623868",
+  "total_drops": 3222,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -113,9 +113,9 @@
     },
     {
       "site": "boden_com",
-      "count": 27,
+      "count": 28,
       "max_drop": 17.1,
-      "total_savings": 66.89
+      "total_savings": 70.39
     },
     {
       "site": "mamasandpapas_com",
@@ -500,7 +500,7 @@
       "percentage": 64.0,
       "old_price": "10.00",
       "new_price": "3.60",
-      "timestamp": "2026-01-28T12:48:53.099067",
+      "timestamp": "2026-01-28T12:54:24.234709",
       "url": "https://www.johnlewis.com/john-lewis-connect-check-towels/p111662913"
     },
     {

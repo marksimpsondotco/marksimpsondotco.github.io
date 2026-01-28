@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T14:17:52.534571",
-  "total_drops": 3257,
+  "generated_at": "2026-01-28T14:23:16.450515",
+  "total_drops": 3264,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 442,
+      "count": 447,
       "max_drop": 74.2,
-      "total_savings": 13518.85
+      "total_savings": 15342.65
     },
     {
       "site": "radley_co_uk",
@@ -106,6 +106,12 @@
       "total_savings": 6842.75
     },
     {
+      "site": "berrysjewellers_co_uk",
+      "count": 4,
+      "max_drop": 20.0,
+      "total_savings": 4170.0
+    },
+    {
       "site": "mamasandpapas_com",
       "count": 2,
       "max_drop": 20.0,
@@ -134,12 +140,6 @@
       "count": 1,
       "max_drop": 14.8,
       "total_savings": 20.0
-    },
-    {
-      "site": "berrysjewellers_co_uk",
-      "count": 2,
-      "max_drop": 10.6,
-      "total_savings": 710.0
     },
     {
       "site": "nordisk_co_uk",
@@ -295,6 +295,15 @@
       "new_price": "65.70",
       "timestamp": "2026-01-28T02:25:21.929630",
       "url": null
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis X-Ray 6-8 Seater Extending Dining Table",
+      "percentage": 70.0,
+      "old_price": "1199.00",
+      "new_price": "359.70",
+      "timestamp": "2026-01-28T14:22:55.265501",
+      "url": "https://www.johnlewis.com/john-lewis-x-ray-6-8-seater-extending-dining-table/p5672019"
     },
     {
       "site": "johnlewis_com",
@@ -1087,15 +1096,6 @@
       "new_price": "3.00",
       "timestamp": "2026-01-28T12:33:38.625943",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
-    },
-    {
-      "site": "currys_com",
-      "product": "PANASONIC ES-WM31-P301 5-in-1 Wet & Dry Lady Shaver - W",
-      "percentage": 56.5,
-      "old_price": "69.00",
-      "new_price": "29.99",
-      "timestamp": "2026-01-28T08:52:02.041087",
-      "url": "https://www.currys.co.uk/products/10269139.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T17:20:57.161164",
-  "total_drops": 3287,
+  "generated_at": "2026-01-28T17:26:15.160932",
+  "total_drops": 3289,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 459,
+      "count": 460,
       "max_drop": 74.2,
-      "total_savings": 15814.52
+      "total_savings": 15904.52
     },
     {
       "site": "radley_co_uk",
@@ -29,9 +29,9 @@
     },
     {
       "site": "currys_com",
-      "count": 1674,
+      "count": 1675,
       "max_drop": 63.7,
-      "total_savings": 44347.09
+      "total_savings": 44597.09
     },
     {
       "site": "fenwick_co_uk",
@@ -229,6 +229,15 @@
       "new_price": "17.70",
       "timestamp": "2026-01-27T11:54:59.934845",
       "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Reiss Finley Leather Trainers",
+      "percentage": 70.3,
+      "old_price": "128.00",
+      "new_price": "38.00",
+      "timestamp": "2026-01-28T17:25:59.773151",
+      "url": "https://www.johnlewis.com/reiss-finley-leather-trainers/p113928771"
     },
     {
       "site": "johnlewis_com",
@@ -668,7 +677,7 @@
       "percentage": 61.5,
       "old_price": "129.95",
       "new_price": "50.00",
-      "timestamp": "2026-01-28T17:20:45.405277",
+      "timestamp": "2026-01-28T17:25:50.478590",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-brown-libres-boots-libres"
     },
     {
@@ -1093,15 +1102,6 @@
       "new_price": "14.00",
       "timestamp": "2026-01-28T13:54:57.275681",
       "url": "https://www.johnlewis.com/saint-tropez-mila-3-4-sleeve-jumper/p112393072"
-    },
-    {
-      "site": "currys_com",
-      "product": "HOOVER HONSQ2T918EWBK SBS WD American-Style Fridge Free",
-      "percentage": 58.3,
-      "old_price": "119.99",
-      "new_price": "49.99",
-      "timestamp": "2026-01-28T08:52:02.041087",
-      "url": "https://www.currys.co.uk/products/10290877.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T13:05:51.177868",
-  "total_drops": 3225,
+  "generated_at": "2026-01-28T13:11:19.643276",
+  "total_drops": 3226,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 292,
+      "count": 293,
       "max_drop": 63.6,
-      "total_savings": 4690.49
+      "total_savings": 4714.49
     },
     {
       "site": "twentytwentyone_com",
@@ -500,7 +500,7 @@
       "percentage": 64.3,
       "old_price": "35.00",
       "new_price": "12.50",
-      "timestamp": "2026-01-28T13:05:31.486170",
+      "timestamp": "2026-01-28T13:10:25.433887",
       "url": "https://www.johnlewis.com/sweaty-betty-stamina-seamless-sports-bra/p113084940"
     },
     {
@@ -509,7 +509,7 @@
       "percentage": 64.0,
       "old_price": "10.00",
       "new_price": "3.60",
-      "timestamp": "2026-01-28T13:05:31.486170",
+      "timestamp": "2026-01-28T13:10:25.433887",
       "url": "https://www.johnlewis.com/john-lewis-connect-check-towels/p111662913"
     },
     {

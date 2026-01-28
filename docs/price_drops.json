@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-28T06:46:03.296871",
-  "total_drops": 2037,
+  "generated_at": "2026-01-28T06:51:14.349707",
+  "total_drops": 2051,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 388,
+      "count": 389,
       "max_drop": 74.2,
-      "total_savings": 11398.8
+      "total_savings": 11423.8
     },
     {
       "site": "radley_co_uk",
@@ -22,16 +22,16 @@
       "total_savings": 2.0
     },
     {
+      "site": "fenwick_co_uk",
+      "count": 286,
+      "max_drop": 63.6,
+      "total_savings": 4667.89
+    },
+    {
       "site": "twentytwentyone_com",
       "count": 96,
       "max_drop": 62.7,
       "total_savings": 31591.0
-    },
-    {
-      "site": "fenwick_co_uk",
-      "count": 273,
-      "max_drop": 62.5,
-      "total_savings": 4604.89
     },
     {
       "site": "currys_com",
@@ -399,6 +399,15 @@
       "url": "https://www.johnlewis.com/crocs-classic-clogs/p5529189"
     },
     {
+      "site": "fenwick_co_uk",
+      "product": "Floral Edie Bow Alice",
+      "percentage": 63.6,
+      "old_price": "5.50",
+      "new_price": "2.00",
+      "timestamp": "2026-01-28T06:51:08.881227",
+      "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
+    },
+    {
       "site": "twentytwentyone_com",
       "product": "Vass 40:135 Wall",
       "percentage": 62.7,
@@ -413,7 +422,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T06:45:44.392925",
+      "timestamp": "2026-01-28T06:51:08.881227",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -903,6 +912,15 @@
       "url": "https://www.johnlewis.com/philips-series-3000-s3242-12-wet-dry-electric-shaver-with-5d-flex-pivot-heads-travel-pouch-pop-up-trimmer-ash-gold/p110953138"
     },
     {
+      "site": "fenwick_co_uk",
+      "product": "Flying Unicorn Hair Ponies Bright",
+      "percentage": 57.1,
+      "old_price": "7.00",
+      "new_price": "3.00",
+      "timestamp": "2026-01-28T06:51:08.881227",
+      "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Reiss Kids' Blackhall Wool Zip Neck Jumper",
       "percentage": 55.9,
@@ -1018,24 +1036,6 @@
       "new_price": "36.99",
       "timestamp": "2026-01-27T08:24:27.762656",
       "url": "https://www.currys.co.uk/products/10289233.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Cashmere Crew Neck Jumper",
-      "percentage": 50.5,
-      "old_price": "99.00",
-      "new_price": "49.00",
-      "timestamp": "2026-01-27T15:38:57.098840",
-      "url": "https://www.johnlewis.com/john-lewis-cashmere-crew-neck-jumper/p113835615"
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "OAK STREET MEDIUM ZIPTOP TOTE CHALK",
-      "percentage": 50.2,
-      "old_price": "259.00",
-      "new_price": "129.00",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": "https://www.radley.co.uk/products/oak-street-medium-ziptop-tote-utility"
     }
   ]
 }

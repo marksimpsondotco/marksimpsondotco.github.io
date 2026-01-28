@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T01:13:12.837263",
-  "total_drops": 1703,
+  "generated_at": "2026-01-28T01:18:27.993151",
+  "total_drops": 1713,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 101,
+      "count": 111,
       "max_drop": 62.5,
-      "total_savings": 1586.94
+      "total_savings": 1701.64
     },
     {
       "site": "currys_com",
@@ -329,7 +329,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T01:12:50.733793",
+      "timestamp": "2026-01-28T01:18:05.150033",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -815,7 +815,7 @@
       "percentage": 50.0,
       "old_price": "30.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-28T01:13:00.950578",
+      "timestamp": "2026-01-28T01:17:52.144940",
       "url": "https://www.johnlewis.com/speedo-medley-logo-16-watershorts-navy-lagoon-blue/p113983019"
     },
     {
@@ -986,7 +986,7 @@
       "percentage": 50.0,
       "old_price": "33.00",
       "new_price": "16.50",
-      "timestamp": "2026-01-28T01:12:50.733793",
+      "timestamp": "2026-01-28T01:18:05.150033",
       "url": "https://fenwick.co.uk/products/barbour-barbour-barlow-flat-cap-navy-mha0483"
     },
     {
@@ -995,7 +995,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-28T01:12:50.733793",
+      "timestamp": "2026-01-28T01:18:05.150033",
       "url": "https://fenwick.co.uk/products/barbour-conon-flat-cap-navy-mha0857"
     },
     {
@@ -1004,7 +1004,7 @@
       "percentage": 50.0,
       "old_price": "12.00",
       "new_price": "6.00",
-      "timestamp": "2026-01-28T01:12:50.733793",
+      "timestamp": "2026-01-28T01:18:05.150033",
       "url": "https://fenwick.co.uk/products/ralph-lauren-combed-cotton-color-shop-crew-college-green-dark-red-4499159908"
     },
     {
@@ -1013,7 +1013,7 @@
       "percentage": 50.0,
       "old_price": "11.40",
       "new_price": "5.70",
-      "timestamp": "2026-01-28T01:12:50.733793",
+      "timestamp": "2026-01-28T01:18:05.150033",
       "url": "https://fenwick.co.uk/products/no-problemo-no-problemo-sock-white-np00043-04"
     },
     {
@@ -1022,7 +1022,7 @@
       "percentage": 50.0,
       "old_price": "32.00",
       "new_price": "16.00",
-      "timestamp": "2026-01-28T01:12:50.733793",
+      "timestamp": "2026-01-28T01:18:05.150033",
       "url": "https://fenwick.co.uk/products/barbour-barbour-plain-lambswool-scarf-charcoalgrey-usc0008"
     }
   ]

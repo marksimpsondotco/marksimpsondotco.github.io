@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T00:30:45.055361",
-  "total_drops": 1561,
+  "generated_at": "2026-01-28T00:36:00.356402",
+  "total_drops": 1604,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -28,6 +28,12 @@
       "total_savings": 31591.0
     },
     {
+      "site": "fenwick_co_uk",
+      "count": 47,
+      "max_drop": 62.5,
+      "total_savings": 821.54
+    },
+    {
       "site": "currys_com",
       "count": 629,
       "max_drop": 62.5,
@@ -38,12 +44,6 @@
       "count": 64,
       "max_drop": 50.8,
       "total_savings": 2057.87
-    },
-    {
-      "site": "fenwick_co_uk",
-      "count": 6,
-      "max_drop": 50.0,
-      "total_savings": 75.5
     },
     {
       "site": "oliversweeney_com",
@@ -59,9 +59,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 63,
+      "count": 65,
       "max_drop": 39.4,
-      "total_savings": 1848.48
+      "total_savings": 1932.48
     },
     {
       "site": "condorcycles_com",
@@ -324,6 +324,15 @@
       "url": "https://www.twentytwentyone.com/products/asplund-claesson-koivisto-rune-vass-40-135-wall"
     },
     {
+      "site": "fenwick_co_uk",
+      "product": "Barbour Blyth Socks Midnight Oak Mix",
+      "percentage": 62.5,
+      "old_price": "8.00",
+      "new_price": "3.00",
+      "timestamp": "2026-01-28T00:35:48.847377",
+      "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
+    },
+    {
       "site": "currys_com",
       "product": "BOSCH Series 4 SMV4HTX00G Full-size Fully Integrated Wi",
       "percentage": 62.5,
@@ -482,7 +491,7 @@
       "percentage": 57.1,
       "old_price": "139.99",
       "new_price": "59.99",
-      "timestamp": "2026-01-28T00:30:32.934624",
+      "timestamp": "2026-01-28T00:30:52.648375",
       "url": "https://www.johnlewis.com/philips-series-3000-s3242-12-wet-dry-electric-shaver-with-5d-flex-pivot-heads-travel-pouch-pop-up-trimmer-ash-gold/p110953138"
     },
     {
@@ -500,7 +509,7 @@
       "percentage": 55.4,
       "old_price": "650.00",
       "new_price": "289.99",
-      "timestamp": "2026-01-28T00:30:32.934624",
+      "timestamp": "2026-01-28T00:30:52.648375",
       "url": "https://www.johnlewis.com/philips-xp9402-31-i9000-prestige-ultra-wet-dry-electric-shave-dark-slate/p113423839"
     },
     {
@@ -509,7 +518,7 @@
       "percentage": 55.0,
       "old_price": "199.99",
       "new_price": "89.99",
-      "timestamp": "2026-01-28T00:30:32.934624",
+      "timestamp": "2026-01-28T00:30:52.648375",
       "url": "https://www.johnlewis.com/philips-s5885-25-series-5000-wet-dry-mens-electric-shaver-with-pop-up-trimmer-charging-stand-and-full-led-display-midnight-blue/p110612266"
     },
     {
@@ -527,7 +536,7 @@
       "percentage": 54.5,
       "old_price": "440.00",
       "new_price": "199.99",
-      "timestamp": "2026-01-28T00:30:32.934624",
+      "timestamp": "2026-01-28T00:30:52.648375",
       "url": "https://www.johnlewis.com/philips-x9002-10-i9000-wet-dry-electric-shaver-dark-slate/p113423837"
     },
     {
@@ -554,7 +563,7 @@
       "percentage": 51.3,
       "old_price": "78.00",
       "new_price": "38.00",
-      "timestamp": "2026-01-28T00:30:32.934624",
+      "timestamp": "2026-01-28T00:30:52.648375",
       "url": "https://www.johnlewis.com/reiss-penny-ribbed-pure-wool-scarf/p114425484"
     },
     {
@@ -635,7 +644,7 @@
       "percentage": 50.1,
       "old_price": "39.95",
       "new_price": "19.95",
-      "timestamp": "2026-01-28T00:30:32.934624",
+      "timestamp": "2026-01-28T00:30:52.648375",
       "url": "https://www.johnlewis.com/sisley-rib-knit-scarf/p114708578"
     },
     {
@@ -860,7 +869,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-28T00:30:32.934624",
+      "timestamp": "2026-01-28T00:30:52.648375",
       "url": "https://www.johnlewis.com/sweaty-betty-soft-cloud-knitted-beanie-hat/p114464698"
     },
     {
@@ -968,7 +977,7 @@
       "percentage": 50.0,
       "old_price": "33.00",
       "new_price": "16.50",
-      "timestamp": "2026-01-28T00:30:14.792531",
+      "timestamp": "2026-01-28T00:35:48.847377",
       "url": "https://fenwick.co.uk/products/barbour-barbour-barlow-flat-cap-navy-mha0483"
     },
     {
@@ -977,8 +986,26 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-28T00:30:14.792531",
+      "timestamp": "2026-01-28T00:35:48.847377",
       "url": "https://fenwick.co.uk/products/barbour-conon-flat-cap-navy-mha0857"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Cotton Blend Crew Socks",
+      "percentage": 50.0,
+      "old_price": "12.00",
+      "new_price": "6.00",
+      "timestamp": "2026-01-28T00:35:48.847377",
+      "url": "https://fenwick.co.uk/products/ralph-lauren-combed-cotton-color-shop-crew-college-green-dark-red-4499159908"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "No Problemo Sock White",
+      "percentage": 50.0,
+      "old_price": "11.40",
+      "new_price": "5.70",
+      "timestamp": "2026-01-28T00:35:48.847377",
+      "url": "https://fenwick.co.uk/products/no-problemo-no-problemo-sock-white-np00043-04"
     },
     {
       "site": "currys_com",
@@ -997,33 +1024,6 @@
       "new_price": "29.99",
       "timestamp": "2026-01-27T08:24:27.762656",
       "url": "https://www.currys.co.uk/products/10256608.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Le Creuset Classic Salt Mill",
-      "percentage": 47.6,
-      "old_price": "41.00",
-      "new_price": "21.50",
-      "timestamp": "2026-01-27T11:54:59.934845",
-      "url": "https://www.johnlewis.com/le-creuset-classic-salt-mill/p5065295"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Barber Osgerby Frame",
-      "percentage": 47.1,
-      "old_price": "170.00",
-      "new_price": "90.00",
-      "timestamp": "2026-01-27T12:29:15.820303",
-      "url": "https://www.twentytwentyone.com/products/barber-osgerby-frame"
-    },
-    {
-      "site": "currys_com",
-      "product": "GIGABYTE GeForce RTX 5060 Ti 16 GB WINDFORCE MAX OC Gra",
-      "percentage": 46.9,
-      "old_price": "999.00",
-      "new_price": "529.99",
-      "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10295524.html"
     }
   ]
 }

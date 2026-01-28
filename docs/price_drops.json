@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T14:12:28.223079",
-  "total_drops": 3254,
+  "generated_at": "2026-01-28T14:17:52.534571",
+  "total_drops": 3257,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 439,
+      "count": 442,
       "max_drop": 74.2,
-      "total_savings": 13315.85
+      "total_savings": 13518.85
     },
     {
       "site": "radley_co_uk",
@@ -97,7 +97,7 @@
       "site": "dusk_com",
       "count": 47,
       "max_drop": 25.0,
-      "total_savings": 1434.0
+      "total_savings": 1436.0
     },
     {
       "site": "chelseababy_com",

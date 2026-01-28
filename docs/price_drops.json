@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-01-28T11:09:58.440338",
-  "total_drops": 3189,
+  "generated_at": "2026-01-28T11:15:24.121828",
+  "total_drops": 3190,
   "top_drops_shown": 100,
   "site_stats": [
+    {
+      "site": "thesewingstudio_co_uk",
+      "count": 3,
+      "max_drop": 98.9,
+      "total_savings": 902.03
+    },
     {
       "site": "johnlewis_com",
       "count": 406,
@@ -88,12 +94,6 @@
       "total_savings": 100.0
     },
     {
-      "site": "thesewingstudio_co_uk",
-      "count": 2,
-      "max_drop": 30.1,
-      "total_savings": 13.02
-    },
-    {
       "site": "dusk_com",
       "count": 38,
       "max_drop": 25.0,
@@ -167,6 +167,15 @@
     }
   ],
   "drops": [
+    {
+      "site": "thesewingstudio_co_uk",
+      "product": "Pfaff Ambition 610 Sewing Machine",
+      "percentage": 98.9,
+      "old_price": "899.00",
+      "new_price": "9.99",
+      "timestamp": "2026-01-28T11:14:43.212970",
+      "url": "https://www.thesewingstudio.co.uk/products/pfaff-ambition-610-sewing-machine"
+    },
     {
       "site": "johnlewis_com",
       "product": "John Lewis Cornell Leather Loafers",
@@ -443,7 +452,7 @@
       "percentage": 63.6,
       "old_price": "5.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-28T11:09:37.124978",
+      "timestamp": "2026-01-28T11:14:57.475956",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
     },
     {
@@ -470,7 +479,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T11:09:37.124978",
+      "timestamp": "2026-01-28T11:14:57.475956",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -974,7 +983,7 @@
       "percentage": 57.1,
       "old_price": "7.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T11:09:37.124978",
+      "timestamp": "2026-01-28T11:14:57.475956",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     },
     {
@@ -1057,15 +1066,6 @@
       "new_price": "9.99",
       "timestamp": "2026-01-27T08:24:27.762656",
       "url": "https://www.currys.co.uk/products/10278148.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Philips X9002/10 i9000 Wet & Dry Electric Shaver, Dark Slate",
-      "percentage": 54.5,
-      "old_price": "440.00",
-      "new_price": "199.99",
-      "timestamp": "2026-01-28T00:30:52.648375",
-      "url": "https://www.johnlewis.com/philips-x9002-10-i9000-wet-dry-electric-shaver-dark-slate/p113423837"
     }
   ]
 }

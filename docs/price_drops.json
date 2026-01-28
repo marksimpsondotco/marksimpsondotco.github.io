@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T19:55:11.562963",
-  "total_drops": 3359,
+  "generated_at": "2026-01-28T20:00:38.595872",
+  "total_drops": 3360,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -143,9 +143,9 @@
     },
     {
       "site": "boden_com",
-      "count": 34,
+      "count": 35,
       "max_drop": 17.1,
-      "total_savings": 86.79
+      "total_savings": 89.19
     },
     {
       "site": "hauslondon_com",
@@ -704,7 +704,7 @@
       "percentage": 61.5,
       "old_price": "129.95",
       "new_price": "50.00",
-      "timestamp": "2026-01-28T19:54:41.756596",
+      "timestamp": "2026-01-28T19:59:56.726042",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-brown-libres-boots-libres"
     },
     {

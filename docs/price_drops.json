@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T09:18:58.752648",
-  "total_drops": 2982,
+  "generated_at": "2026-01-28T09:24:31.222023",
+  "total_drops": 2993,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "currys_com",
-      "count": 1525,
+      "count": 1530,
       "max_drop": 63.1,
-      "total_savings": 37863.84
+      "total_savings": 37993.84
     },
     {
       "site": "twentytwentyone_com",
@@ -125,9 +125,9 @@
     },
     {
       "site": "ullajohnson_com",
-      "count": 38,
+      "count": 44,
       "max_drop": 3.4,
-      "total_savings": 232.0
+      "total_savings": 267.0
     },
     {
       "site": "khaite_com",
@@ -410,7 +410,7 @@
       "percentage": 63.6,
       "old_price": "5.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-28T09:18:30.829528",
+      "timestamp": "2026-01-28T09:24:05.048057",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
     },
     {
@@ -437,7 +437,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T09:18:30.829528",
+      "timestamp": "2026-01-28T09:24:05.048057",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -941,7 +941,7 @@
       "percentage": 57.1,
       "old_price": "7.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T09:18:30.829528",
+      "timestamp": "2026-01-28T09:24:05.048057",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     },
     {
@@ -959,7 +959,7 @@
       "percentage": 56.5,
       "old_price": "114.99",
       "new_price": "49.99",
-      "timestamp": "2026-01-28T09:18:50.694769",
+      "timestamp": "2026-01-28T09:24:26.131389",
       "url": "https://www.currys.co.uk/products/21502353.html"
     },
     {
@@ -968,7 +968,7 @@
       "percentage": 56.5,
       "old_price": "114.99",
       "new_price": "49.99",
-      "timestamp": "2026-01-28T09:18:50.694769",
+      "timestamp": "2026-01-28T09:24:26.131389",
       "url": "https://www.currys.co.uk/products/21524322.html"
     },
     {

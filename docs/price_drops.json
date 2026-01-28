@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T20:06:31.808436",
-  "total_drops": 3362,
+  "generated_at": "2026-01-28T20:11:58.476039",
+  "total_drops": 3363,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -65,9 +65,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 50,
+      "count": 51,
       "max_drop": 50.0,
-      "total_savings": 1506.0
+      "total_savings": 1530.0
     },
     {
       "site": "trunkclothiers_com",
@@ -710,7 +710,7 @@
       "percentage": 61.5,
       "old_price": "129.95",
       "new_price": "50.00",
-      "timestamp": "2026-01-28T20:05:49.578899",
+      "timestamp": "2026-01-28T20:11:42.930850",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-brown-libres-boots-libres"
     },
     {
@@ -791,7 +791,7 @@
       "percentage": 60.6,
       "old_price": "40.00",
       "new_price": "15.75",
-      "timestamp": "2026-01-28T20:05:44.818198",
+      "timestamp": "2026-01-28T20:09:47.229316",
       "url": "https://www.origincoffee.co.uk/products/hamararo"
     },
     {

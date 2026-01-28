@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T22:07:59.902659",
-  "total_drops": 3413,
+  "generated_at": "2026-01-28T22:13:23.112169",
+  "total_drops": 3414,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -76,6 +76,12 @@
       "total_savings": 839.3
     },
     {
+      "site": "pigletinbed_com",
+      "count": 4,
+      "max_drop": 48.3,
+      "total_savings": 114.0
+    },
+    {
       "site": "bugaboo_com",
       "count": 1,
       "max_drop": 40.5,
@@ -104,12 +110,6 @@
       "count": 19,
       "max_drop": 38.5,
       "total_savings": 1075.83
-    },
-    {
-      "site": "pigletinbed_com",
-      "count": 3,
-      "max_drop": 33.5,
-      "total_savings": 100.0
     },
     {
       "site": "baby-nest_co_uk",
@@ -728,7 +728,7 @@
       "percentage": 61.5,
       "old_price": "129.95",
       "new_price": "50.00",
-      "timestamp": "2026-01-28T22:07:25.014438",
+      "timestamp": "2026-01-28T22:12:46.231626",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-brown-libres-boots-libres"
     },
     {

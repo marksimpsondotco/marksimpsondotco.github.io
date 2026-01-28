@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-28T00:25:29.347702",
-  "total_drops": 1547,
+  "generated_at": "2026-01-28T00:30:45.055361",
+  "total_drops": 1561,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 319,
+      "count": 326,
       "max_drop": 74.2,
-      "total_savings": 9155.24
+      "total_savings": 9264.9
     },
     {
       "site": "radley_co_uk",
@@ -40,10 +40,22 @@
       "total_savings": 2057.87
     },
     {
+      "site": "fenwick_co_uk",
+      "count": 6,
+      "max_drop": 50.0,
+      "total_savings": 75.5
+    },
+    {
       "site": "oliversweeney_com",
       "count": 52,
       "max_drop": 43.7,
       "total_savings": 1210.0
+    },
+    {
+      "site": "bugaboo_com",
+      "count": 1,
+      "max_drop": 40.5,
+      "total_savings": 463.73
     },
     {
       "site": "flannels_com",
@@ -470,7 +482,7 @@
       "percentage": 57.1,
       "old_price": "139.99",
       "new_price": "59.99",
-      "timestamp": "2026-01-28T00:25:20.357556",
+      "timestamp": "2026-01-28T00:30:32.934624",
       "url": "https://www.johnlewis.com/philips-series-3000-s3242-12-wet-dry-electric-shaver-with-5d-flex-pivot-heads-travel-pouch-pop-up-trimmer-ash-gold/p110953138"
     },
     {
@@ -488,7 +500,7 @@
       "percentage": 55.4,
       "old_price": "650.00",
       "new_price": "289.99",
-      "timestamp": "2026-01-28T00:25:20.357556",
+      "timestamp": "2026-01-28T00:30:32.934624",
       "url": "https://www.johnlewis.com/philips-xp9402-31-i9000-prestige-ultra-wet-dry-electric-shave-dark-slate/p113423839"
     },
     {
@@ -497,7 +509,7 @@
       "percentage": 55.0,
       "old_price": "199.99",
       "new_price": "89.99",
-      "timestamp": "2026-01-28T00:25:20.357556",
+      "timestamp": "2026-01-28T00:30:32.934624",
       "url": "https://www.johnlewis.com/philips-s5885-25-series-5000-wet-dry-mens-electric-shaver-with-pop-up-trimmer-charging-stand-and-full-led-display-midnight-blue/p110612266"
     },
     {
@@ -515,7 +527,7 @@
       "percentage": 54.5,
       "old_price": "440.00",
       "new_price": "199.99",
-      "timestamp": "2026-01-28T00:25:20.357556",
+      "timestamp": "2026-01-28T00:30:32.934624",
       "url": "https://www.johnlewis.com/philips-x9002-10-i9000-wet-dry-electric-shaver-dark-slate/p113423837"
     },
     {
@@ -542,7 +554,7 @@
       "percentage": 51.3,
       "old_price": "78.00",
       "new_price": "38.00",
-      "timestamp": "2026-01-28T00:25:20.357556",
+      "timestamp": "2026-01-28T00:30:32.934624",
       "url": "https://www.johnlewis.com/reiss-penny-ribbed-pure-wool-scarf/p114425484"
     },
     {
@@ -623,7 +635,7 @@
       "percentage": 50.1,
       "old_price": "39.95",
       "new_price": "19.95",
-      "timestamp": "2026-01-28T00:25:20.357556",
+      "timestamp": "2026-01-28T00:30:32.934624",
       "url": "https://www.johnlewis.com/sisley-rib-knit-scarf/p114708578"
     },
     {
@@ -848,7 +860,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-28T00:25:20.357556",
+      "timestamp": "2026-01-28T00:30:32.934624",
       "url": "https://www.johnlewis.com/sweaty-betty-soft-cloud-knitted-beanie-hat/p114464698"
     },
     {
@@ -951,6 +963,24 @@
       "url": "https://www.johnlewis.com/sweaty-betty-breathe-easy-mesh-t-shirt/p113791097"
     },
     {
+      "site": "fenwick_co_uk",
+      "product": "Barlow Flat Cap",
+      "percentage": 50.0,
+      "old_price": "33.00",
+      "new_price": "16.50",
+      "timestamp": "2026-01-28T00:30:14.792531",
+      "url": "https://fenwick.co.uk/products/barbour-barbour-barlow-flat-cap-navy-mha0483"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Conon Flat Cap",
+      "percentage": 50.0,
+      "old_price": "35.00",
+      "new_price": "17.50",
+      "timestamp": "2026-01-28T00:30:14.792531",
+      "url": "https://fenwick.co.uk/products/barbour-conon-flat-cap-navy-mha0857"
+    },
+    {
       "site": "currys_com",
       "product": "SKY 120 Sky TV Remote Control",
       "percentage": 50.0,
@@ -994,24 +1024,6 @@
       "new_price": "529.99",
       "timestamp": "2026-01-27T10:50:44.303571",
       "url": "https://www.currys.co.uk/products/10295524.html"
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "Kendal Terrace 31mm With Leather Strap Watch - RY21906A",
-      "percentage": 45.6,
-      "old_price": "90.00",
-      "new_price": "49.00",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": "https://www.radley.co.uk/products/kendal-terrace-31mm-with-leather-strap-watch-ry21906a"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Ossos Black",
-      "percentage": 43.7,
-      "old_price": "229.00",
-      "new_price": "129.00",
-      "timestamp": "2026-01-27T20:07:19.129162",
-      "url": "https://www.oliversweeney.com/products/ossos-black"
     }
   ]
 }

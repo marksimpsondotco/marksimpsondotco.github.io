@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T10:53:02.241087",
-  "total_drops": 3163,
+  "generated_at": "2026-01-28T10:58:31.988537",
+  "total_drops": 3179,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -23,9 +23,9 @@
     },
     {
       "site": "currys_com",
-      "count": 1645,
+      "count": 1661,
       "max_drop": 63.7,
-      "total_savings": 43055.34
+      "total_savings": 43916.34
     },
     {
       "site": "fenwick_co_uk",
@@ -263,7 +263,7 @@
       "percentage": 70.0,
       "old_price": "65.00",
       "new_price": "19.50",
-      "timestamp": "2026-01-28T10:52:39.908157",
+      "timestamp": "2026-01-28T10:58:08.680074",
       "url": "https://www.johnlewis.com/john-lewis-straight-relaxed-leg-jean/p114103538"
     },
     {
@@ -443,7 +443,7 @@
       "percentage": 63.6,
       "old_price": "5.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-28T10:52:45.724544",
+      "timestamp": "2026-01-28T10:57:58.124079",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
     },
     {
@@ -470,7 +470,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T10:52:45.724544",
+      "timestamp": "2026-01-28T10:57:58.124079",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -974,7 +974,7 @@
       "percentage": 57.1,
       "old_price": "7.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T10:52:45.724544",
+      "timestamp": "2026-01-28T10:57:58.124079",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     },
     {

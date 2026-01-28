@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T12:05:10.925738",
-  "total_drops": 3203,
+  "generated_at": "2026-01-28T12:10:38.607633",
+  "total_drops": 3212,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 411,
+      "count": 418,
       "max_drop": 74.2,
-      "total_savings": 12210.39
+      "total_savings": 12644.89
     },
     {
       "site": "radley_co_uk",
@@ -113,9 +113,9 @@
     },
     {
       "site": "boden_com",
-      "count": 25,
+      "count": 27,
       "max_drop": 17.1,
-      "total_savings": 63.29
+      "total_savings": 66.89
     },
     {
       "site": "mamasandpapas_com",
@@ -284,7 +284,7 @@
       "percentage": 70.0,
       "old_price": "12.00",
       "new_price": "3.60",
-      "timestamp": "2026-01-28T12:04:49.965269",
+      "timestamp": "2026-01-28T12:10:14.518097",
       "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-egyptian-cotton-percale-200-thread-count-bedding/p5417600"
     },
     {
@@ -293,8 +293,26 @@
       "percentage": 70.0,
       "old_price": "250.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-28T12:04:49.965269",
+      "timestamp": "2026-01-28T12:10:14.518097",
       "url": "https://www.johnlewis.com/john-lewis-kastrup-rug/p5136378"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Paper Mâché Table Lamp with Tapered Shade",
+      "percentage": 70.0,
+      "old_price": "160.00",
+      "new_price": "48.00",
+      "timestamp": "2026-01-28T12:10:14.518097",
+      "url": "https://www.johnlewis.com/john-lewis-paper-mache-table-lamp-with-tapered-shade/p112091154"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Raffia Taped Lampshade",
+      "percentage": 70.0,
+      "old_price": "20.00",
+      "new_price": "6.00",
+      "timestamp": "2026-01-28T12:10:14.518097",
+      "url": "https://www.johnlewis.com/john-lewis-raffia-taped-lampshade/p111651299"
     },
     {
       "site": "johnlewis_com",
@@ -446,7 +464,7 @@
       "percentage": 66.0,
       "old_price": "25.00",
       "new_price": "8.50",
-      "timestamp": "2026-01-28T12:04:49.965269",
+      "timestamp": "2026-01-28T12:10:14.518097",
       "url": "https://www.johnlewis.com/john-lewis-scalloped-linen-cushion/p110963470"
     },
     {
@@ -491,7 +509,7 @@
       "percentage": 63.6,
       "old_price": "5.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-28T12:04:42.734922",
+      "timestamp": "2026-01-28T12:10:05.773847",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
     },
     {
@@ -518,7 +536,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T12:04:42.734922",
+      "timestamp": "2026-01-28T12:10:05.773847",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -1022,7 +1040,7 @@
       "percentage": 57.1,
       "old_price": "7.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T12:04:42.734922",
+      "timestamp": "2026-01-28T12:10:05.773847",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     },
     {
@@ -1060,24 +1078,6 @@
       "new_price": "129.99",
       "timestamp": "2026-01-28T09:39:14.337475",
       "url": "https://www.currys.co.uk/products/10265209.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Reiss Kids' Blackhall Wool Zip Neck Jumper",
-      "percentage": 55.9,
-      "old_price": "34.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-27T15:38:57.098840",
-      "url": "https://www.johnlewis.com/reiss-kids-blackhall-wool-zip-neck-jumper/p112544353"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Philips XP9402/31 i9000 Prestige Ultra Wet & Dry Electric Shave, Dark Slate",
-      "percentage": 55.4,
-      "old_price": "650.00",
-      "new_price": "289.99",
-      "timestamp": "2026-01-28T00:30:52.648375",
-      "url": "https://www.johnlewis.com/philips-xp9402-31-i9000-prestige-ultra-wet-dry-electric-shave-dark-slate/p113423839"
     }
   ]
 }

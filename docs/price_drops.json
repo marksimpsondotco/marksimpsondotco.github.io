@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-27T23:59:34.464768",
-  "total_drops": 1484,
+  "generated_at": "2026-01-28T00:04:44.813992",
+  "total_drops": 1488,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 258,
+      "count": 262,
       "max_drop": 74.2,
-      "total_savings": 7389.3
+      "total_savings": 7476.8
     },
     {
       "site": "radley_co_uk",
@@ -502,6 +502,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Reiss Penny Ribbed Pure Wool Scarf",
+      "percentage": 51.3,
+      "old_price": "78.00",
+      "new_price": "38.00",
+      "timestamp": "2026-01-28T00:04:37.168122",
+      "url": "https://www.johnlewis.com/reiss-penny-ribbed-pure-wool-scarf/p114425484"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Reiss Blackhall Funnel Neck Merino Wool Jumper",
       "percentage": 51.0,
       "old_price": "98.00",
@@ -571,6 +580,15 @@
       "new_price": "149.00",
       "timestamp": "2026-01-27T18:41:53.453411",
       "url": null
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "SISLEY Rib Knit Scarf",
+      "percentage": 50.1,
+      "old_price": "39.95",
+      "new_price": "19.95",
+      "timestamp": "2026-01-28T00:04:37.168122",
+      "url": "https://www.johnlewis.com/sisley-rib-knit-scarf/p114708578"
     },
     {
       "site": "currys_com",
@@ -790,6 +808,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Sweaty Betty Soft Cloud Knitted Beanie Hat",
+      "percentage": 50.0,
+      "old_price": "35.00",
+      "new_price": "17.50",
+      "timestamp": "2026-01-28T00:04:37.168122",
+      "url": "https://www.johnlewis.com/sweaty-betty-soft-cloud-knitted-beanie-hat/p114464698"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Herschel Supply Co. Retreat Backpack",
       "percentage": 50.0,
       "old_price": "100.00",
@@ -985,33 +1012,6 @@
       "new_price": "39.20",
       "timestamp": "2026-01-27T17:11:03.408025",
       "url": "https://www.johnlewis.com/sweaty-betty-anytime-explorer-zip-up-jacket-navy-blue/p113083651"
-    },
-    {
-      "site": "currys_com",
-      "product": "SALTER COMBO-9192 Retro Jug Kettle & 4-Slice Toaster Bu",
-      "percentage": 42.5,
-      "old_price": "39.99",
-      "new_price": "22.99",
-      "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10279058.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "KG Kurt Geiger Trekker Cuff Ankle Boots, Black",
-      "percentage": 41.4,
-      "old_price": "169.00",
-      "new_price": "99.00",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": "https://www.johnlewis.com/kg-kurt-geiger-trekker-cuff-ankle-boots-black/p113823084"
-    },
-    {
-      "site": "currys_com",
-      "product": "SHARK TH200UK TurboBlade Cool + Heat High-Speed Multi-D",
-      "percentage": 41.2,
-      "old_price": "169.99",
-      "new_price": "99.99",
-      "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10293168.html"
     }
   ]
 }

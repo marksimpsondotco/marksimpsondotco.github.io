@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T13:33:47.542564",
-  "total_drops": 3238,
+  "generated_at": "2026-01-28T13:39:16.087672",
+  "total_drops": 3247,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -95,9 +95,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 38,
+      "count": 47,
       "max_drop": 25.0,
-      "total_savings": 1270.0
+      "total_savings": 1434.0
     },
     {
       "site": "chelseababy_com",
@@ -359,7 +359,7 @@
       "percentage": 70.0,
       "old_price": "150.00",
       "new_price": "45.00",
-      "timestamp": "2026-01-28T13:33:18.977337",
+      "timestamp": "2026-01-28T13:38:51.946818",
       "url": "https://www.johnlewis.com/sam-edelman-michaela-leather-mary-janes/p112156070"
     },
     {
@@ -1052,7 +1052,7 @@
       "percentage": 60.0,
       "old_price": "34.99",
       "new_price": "14.00",
-      "timestamp": "2026-01-28T13:33:18.977337",
+      "timestamp": "2026-01-28T13:38:51.946818",
       "url": "https://www.johnlewis.com/saint-tropez-mila-3-4-sleeve-jumper/p112393072"
     },
     {

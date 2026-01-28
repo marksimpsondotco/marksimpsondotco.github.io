@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T07:38:25.362201",
-  "total_drops": 2069,
+  "generated_at": "2026-01-28T07:43:38.061832",
+  "total_drops": 2116,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "currys_com",
-      "count": 650,
+      "count": 697,
       "max_drop": 62.5,
-      "total_savings": 10432.88
+      "total_savings": 11729.62
     },
     {
       "site": "ukbabycentre_com",
@@ -404,7 +404,7 @@
       "percentage": 63.6,
       "old_price": "5.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-28T07:37:59.947118",
+      "timestamp": "2026-01-28T07:43:07.189607",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
     },
     {
@@ -422,7 +422,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T07:37:59.947118",
+      "timestamp": "2026-01-28T07:43:07.189607",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -917,7 +917,7 @@
       "percentage": 57.1,
       "old_price": "7.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T07:37:59.947118",
+      "timestamp": "2026-01-28T07:43:07.189607",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     },
     {
@@ -946,6 +946,15 @@
       "new_price": "89.99",
       "timestamp": "2026-01-28T00:30:52.648375",
       "url": "https://www.johnlewis.com/philips-s5885-25-series-5000-wet-dry-mens-electric-shaver-with-pop-up-trimmer-charging-stand-and-full-led-display-midnight-blue/p110612266"
+    },
+    {
+      "site": "currys_com",
+      "product": "ORAL-B iO2 Kids Electric Toothbrush & Travel Case - Dis",
+      "percentage": 55.0,
+      "old_price": "100.00",
+      "new_price": "45.00",
+      "timestamp": "2026-01-28T07:43:21.674977",
+      "url": "https://www.currys.co.uk/products/10292131.html"
     },
     {
       "site": "currys_com",
@@ -1027,15 +1036,6 @@
       "new_price": "36.99",
       "timestamp": "2026-01-27T09:55:27.606242",
       "url": "https://www.currys.co.uk/products/10267186.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "TONIES Toniebox 2 Starter Set (Sunset Red) & Audio Figu",
-      "percentage": 50.7,
-      "old_price": "74.99",
-      "new_price": "36.99",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10289233.html"
     }
   ]
 }

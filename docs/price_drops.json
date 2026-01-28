@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T13:22:45.099694",
-  "total_drops": 3226,
+  "generated_at": "2026-01-28T13:28:16.439640",
+  "total_drops": 3235,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 428,
+      "count": 436,
       "max_drop": 74.2,
-      "total_savings": 12967.66
+      "total_savings": 13173.85
     },
     {
       "site": "radley_co_uk",
@@ -106,6 +106,12 @@
       "total_savings": 6842.75
     },
     {
+      "site": "mamasandpapas_com",
+      "count": 2,
+      "max_drop": 20.0,
+      "total_savings": 55.0
+    },
+    {
       "site": "hoxtonmacs_co_uk",
       "count": 3,
       "max_drop": 18.3,
@@ -116,12 +122,6 @@
       "count": 28,
       "max_drop": 17.1,
       "total_savings": 70.39
-    },
-    {
-      "site": "mamasandpapas_com",
-      "count": 1,
-      "max_drop": 16.7,
-      "total_savings": 30.0
     },
     {
       "site": "hauslondon_com",
@@ -340,6 +340,15 @@
       "new_price": "34.50",
       "timestamp": "2026-01-27T16:23:46.525249",
       "url": "https://www.johnlewis.com/john-lewis-otto-leather-pointed-toe-kitten-heel-ankle-boots/p113907311"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sam Edelman Michaela Leather Mary Janes",
+      "percentage": 70.0,
+      "old_price": "150.00",
+      "new_price": "45.00",
+      "timestamp": "2026-01-28T13:27:53.056458",
+      "url": "https://www.johnlewis.com/sam-edelman-michaela-leather-mary-janes/p112156070"
     },
     {
       "site": "johnlewis_com",
@@ -1026,6 +1035,15 @@
       "url": null
     },
     {
+      "site": "johnlewis_com",
+      "product": "Saint Tropez Mila 3/4 Sleeve Jumper",
+      "percentage": 60.0,
+      "old_price": "34.99",
+      "new_price": "14.00",
+      "timestamp": "2026-01-28T13:27:53.056458",
+      "url": "https://www.johnlewis.com/saint-tropez-mila-3-4-sleeve-jumper/p112393072"
+    },
+    {
       "site": "currys_com",
       "product": "HOOVER HONSQ2T918EWBK SBS WD American-Style Fridge Free",
       "percentage": 58.3,
@@ -1060,24 +1078,6 @@
       "new_price": "29.99",
       "timestamp": "2026-01-28T08:52:02.041087",
       "url": "https://www.currys.co.uk/products/10269139.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "DELONGHI Micalite KBOM3001R Jug Kettle - Red",
-      "percentage": 56.5,
-      "old_price": "114.99",
-      "new_price": "49.99",
-      "timestamp": "2026-01-28T09:39:14.337475",
-      "url": "https://www.currys.co.uk/products/21502353.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "DELONGHI Micalite CTOM4003R 4-Slice Toaster - Red",
-      "percentage": 56.5,
-      "old_price": "114.99",
-      "new_price": "49.99",
-      "timestamp": "2026-01-28T09:39:14.337475",
-      "url": "https://www.currys.co.uk/products/21524322.html"
     }
   ]
 }

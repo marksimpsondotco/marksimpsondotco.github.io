@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-28T10:36:11.777333",
-  "total_drops": 3145,
+  "generated_at": "2026-01-28T10:41:38.862955",
+  "total_drops": 3148,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 405,
+      "count": 406,
       "max_drop": 74.2,
-      "total_savings": 11982.49
+      "total_savings": 11998.99
     },
     {
       "site": "radley_co_uk",
@@ -70,22 +70,22 @@
       "total_savings": 190.0
     },
     {
+      "site": "condorcycles_com",
+      "count": 15,
+      "max_drop": 38.5,
+      "total_savings": 997.83
+    },
+    {
       "site": "pigletinbed_com",
       "count": 3,
       "max_drop": 33.5,
       "total_savings": 100.0
     },
     {
-      "site": "condorcycles_com",
-      "count": 14,
-      "max_drop": 33.3,
-      "total_savings": 972.82
-    },
-    {
       "site": "thesewingstudio_co_uk",
-      "count": 1,
+      "count": 2,
       "max_drop": 30.1,
-      "total_savings": 2.84
+      "total_savings": 13.02
     },
     {
       "site": "dusk_com",
@@ -257,7 +257,7 @@
       "percentage": 70.0,
       "old_price": "65.00",
       "new_price": "19.50",
-      "timestamp": "2026-01-28T10:35:46.446034",
+      "timestamp": "2026-01-28T10:41:15.427768",
       "url": "https://www.johnlewis.com/john-lewis-straight-relaxed-leg-jean/p114103538"
     },
     {
@@ -437,7 +437,7 @@
       "percentage": 63.6,
       "old_price": "5.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-28T10:35:35.427337",
+      "timestamp": "2026-01-28T10:41:12.443282",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
     },
     {
@@ -464,7 +464,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T10:35:35.427337",
+      "timestamp": "2026-01-28T10:41:12.443282",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -968,7 +968,7 @@
       "percentage": 57.1,
       "old_price": "7.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T10:35:35.427337",
+      "timestamp": "2026-01-28T10:41:12.443282",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     },
     {

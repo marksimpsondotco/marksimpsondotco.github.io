@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T17:36:51.568893",
-  "total_drops": 3289,
+  "generated_at": "2026-01-28T17:42:13.932526",
+  "total_drops": 3295,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "currys_com",
-      "count": 1675,
+      "count": 1676,
       "max_drop": 63.7,
-      "total_savings": 44597.09
+      "total_savings": 44647.09
     },
     {
       "site": "fenwick_co_uk",
@@ -100,6 +100,12 @@
       "total_savings": 100.0
     },
     {
+      "site": "nordisk_co_uk",
+      "count": 6,
+      "max_drop": 30.0,
+      "total_savings": 650.0
+    },
+    {
       "site": "chelseababy_com",
       "count": 130,
       "max_drop": 24.3,
@@ -140,12 +146,6 @@
       "count": 1,
       "max_drop": 14.8,
       "total_savings": 20.0
-    },
-    {
-      "site": "nordisk_co_uk",
-      "count": 1,
-      "max_drop": 10.0,
-      "total_savings": 15.0
     },
     {
       "site": "percivalclo_com",
@@ -236,7 +236,7 @@
       "percentage": 70.3,
       "old_price": "128.00",
       "new_price": "38.00",
-      "timestamp": "2026-01-28T17:36:35.896517",
+      "timestamp": "2026-01-28T17:41:55.224088",
       "url": "https://www.johnlewis.com/reiss-finley-leather-trainers/p113928771"
     },
     {
@@ -677,7 +677,7 @@
       "percentage": 61.5,
       "old_price": "129.95",
       "new_price": "50.00",
-      "timestamp": "2026-01-28T17:36:30.901244",
+      "timestamp": "2026-01-28T17:42:02.937666",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-brown-libres-boots-libres"
     },
     {

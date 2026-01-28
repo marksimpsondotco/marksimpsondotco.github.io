@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T19:32:53.018724",
-  "total_drops": 3336,
+  "generated_at": "2026-01-28T19:38:23.982010",
+  "total_drops": 3358,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -14,6 +14,12 @@
       "count": 462,
       "max_drop": 74.2,
       "total_savings": 15941.37
+    },
+    {
+      "site": "oliversweeney_com",
+      "count": 80,
+      "max_drop": 70.4,
+      "total_savings": 2340.0
     },
     {
       "site": "radley_co_uk",
@@ -62,12 +68,6 @@
       "count": 13,
       "max_drop": 50.0,
       "total_savings": 839.3
-    },
-    {
-      "site": "oliversweeney_com",
-      "count": 58,
-      "max_drop": 43.7,
-      "total_savings": 1405.0
     },
     {
       "site": "bugaboo_com",
@@ -247,6 +247,15 @@
       "new_price": "17.70",
       "timestamp": "2026-01-27T11:54:59.934845",
       "url": "https://www.johnlewis.com/john-lewis-harrietta-mary-jane-leather-pumps/p5997567"
+    },
+    {
+      "site": "oliversweeney_com",
+      "product": "Brecon Charcoal",
+      "percentage": 70.4,
+      "old_price": "199.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-28T19:37:24.133875",
+      "url": "https://www.oliversweeney.com/products/brecon-charcoal-knitwear"
     },
     {
       "site": "johnlewis_com",
@@ -695,7 +704,7 @@
       "percentage": 61.5,
       "old_price": "129.95",
       "new_price": "50.00",
-      "timestamp": "2026-01-28T19:32:28.360341",
+      "timestamp": "2026-01-28T19:37:39.323259",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-brown-libres-boots-libres"
     },
     {
@@ -1111,15 +1120,6 @@
       "new_price": "19.99",
       "timestamp": "2026-01-27T01:03:04.630359",
       "url": null
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Saint Tropez Mila 3/4 Sleeve Jumper",
-      "percentage": 60.0,
-      "old_price": "34.99",
-      "new_price": "14.00",
-      "timestamp": "2026-01-28T13:54:57.275681",
-      "url": "https://www.johnlewis.com/saint-tropez-mila-3-4-sleeve-jumper/p112393072"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T11:26:14.936106",
-  "total_drops": 3193,
+  "generated_at": "2026-01-28T11:31:42.013474",
+  "total_drops": 3195,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -113,9 +113,9 @@
     },
     {
       "site": "boden_com",
-      "count": 22,
+      "count": 23,
       "max_drop": 17.1,
-      "total_savings": 53.89
+      "total_savings": 55.89
     },
     {
       "site": "mamasandpapas_com",
@@ -160,6 +160,12 @@
       "total_savings": 125.0
     },
     {
+      "site": "smallsmart_co_uk",
+      "count": 1,
+      "max_drop": 2.8,
+      "total_savings": 0.99
+    },
+    {
       "site": "mansurgavriel_com",
       "count": 10,
       "max_drop": 2.0,
@@ -173,7 +179,7 @@
       "percentage": 98.9,
       "old_price": "899.00",
       "new_price": "9.99",
-      "timestamp": "2026-01-28T11:25:54.290904",
+      "timestamp": "2026-01-28T11:31:23.136891",
       "url": "https://www.thesewingstudio.co.uk/products/pfaff-ambition-610-sewing-machine"
     },
     {
@@ -452,7 +458,7 @@
       "percentage": 63.6,
       "old_price": "5.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-28T11:25:44.188748",
+      "timestamp": "2026-01-28T11:31:10.051251",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
     },
     {
@@ -479,7 +485,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T11:25:44.188748",
+      "timestamp": "2026-01-28T11:31:10.051251",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -983,7 +989,7 @@
       "percentage": 57.1,
       "old_price": "7.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T11:25:44.188748",
+      "timestamp": "2026-01-28T11:31:10.051251",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     },
     {

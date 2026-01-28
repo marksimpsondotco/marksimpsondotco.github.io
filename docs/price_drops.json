@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-28T09:40:48.346357",
-  "total_drops": 3013,
+  "generated_at": "2026-01-28T09:46:13.240286",
+  "total_drops": 3014,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 394,
+      "count": 395,
       "max_drop": 74.2,
-      "total_savings": 11527.39
+      "total_savings": 11531.39
     },
     {
       "site": "radley_co_uk",
@@ -425,7 +425,7 @@
       "percentage": 63.6,
       "old_price": "5.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-28T09:40:32.434650",
+      "timestamp": "2026-01-28T09:45:36.269964",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
     },
     {
@@ -452,7 +452,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T09:40:32.386782",
+      "timestamp": "2026-01-28T09:45:36.269964",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -956,7 +956,7 @@
       "percentage": 57.1,
       "old_price": "7.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T09:40:32.434650",
+      "timestamp": "2026-01-28T09:45:36.269964",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     },
     {

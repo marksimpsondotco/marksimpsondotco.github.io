@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T13:28:16.439640",
-  "total_drops": 3235,
+  "generated_at": "2026-01-28T13:33:47.542564",
+  "total_drops": 3238,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 436,
+      "count": 437,
       "max_drop": 74.2,
-      "total_savings": 13173.85
+      "total_savings": 13213.85
     },
     {
       "site": "radley_co_uk",
@@ -130,6 +130,12 @@
       "total_savings": 11925.0
     },
     {
+      "site": "berrysjewellers_co_uk",
+      "count": 1,
+      "max_drop": 10.6,
+      "total_savings": 560.0
+    },
+    {
       "site": "nordisk_co_uk",
       "count": 1,
       "max_drop": 10.0,
@@ -176,6 +182,12 @@
       "count": 10,
       "max_drop": 2.0,
       "total_savings": 60.0
+    },
+    {
+      "site": "babyandnurseryworld_co_uk",
+      "count": 1,
+      "max_drop": 1.7,
+      "total_savings": 1.0
     }
   ],
   "drops": [
@@ -347,7 +359,7 @@
       "percentage": 70.0,
       "old_price": "150.00",
       "new_price": "45.00",
-      "timestamp": "2026-01-28T13:27:53.056458",
+      "timestamp": "2026-01-28T13:33:18.977337",
       "url": "https://www.johnlewis.com/sam-edelman-michaela-leather-mary-janes/p112156070"
     },
     {
@@ -1040,7 +1052,7 @@
       "percentage": 60.0,
       "old_price": "34.99",
       "new_price": "14.00",
-      "timestamp": "2026-01-28T13:27:53.056458",
+      "timestamp": "2026-01-28T13:33:18.977337",
       "url": "https://www.johnlewis.com/saint-tropez-mila-3-4-sleeve-jumper/p112393072"
     },
     {

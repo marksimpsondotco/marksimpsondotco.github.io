@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T08:20:28.184018",
-  "total_drops": 2497,
+  "generated_at": "2026-01-28T08:25:42.382282",
+  "total_drops": 2590,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -28,16 +28,16 @@
       "total_savings": 4689.99
     },
     {
+      "site": "currys_com",
+      "count": 1171,
+      "max_drop": 63.1,
+      "total_savings": 24453.56
+    },
+    {
       "site": "twentytwentyone_com",
       "count": 96,
       "max_drop": 62.7,
       "total_savings": 31591.0
-    },
-    {
-      "site": "currys_com",
-      "count": 1078,
-      "max_drop": 62.5,
-      "total_savings": 19346.25
     },
     {
       "site": "ukbabycentre_com",
@@ -404,8 +404,17 @@
       "percentage": 63.6,
       "old_price": "5.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-28T08:20:17.467028",
+      "timestamp": "2026-01-28T08:25:15.650398",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
+    },
+    {
+      "site": "currys_com",
+      "product": "LG USC9S 3.1.3 Wireless Sound Bar with Dolby Atmos",
+      "percentage": 63.1,
+      "old_price": "160.00",
+      "new_price": "58.99",
+      "timestamp": "2026-01-28T08:25:34.991162",
+      "url": "https://www.currys.co.uk/products/10248732.html"
     },
     {
       "site": "twentytwentyone_com",
@@ -422,7 +431,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T08:20:17.467028",
+      "timestamp": "2026-01-28T08:25:15.650398",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -917,8 +926,17 @@
       "percentage": 57.1,
       "old_price": "7.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T08:20:17.467028",
+      "timestamp": "2026-01-28T08:25:15.650398",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
+    },
+    {
+      "site": "currys_com",
+      "product": "PANASONIC ES-WM31-P301 5-in-1 Wet & Dry Lady Shaver - W",
+      "percentage": 56.5,
+      "old_price": "69.00",
+      "new_price": "29.99",
+      "timestamp": "2026-01-28T08:25:34.991162",
+      "url": "https://www.currys.co.uk/products/10269139.html"
     },
     {
       "site": "johnlewis_com",
@@ -976,6 +994,15 @@
     },
     {
       "site": "currys_com",
+      "product": "HYPERX Pulsefire Saga Pro RGB Wireless Optical Gaming M",
+      "percentage": 53.7,
+      "old_price": "53.99",
+      "new_price": "25.00",
+      "timestamp": "2026-01-28T08:25:34.991162",
+      "url": "https://www.currys.co.uk/products/10288045.html"
+    },
+    {
+      "site": "currys_com",
       "product": "NINJA Woodfire XL Electric BBQ Grill Flat Plate",
       "percentage": 52.8,
       "old_price": "179.99",
@@ -1009,33 +1036,6 @@
       "new_price": "48.00",
       "timestamp": "2026-01-27T15:38:57.098840",
       "url": "https://www.johnlewis.com/reiss-blackhall-funnel-neck-merino-wool-jumper/p5519859"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Reiss Petite Gabi Slim Fit Suit Trousers",
-      "percentage": 51.0,
-      "old_price": "98.00",
-      "new_price": "48.00",
-      "timestamp": "2026-01-27T17:11:03.408025",
-      "url": "https://www.johnlewis.com/reiss-petite-gabi-slim-fit-suit-trousers/p111648116"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "Bugaboo Fox 5 Sun Canopy - Grey Melange",
-      "percentage": 50.8,
-      "old_price": "59.00",
-      "new_price": "29.00",
-      "timestamp": "2026-01-27T11:38:34.349989",
-      "url": "https://ukbabycentre.com/products/bugaboo-fox-5-sun-canopy-grey-melange"
-    },
-    {
-      "site": "currys_com",
-      "product": "BOSCH MyMoment TAT3M141GB 4-Slice Toaster - White",
-      "percentage": 50.7,
-      "old_price": "74.99",
-      "new_price": "36.99",
-      "timestamp": "2026-01-27T09:55:27.606242",
-      "url": "https://www.currys.co.uk/products/10267186.html"
     }
   ]
 }

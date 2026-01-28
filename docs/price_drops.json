@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T01:45:02.293008",
-  "total_drops": 1778,
+  "generated_at": "2026-01-28T01:50:18.666589",
+  "total_drops": 1853,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "radley_co_uk",
-      "count": 56,
+      "count": 130,
       "max_drop": 70.0,
-      "total_savings": 4146.3
+      "total_savings": 8511.7
     },
     {
       "site": "leaderonline_com",
@@ -29,9 +29,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 156,
+      "count": 157,
       "max_drop": 62.5,
-      "total_savings": 2014.81
+      "total_savings": 2034.71
     },
     {
       "site": "currys_com",
@@ -158,7 +158,7 @@
       "percentage": 70.0,
       "old_price": "49.00",
       "new_price": "14.70",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
     },
     {
@@ -167,8 +167,53 @@
       "percentage": 70.0,
       "old_price": "159.00",
       "new_price": "47.70",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/windsor-lane-large-ziptop-backpack-black"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Beech Row Small Zip Around Wallet in Teal - 112333",
+      "percentage": 70.0,
+      "old_price": "79.00",
+      "new_price": "23.70",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/beech-row-small-zip-around-purse-teal"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Floribunda Leather Small Ziptop Cross Body Bag in Pine Needle - 112403",
+      "percentage": 70.0,
+      "old_price": "219.00",
+      "new_price": "65.70",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/floribunda-small-ziptop-cross-body-ochre"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Beech Row Small Zip Around Wallet in Pine Needle - 112336",
+      "percentage": 70.0,
+      "old_price": "79.00",
+      "new_price": "23.70",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/beech-row-colourblock-small-zip-around-purse-pine-needle"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Tulip Street Leather Small Drawstring Cross Body Bag in Toffee - 112408",
+      "percentage": 70.0,
+      "old_price": "219.00",
+      "new_price": "65.70",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Tulip Street Leather Small Drawstring Cross Body Bag in Teal - 112405",
+      "percentage": 70.0,
+      "old_price": "219.00",
+      "new_price": "65.70",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": null
     },
     {
       "site": "johnlewis_com",
@@ -270,6 +315,15 @@
       "url": "https://www.johnlewis.com/sweaty-betty-athlete-seamless-t-shirt/p114030189"
     },
     {
+      "site": "radley_co_uk",
+      "product": "Ellerdine Way Fabric Medium Flapover Cross Body Bag in Biscuit - 111621",
+      "percentage": 68.5,
+      "old_price": "219.00",
+      "new_price": "69.00",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/ellerdine-way-medium-flapover-cross-body-bellflower"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Sweaty Betty After Class Longline Sweatshirt",
       "percentage": 68.0,
@@ -347,7 +401,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T01:44:48.413748",
+      "timestamp": "2026-01-28T01:50:08.615923",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -383,8 +437,44 @@
       "percentage": 61.5,
       "old_price": "39.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/holmes-avenue-small-card-holder-latte"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Grainger Way Leather Small Ziptop Coin Purse in Prairie Pink - 111725",
+      "percentage": 61.5,
+      "old_price": "39.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Grainger Way Leather Small Ziptop Coin Purse in Ink - 111724",
+      "percentage": 61.5,
+      "old_price": "39.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Lavender Fields Leather Small Card Holder in Chalk - 111821",
+      "percentage": 61.2,
+      "old_price": "49.00",
+      "new_price": "19.00",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/lavender-fields-small-card-holder-orchid"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Bishops Lane Leather Medium Ziptop Coin Purse in Ink - 111665",
+      "percentage": 61.2,
+      "old_price": "49.00",
+      "new_price": "19.00",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": null
     },
     {
       "site": "currys_com",
@@ -397,11 +487,56 @@
     },
     {
       "site": "radley_co_uk",
+      "product": "Newton Avenue Leather Medium Bifold Wallet in Chalk - 111807",
+      "percentage": 60.8,
+      "old_price": "79.00",
+      "new_price": "31.00",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/newton-avenue-medium-bifold-purse-black"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Holmes Avenue Leather Medium Flapover Wallet in Chalk - 111767",
+      "percentage": 60.8,
+      "old_price": "79.00",
+      "new_price": "31.00",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/holmes-avenue-medium-flapover-purse-black"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Holmes Avenue Leather Medium Flapover Wallet in Latte - 111768",
+      "percentage": 60.8,
+      "old_price": "79.00",
+      "new_price": "31.00",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/holmes-avenue-medium-flapover-purse-black"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Newton Avenue Leather Medium Bifold Wallet in Drizzle - 111806",
+      "percentage": 60.8,
+      "old_price": "79.00",
+      "new_price": "31.00",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/newton-avenue-medium-bifold-purse-black"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Holmes Avenue Fabric Mini Flapover Cross Body Bag in Chalk - 111593",
+      "percentage": 60.4,
+      "old_price": "159.00",
+      "new_price": "63.00",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/holmes-avenue-mini-flapover-cross-body-black"
+    },
+    {
+      "site": "radley_co_uk",
       "product": "Arragon Row Fabric Small Zip Around Grab Bag in Black - 111710",
       "percentage": 60.3,
       "old_price": "219.00",
       "new_price": "87.00",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/arragon-row-small-zip-around-grab-drizzle"
     },
     {
@@ -410,7 +545,7 @@
       "percentage": 60.0,
       "old_price": "99.00",
       "new_price": "39.60",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/newick-road-large-bifold-purse-teal"
     },
     {
@@ -419,7 +554,7 @@
       "percentage": 60.0,
       "old_price": "99.00",
       "new_price": "39.60",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
     },
     {
@@ -428,7 +563,7 @@
       "percentage": 60.0,
       "old_price": "79.00",
       "new_price": "31.60",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
     },
     {
@@ -437,7 +572,7 @@
       "percentage": 60.0,
       "old_price": "69.00",
       "new_price": "27.60",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
     },
     {
@@ -446,7 +581,7 @@
       "percentage": 60.0,
       "old_price": "39.00",
       "new_price": "15.60",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/floribunda-small-ziptop-cross-body-ochre"
     },
     {
@@ -455,7 +590,7 @@
       "percentage": 60.0,
       "old_price": "30.00",
       "new_price": "12.00",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/bishops-lane-stripe-responsible-foldaway-black"
     },
     {
@@ -464,7 +599,7 @@
       "percentage": 60.0,
       "old_price": "39.00",
       "new_price": "15.60",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
     },
     {
@@ -473,7 +608,7 @@
       "percentage": 60.0,
       "old_price": "79.00",
       "new_price": "31.60",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/newick-road-medium-bifold-purse-teal"
     },
     {
@@ -482,7 +617,7 @@
       "percentage": 60.0,
       "old_price": "99.00",
       "new_price": "39.60",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": null
     },
     {
@@ -491,7 +626,7 @@
       "percentage": 60.0,
       "old_price": "239.00",
       "new_price": "95.60",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/tulip-street-large-open-top-shoulder-snow"
     },
     {
@@ -500,7 +635,7 @@
       "percentage": 60.0,
       "old_price": "139.00",
       "new_price": "55.60",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/danesfield-mews-responsible-mini-ziptop-backpack-black"
     },
     {
@@ -509,8 +644,116 @@
       "percentage": 60.0,
       "old_price": "109.00",
       "new_price": "43.60",
-      "timestamp": "2026-01-28T01:44:45.693237",
+      "timestamp": "2026-01-28T01:49:57.314524",
       "url": "https://www.radley.co.uk/products/danesfield-mews-responsible-mini-zip-around-cross-body-black"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Westwell Lane Leather Large Ziptop Shoulder Bag in Black - 112287",
+      "percentage": 60.0,
+      "old_price": "279.00",
+      "new_price": "111.60",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/westwell-lane-large-ziptop-shoulder-pine-needle"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Sketch Street Fabric Small Ziptop Cross Body Bag in Chalk - 112419",
+      "percentage": 60.0,
+      "old_price": "109.00",
+      "new_price": "43.60",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/sketch-street-small-ziptop-cross-body-chalk"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Eden Row Fabric Medium Ziptop Cross Body Bag in Black - 112321",
+      "percentage": 60.0,
+      "old_price": "129.00",
+      "new_price": "51.60",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/eden-row-medium-ziptop-cross-body-black"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Eden Row Fabric Medium Ziptop Cross Body Bag in Khaki - 112324",
+      "percentage": 60.0,
+      "old_price": "129.00",
+      "new_price": "51.60",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/eden-row-medium-ziptop-cross-body-khaki"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Eden Row Fabric Large Open Top Tote Bag in Khaki - 112322",
+      "percentage": 60.0,
+      "old_price": "149.00",
+      "new_price": "59.60",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/eden-row-large-open-top-tote-khaki"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Floribunda Leather Small Coin Purse in Ochre - 112461",
+      "percentage": 60.0,
+      "old_price": "49.00",
+      "new_price": "19.60",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Floribunda Leather Small Ziptop Coin Purse in Ochre - 112449",
+      "percentage": 60.0,
+      "old_price": "39.00",
+      "new_price": "15.60",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/floribunda-small-ziptop-cross-body-ochre"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Floribunda Leather Large Zip Around Wallet in Ochre - 112447",
+      "percentage": 60.0,
+      "old_price": "99.00",
+      "new_price": "39.60",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Danesfield Mews Fabric Large Ziptop Tote Bag in Stone - 112426",
+      "percentage": 60.0,
+      "old_price": "159.00",
+      "new_price": "63.60",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/danesfield-mews-responsible-large-ziptop-backpack-stone"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Mallow Street Small Ziptop Coin Purse in Dark Teal - 112344",
+      "percentage": 60.0,
+      "old_price": "39.00",
+      "new_price": "15.60",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/mallow-street-small-ziptop-coin-purse-dark-teal"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Acorntopia Leather Small Trifold Wallet in Porcini - 112845",
+      "percentage": 60.0,
+      "old_price": "69.00",
+      "new_price": "27.60",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/acorntopia-small-trifold-purse-porcini"
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "Newick Road Leather Large Bifold Wallet in Toffee - 112442",
+      "percentage": 60.0,
+      "old_price": "99.00",
+      "new_price": "39.60",
+      "timestamp": "2026-01-28T01:49:57.314524",
+      "url": "https://www.radley.co.uk/products/newick-road-large-bifold-purse-teal"
     },
     {
       "site": "radley_co_uk",
@@ -781,249 +1024,6 @@
       "new_price": "149.00",
       "timestamp": "2026-01-27T18:41:53.453411",
       "url": null
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "SISLEY Rib Knit Scarf",
-      "percentage": 50.1,
-      "old_price": "39.95",
-      "new_price": "19.95",
-      "timestamp": "2026-01-28T00:30:52.648375",
-      "url": "https://www.johnlewis.com/sisley-rib-knit-scarf/p114708578"
-    },
-    {
-      "site": "currys_com",
-      "product": "SONY WH-1000XM6 Wireless Bluetooth Noise-Cancelling Hea",
-      "percentage": 50.1,
-      "old_price": "9.99",
-      "new_price": "4.99",
-      "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10282441.html"
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "Chester Row Leather Small Card Holder in Black - 112064",
-      "percentage": 50.0,
-      "old_price": "59.00",
-      "new_price": "29.50",
-      "timestamp": "2026-01-28T01:44:45.693237",
-      "url": "https://www.radley.co.uk/products/chester-row-small-card-holder-black"
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "Dukes Place Medium Ziptop Cross Body Bag - RHC19701",
-      "percentage": 50.0,
-      "old_price": "199.00",
-      "new_price": "99.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": "https://www.radley.co.uk/products/dukes-place-medium-ziptop-cross-body-bag-rhc19701"
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "SUTHERLAND ROW LARGE OPEN TOP TOTE SADDLE",
-      "percentage": 50.0,
-      "old_price": "109.00",
-      "new_price": "54.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": null
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "DUKES PLACE MEDIUM ZIPTOP CROSS BODY PECAN",
-      "percentage": 50.0,
-      "old_price": "199.00",
-      "new_price": "99.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": "https://www.radley.co.uk/products/dukes-place-medium-ziptop-cross-body-evenfall"
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "THE RATHBONE LARGE PHONE CROSS BODY CHALK",
-      "percentage": 50.0,
-      "old_price": "129.00",
-      "new_price": "64.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": null
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "COMMUTE STREET MEDIUM  COSMETIC POUCH CARMINE",
-      "percentage": 50.0,
-      "old_price": "79.00",
-      "new_price": "39.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": null
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "WOOL SCARF DARK OAK",
-      "percentage": 50.0,
-      "old_price": "59.00",
-      "new_price": "29.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": null
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "WOOL SCARF CARMINE",
-      "percentage": 50.0,
-      "old_price": "59.00",
-      "new_price": "29.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": null
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "WOOL SCARF PINE NEEDLE",
-      "percentage": 50.0,
-      "old_price": "59.00",
-      "new_price": "29.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": null
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "RADLEY CHECK PONCHO ASH",
-      "percentage": 50.0,
-      "old_price": "89.00",
-      "new_price": "44.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": null
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "RADLEY STRIPE PONCHO SNOW",
-      "percentage": 50.0,
-      "old_price": "109.00",
-      "new_price": "54.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": null
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "RADLEY CHECK BLANKET ASH",
-      "percentage": 50.0,
-      "old_price": "89.00",
-      "new_price": "44.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": null
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "RADLEY STRIPE BLANKET SNOW",
-      "percentage": 50.0,
-      "old_price": "109.00",
-      "new_price": "54.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": null
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "LEOPARD SCARF PORCINI",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": null
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Rib Weave Cushion",
-      "percentage": 50.0,
-      "old_price": "40.00",
-      "new_price": "20.00",
-      "timestamp": "2026-01-27T11:10:19.117336",
-      "url": "https://www.johnlewis.com/john-lewis-rib-weave-cushion/p111891232"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Luce Textured Cushion",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-27T11:10:19.117336",
-      "url": "https://www.johnlewis.com/john-lewis-luce-textured-cushion/p112399300"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis ANYDAY Spots Reversible Toddler Pure Cotton Duvet Cover & Pillowcase Set",
-      "percentage": 50.0,
-      "old_price": "18.00",
-      "new_price": "9.00",
-      "timestamp": "2026-01-27T11:10:19.117336",
-      "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Stackers Hanging Wash Bag",
-      "percentage": 50.0,
-      "old_price": "65.00",
-      "new_price": "32.50",
-      "timestamp": "2026-01-27T11:10:19.117336",
-      "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Speedo Medley Logo 16” Watershorts, Navy/Lagoon Blue",
-      "percentage": 50.0,
-      "old_price": "30.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-28T01:17:52.144940",
-      "url": "https://www.johnlewis.com/speedo-medley-logo-16-watershorts-navy-lagoon-blue/p113983019"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "UGG Classic Mini II Short Sheepskin Boots",
-      "percentage": 50.0,
-      "old_price": "165.00",
-      "new_price": "82.50",
-      "timestamp": "2026-01-27T14:54:32.763238",
-      "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "adidas VL Court Contrast Sole Trainers",
-      "percentage": 50.0,
-      "old_price": "60.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-27T14:54:32.763238",
-      "url": "https://www.johnlewis.com/adidas-vl-court-contrast-sole-trainers/p111331988"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Beatrice Upturn Disc Twirl Fascinator",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-27T14:54:32.763238",
-      "url": "https://www.johnlewis.com/john-lewis-beatrice-upturn-disc-twirl-fascinator/p111454501"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Velvet Silk Blend Bow Tie",
-      "percentage": 50.0,
-      "old_price": "20.00",
-      "new_price": "10.00",
-      "timestamp": "2026-01-27T14:54:32.763238",
-      "url": "https://www.johnlewis.com/john-lewis-velvet-silk-blend-bow-tie/p110997453"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "VEJA Campo Bold Lace Up Suede Trainers",
-      "percentage": 50.0,
-      "old_price": "125.00",
-      "new_price": "62.50",
-      "timestamp": "2026-01-27T16:23:46.525249",
-      "url": "https://www.johnlewis.com/veja-campo-bold-lace-up-suede-trainers/p114304018"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Supima Cotton Regular Fit Crew Neck T-Shirt",
-      "percentage": 50.0,
-      "old_price": "19.00",
-      "new_price": "9.50",
-      "timestamp": "2026-01-27T16:23:46.525249",
-      "url": "https://www.johnlewis.com/john-lewis-supima-cotton-regular-fit-crew-neck-t-shirt/p6030384"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-28T00:20:19.915861",
-  "total_drops": 1523,
+  "generated_at": "2026-01-28T00:25:29.347702",
+  "total_drops": 1547,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 295,
+      "count": 319,
       "max_drop": 74.2,
-      "total_savings": 8184.94
+      "total_savings": 9155.24
     },
     {
       "site": "radley_co_uk",
@@ -466,12 +466,39 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Philips Series 3000 S3242/12 Wet & Dry Electric Shaver with 5D Flex & Pivot Heads, Travel Pouch & Pop-up Trimmer, Ash Gold",
+      "percentage": 57.1,
+      "old_price": "139.99",
+      "new_price": "59.99",
+      "timestamp": "2026-01-28T00:25:20.357556",
+      "url": "https://www.johnlewis.com/philips-series-3000-s3242-12-wet-dry-electric-shaver-with-5d-flex-pivot-heads-travel-pouch-pop-up-trimmer-ash-gold/p110953138"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Reiss Kids' Blackhall Wool Zip Neck Jumper",
       "percentage": 55.9,
       "old_price": "34.00",
       "new_price": "15.00",
       "timestamp": "2026-01-27T15:38:57.098840",
       "url": "https://www.johnlewis.com/reiss-kids-blackhall-wool-zip-neck-jumper/p112544353"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Philips XP9402/31 i9000 Prestige Ultra Wet & Dry Electric Shave, Dark Slate",
+      "percentage": 55.4,
+      "old_price": "650.00",
+      "new_price": "289.99",
+      "timestamp": "2026-01-28T00:25:20.357556",
+      "url": "https://www.johnlewis.com/philips-xp9402-31-i9000-prestige-ultra-wet-dry-electric-shave-dark-slate/p113423839"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Philips S5885/25 Series 5000 Wet & Dry Men's Electric Shaver with Pop-up Trimmer, Charging Stand and Full LED display, Midnight Blue",
+      "percentage": 55.0,
+      "old_price": "199.99",
+      "new_price": "89.99",
+      "timestamp": "2026-01-28T00:25:20.357556",
+      "url": "https://www.johnlewis.com/philips-s5885-25-series-5000-wet-dry-mens-electric-shaver-with-pop-up-trimmer-charging-stand-and-full-led-display-midnight-blue/p110612266"
     },
     {
       "site": "currys_com",
@@ -481,6 +508,15 @@
       "new_price": "9.99",
       "timestamp": "2026-01-27T08:24:27.762656",
       "url": "https://www.currys.co.uk/products/10278148.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Philips X9002/10 i9000 Wet & Dry Electric Shaver, Dark Slate",
+      "percentage": 54.5,
+      "old_price": "440.00",
+      "new_price": "199.99",
+      "timestamp": "2026-01-28T00:25:20.357556",
+      "url": "https://www.johnlewis.com/philips-x9002-10-i9000-wet-dry-electric-shaver-dark-slate/p113423837"
     },
     {
       "site": "currys_com",
@@ -506,7 +542,7 @@
       "percentage": 51.3,
       "old_price": "78.00",
       "new_price": "38.00",
-      "timestamp": "2026-01-28T00:20:13.027569",
+      "timestamp": "2026-01-28T00:25:20.357556",
       "url": "https://www.johnlewis.com/reiss-penny-ribbed-pure-wool-scarf/p114425484"
     },
     {
@@ -587,7 +623,7 @@
       "percentage": 50.1,
       "old_price": "39.95",
       "new_price": "19.95",
-      "timestamp": "2026-01-28T00:20:13.027569",
+      "timestamp": "2026-01-28T00:25:20.357556",
       "url": "https://www.johnlewis.com/sisley-rib-knit-scarf/p114708578"
     },
     {
@@ -812,7 +848,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-28T00:20:13.027569",
+      "timestamp": "2026-01-28T00:25:20.357556",
       "url": "https://www.johnlewis.com/sweaty-betty-soft-cloud-knitted-beanie-hat/p114464698"
     },
     {
@@ -976,42 +1012,6 @@
       "new_price": "129.00",
       "timestamp": "2026-01-27T20:07:19.129162",
       "url": "https://www.oliversweeney.com/products/ossos-black"
-    },
-    {
-      "site": "currys_com",
-      "product": "GLOBAL GIZMOS Jellyfish Aquarium Lamp - Black",
-      "percentage": 43.3,
-      "old_price": "29.99",
-      "new_price": "16.99",
-      "timestamp": "2026-01-27T09:55:27.606242",
-      "url": "https://www.currys.co.uk/products/10265461.html"
-    },
-    {
-      "site": "twentytwentyone_com",
-      "product": "Little Architect Desk | Ex-Display",
-      "percentage": 43.1,
-      "old_price": "181.00",
-      "new_price": "103.00",
-      "timestamp": "2026-01-27T12:29:15.820303",
-      "url": "https://www.twentytwentyone.com/products/little-architect-desk-ex-display"
-    },
-    {
-      "site": "currys_com",
-      "product": "SONOS Arc Ultra Sound Bar with Dolby Atmos & Amazon Ale",
-      "percentage": 42.9,
-      "old_price": "27.99",
-      "new_price": "15.99",
-      "timestamp": "2026-01-27T10:50:44.303571",
-      "url": "https://www.currys.co.uk/products/10270746.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Sweaty Betty Anytime Explorer Zip Up Jacket, Navy Blue",
-      "percentage": 42.8,
-      "old_price": "68.50",
-      "new_price": "39.20",
-      "timestamp": "2026-01-27T17:11:03.408025",
-      "url": "https://www.johnlewis.com/sweaty-betty-anytime-explorer-zip-up-jacket-navy-blue/p113083651"
     }
   ]
 }

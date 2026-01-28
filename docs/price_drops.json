@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-28T09:35:22.570766",
-  "total_drops": 3011,
+  "generated_at": "2026-01-28T09:40:48.346357",
+  "total_drops": 3013,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 393,
+      "count": 394,
       "max_drop": 74.2,
-      "total_savings": 11516.7
+      "total_savings": 11527.39
     },
     {
       "site": "radley_co_uk",
@@ -23,9 +23,9 @@
     },
     {
       "site": "currys_com",
-      "count": 1543,
+      "count": 1544,
       "max_drop": 63.7,
-      "total_savings": 38624.83
+      "total_savings": 38629.83
     },
     {
       "site": "fenwick_co_uk",
@@ -416,7 +416,7 @@
       "percentage": 63.7,
       "old_price": "79.99",
       "new_price": "29.00",
-      "timestamp": "2026-01-28T09:35:15.095525",
+      "timestamp": "2026-01-28T09:39:14.337475",
       "url": "https://www.currys.co.uk/products/10267415.html"
     },
     {
@@ -425,7 +425,7 @@
       "percentage": 63.6,
       "old_price": "5.50",
       "new_price": "2.00",
-      "timestamp": "2026-01-28T09:34:47.300593",
+      "timestamp": "2026-01-28T09:40:32.434650",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
     },
     {
@@ -452,7 +452,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T09:34:47.300593",
+      "timestamp": "2026-01-28T09:40:32.386782",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -956,7 +956,7 @@
       "percentage": 57.1,
       "old_price": "7.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T09:34:47.300593",
+      "timestamp": "2026-01-28T09:40:32.434650",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     },
     {
@@ -974,7 +974,7 @@
       "percentage": 56.5,
       "old_price": "114.99",
       "new_price": "49.99",
-      "timestamp": "2026-01-28T09:35:15.095525",
+      "timestamp": "2026-01-28T09:39:14.337475",
       "url": "https://www.currys.co.uk/products/21502353.html"
     },
     {
@@ -983,7 +983,7 @@
       "percentage": 56.5,
       "old_price": "114.99",
       "new_price": "49.99",
-      "timestamp": "2026-01-28T09:35:15.095525",
+      "timestamp": "2026-01-28T09:39:14.337475",
       "url": "https://www.currys.co.uk/products/21524322.html"
     },
     {
@@ -992,7 +992,7 @@
       "percentage": 56.5,
       "old_price": "299.00",
       "new_price": "129.99",
-      "timestamp": "2026-01-28T09:35:15.095525",
+      "timestamp": "2026-01-28T09:39:14.337475",
       "url": "https://www.currys.co.uk/products/10265209.html"
     },
     {

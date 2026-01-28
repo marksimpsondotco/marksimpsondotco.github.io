@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T14:39:22.701276",
-  "total_drops": 3265,
+  "generated_at": "2026-01-28T14:44:44.032387",
+  "total_drops": 3266,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 293,
+      "count": 294,
       "max_drop": 63.6,
-      "total_savings": 4714.49
+      "total_savings": 4794.44
     },
     {
       "site": "twentytwentyone_com",
@@ -302,7 +302,7 @@
       "percentage": 70.0,
       "old_price": "1199.00",
       "new_price": "359.70",
-      "timestamp": "2026-01-28T14:39:04.020980",
+      "timestamp": "2026-01-28T14:39:36.500125",
       "url": "https://www.johnlewis.com/john-lewis-x-ray-6-8-seater-extending-dining-table/p5672019"
     },
     {
@@ -646,6 +646,15 @@
       "new_price": "15.00",
       "timestamp": "2026-01-28T02:25:21.929630",
       "url": null
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Libres Boots",
+      "percentage": 61.5,
+      "old_price": "129.95",
+      "new_price": "50.00",
+      "timestamp": "2026-01-28T14:44:26.282706",
+      "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-brown-libres-boots-libres"
     },
     {
       "site": "johnlewis_com",
@@ -1087,15 +1096,6 @@
       "new_price": "59.99",
       "timestamp": "2026-01-28T00:30:52.648375",
       "url": "https://www.johnlewis.com/philips-series-3000-s3242-12-wet-dry-electric-shaver-with-5d-flex-pivot-heads-travel-pouch-pop-up-trimmer-ash-gold/p110953138"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Flying Unicorn Hair Ponies Bright",
-      "percentage": 57.1,
-      "old_price": "7.00",
-      "new_price": "3.00",
-      "timestamp": "2026-01-28T12:33:38.625943",
-      "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     }
   ]
 }

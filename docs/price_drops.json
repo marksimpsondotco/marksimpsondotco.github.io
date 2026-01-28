@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T02:16:32.140108",
-  "total_drops": 1879,
+  "generated_at": "2026-01-28T02:21:48.377056",
+  "total_drops": 1898,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 181,
+      "count": 197,
       "max_drop": 62.5,
-      "total_savings": 2414.4
+      "total_savings": 2612.22
     },
     {
       "site": "currys_com",
@@ -59,9 +59,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 70,
+      "count": 73,
       "max_drop": 39.4,
-      "total_savings": 2134.48
+      "total_savings": 2290.48
     },
     {
       "site": "condorcycles_com",
@@ -158,7 +158,7 @@
       "percentage": 70.0,
       "old_price": "49.00",
       "new_price": "14.70",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
     },
     {
@@ -167,7 +167,7 @@
       "percentage": 70.0,
       "old_price": "159.00",
       "new_price": "47.70",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/windsor-lane-large-ziptop-backpack-black"
     },
     {
@@ -176,7 +176,7 @@
       "percentage": 70.0,
       "old_price": "79.00",
       "new_price": "23.70",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/beech-row-small-zip-around-purse-teal"
     },
     {
@@ -185,7 +185,7 @@
       "percentage": 70.0,
       "old_price": "219.00",
       "new_price": "65.70",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/floribunda-small-ziptop-cross-body-ochre"
     },
     {
@@ -194,7 +194,7 @@
       "percentage": 70.0,
       "old_price": "79.00",
       "new_price": "23.70",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/beech-row-colourblock-small-zip-around-purse-pine-needle"
     },
     {
@@ -203,7 +203,7 @@
       "percentage": 70.0,
       "old_price": "219.00",
       "new_price": "65.70",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": null
     },
     {
@@ -212,7 +212,7 @@
       "percentage": 70.0,
       "old_price": "219.00",
       "new_price": "65.70",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": null
     },
     {
@@ -320,7 +320,7 @@
       "percentage": 68.5,
       "old_price": "219.00",
       "new_price": "69.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/ellerdine-way-medium-flapover-cross-body-bellflower"
     },
     {
@@ -401,7 +401,7 @@
       "percentage": 62.5,
       "old_price": "8.00",
       "new_price": "3.00",
-      "timestamp": "2026-01-28T02:16:26.000802",
+      "timestamp": "2026-01-28T02:21:19.519491",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
     },
     {
@@ -437,7 +437,7 @@
       "percentage": 61.5,
       "old_price": "39.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/holmes-avenue-small-card-holder-latte"
     },
     {
@@ -446,7 +446,7 @@
       "percentage": 61.5,
       "old_price": "39.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": null
     },
     {
@@ -455,7 +455,7 @@
       "percentage": 61.5,
       "old_price": "39.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": null
     },
     {
@@ -464,7 +464,7 @@
       "percentage": 61.2,
       "old_price": "49.00",
       "new_price": "19.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/lavender-fields-small-card-holder-orchid"
     },
     {
@@ -473,7 +473,7 @@
       "percentage": 61.2,
       "old_price": "49.00",
       "new_price": "19.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": null
     },
     {
@@ -491,7 +491,7 @@
       "percentage": 60.8,
       "old_price": "79.00",
       "new_price": "31.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/newton-avenue-medium-bifold-purse-black"
     },
     {
@@ -500,7 +500,7 @@
       "percentage": 60.8,
       "old_price": "79.00",
       "new_price": "31.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/holmes-avenue-medium-flapover-purse-black"
     },
     {
@@ -509,7 +509,7 @@
       "percentage": 60.8,
       "old_price": "79.00",
       "new_price": "31.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/holmes-avenue-medium-flapover-purse-black"
     },
     {
@@ -518,7 +518,7 @@
       "percentage": 60.8,
       "old_price": "79.00",
       "new_price": "31.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/newton-avenue-medium-bifold-purse-black"
     },
     {
@@ -527,7 +527,7 @@
       "percentage": 60.4,
       "old_price": "159.00",
       "new_price": "63.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/holmes-avenue-mini-flapover-cross-body-black"
     },
     {
@@ -536,7 +536,7 @@
       "percentage": 60.3,
       "old_price": "219.00",
       "new_price": "87.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/arragon-row-small-zip-around-grab-drizzle"
     },
     {
@@ -545,7 +545,7 @@
       "percentage": 60.0,
       "old_price": "99.00",
       "new_price": "39.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/newick-road-large-bifold-purse-teal"
     },
     {
@@ -554,7 +554,7 @@
       "percentage": 60.0,
       "old_price": "99.00",
       "new_price": "39.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
     },
     {
@@ -563,7 +563,7 @@
       "percentage": 60.0,
       "old_price": "79.00",
       "new_price": "31.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
     },
     {
@@ -572,7 +572,7 @@
       "percentage": 60.0,
       "old_price": "69.00",
       "new_price": "27.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
     },
     {
@@ -581,7 +581,7 @@
       "percentage": 60.0,
       "old_price": "39.00",
       "new_price": "15.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/floribunda-small-ziptop-cross-body-ochre"
     },
     {
@@ -590,7 +590,7 @@
       "percentage": 60.0,
       "old_price": "30.00",
       "new_price": "12.00",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/bishops-lane-stripe-responsible-foldaway-black"
     },
     {
@@ -599,7 +599,7 @@
       "percentage": 60.0,
       "old_price": "39.00",
       "new_price": "15.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/heritage-radley-protect-small-bifold-card-holder-carmine"
     },
     {
@@ -608,7 +608,7 @@
       "percentage": 60.0,
       "old_price": "79.00",
       "new_price": "31.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/newick-road-medium-bifold-purse-teal"
     },
     {
@@ -617,7 +617,7 @@
       "percentage": 60.0,
       "old_price": "99.00",
       "new_price": "39.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": null
     },
     {
@@ -626,7 +626,7 @@
       "percentage": 60.0,
       "old_price": "239.00",
       "new_price": "95.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/tulip-street-large-open-top-shoulder-snow"
     },
     {
@@ -635,7 +635,7 @@
       "percentage": 60.0,
       "old_price": "139.00",
       "new_price": "55.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/danesfield-mews-responsible-mini-ziptop-backpack-black"
     },
     {
@@ -644,7 +644,7 @@
       "percentage": 60.0,
       "old_price": "109.00",
       "new_price": "43.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/danesfield-mews-responsible-mini-zip-around-cross-body-black"
     },
     {
@@ -653,7 +653,7 @@
       "percentage": 60.0,
       "old_price": "279.00",
       "new_price": "111.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/westwell-lane-large-ziptop-shoulder-pine-needle"
     },
     {
@@ -662,7 +662,7 @@
       "percentage": 60.0,
       "old_price": "109.00",
       "new_price": "43.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/sketch-street-small-ziptop-cross-body-chalk"
     },
     {
@@ -671,7 +671,7 @@
       "percentage": 60.0,
       "old_price": "129.00",
       "new_price": "51.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/eden-row-medium-ziptop-cross-body-black"
     },
     {
@@ -680,7 +680,7 @@
       "percentage": 60.0,
       "old_price": "129.00",
       "new_price": "51.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/eden-row-medium-ziptop-cross-body-khaki"
     },
     {
@@ -689,7 +689,7 @@
       "percentage": 60.0,
       "old_price": "149.00",
       "new_price": "59.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/eden-row-large-open-top-tote-khaki"
     },
     {
@@ -698,7 +698,7 @@
       "percentage": 60.0,
       "old_price": "49.00",
       "new_price": "19.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": null
     },
     {
@@ -707,7 +707,7 @@
       "percentage": 60.0,
       "old_price": "39.00",
       "new_price": "15.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/floribunda-small-ziptop-cross-body-ochre"
     },
     {
@@ -716,7 +716,7 @@
       "percentage": 60.0,
       "old_price": "99.00",
       "new_price": "39.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": null
     },
     {
@@ -725,7 +725,7 @@
       "percentage": 60.0,
       "old_price": "159.00",
       "new_price": "63.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/danesfield-mews-responsible-large-ziptop-backpack-stone"
     },
     {
@@ -734,7 +734,7 @@
       "percentage": 60.0,
       "old_price": "39.00",
       "new_price": "15.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/mallow-street-small-ziptop-coin-purse-dark-teal"
     },
     {
@@ -743,7 +743,7 @@
       "percentage": 60.0,
       "old_price": "69.00",
       "new_price": "27.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/acorntopia-small-trifold-purse-porcini"
     },
     {
@@ -752,7 +752,7 @@
       "percentage": 60.0,
       "old_price": "99.00",
       "new_price": "39.60",
-      "timestamp": "2026-01-28T02:16:06.528972",
+      "timestamp": "2026-01-28T02:21:36.058149",
       "url": "https://www.radley.co.uk/products/newick-road-large-bifold-purse-teal"
     },
     {

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-28T00:04:53.431191",
-  "total_drops": 1488,
+  "generated_at": "2026-01-28T00:10:01.841582",
+  "total_drops": 1493,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 262,
+      "count": 265,
       "max_drop": 74.2,
-      "total_savings": 7476.8
+      "total_savings": 7661.8
     },
     {
       "site": "radley_co_uk",
@@ -47,9 +47,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 61,
+      "count": 63,
       "max_drop": 39.4,
-      "total_savings": 1744.48
+      "total_savings": 1848.48
     },
     {
       "site": "condorcycles_com",
@@ -506,7 +506,7 @@
       "percentage": 51.3,
       "old_price": "78.00",
       "new_price": "38.00",
-      "timestamp": "2026-01-28T00:04:43.749235",
+      "timestamp": "2026-01-28T00:09:54.131894",
       "url": "https://www.johnlewis.com/reiss-penny-ribbed-pure-wool-scarf/p114425484"
     },
     {
@@ -587,7 +587,7 @@
       "percentage": 50.1,
       "old_price": "39.95",
       "new_price": "19.95",
-      "timestamp": "2026-01-28T00:04:43.749235",
+      "timestamp": "2026-01-28T00:09:54.131894",
       "url": "https://www.johnlewis.com/sisley-rib-knit-scarf/p114708578"
     },
     {
@@ -812,7 +812,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-28T00:04:43.749235",
+      "timestamp": "2026-01-28T00:09:54.131894",
       "url": "https://www.johnlewis.com/sweaty-betty-soft-cloud-knitted-beanie-hat/p114464698"
     },
     {

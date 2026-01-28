@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T20:00:38.595872",
-  "total_drops": 3360,
+  "generated_at": "2026-01-28T20:06:07.548994",
+  "total_drops": 3362,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -50,6 +50,12 @@
       "count": 97,
       "max_drop": 62.7,
       "total_savings": 31953.0
+    },
+    {
+      "site": "origincoffee_co_uk",
+      "count": 1,
+      "max_drop": 60.6,
+      "total_savings": 24.25
     },
     {
       "site": "ukbabycentre_com",
@@ -143,9 +149,9 @@
     },
     {
       "site": "boden_com",
-      "count": 35,
+      "count": 36,
       "max_drop": 17.1,
-      "total_savings": 89.19
+      "total_savings": 92.19
     },
     {
       "site": "hauslondon_com",
@@ -704,7 +710,7 @@
       "percentage": 61.5,
       "old_price": "129.95",
       "new_price": "50.00",
-      "timestamp": "2026-01-28T19:59:56.726042",
+      "timestamp": "2026-01-28T20:05:49.578899",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-brown-libres-boots-libres"
     },
     {
@@ -778,6 +784,15 @@
       "new_price": "31.00",
       "timestamp": "2026-01-28T02:25:21.929630",
       "url": "https://www.radley.co.uk/products/newton-avenue-medium-bifold-purse-black"
+    },
+    {
+      "site": "origincoffee_co_uk",
+      "product": "Hamararo",
+      "percentage": 60.6,
+      "old_price": "40.00",
+      "new_price": "15.75",
+      "timestamp": "2026-01-28T20:05:27.365236",
+      "url": "https://www.origincoffee.co.uk/products/hamararo"
     },
     {
       "site": "radley_co_uk",
@@ -1111,15 +1126,6 @@
       "new_price": "111.60",
       "timestamp": "2026-01-27T18:41:53.453411",
       "url": "https://www.radley.co.uk/products/liverpool-street-medium-ziptop-crossbody-black"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "The Gruffalo Plush Soft Toy",
-      "percentage": 60.0,
-      "old_price": "49.99",
-      "new_price": "19.99",
-      "timestamp": "2026-01-27T01:03:04.630359",
-      "url": null
     }
   ]
 }

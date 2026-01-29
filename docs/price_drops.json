@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T04:59:56.862296",
-  "total_drops": 7465,
+  "generated_at": "2026-01-29T05:05:47.841306",
+  "total_drops": 7474,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -41,9 +41,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 4122,
+      "count": 4131,
       "max_drop": 63.6,
-      "total_savings": 94717.77
+      "total_savings": 94911.15
     },
     {
       "site": "twentytwentyone_com",

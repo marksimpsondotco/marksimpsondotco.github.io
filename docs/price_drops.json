@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T16:15:08.766290",
-  "total_drops": 766,
+  "generated_at": "2026-01-29T16:20:14.797677",
+  "total_drops": 773,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -32,6 +32,12 @@
       "count": 1,
       "max_drop": 39.5,
       "total_savings": 15.0
+    },
+    {
+      "site": "hoxtonmacs_co_uk",
+      "count": 7,
+      "max_drop": 26.1,
+      "total_savings": 990.0
     },
     {
       "site": "flannels_com",
@@ -591,6 +597,15 @@
       "url": "https://www.victoriabeckham.com/products/slogan-tee-fashion-stole-my-smile-in-grey-marl-fashion-stole-my-smi-22273"
     },
     {
+      "site": "hoxtonmacs_co_uk",
+      "product": "iPad (10th Generation, Wi-Fi) - Excellent",
+      "percentage": 26.1,
+      "old_price": "345.00",
+      "new_price": "255.00",
+      "timestamp": "2026-01-29T16:20:06.519019",
+      "url": "https://www.hoxtonmacs.co.uk/products/ipad-10th-generation-wi-fi-excellent"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Mint Velvet Colour Block Star Jumper",
       "percentage": 25.3,
@@ -985,15 +1000,6 @@
       "new_price": "195.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/alina-corduroy-jean-in-khaki-1"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Julia Jean In Light Rinse",
-      "percentage": 20.4,
-      "old_price": "490.00",
-      "new_price": "390.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/julia-jean-in-light-rinse"
     }
   ]
 }

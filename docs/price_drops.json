@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T08:11:04.242605",
-  "total_drops": 8234,
+  "generated_at": "2026-01-29T08:17:09.459713",
+  "total_drops": 8350,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "currys_com",
-      "count": 2110,
+      "count": 2222,
       "max_drop": 63.7,
-      "total_savings": 53723.88
+      "total_savings": 54878.17
     },
     {
       "site": "fenwick_co_uk",
@@ -58,16 +58,16 @@
       "total_savings": 24.25
     },
     {
+      "site": "dusk_com",
+      "count": 66,
+      "max_drop": 60.0,
+      "total_savings": 2341.0
+    },
+    {
       "site": "ukbabycentre_com",
       "count": 71,
       "max_drop": 50.8,
       "total_savings": 2241.82
-    },
-    {
-      "site": "dusk_com",
-      "count": 62,
-      "max_drop": 50.0,
-      "total_savings": 2312.0
     },
     {
       "site": "trunkclothiers_com",

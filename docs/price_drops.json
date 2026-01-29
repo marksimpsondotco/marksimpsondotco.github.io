@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:57:56.488703",
-  "total_drops": 741,
+  "generated_at": "2026-01-29T14:02:59.539015",
+  "total_drops": 742,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -20,6 +20,12 @@
       "count": 8,
       "max_drop": 63.6,
       "total_savings": 97.2
+    },
+    {
+      "site": "flannels_com",
+      "count": 1,
+      "max_drop": 25.2,
+      "total_savings": 29.0
     },
     {
       "site": "babyandnurseryworld_co_uk",
@@ -98,7 +104,7 @@
       "percentage": 63.6,
       "old_price": "22.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T13:57:48.067412",
+      "timestamp": "2026-01-29T14:02:56.504745",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-sofa-cushion-cover-chalk-white"
     },
     {
@@ -116,7 +122,7 @@
       "percentage": 55.6,
       "old_price": "18.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T13:57:48.067412",
+      "timestamp": "2026-01-29T14:02:56.504745",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-cushion-cover-chalk-white"
     },
     {
@@ -215,7 +221,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-29T13:57:48.067412",
+      "timestamp": "2026-01-29T14:02:56.504745",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -368,7 +374,7 @@
       "percentage": 31.4,
       "old_price": "7.00",
       "new_price": "4.80",
-      "timestamp": "2026-01-29T13:57:48.067412",
+      "timestamp": "2026-01-29T14:02:56.504745",
       "url": "https://dusk.com/products/pair-of-mykonos-pillowcases-white-200-thread-count"
     },
     {
@@ -514,6 +520,15 @@
       "new_price": "59.00",
       "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/mint-velvet-colour-block-star-jumper/p113985383"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Nike - Vomero 18  Mens Running Shoes",
+      "percentage": 25.2,
+      "old_price": "115.00",
+      "new_price": "86.00",
+      "timestamp": "2026-01-29T14:02:51.694938",
+      "url": "https://www.flannels.com/nike-vomero-18-mens-running-shoes-211531"
     },
     {
       "site": "johnlewis_com",
@@ -937,15 +952,6 @@
       "new_price": "390.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/high-rise-slim-jean-in-washed-white-21726"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Twist Polo Top In White",
-      "percentage": 20.4,
-      "old_price": "490.00",
-      "new_price": "390.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/twist-detail-polo-top-in-white-21621"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:52:53.667787",
-  "total_drops": 740,
+  "generated_at": "2026-01-29T13:57:56.488703",
+  "total_drops": 741,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -26,6 +26,12 @@
       "count": 1,
       "max_drop": 20.0,
       "total_savings": 10.0
+    },
+    {
+      "site": "fenwick_co_uk",
+      "count": 1,
+      "max_drop": 10.0,
+      "total_savings": 7.0
     },
     {
       "site": "houseofisabella_co_uk",
@@ -92,7 +98,7 @@
       "percentage": 63.6,
       "old_price": "22.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T13:52:42.672002",
+      "timestamp": "2026-01-29T13:57:48.067412",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-sofa-cushion-cover-chalk-white"
     },
     {
@@ -110,7 +116,7 @@
       "percentage": 55.6,
       "old_price": "18.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T13:52:42.672002",
+      "timestamp": "2026-01-29T13:57:48.067412",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-cushion-cover-chalk-white"
     },
     {
@@ -209,7 +215,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-29T13:52:42.672002",
+      "timestamp": "2026-01-29T13:57:48.067412",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -362,7 +368,7 @@
       "percentage": 31.4,
       "old_price": "7.00",
       "new_price": "4.80",
-      "timestamp": "2026-01-29T13:52:42.672002",
+      "timestamp": "2026-01-29T13:57:48.067412",
       "url": "https://dusk.com/products/pair-of-mykonos-pillowcases-white-200-thread-count"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T04:18:05.959523",
-  "total_drops": 6733,
+  "generated_at": "2026-01-29T04:23:50.267581",
+  "total_drops": 6735,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -83,9 +83,9 @@
     },
     {
       "site": "rehaus_co_uk",
-      "count": 2,
+      "count": 3,
       "max_drop": 48.1,
-      "total_savings": 4861.0
+      "total_savings": 5036.0
     },
     {
       "site": "bugaboo_com",
@@ -245,9 +245,9 @@
     },
     {
       "site": "babyandnurseryworld_co_uk",
-      "count": 1,
+      "count": 2,
       "max_drop": 1.7,
-      "total_savings": 1.0
+      "total_savings": 2.0
     }
   ],
   "drops": [

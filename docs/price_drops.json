@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T17:26:33.816895",
-  "total_drops": 934,
+  "generated_at": "2026-01-29T17:31:38.341688",
+  "total_drops": 945,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "oliversweeney_com",
-      "count": 5,
+      "count": 10,
       "max_drop": 70.2,
-      "total_savings": 345.0
+      "total_savings": 470.0
     },
     {
       "site": "victoriabeckham_com",
@@ -29,9 +29,9 @@
     },
     {
       "site": "brownsfashion_com",
-      "count": 125,
+      "count": 131,
       "max_drop": 47.4,
-      "total_savings": 11549.2
+      "total_savings": 11609.2
     },
     {
       "site": "pigletinbed_com",
@@ -164,7 +164,7 @@
       "percentage": 70.2,
       "old_price": "299.00",
       "new_price": "89.00",
-      "timestamp": "2026-01-29T17:26:25.318655",
+      "timestamp": "2026-01-29T17:31:08.365236",
       "url": "https://www.oliversweeney.com/products/dunbeath-dark-tan-boots"
     },
     {
@@ -353,7 +353,7 @@
       "percentage": 47.4,
       "old_price": "190.00",
       "new_price": "100.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/jonathan-adler-cabana-pillow-ollcty200134980"
     },
     {
@@ -371,7 +371,7 @@
       "percentage": 45.5,
       "old_price": "99.00",
       "new_price": "54.00",
-      "timestamp": "2026-01-29T17:26:25.318655",
+      "timestamp": "2026-01-29T17:31:08.365236",
       "url": "https://www.oliversweeney.com/products/kendal-khaki-trainers"
     },
     {
@@ -380,8 +380,26 @@
       "percentage": 45.5,
       "old_price": "99.00",
       "new_price": "54.00",
-      "timestamp": "2026-01-29T17:26:25.318655",
+      "timestamp": "2026-01-29T17:31:08.365236",
       "url": "https://www.oliversweeney.com/products/kendal-tan-leather-trainers"
+    },
+    {
+      "site": "oliversweeney_com",
+      "product": "Hyde Chocolate",
+      "percentage": 44.3,
+      "old_price": "79.00",
+      "new_price": "44.00",
+      "timestamp": "2026-01-29T17:31:08.365236",
+      "url": "https://www.oliversweeney.com/products/hyde-chocolate-knitwear"
+    },
+    {
+      "site": "oliversweeney_com",
+      "product": "Hyde Grey",
+      "percentage": 44.3,
+      "old_price": "79.00",
+      "new_price": "44.00",
+      "timestamp": "2026-01-29T17:31:08.365236",
+      "url": "https://www.oliversweeney.com/products/hyde-grey-jumper"
     },
     {
       "site": "oliversweeney_com",
@@ -389,7 +407,7 @@
       "percentage": 40.4,
       "old_price": "99.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-29T17:26:25.318655",
+      "timestamp": "2026-01-29T17:31:08.365236",
       "url": "https://www.oliversweeney.com/products/swanley-tan-boots"
     },
     {
@@ -398,7 +416,7 @@
       "percentage": 40.4,
       "old_price": "9895.00",
       "new_price": "5895.00",
-      "timestamp": "2026-01-29T17:26:17.580558",
+      "timestamp": "2026-01-29T17:31:23.873888",
       "url": "https://www.berrysjewellers.co.uk/products/berrys-18ct-white-gold-oval-cut-pink-tourmaline-diamond-set-trefoil-drop-earnings"
     },
     {
@@ -537,12 +555,21 @@
       "url": "https://www.victoriabeckham.com/products/alina-jean-short-in-mid-blue-wash-21566"
     },
     {
+      "site": "oliversweeney_com",
+      "product": "Ramada Dark Grey",
+      "percentage": 36.2,
+      "old_price": "69.00",
+      "new_price": "44.00",
+      "timestamp": "2026-01-29T17:31:08.365236",
+      "url": "https://www.oliversweeney.com/products/ramada-dark-grey-trousers"
+    },
+    {
       "site": "brownsfashion_com",
       "product": "Pop! set-of-four coasters",
       "percentage": 35.3,
       "old_price": "85.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/jonathan-adler-pop-set-of-four-coasters-lls78itym524232114"
     },
     {
@@ -551,7 +578,7 @@
       "percentage": 34.7,
       "old_price": "75.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-29T17:26:28.381459",
+      "timestamp": "2026-01-29T17:31:24.525913",
       "url": "https://ukbabycentre.com/products/icandy-core-footmuff-liner-black"
     },
     {
@@ -560,7 +587,7 @@
       "percentage": 34.6,
       "old_price": "130.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-striped-ruffled-cushion-cover-ollcty200164645"
     },
     {
@@ -569,7 +596,7 @@
       "percentage": 34.0,
       "old_price": "2365.00",
       "new_price": "1560.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/prada-zip-logo-jacket-oo2ss2600167070"
     },
     {
@@ -578,7 +605,7 @@
       "percentage": 33.9,
       "old_price": "10690.00",
       "new_price": "7065.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/prada-contrast-collar-suede-jacket-oo2ss2600167197"
     },
     {
@@ -641,7 +668,7 @@
       "percentage": 30.0,
       "old_price": "250.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-29T17:26:28.381459",
+      "timestamp": "2026-01-29T17:31:24.525913",
       "url": "https://ukbabycentre.com/products/joie-i-harbour-e-signature-car-seat-eclipse"
     },
     {
@@ -659,7 +686,7 @@
       "percentage": 29.1,
       "old_price": "275.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-chicken-design-ceramic-plate-ollcty200164644"
     },
     {
@@ -704,7 +731,7 @@
       "percentage": 28.2,
       "old_price": "1099.00",
       "new_price": "789.00",
-      "timestamp": "2026-01-29T17:26:28.381459",
+      "timestamp": "2026-01-29T17:31:24.525913",
       "url": "https://ukbabycentre.com/products/icandy-orange-4-pram-and-pushchair-pistachio"
     },
     {
@@ -713,7 +740,7 @@
       "percentage": 27.9,
       "old_price": "305.00",
       "new_price": "220.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-pig-oval-platter-41x29cm-ollcty200164631"
     },
     {
@@ -731,7 +758,7 @@
       "percentage": 27.1,
       "old_price": "885.00",
       "new_price": "645.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/prada-drawstring-waist-stripe-midi-skirt-olnss2600166449"
     },
     {
@@ -740,7 +767,7 @@
       "percentage": 27.0,
       "old_price": "2145.00",
       "new_price": "1565.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/prada-panel-trousers-olnss2600166451"
     },
     {
@@ -749,7 +776,7 @@
       "percentage": 27.0,
       "old_price": "1020.00",
       "new_price": "745.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/prada-striped-logo-polo-top-olnss2600166447"
     },
     {
@@ -758,7 +785,7 @@
       "percentage": 26.9,
       "old_price": "1395.00",
       "new_price": "1020.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/prada-striped-buttoned-shirt-olnss2600166950"
     },
     {
@@ -767,7 +794,7 @@
       "percentage": 26.8,
       "old_price": "950.00",
       "new_price": "695.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/prada-striped-logo-top-olnss2600166452"
     },
     {
@@ -776,7 +803,7 @@
       "percentage": 26.8,
       "old_price": "2945.00",
       "new_price": "2155.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/prada-button-fastening-blazer-olnss2600166947"
     },
     {
@@ -785,7 +812,7 @@
       "percentage": 26.8,
       "old_price": "1120.00",
       "new_price": "820.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/prada-patent-leather-wedge-sandals-olsss2600166987"
     },
     {
@@ -870,6 +897,24 @@
       "url": "https://www.hoxtonmacs.co.uk/products/ipad-10th-generation-wi-fi-excellent"
     },
     {
+      "site": "oliversweeney_com",
+      "product": "Ramada Stone",
+      "percentage": 25.4,
+      "old_price": "59.00",
+      "new_price": "44.00",
+      "timestamp": "2026-01-29T17:31:08.365236",
+      "url": "https://www.oliversweeney.com/products/ramada-stone-trousers"
+    },
+    {
+      "site": "oliversweeney_com",
+      "product": "Ramada Mulberry",
+      "percentage": 25.4,
+      "old_price": "59.00",
+      "new_price": "44.00",
+      "timestamp": "2026-01-29T17:31:08.365236",
+      "url": "https://www.oliversweeney.com/products/ramada-mulberry-trousers"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Mint Velvet Colour Block Star Jumper",
       "percentage": 25.3,
@@ -911,7 +956,7 @@
       "percentage": 24.6,
       "old_price": "1240.00",
       "new_price": "935.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/prada-openwork-ballet-flats-olsss2600166990"
     },
     {
@@ -992,7 +1037,7 @@
       "percentage": 23.9,
       "old_price": "230.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-29T17:26:28.381459",
+      "timestamp": "2026-01-29T17:31:24.525913",
       "url": "https://ukbabycentre.com/products/joie-sprint-signature-isofix-infant-carrier-evergreen"
     },
     {
@@ -1001,53 +1046,8 @@
       "percentage": 23.8,
       "old_price": "105.00",
       "new_price": "80.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
+      "timestamp": "2026-01-29T17:31:21.323204",
       "url": "https://brownsfashion.com/products/ancient-greek-sandals-eleftheria-sandals-olsaw2500152123"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "Druggist pitcher",
-      "percentage": 22.9,
-      "old_price": "240.00",
-      "new_price": "185.00",
-      "timestamp": "2026-01-29T17:26:13.486116",
-      "url": "https://brownsfashion.com/products/jonathan-adler-druggist-pitcher-ollcty100150872"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "iCandy Orange 4 Pram and Pushchair - Rose",
-      "percentage": 22.7,
-      "old_price": "1099.00",
-      "new_price": "849.00",
-      "timestamp": "2026-01-29T17:26:28.381459",
-      "url": "https://ukbabycentre.com/products/icandy-orange-4-pram-and-pushchair-rose"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "Cosatto All in All Ultra 360 Rotate i-Size Car Seat - Whisper EX DISPLAY",
-      "percentage": 22.2,
-      "old_price": "224.95",
-      "new_price": "175.00",
-      "timestamp": "2026-01-29T17:26:28.381459",
-      "url": "https://ukbabycentre.com/products/cosatto-all-in-all-ultra-360-rotate-i-size-car-seat-silhouette"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Soft Touch Microfibre Fitted Sheet - Stone",
-      "percentage": 22.2,
-      "old_price": "9.00",
-      "new_price": "7.00",
-      "timestamp": "2026-01-29T16:04:33.096934",
-      "url": "https://dusk.com/products/soft-touch-microfibre-fitted-sheet-stone"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "VB Monogram Pyjama Sleep Set In Ivory",
-      "percentage": 22.2,
-      "old_price": "450.00",
-      "new_price": "350.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/monogram-sleep-set-in-ivory-monogram-19463"
     }
   ]
 }

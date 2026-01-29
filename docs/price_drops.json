@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:27:38.206681",
-  "total_drops": 736,
+  "generated_at": "2026-01-29T13:32:40.794551",
+  "total_drops": 737,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "victoriabeckham_com",
-      "count": 665,
+      "count": 666,
       "max_drop": 67.7,
-      "total_savings": 57301.0
+      "total_savings": 57341.0
     },
     {
       "site": "dusk_com",
@@ -86,7 +86,7 @@
       "percentage": 63.6,
       "old_price": "22.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T13:27:21.702955",
+      "timestamp": "2026-01-29T13:32:25.816114",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-sofa-cushion-cover-chalk-white"
     },
     {
@@ -104,7 +104,7 @@
       "percentage": 55.6,
       "old_price": "18.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T13:27:21.702955",
+      "timestamp": "2026-01-29T13:32:25.816114",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-cushion-cover-chalk-white"
     },
     {
@@ -338,7 +338,7 @@
       "percentage": 32.1,
       "old_price": "129.00",
       "new_price": "87.55",
-      "timestamp": "2026-01-29T13:27:34.755669",
+      "timestamp": "2026-01-29T13:32:38.208389",
       "url": "https://www.johnlewis.com/baukjen-celine-v-neck-wool-rich-cardigan-blossom/p113169856"
     },
     {
@@ -347,7 +347,7 @@
       "percentage": 31.4,
       "old_price": "7.00",
       "new_price": "4.80",
-      "timestamp": "2026-01-29T13:27:21.702955",
+      "timestamp": "2026-01-29T13:32:25.816114",
       "url": "https://dusk.com/products/pair-of-mykonos-pillowcases-white-200-thread-count"
     },
     {
@@ -374,7 +374,7 @@
       "percentage": 30.0,
       "old_price": "20.00",
       "new_price": "14.00",
-      "timestamp": "2026-01-29T13:27:34.755669",
+      "timestamp": "2026-01-29T13:32:38.208389",
       "url": "https://www.johnlewis.com/falke-cosy-wool-cashmere-blend-socks/p112090754"
     },
     {
@@ -410,7 +410,7 @@
       "percentage": 28.6,
       "old_price": "77.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-29T13:27:34.755669",
+      "timestamp": "2026-01-29T13:32:38.208389",
       "url": "https://www.johnlewis.com/hush-raven-chunky-ribbed-knitted-cardigan/p113108223"
     },
     {
@@ -473,7 +473,7 @@
       "percentage": 26.7,
       "old_price": "1350.00",
       "new_price": "990.00",
-      "timestamp": "2026-01-29T13:27:28.294767",
+      "timestamp": "2026-01-29T13:32:13.222801",
       "url": "https://www.victoriabeckham.com/products/long-sleeve-dolman-midi-in-greenfinch-21779"
     },
     {
@@ -482,7 +482,7 @@
       "percentage": 26.7,
       "old_price": "150.00",
       "new_price": "110.00",
-      "timestamp": "2026-01-29T13:27:28.294767",
+      "timestamp": "2026-01-29T13:32:13.222801",
       "url": "https://www.victoriabeckham.com/products/slogan-tee-fashion-stole-my-smile-in-grey-marl-fashion-stole-my-smi-22273"
     },
     {
@@ -653,7 +653,7 @@
       "percentage": 22.0,
       "old_price": "250.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-29T13:27:28.294767",
+      "timestamp": "2026-01-29T13:32:13.222801",
       "url": "https://www.victoriabeckham.com/products/sequin-detail-mesh-bra-in-black-21954"
     },
     {

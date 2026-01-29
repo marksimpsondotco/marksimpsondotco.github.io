@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:54:44.246121",
-  "total_drops": 765,
+  "generated_at": "2026-01-29T15:59:48.259212",
+  "total_drops": 766,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -23,9 +23,9 @@
     },
     {
       "site": "pigletinbed_com",
-      "count": 3,
+      "count": 4,
       "max_drop": 46.2,
-      "total_savings": 76.0
+      "total_savings": 86.0
     },
     {
       "site": "kingofcotton_com",
@@ -146,7 +146,7 @@
       "percentage": 63.6,
       "old_price": "22.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T15:54:37.378030",
+      "timestamp": "2026-01-29T15:59:33.472781",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-sofa-cushion-cover-chalk-white"
     },
     {
@@ -164,7 +164,7 @@
       "percentage": 55.6,
       "old_price": "18.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T15:54:37.378030",
+      "timestamp": "2026-01-29T15:59:33.472781",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-cushion-cover-chalk-white"
     },
     {
@@ -263,7 +263,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-29T15:54:37.378030",
+      "timestamp": "2026-01-29T15:59:33.472781",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -272,7 +272,7 @@
       "percentage": 50.0,
       "old_price": "20.00",
       "new_price": "10.00",
-      "timestamp": "2026-01-29T15:54:37.378030",
+      "timestamp": "2026-01-29T15:59:33.472781",
       "url": "https://dusk.com/products/colour-stitch-fade-effect-sofa-cushion-cover-multi-natural"
     },
     {
@@ -290,7 +290,7 @@
       "percentage": 46.2,
       "old_price": "119.00",
       "new_price": "64.00",
-      "timestamp": "2026-01-29T15:54:03.783991",
+      "timestamp": "2026-01-29T15:59:06.050922",
       "url": "https://www.pigletinbed.com/products/cedar-green-knitted-throw"
     },
     {
@@ -443,7 +443,7 @@
       "percentage": 31.4,
       "old_price": "7.00",
       "new_price": "4.80",
-      "timestamp": "2026-01-29T15:54:37.378030",
+      "timestamp": "2026-01-29T15:59:33.472781",
       "url": "https://dusk.com/products/pair-of-mykonos-pillowcases-white-200-thread-count"
     },
     {
@@ -704,7 +704,7 @@
       "percentage": 22.2,
       "old_price": "9.00",
       "new_price": "7.00",
-      "timestamp": "2026-01-29T15:54:37.378030",
+      "timestamp": "2026-01-29T15:59:33.472781",
       "url": "https://dusk.com/products/soft-touch-microfibre-fitted-sheet-stone"
     },
     {

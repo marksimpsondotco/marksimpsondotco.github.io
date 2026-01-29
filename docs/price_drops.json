@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T10:44:17.955996",
-  "total_drops": 8650,
+  "generated_at": "2026-01-29T10:50:00.018034",
+  "total_drops": 8664,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 693,
+      "count": 698,
       "max_drop": 74.2,
-      "total_savings": 19148.97
+      "total_savings": 19199.97
     },
     {
       "site": "oliversweeney_com",
@@ -35,9 +35,9 @@
     },
     {
       "site": "currys_com",
-      "count": 2518,
+      "count": 2527,
       "max_drop": 63.7,
-      "total_savings": 59714.13
+      "total_savings": 59827.64
     },
     {
       "site": "fenwick_co_uk",
@@ -666,6 +666,15 @@
       "url": "https://www.twentytwentyone.com/products/asplund-claesson-koivisto-rune-vass-40-135-wall"
     },
     {
+      "site": "johnlewis_com",
+      "product": "John Lewis Scallop Tapered Lampshade",
+      "percentage": 62.5,
+      "old_price": "20.00",
+      "new_price": "7.50",
+      "timestamp": "2026-01-29T10:49:22.216729",
+      "url": "https://www.johnlewis.com/john-lewis-scallop-tapered-lampshade/p111971668"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Barbour Blyth Socks Midnight Oak Mix",
       "percentage": 62.5,
@@ -1141,15 +1150,6 @@
       "new_price": "59.60",
       "timestamp": "2026-01-27T18:41:53.453411",
       "url": null
-    },
-    {
-      "site": "radley_co_uk",
-      "product": "LIVERPOOL STREET MEDIUM ZIPTOP GRAB PINE NEEDLE",
-      "percentage": 60.0,
-      "old_price": "279.00",
-      "new_price": "111.60",
-      "timestamp": "2026-01-27T18:41:53.453411",
-      "url": "https://www.radley.co.uk/products/liverpool-street-medium-ziptop-crossbody-black"
     }
   ]
 }

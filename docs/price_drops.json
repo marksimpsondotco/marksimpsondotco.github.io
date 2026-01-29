@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T16:35:27.910189",
-  "total_drops": 784,
+  "generated_at": "2026-01-29T16:40:35.371396",
+  "total_drops": 865,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -20,6 +20,12 @@
       "count": 11,
       "max_drop": 63.6,
       "total_savings": 114.2
+    },
+    {
+      "site": "brownsfashion_com",
+      "count": 82,
+      "max_drop": 47.4,
+      "total_savings": 7180.52
     },
     {
       "site": "pigletinbed_com",
@@ -92,12 +98,6 @@
       "count": 1,
       "max_drop": 5.8,
       "total_savings": 1.05
-    },
-    {
-      "site": "brownsfashion_com",
-      "count": 1,
-      "max_drop": 4.8,
-      "total_savings": 5.0
     },
     {
       "site": "callidus_shop",
@@ -303,6 +303,15 @@
       "url": "https://www.johnlewis.com/le-creuset-classic-salt-mill/p5065295"
     },
     {
+      "site": "brownsfashion_com",
+      "product": "Cabana pillow",
+      "percentage": 47.4,
+      "old_price": "190.00",
+      "new_price": "100.00",
+      "timestamp": "2026-01-29T16:40:08.985138",
+      "url": "https://brownsfashion.com/products/jonathan-adler-cabana-pillow-ollcty200134980"
+    },
+    {
       "site": "pigletinbed_com",
       "product": "Cedar Green Knitted Throw",
       "percentage": 46.2,
@@ -447,6 +456,42 @@
       "url": "https://www.victoriabeckham.com/products/alina-jean-short-in-mid-blue-wash-21566"
     },
     {
+      "site": "brownsfashion_com",
+      "product": "Pop! set-of-four coasters",
+      "percentage": 35.3,
+      "old_price": "85.00",
+      "new_price": "55.00",
+      "timestamp": "2026-01-29T16:40:08.985138",
+      "url": "https://brownsfashion.com/products/jonathan-adler-pop-set-of-four-coasters-lls78itym524232114"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "striped ruffled cushion cover",
+      "percentage": 34.6,
+      "old_price": "130.00",
+      "new_price": "85.00",
+      "timestamp": "2026-01-29T16:40:08.985138",
+      "url": "https://brownsfashion.com/products/amuse-la-bouche-striped-ruffled-cushion-cover-ollcty200164645"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "zip logo jacket",
+      "percentage": 34.0,
+      "old_price": "2365.00",
+      "new_price": "1560.00",
+      "timestamp": "2026-01-29T16:40:08.985138",
+      "url": "https://brownsfashion.com/products/prada-zip-logo-jacket-oo2ss2600167070"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "contrast-collar suede jacket",
+      "percentage": 33.9,
+      "old_price": "10690.00",
+      "new_price": "7065.00",
+      "timestamp": "2026-01-29T16:40:08.985138",
+      "url": "https://brownsfashion.com/products/prada-contrast-collar-suede-jacket-oo2ss2600167197"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Baukjen Celine V-Neck Wool Rich Cardigan, Blossom",
       "percentage": 32.1,
@@ -479,7 +524,7 @@
       "percentage": 30.0,
       "old_price": "245.00",
       "new_price": "171.50",
-      "timestamp": "2026-01-29T16:35:24.806189",
+      "timestamp": "2026-01-29T16:40:29.681359",
       "url": "https://www.johnlewis.com/seletti-gummy-dream-table-lamp-multi/p110005369"
     },
     {
@@ -510,6 +555,15 @@
       "url": "https://www.johnlewis.com/sweaty-betty-escape-italian-luxe-fleece-hoodie/p5437821"
     },
     {
+      "site": "brownsfashion_com",
+      "product": "chicken-design ceramic plate",
+      "percentage": 29.1,
+      "old_price": "275.00",
+      "new_price": "195.00",
+      "timestamp": "2026-01-29T16:40:08.985138",
+      "url": "https://brownsfashion.com/products/amuse-la-bouche-chicken-design-ceramic-plate-ollcty200164644"
+    },
+    {
       "site": "victoriabeckham_com",
       "product": "Sequin Mesh Thong In Black",
       "percentage": 28.9,
@@ -535,6 +589,15 @@
       "new_price": "55.00",
       "timestamp": "2026-01-29T13:48:10.497516",
       "url": "https://www.johnlewis.com/hush-raven-chunky-ribbed-knitted-cardigan/p113108223"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "pig oval platter (41x29cm)",
+      "percentage": 27.9,
+      "old_price": "305.00",
+      "new_price": "220.00",
+      "timestamp": "2026-01-29T16:40:08.985138",
+      "url": "https://brownsfashion.com/products/amuse-la-bouche-pig-oval-platter-41x29cm-ollcty200164631"
     },
     {
       "site": "johnlewis_com",
@@ -733,6 +796,15 @@
       "new_price": "190.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/hat-in-glacial-blue-21751"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "Druggist pitcher",
+      "percentage": 22.9,
+      "old_price": "240.00",
+      "new_price": "185.00",
+      "timestamp": "2026-01-29T16:40:08.985138",
+      "url": "https://brownsfashion.com/products/jonathan-adler-druggist-pitcher-ollcty100150872"
     },
     {
       "site": "dusk_com",
@@ -940,78 +1012,6 @@
       "new_price": "95.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/boxy-t-shirt-in-grey-marl-21750"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Shrunken Fit T-Shirt In White",
-      "percentage": 20.8,
-      "old_price": "120.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/boxy-t-shirt-in-white-21750"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Shrunken Fit T-Shirt In Black",
-      "percentage": 20.8,
-      "old_price": "120.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/boxy-t-shirt-in-black-21750"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Shrunken Fit T-Shirt In Navy",
-      "percentage": 20.8,
-      "old_price": "120.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/boxy-t-shirt-in-navy-21750"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Fishnet Tights In Black",
-      "percentage": 20.8,
-      "old_price": "120.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/tights-in-black-21977"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Monogram Lace Tights In Black",
-      "percentage": 20.8,
-      "old_price": "120.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/tights-in-black-21978"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Cufflink Ring In Light Gold",
-      "percentage": 20.8,
-      "old_price": "120.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/cufflink-ring-s-m-l-in-light-gold-20548"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Monogram Lace Tights In Red",
-      "percentage": 20.8,
-      "old_price": "120.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/tights-in-red-21978"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Alina Jean In Washed Black",
-      "percentage": 20.4,
-      "old_price": "343.00",
-      "new_price": "273.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/alina-jean-in-washed-black-1"
     }
   ]
 }

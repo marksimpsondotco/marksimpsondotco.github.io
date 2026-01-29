@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T16:45:45.275414",
-  "total_drops": 867,
+  "generated_at": "2026-01-29T16:50:51.995834",
+  "total_drops": 889,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -23,9 +23,9 @@
     },
     {
       "site": "brownsfashion_com",
-      "count": 84,
+      "count": 104,
       "max_drop": 47.4,
-      "total_savings": 7210.52
+      "total_savings": 10614.2
     },
     {
       "site": "pigletinbed_com",
@@ -38,6 +38,12 @@
       "count": 1,
       "max_drop": 39.5,
       "total_savings": 15.0
+    },
+    {
+      "site": "astridandmiyu_com",
+      "count": 1,
+      "max_drop": 29.0,
+      "total_savings": 45.0
     },
     {
       "site": "hoxtonmacs_co_uk",
@@ -80,6 +86,12 @@
       "count": 5,
       "max_drop": 12.0,
       "total_savings": 239.33
+    },
+    {
+      "site": "scandiborn_co_uk",
+      "count": 1,
+      "max_drop": 11.8,
+      "total_savings": 2.0
     },
     {
       "site": "fenwick_co_uk",
@@ -308,7 +320,7 @@
       "percentage": 47.4,
       "old_price": "190.00",
       "new_price": "100.00",
-      "timestamp": "2026-01-29T16:45:22.754953",
+      "timestamp": "2026-01-29T16:50:37.991336",
       "url": "https://brownsfashion.com/products/jonathan-adler-cabana-pillow-ollcty200134980"
     },
     {
@@ -461,7 +473,7 @@
       "percentage": 35.3,
       "old_price": "85.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-29T16:45:22.754953",
+      "timestamp": "2026-01-29T16:50:37.991336",
       "url": "https://brownsfashion.com/products/jonathan-adler-pop-set-of-four-coasters-lls78itym524232114"
     },
     {
@@ -470,7 +482,7 @@
       "percentage": 34.6,
       "old_price": "130.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-29T16:45:22.754953",
+      "timestamp": "2026-01-29T16:50:37.991336",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-striped-ruffled-cushion-cover-ollcty200164645"
     },
     {
@@ -479,7 +491,7 @@
       "percentage": 34.0,
       "old_price": "2365.00",
       "new_price": "1560.00",
-      "timestamp": "2026-01-29T16:45:22.754953",
+      "timestamp": "2026-01-29T16:50:37.991336",
       "url": "https://brownsfashion.com/products/prada-zip-logo-jacket-oo2ss2600167070"
     },
     {
@@ -488,7 +500,7 @@
       "percentage": 33.9,
       "old_price": "10690.00",
       "new_price": "7065.00",
-      "timestamp": "2026-01-29T16:45:22.754953",
+      "timestamp": "2026-01-29T16:50:37.991336",
       "url": "https://brownsfashion.com/products/prada-contrast-collar-suede-jacket-oo2ss2600167197"
     },
     {
@@ -560,8 +572,17 @@
       "percentage": 29.1,
       "old_price": "275.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-29T16:45:22.754953",
+      "timestamp": "2026-01-29T16:50:37.991336",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-chicken-design-ceramic-plate-ollcty200164644"
+    },
+    {
+      "site": "astridandmiyu_com",
+      "product": "Pavé Seamless 1.2mm Piercing Hoop in Solid White Gold",
+      "percentage": 29.0,
+      "old_price": "155.00",
+      "new_price": "110.00",
+      "timestamp": "2026-01-29T16:50:41.882598",
+      "url": "https://www.astridandmiyu.com/products/pave-seamless-1-2mm-piercing-hoop-in-solid-white-gold"
     },
     {
       "site": "victoriabeckham_com",
@@ -596,7 +617,7 @@
       "percentage": 27.9,
       "old_price": "305.00",
       "new_price": "220.00",
-      "timestamp": "2026-01-29T16:45:22.754953",
+      "timestamp": "2026-01-29T16:50:37.991336",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-pig-oval-platter-41x29cm-ollcty200164631"
     },
     {
@@ -607,6 +628,69 @@
       "new_price": "6.50",
       "timestamp": "2026-01-29T15:16:23.174917",
       "url": "https://www.johnlewis.com/john-lewis-baby-pointelle-butterfly-long-sleeve-bodysuits-pack-of-5-pink-multi/p113762284"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "drawstring-waist stripe midi skirt",
+      "percentage": 27.1,
+      "old_price": "885.00",
+      "new_price": "645.00",
+      "timestamp": "2026-01-29T16:50:37.991336",
+      "url": "https://brownsfashion.com/products/prada-drawstring-waist-stripe-midi-skirt-olnss2600166449"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "panel trousers",
+      "percentage": 27.0,
+      "old_price": "2145.00",
+      "new_price": "1565.00",
+      "timestamp": "2026-01-29T16:50:37.991336",
+      "url": "https://brownsfashion.com/products/prada-panel-trousers-olnss2600166451"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "striped logo polo top",
+      "percentage": 27.0,
+      "old_price": "1020.00",
+      "new_price": "745.00",
+      "timestamp": "2026-01-29T16:50:37.991336",
+      "url": "https://brownsfashion.com/products/prada-striped-logo-polo-top-olnss2600166447"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "striped buttoned shirt",
+      "percentage": 26.9,
+      "old_price": "1395.00",
+      "new_price": "1020.00",
+      "timestamp": "2026-01-29T16:50:37.991336",
+      "url": "https://brownsfashion.com/products/prada-striped-buttoned-shirt-olnss2600166950"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "striped logo top",
+      "percentage": 26.8,
+      "old_price": "950.00",
+      "new_price": "695.00",
+      "timestamp": "2026-01-29T16:50:37.991336",
+      "url": "https://brownsfashion.com/products/prada-striped-logo-top-olnss2600166452"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "button-fastening blazer",
+      "percentage": 26.8,
+      "old_price": "2945.00",
+      "new_price": "2155.00",
+      "timestamp": "2026-01-29T16:50:37.991336",
+      "url": "https://brownsfashion.com/products/prada-button-fastening-blazer-olnss2600166947"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "patent-leather wedge sandals",
+      "percentage": 26.8,
+      "old_price": "1120.00",
+      "new_price": "820.00",
+      "timestamp": "2026-01-29T16:50:37.991336",
+      "url": "https://brownsfashion.com/products/prada-patent-leather-wedge-sandals-olsss2600166987"
     },
     {
       "site": "victoriabeckham_com",
@@ -726,6 +810,15 @@
       "url": "https://www.victoriabeckham.com/products/embroidered-towelling-slippers-in-white-20776"
     },
     {
+      "site": "brownsfashion_com",
+      "product": "openwork ballet flats",
+      "percentage": 24.6,
+      "old_price": "1240.00",
+      "new_price": "935.00",
+      "timestamp": "2026-01-29T16:50:37.991336",
+      "url": "https://brownsfashion.com/products/prada-openwork-ballet-flats-olsss2600166990"
+    },
+    {
       "site": "victoriabeckham_com",
       "product": "Lace Cami In Black",
       "percentage": 24.1,
@@ -803,7 +896,7 @@
       "percentage": 23.8,
       "old_price": "105.00",
       "new_price": "80.00",
-      "timestamp": "2026-01-29T16:45:22.754953",
+      "timestamp": "2026-01-29T16:50:37.991336",
       "url": "https://brownsfashion.com/products/ancient-greek-sandals-eleftheria-sandals-olsaw2500152123"
     },
     {
@@ -812,7 +905,7 @@
       "percentage": 22.9,
       "old_price": "240.00",
       "new_price": "185.00",
-      "timestamp": "2026-01-29T16:45:22.754953",
+      "timestamp": "2026-01-29T16:50:37.991336",
       "url": "https://brownsfashion.com/products/jonathan-adler-druggist-pitcher-ollcty100150872"
     },
     {
@@ -931,87 +1024,6 @@
       "new_price": "33.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/dorian-keyring-in-dark-olive-1"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Dorian Keyring In Black",
-      "percentage": 21.4,
-      "old_price": "140.00",
-      "new_price": "110.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/b-frame-charm-keyring-tonal-in-black-21097"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Dorian Keyring In Burgundy",
-      "percentage": 21.4,
-      "old_price": "140.00",
-      "new_price": "110.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/b-frame-charm-keyring-tonal-in-burgundy-21097"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Dorian Keyring In Tan",
-      "percentage": 21.4,
-      "old_price": "42.00",
-      "new_price": "33.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/vb430-b-frame-charm-keyring-tonal-in-tan-21097"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Fitted Shrunken Logo T-Shirt In White",
-      "percentage": 21.1,
-      "old_price": "190.00",
-      "new_price": "150.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/shrunken-logo-tee-in-white-19816"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Dorian Signet Ring In Silver",
-      "percentage": 21.1,
-      "old_price": "95.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/signet-b-ring-in-silver-19672"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Dorian Signet Ring In Gold",
-      "percentage": 21.1,
-      "old_price": "95.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/signet-b-ring-in-gold-19671"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "High Leg Bodysuit In White",
-      "percentage": 21.1,
-      "old_price": "190.00",
-      "new_price": "150.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/high-leg-body-suit-in-white-20781"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "High Leg Bodysuit In Grey Marl",
-      "percentage": 21.1,
-      "old_price": "190.00",
-      "new_price": "150.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/high-leg-body-suit-in-grey-marl-20781"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "High Leg Bodysuit In Black",
-      "percentage": 21.1,
-      "old_price": "190.00",
-      "new_price": "150.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/high-leg-body-suit-in-black-20781"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T05:54:56.769398",
-  "total_drops": 7779,
+  "generated_at": "2026-01-29T06:00:53.967619",
+  "total_drops": 7781,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 687,
+      "count": 688,
       "max_drop": 74.2,
-      "total_savings": 18999.77
+      "total_savings": 19009.77
     },
     {
       "site": "oliversweeney_com",
@@ -125,9 +125,9 @@
     },
     {
       "site": "apcstore_co_uk",
-      "count": 1,
+      "count": 2,
       "max_drop": 30.0,
-      "total_savings": 207.0
+      "total_savings": 207.75
     },
     {
       "site": "nordisk_co_uk",

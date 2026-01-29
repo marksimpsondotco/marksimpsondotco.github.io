@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T09:14:15.231670",
-  "total_drops": 8591,
+  "generated_at": "2026-01-29T09:20:13.065963",
+  "total_drops": 8592,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "currys_com",
-      "count": 2462,
+      "count": 2463,
       "max_drop": 63.7,
-      "total_savings": 58675.09
+      "total_savings": 58710.09
     },
     {
       "site": "fenwick_co_uk",

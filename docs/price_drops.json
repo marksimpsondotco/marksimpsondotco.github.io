@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T23:13:02.866556",
-  "total_drops": 1258,
+  "generated_at": "2026-01-29T23:18:11.401188",
+  "total_drops": 1259,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -113,9 +113,9 @@
     },
     {
       "site": "boden_com",
-      "count": 9,
+      "count": 10,
       "max_drop": 15.6,
-      "total_savings": 25.45
+      "total_savings": 29.05
     },
     {
       "site": "thebabyservice_com",
@@ -419,7 +419,7 @@
       "percentage": 45.4,
       "old_price": "3030.00",
       "new_price": "1655.00",
-      "timestamp": "2026-01-29T23:12:52.546383",
+      "timestamp": "2026-01-29T23:17:51.827795",
       "url": "https://brownsfashion.com/products/bernadette-winnie-embroidery-maxi-dress-olmss2600156454"
     },
     {
@@ -455,7 +455,7 @@
       "percentage": 43.7,
       "old_price": "1305.00",
       "new_price": "735.00",
-      "timestamp": "2026-01-29T23:12:52.546383",
+      "timestamp": "2026-01-29T23:17:51.827795",
       "url": "https://brownsfashion.com/products/rebecca-vallance-bellatrix-off-shoulder-ruffled-midi-dress-olmss2600160546"
     },
     {
@@ -590,7 +590,7 @@
       "percentage": 36.4,
       "old_price": "110.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-29T23:12:52.546383",
+      "timestamp": "2026-01-29T23:17:51.827795",
       "url": "https://brownsfashion.com/products/simon-miller-bwai-striped-bikini-bottom-olrss2600169718"
     },
     {
@@ -680,7 +680,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-29T23:12:54.868155",
+      "timestamp": "2026-01-29T23:17:56.255751",
       "url": "https://www.2tall.com/products/blend-twister-jogg-tapered-fit-tall-jeans-dark-denim"
     },
     {
@@ -698,7 +698,7 @@
       "percentage": 33.6,
       "old_price": "119.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-29T23:12:35.746438",
+      "timestamp": "2026-01-29T23:17:59.559450",
       "url": "https://fenwick.co.uk/products/dark-brown-silver-ankle-boot-9617531109"
     },
     {
@@ -770,7 +770,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-29T23:12:52.546383",
+      "timestamp": "2026-01-29T23:17:51.827795",
       "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
     },
     {
@@ -779,7 +779,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-29T23:12:52.546383",
+      "timestamp": "2026-01-29T23:17:51.827795",
       "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
     },
     {
@@ -788,7 +788,7 @@
       "percentage": 29.6,
       "old_price": "675.00",
       "new_price": "475.00",
-      "timestamp": "2026-01-29T23:12:52.546383",
+      "timestamp": "2026-01-29T23:17:51.827795",
       "url": "https://brownsfashion.com/products/r13-zebra-frayed-shirt-olpss2600163645"
     },
     {
@@ -797,7 +797,7 @@
       "percentage": 29.5,
       "old_price": "660.00",
       "new_price": "465.00",
-      "timestamp": "2026-01-29T23:12:52.546383",
+      "timestamp": "2026-01-29T23:17:51.827795",
       "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
     },
     {
@@ -806,7 +806,7 @@
       "percentage": 29.3,
       "old_price": "615.00",
       "new_price": "435.00",
-      "timestamp": "2026-01-29T23:12:52.546383",
+      "timestamp": "2026-01-29T23:17:51.827795",
       "url": "https://brownsfashion.com/products/r13-plaid-shirt-olpss2600163647"
     },
     {

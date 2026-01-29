@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T16:30:23.130187",
-  "total_drops": 776,
+  "generated_at": "2026-01-29T16:35:27.910189",
+  "total_drops": 784,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -64,6 +64,12 @@
       "total_savings": 19.55
     },
     {
+      "site": "thebabyservice_com",
+      "count": 7,
+      "max_drop": 12.6,
+      "total_savings": 90.0
+    },
+    {
       "site": "mamasandpapas_com",
       "count": 5,
       "max_drop": 12.0,
@@ -86,6 +92,12 @@
       "count": 1,
       "max_drop": 5.8,
       "total_savings": 1.05
+    },
+    {
+      "site": "brownsfashion_com",
+      "count": 1,
+      "max_drop": 4.8,
+      "total_savings": 5.0
     },
     {
       "site": "callidus_shop",
@@ -467,7 +479,7 @@
       "percentage": 30.0,
       "old_price": "245.00",
       "new_price": "171.50",
-      "timestamp": "2026-01-29T16:30:20.803857",
+      "timestamp": "2026-01-29T16:35:24.806189",
       "url": "https://www.johnlewis.com/seletti-gummy-dream-table-lamp-multi/p110005369"
     },
     {

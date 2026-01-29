@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T10:50:00.018034",
-  "total_drops": 8664,
+  "generated_at": "2026-01-29T10:55:44.343973",
+  "total_drops": 8668,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "currys_com",
-      "count": 2527,
+      "count": 2531,
       "max_drop": 63.7,
-      "total_savings": 59827.64
+      "total_savings": 59862.64
     },
     {
       "site": "fenwick_co_uk",
@@ -671,7 +671,7 @@
       "percentage": 62.5,
       "old_price": "20.00",
       "new_price": "7.50",
-      "timestamp": "2026-01-29T10:49:22.216729",
+      "timestamp": "2026-01-29T10:55:04.060882",
       "url": "https://www.johnlewis.com/john-lewis-scallop-tapered-lampshade/p111971668"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T05:24:22.688163",
-  "total_drops": 7480,
+  "generated_at": "2026-01-29T05:30:12.110275",
+  "total_drops": 7637,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -41,9 +41,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 4132,
+      "count": 4288,
       "max_drop": 63.6,
-      "total_savings": 94919.4
+      "total_savings": 99097.25
     },
     {
       "site": "twentytwentyone_com",
@@ -101,9 +101,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 101,
+      "count": 102,
       "max_drop": 40.0,
-      "total_savings": 2745.48
+      "total_savings": 2773.48
     },
     {
       "site": "hollinsandhollinshead_com",

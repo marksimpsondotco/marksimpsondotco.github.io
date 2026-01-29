@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T06:43:35.467379",
-  "total_drops": 7784,
+  "generated_at": "2026-01-29T06:49:34.454586",
+  "total_drops": 7793,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -65,9 +65,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 51,
+      "count": 60,
       "max_drop": 50.0,
-      "total_savings": 1530.0
+      "total_savings": 2022.0
     },
     {
       "site": "trunkclothiers_com",

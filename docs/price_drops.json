@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-29T14:58:47.912034",
-  "total_drops": 753,
+  "generated_at": "2026-01-29T15:03:56.111182",
+  "total_drops": 755,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 61,
+      "count": 62,
       "max_drop": 72.2,
-      "total_savings": 1198.23
+      "total_savings": 1200.73
     },
     {
       "site": "victoriabeckham_com",
@@ -44,6 +44,12 @@
       "count": 1,
       "max_drop": 20.0,
       "total_savings": 10.0
+    },
+    {
+      "site": "uk_renogy_com",
+      "count": 1,
+      "max_drop": 19.0,
+      "total_savings": 40.0
     },
     {
       "site": "boden_com",
@@ -128,7 +134,7 @@
       "percentage": 63.6,
       "old_price": "22.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T14:58:38.873771",
+      "timestamp": "2026-01-29T15:03:48.376381",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-sofa-cushion-cover-chalk-white"
     },
     {
@@ -146,7 +152,7 @@
       "percentage": 55.6,
       "old_price": "18.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T14:58:38.873771",
+      "timestamp": "2026-01-29T15:03:48.376381",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-cushion-cover-chalk-white"
     },
     {
@@ -245,7 +251,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-29T14:58:38.873771",
+      "timestamp": "2026-01-29T15:03:48.376381",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -308,7 +314,7 @@
       "percentage": 39.5,
       "old_price": "38.00",
       "new_price": "23.00",
-      "timestamp": "2026-01-29T14:58:12.255390",
+      "timestamp": "2026-01-29T15:02:55.476827",
       "url": "https://www.kingofcotton.com/products/pima-750-thread-cotton-sateen-fitted-sheet"
     },
     {
@@ -407,7 +413,7 @@
       "percentage": 31.4,
       "old_price": "7.00",
       "new_price": "4.80",
-      "timestamp": "2026-01-29T14:58:38.873771",
+      "timestamp": "2026-01-29T15:03:48.376381",
       "url": "https://dusk.com/products/pair-of-mykonos-pillowcases-white-200-thread-count"
     },
     {
@@ -472,6 +478,15 @@
       "new_price": "55.00",
       "timestamp": "2026-01-29T13:48:10.497516",
       "url": "https://www.johnlewis.com/hush-raven-chunky-ribbed-knitted-cardigan/p113108223"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Baby Pointelle Butterfly Long Sleeve Bodysuits, Pack of 5, Pink Multi",
+      "percentage": 27.8,
+      "old_price": "9.00",
+      "new_price": "6.50",
+      "timestamp": "2026-01-29T15:03:52.848073",
+      "url": "https://www.johnlewis.com/john-lewis-baby-pointelle-butterfly-long-sleeve-bodysuits-pack-of-5-pink-multi/p113762284"
     },
     {
       "site": "victoriabeckham_com",
@@ -560,7 +575,7 @@
       "percentage": 25.2,
       "old_price": "115.00",
       "new_price": "86.00",
-      "timestamp": "2026-01-29T14:58:37.225320",
+      "timestamp": "2026-01-29T15:03:46.741931",
       "url": "https://www.flannels.com/nike-vomero-18-mens-running-shoes-211531"
     },
     {
@@ -967,15 +982,6 @@
       "new_price": "195.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/alina-jean-in-butter-yellow"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Harper Jean In Heritage Blue",
-      "percentage": 20.4,
-      "old_price": "490.00",
-      "new_price": "390.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/harper-jean-in-heritage-blue-21727"
     }
   ]
 }

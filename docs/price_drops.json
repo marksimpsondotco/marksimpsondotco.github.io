@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T10:55:44.343973",
-  "total_drops": 8668,
+  "generated_at": "2026-01-29T11:01:08.495306",
+  "total_drops": 5509,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -34,16 +34,10 @@
       "total_savings": 2.0
     },
     {
-      "site": "currys_com",
-      "count": 2531,
-      "max_drop": 63.7,
-      "total_savings": 59862.64
-    },
-    {
       "site": "fenwick_co_uk",
-      "count": 4401,
+      "count": 4180,
       "max_drop": 63.6,
-      "total_savings": 101809.01
+      "total_savings": 97110.72
     },
     {
       "site": "twentytwentyone_com",
@@ -58,34 +52,16 @@
       "total_savings": 24.25
     },
     {
-      "site": "dusk_com",
-      "count": 67,
-      "max_drop": 60.0,
-      "total_savings": 2342.12
-    },
-    {
       "site": "ukbabycentre_com",
       "count": 71,
       "max_drop": 50.8,
       "total_savings": 2241.82
     },
     {
-      "site": "trunkclothiers_com",
-      "count": 13,
-      "max_drop": 50.0,
-      "total_savings": 839.3
-    },
-    {
       "site": "pigletinbed_com",
       "count": 4,
       "max_drop": 48.3,
       "total_savings": 114.0
-    },
-    {
-      "site": "rehaus_co_uk",
-      "count": 3,
-      "max_drop": 48.1,
-      "total_savings": 5036.0
     },
     {
       "site": "bugaboo_com",
@@ -130,18 +106,6 @@
       "total_savings": 207.75
     },
     {
-      "site": "nordisk_co_uk",
-      "count": 11,
-      "max_drop": 30.0,
-      "total_savings": 778.0
-    },
-    {
-      "site": "chelseababy_com",
-      "count": 130,
-      "max_drop": 24.3,
-      "total_savings": 6842.75
-    },
-    {
       "site": "smallsmart_co_uk",
       "count": 3,
       "max_drop": 20.0,
@@ -172,22 +136,10 @@
       "total_savings": 101.59
     },
     {
-      "site": "hauslondon_com",
-      "count": 86,
-      "max_drop": 16.4,
-      "total_savings": 11925.0
-    },
-    {
       "site": "kingofcotton_com",
       "count": 1,
       "max_drop": 14.8,
       "total_savings": 20.0
-    },
-    {
-      "site": "theconranshop_com",
-      "count": 1,
-      "max_drop": 12.4,
-      "total_savings": 708.0
     },
     {
       "site": "percivalclo_com",
@@ -196,22 +148,10 @@
       "total_savings": 6.0
     },
     {
-      "site": "westenddj_co_uk",
-      "count": 31,
-      "max_drop": 7.6,
-      "total_savings": 2862.97
-    },
-    {
       "site": "garrard_com",
       "count": 1,
       "max_drop": 6.5,
       "total_savings": 200.0
-    },
-    {
-      "site": "victoriabeckham_com",
-      "count": 6,
-      "max_drop": 6.2,
-      "total_savings": 227.0
     },
     {
       "site": "shop_coptrz_com",
@@ -220,28 +160,10 @@
       "total_savings": 85.0
     },
     {
-      "site": "ullajohnson_com",
-      "count": 48,
-      "max_drop": 3.4,
-      "total_savings": 283.0
-    },
-    {
       "site": "khaite_com",
       "count": 5,
       "max_drop": 2.9,
       "total_savings": 125.0
-    },
-    {
-      "site": "callidus_shop",
-      "count": 1,
-      "max_drop": 2.1,
-      "total_savings": 104.0
-    },
-    {
-      "site": "mansurgavriel_com",
-      "count": 10,
-      "max_drop": 2.0,
-      "total_savings": 60.0
     },
     {
       "site": "babyandnurseryworld_co_uk",
@@ -630,15 +552,6 @@
       "url": "https://www.johnlewis.com/sweaty-betty-workout-trainer-socks-pack-of-3/p113084688"
     },
     {
-      "site": "currys_com",
-      "product": "PANASONIC Series 300 EW-DJ26-V311 Water Flosser - Viole",
-      "percentage": 63.7,
-      "old_price": "79.99",
-      "new_price": "29.00",
-      "timestamp": "2026-01-28T09:39:14.337475",
-      "url": "https://www.currys.co.uk/products/10267415.html"
-    },
-    {
       "site": "fenwick_co_uk",
       "product": "Floral Edie Bow Alice",
       "percentage": 63.6,
@@ -646,15 +559,6 @@
       "new_price": "2.00",
       "timestamp": "2026-01-28T12:33:38.625943",
       "url": "https://fenwick.co.uk/products/mimi-and-lula-floral-edie-bow-alice-pink-162040"
-    },
-    {
-      "site": "currys_com",
-      "product": "LG USC9S 3.1.3 Wireless Sound Bar with Dolby Atmos",
-      "percentage": 63.1,
-      "old_price": "160.00",
-      "new_price": "58.99",
-      "timestamp": "2026-01-28T08:52:02.041087",
-      "url": "https://www.currys.co.uk/products/10248732.html"
     },
     {
       "site": "twentytwentyone_com",
@@ -671,7 +575,7 @@
       "percentage": 62.5,
       "old_price": "20.00",
       "new_price": "7.50",
-      "timestamp": "2026-01-29T10:55:04.060882",
+      "timestamp": "2026-01-29T11:00:49.933883",
       "url": "https://www.johnlewis.com/john-lewis-scallop-tapered-lampshade/p111971668"
     },
     {
@@ -682,24 +586,6 @@
       "new_price": "3.00",
       "timestamp": "2026-01-28T12:33:38.625943",
       "url": "https://fenwick.co.uk/products/barbour-barbour-blyth-socks-midnight-oak-mix-mso0199"
-    },
-    {
-      "site": "currys_com",
-      "product": "BOSCH Series 4 SMV4HTX00G Full-size Fully Integrated Wi",
-      "percentage": 62.5,
-      "old_price": "79.99",
-      "new_price": "29.99",
-      "timestamp": "2026-01-27T02:55:42.536171",
-      "url": "https://www.currys.co.uk/products/10262823.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "LG VX70 Series AI Dry RHX7010TBB 10 kg Heat Pump Tumble",
-      "percentage": 62.5,
-      "old_price": "79.99",
-      "new_price": "29.99",
-      "timestamp": "2026-01-27T02:55:42.536171",
-      "url": "https://www.currys.co.uk/products/10287536.html"
     },
     {
       "site": "radley_co_uk",
@@ -738,15 +624,6 @@
       "url": null
     },
     {
-      "site": "fenwick_co_uk",
-      "product": "Libres Boots",
-      "percentage": 61.5,
-      "old_price": "129.95",
-      "new_price": "50.00",
-      "timestamp": "2026-01-29T01:33:11.309533",
-      "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-brown-libres-boots-libres"
-    },
-    {
       "site": "johnlewis_com",
       "product": "Sweaty Betty Ultimate Studio Twin Strap Tank Top",
       "percentage": 61.3,
@@ -772,15 +649,6 @@
       "new_price": "19.00",
       "timestamp": "2026-01-28T02:25:21.929630",
       "url": null
-    },
-    {
-      "site": "currys_com",
-      "product": "SALTER Deco EK5832BLK 2-Slice Toaster - Black",
-      "percentage": 61.1,
-      "old_price": "89.99",
-      "new_price": "35.00",
-      "timestamp": "2026-01-27T08:24:27.762656",
-      "url": "https://www.currys.co.uk/products/10260547.html"
     },
     {
       "site": "radley_co_uk",
@@ -1150,6 +1018,60 @@
       "new_price": "59.60",
       "timestamp": "2026-01-27T18:41:53.453411",
       "url": null
+    },
+    {
+      "site": "radley_co_uk",
+      "product": "LIVERPOOL STREET MEDIUM ZIPTOP GRAB PINE NEEDLE",
+      "percentage": 60.0,
+      "old_price": "279.00",
+      "new_price": "111.60",
+      "timestamp": "2026-01-27T18:41:53.453411",
+      "url": "https://www.radley.co.uk/products/liverpool-street-medium-ziptop-crossbody-black"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Saint Tropez Mila 3/4 Sleeve Jumper",
+      "percentage": 60.0,
+      "old_price": "34.99",
+      "new_price": "14.00",
+      "timestamp": "2026-01-28T13:54:57.275681",
+      "url": "https://www.johnlewis.com/saint-tropez-mila-3-4-sleeve-jumper/p112393072"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "The Gruffalo Plush Soft Toy",
+      "percentage": 60.0,
+      "old_price": "49.99",
+      "new_price": "19.99",
+      "timestamp": "2026-01-27T01:03:04.630359",
+      "url": null
+    },
+    {
+      "site": "oliversweeney_com",
+      "product": "Camber Dark Grey",
+      "percentage": 58.8,
+      "old_price": "119.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-28T19:43:52.359372",
+      "url": "https://www.oliversweeney.com/products/camber-charcoal-crew-neck"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Philips Series 3000 S3242/12 Wet & Dry Electric Shaver with 5D Flex & Pivot Heads, Travel Pouch & Pop-up Trimmer, Ash Gold",
+      "percentage": 57.1,
+      "old_price": "139.99",
+      "new_price": "59.99",
+      "timestamp": "2026-01-28T00:30:52.648375",
+      "url": "https://www.johnlewis.com/philips-series-3000-s3242-12-wet-dry-electric-shaver-with-5d-flex-pivot-heads-travel-pouch-pop-up-trimmer-ash-gold/p110953138"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Flying Unicorn Hair Ponies Bright",
+      "percentage": 57.1,
+      "old_price": "7.00",
+      "new_price": "3.00",
+      "timestamp": "2026-01-28T12:33:38.625943",
+      "url": "https://fenwick.co.uk/products/mimi-and-lula-flying-unicorn-ponies-bright-multi-162044"
     }
   ]
 }

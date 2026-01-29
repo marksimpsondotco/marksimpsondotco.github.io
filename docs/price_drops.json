@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T16:40:35.371396",
-  "total_drops": 865,
+  "generated_at": "2026-01-29T16:45:40.061826",
+  "total_drops": 867,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -23,9 +23,9 @@
     },
     {
       "site": "brownsfashion_com",
-      "count": 82,
+      "count": 84,
       "max_drop": 47.4,
-      "total_savings": 7180.52
+      "total_savings": 7210.52
     },
     {
       "site": "pigletinbed_com",
@@ -308,7 +308,7 @@
       "percentage": 47.4,
       "old_price": "190.00",
       "new_price": "100.00",
-      "timestamp": "2026-01-29T16:40:08.985138",
+      "timestamp": "2026-01-29T16:45:22.754953",
       "url": "https://brownsfashion.com/products/jonathan-adler-cabana-pillow-ollcty200134980"
     },
     {
@@ -461,7 +461,7 @@
       "percentage": 35.3,
       "old_price": "85.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-29T16:40:08.985138",
+      "timestamp": "2026-01-29T16:45:22.754953",
       "url": "https://brownsfashion.com/products/jonathan-adler-pop-set-of-four-coasters-lls78itym524232114"
     },
     {
@@ -470,7 +470,7 @@
       "percentage": 34.6,
       "old_price": "130.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-29T16:40:08.985138",
+      "timestamp": "2026-01-29T16:45:22.754953",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-striped-ruffled-cushion-cover-ollcty200164645"
     },
     {
@@ -479,7 +479,7 @@
       "percentage": 34.0,
       "old_price": "2365.00",
       "new_price": "1560.00",
-      "timestamp": "2026-01-29T16:40:08.985138",
+      "timestamp": "2026-01-29T16:45:22.754953",
       "url": "https://brownsfashion.com/products/prada-zip-logo-jacket-oo2ss2600167070"
     },
     {
@@ -488,7 +488,7 @@
       "percentage": 33.9,
       "old_price": "10690.00",
       "new_price": "7065.00",
-      "timestamp": "2026-01-29T16:40:08.985138",
+      "timestamp": "2026-01-29T16:45:22.754953",
       "url": "https://brownsfashion.com/products/prada-contrast-collar-suede-jacket-oo2ss2600167197"
     },
     {
@@ -524,7 +524,7 @@
       "percentage": 30.0,
       "old_price": "245.00",
       "new_price": "171.50",
-      "timestamp": "2026-01-29T16:40:29.681359",
+      "timestamp": "2026-01-29T16:44:01.912435",
       "url": "https://www.johnlewis.com/seletti-gummy-dream-table-lamp-multi/p110005369"
     },
     {
@@ -560,7 +560,7 @@
       "percentage": 29.1,
       "old_price": "275.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-29T16:40:08.985138",
+      "timestamp": "2026-01-29T16:45:22.754953",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-chicken-design-ceramic-plate-ollcty200164644"
     },
     {
@@ -596,7 +596,7 @@
       "percentage": 27.9,
       "old_price": "305.00",
       "new_price": "220.00",
-      "timestamp": "2026-01-29T16:40:08.985138",
+      "timestamp": "2026-01-29T16:45:22.754953",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-pig-oval-platter-41x29cm-ollcty200164631"
     },
     {
@@ -799,11 +799,20 @@
     },
     {
       "site": "brownsfashion_com",
+      "product": "Eleftheria sandals",
+      "percentage": 23.8,
+      "old_price": "105.00",
+      "new_price": "80.00",
+      "timestamp": "2026-01-29T16:45:22.754953",
+      "url": "https://brownsfashion.com/products/ancient-greek-sandals-eleftheria-sandals-olsaw2500152123"
+    },
+    {
+      "site": "brownsfashion_com",
       "product": "Druggist pitcher",
       "percentage": 22.9,
       "old_price": "240.00",
       "new_price": "185.00",
-      "timestamp": "2026-01-29T16:40:08.985138",
+      "timestamp": "2026-01-29T16:45:22.754953",
       "url": "https://brownsfashion.com/products/jonathan-adler-druggist-pitcher-ollcty100150872"
     },
     {
@@ -1003,15 +1012,6 @@
       "new_price": "150.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/high-leg-body-suit-in-black-20781"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Shrunken Fit T-Shirt In Grey Marl",
-      "percentage": 20.8,
-      "old_price": "120.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/boxy-t-shirt-in-grey-marl-21750"
     }
   ]
 }

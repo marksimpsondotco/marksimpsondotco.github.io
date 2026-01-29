@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T22:01:39.271967",
-  "total_drops": 1248,
+  "generated_at": "2026-01-29T22:06:46.301707",
+  "total_drops": 1250,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -58,6 +58,12 @@
       "total_savings": 1543.35
     },
     {
+      "site": "fenwick_co_uk",
+      "count": 2,
+      "max_drop": 33.6,
+      "total_savings": 47.0
+    },
+    {
       "site": "astridandmiyu_com",
       "count": 1,
       "max_drop": 29.0,
@@ -89,9 +95,9 @@
     },
     {
       "site": "currys_com",
-      "count": 2,
+      "count": 3,
       "max_drop": 19.5,
-      "total_savings": 340.0
+      "total_savings": 400.0
     },
     {
       "site": "uk_renogy_com",
@@ -122,12 +128,6 @@
       "count": 1,
       "max_drop": 10.0,
       "total_savings": 10.0
-    },
-    {
-      "site": "fenwick_co_uk",
-      "count": 1,
-      "max_drop": 10.0,
-      "total_savings": 7.0
     },
     {
       "site": "houseofisabella_co_uk",
@@ -413,7 +413,7 @@
       "percentage": 45.4,
       "old_price": "3030.00",
       "new_price": "1655.00",
-      "timestamp": "2026-01-29T22:01:35.767913",
+      "timestamp": "2026-01-29T22:06:42.897449",
       "url": "https://brownsfashion.com/products/bernadette-winnie-embroidery-maxi-dress-olmss2600156454"
     },
     {
@@ -449,7 +449,7 @@
       "percentage": 43.7,
       "old_price": "1305.00",
       "new_price": "735.00",
-      "timestamp": "2026-01-29T22:01:35.767913",
+      "timestamp": "2026-01-29T22:06:42.897449",
       "url": "https://brownsfashion.com/products/rebecca-vallance-bellatrix-off-shoulder-ruffled-midi-dress-olmss2600160546"
     },
     {
@@ -584,7 +584,7 @@
       "percentage": 36.4,
       "old_price": "110.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-29T22:01:35.767913",
+      "timestamp": "2026-01-29T22:06:42.897449",
       "url": "https://brownsfashion.com/products/simon-miller-bwai-striped-bikini-bottom-olrss2600169718"
     },
     {
@@ -678,6 +678,15 @@
       "url": "https://brownsfashion.com/products/prada-contrast-collar-suede-jacket-oo2ss2600167197"
     },
     {
+      "site": "fenwick_co_uk",
+      "product": "SILVER ANKLE BOOT",
+      "percentage": 33.6,
+      "old_price": "119.00",
+      "new_price": "79.00",
+      "timestamp": "2026-01-29T22:06:26.897070",
+      "url": "https://fenwick.co.uk/products/dark-brown-silver-ankle-boot-9617531109"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Baukjen Celine V-Neck Wool Rich Cardigan, Blossom",
       "percentage": 32.1,
@@ -746,7 +755,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-29T22:01:35.767913",
+      "timestamp": "2026-01-29T22:06:42.897449",
       "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
     },
     {
@@ -755,7 +764,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-29T22:01:35.767913",
+      "timestamp": "2026-01-29T22:06:42.897449",
       "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
     },
     {
@@ -764,7 +773,7 @@
       "percentage": 29.6,
       "old_price": "675.00",
       "new_price": "475.00",
-      "timestamp": "2026-01-29T22:01:35.767913",
+      "timestamp": "2026-01-29T22:06:42.897449",
       "url": "https://brownsfashion.com/products/r13-zebra-frayed-shirt-olpss2600163645"
     },
     {
@@ -773,7 +782,7 @@
       "percentage": 29.5,
       "old_price": "660.00",
       "new_price": "465.00",
-      "timestamp": "2026-01-29T22:01:35.767913",
+      "timestamp": "2026-01-29T22:06:42.897449",
       "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
     },
     {
@@ -782,7 +791,7 @@
       "percentage": 29.3,
       "old_price": "615.00",
       "new_price": "435.00",
-      "timestamp": "2026-01-29T22:01:35.767913",
+      "timestamp": "2026-01-29T22:06:42.897449",
       "url": "https://brownsfashion.com/products/r13-plaid-shirt-olpss2600163647"
     },
     {
@@ -1045,15 +1054,6 @@
       "new_price": "400.00",
       "timestamp": "2026-01-29T18:56:25.573475",
       "url": "https://brownsfashion.com/products/balenciaga-suede-boot-keyring-olass2600160962"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Ramada Stone",
-      "percentage": 25.4,
-      "old_price": "59.00",
-      "new_price": "44.00",
-      "timestamp": "2026-01-29T17:35:21.405371",
-      "url": "https://www.oliversweeney.com/products/ramada-stone-trousers"
     }
   ]
 }

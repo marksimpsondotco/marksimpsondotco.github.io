@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T14:23:17.671868",
-  "total_drops": 745,
+  "generated_at": "2026-01-29T14:28:21.134417",
+  "total_drops": 749,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,15 @@
     },
     {
       "site": "boden_com",
-      "count": 3,
+      "count": 4,
       "max_drop": 15.6,
-      "total_savings": 8.25
+      "total_savings": 9.05
+    },
+    {
+      "site": "mamasandpapas_com",
+      "count": 3,
+      "max_drop": 12.0,
+      "total_savings": 127.25
     },
     {
       "site": "fenwick_co_uk",
@@ -110,7 +116,7 @@
       "percentage": 63.6,
       "old_price": "22.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T14:23:03.926658",
+      "timestamp": "2026-01-29T14:28:08.001940",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-sofa-cushion-cover-chalk-white"
     },
     {
@@ -128,7 +134,7 @@
       "percentage": 55.6,
       "old_price": "18.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T14:23:03.926658",
+      "timestamp": "2026-01-29T14:28:08.001940",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-cushion-cover-chalk-white"
     },
     {
@@ -227,7 +233,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-29T14:23:03.926658",
+      "timestamp": "2026-01-29T14:28:08.001940",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -380,7 +386,7 @@
       "percentage": 31.4,
       "old_price": "7.00",
       "new_price": "4.80",
-      "timestamp": "2026-01-29T14:23:03.926658",
+      "timestamp": "2026-01-29T14:28:08.001940",
       "url": "https://dusk.com/products/pair-of-mykonos-pillowcases-white-200-thread-count"
     },
     {
@@ -533,7 +539,7 @@
       "percentage": 25.2,
       "old_price": "115.00",
       "new_price": "86.00",
-      "timestamp": "2026-01-29T14:23:14.811365",
+      "timestamp": "2026-01-29T14:28:13.263328",
       "url": "https://www.flannels.com/nike-vomero-18-mens-running-shoes-211531"
     },
     {

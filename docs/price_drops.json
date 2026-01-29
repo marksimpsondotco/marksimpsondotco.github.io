@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T19:03:32.192653",
-  "total_drops": 1187,
+  "generated_at": "2026-01-29T19:08:36.687128",
+  "total_drops": 1211,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "brownsfashion_com",
-      "count": 358,
+      "count": 382,
       "max_drop": 50.0,
-      "total_savings": 29414.2
+      "total_savings": 33889.2
     },
     {
       "site": "pigletinbed_com",
@@ -402,6 +402,15 @@
       "url": "https://www.oliversweeney.com/products/kendal-tan-leather-trainers"
     },
     {
+      "site": "brownsfashion_com",
+      "product": "Winnie Embroidery maxi dress",
+      "percentage": 45.4,
+      "old_price": "3030.00",
+      "new_price": "1655.00",
+      "timestamp": "2026-01-29T19:08:16.992517",
+      "url": "https://brownsfashion.com/products/bernadette-winnie-embroidery-maxi-dress-olmss2600156454"
+    },
+    {
       "site": "oliversweeney_com",
       "product": "Hyde Chocolate",
       "percentage": 44.3,
@@ -427,6 +436,15 @@
       "new_price": "44.00",
       "timestamp": "2026-01-29T17:35:21.405371",
       "url": "https://www.oliversweeney.com/products/hyde-navy-knitwear"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "Bellatrix off shoulder ruffled midi dress",
+      "percentage": 43.7,
+      "old_price": "1305.00",
+      "new_price": "735.00",
+      "timestamp": "2026-01-29T19:08:16.992517",
+      "url": "https://brownsfashion.com/products/rebecca-vallance-bellatrix-off-shoulder-ruffled-midi-dress-olmss2600160546"
     },
     {
       "site": "oliversweeney_com",
@@ -551,7 +569,7 @@
       "percentage": 36.4,
       "old_price": "110.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-29T19:03:19.328228",
+      "timestamp": "2026-01-29T19:08:16.992517",
       "url": "https://brownsfashion.com/products/simon-miller-bwai-striped-bikini-bottom-olrss2600169718"
     },
     {
@@ -614,7 +632,7 @@
       "percentage": 34.7,
       "old_price": "75.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-29T19:03:17.926202",
+      "timestamp": "2026-01-29T19:08:32.380786",
       "url": "https://ukbabycentre.com/products/icandy-core-footmuff-liner-black"
     },
     {
@@ -704,7 +722,7 @@
       "percentage": 30.0,
       "old_price": "250.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-29T19:03:17.926202",
+      "timestamp": "2026-01-29T19:08:32.380786",
       "url": "https://ukbabycentre.com/products/joie-i-harbour-e-signature-car-seat-eclipse"
     },
     {
@@ -713,7 +731,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-29T19:03:19.328228",
+      "timestamp": "2026-01-29T19:08:16.992517",
       "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
     },
     {
@@ -722,7 +740,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-29T19:03:19.328228",
+      "timestamp": "2026-01-29T19:08:16.992517",
       "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
     },
     {
@@ -731,7 +749,7 @@
       "percentage": 29.6,
       "old_price": "675.00",
       "new_price": "475.00",
-      "timestamp": "2026-01-29T19:03:19.328228",
+      "timestamp": "2026-01-29T19:08:16.992517",
       "url": "https://brownsfashion.com/products/r13-zebra-frayed-shirt-olpss2600163645"
     },
     {
@@ -740,7 +758,7 @@
       "percentage": 29.5,
       "old_price": "660.00",
       "new_price": "465.00",
-      "timestamp": "2026-01-29T19:03:19.328228",
+      "timestamp": "2026-01-29T19:08:16.992517",
       "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
     },
     {
@@ -749,7 +767,7 @@
       "percentage": 29.3,
       "old_price": "615.00",
       "new_price": "435.00",
-      "timestamp": "2026-01-29T19:03:19.328228",
+      "timestamp": "2026-01-29T19:08:16.992517",
       "url": "https://brownsfashion.com/products/r13-plaid-shirt-olpss2600163647"
     },
     {
@@ -812,7 +830,7 @@
       "percentage": 28.2,
       "old_price": "1099.00",
       "new_price": "789.00",
-      "timestamp": "2026-01-29T19:03:17.926202",
+      "timestamp": "2026-01-29T19:08:32.380786",
       "url": "https://ukbabycentre.com/products/icandy-orange-4-pram-and-pushchair-pistachio"
     },
     {
@@ -1030,24 +1048,6 @@
       "new_price": "59.00",
       "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/mint-velvet-colour-block-star-jumper/p113985383"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Nike - Vomero 18  Mens Running Shoes",
-      "percentage": 25.2,
-      "old_price": "115.00",
-      "new_price": "86.00",
-      "timestamp": "2026-01-29T15:04:56.719847",
-      "url": "https://www.flannels.com/nike-vomero-18-mens-running-shoes-211531"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "LEGO ǀ Disney Simba the Lion King Cub Building Toy 43243",
-      "percentage": 25.0,
-      "old_price": "17.99",
-      "new_price": "13.50",
-      "timestamp": "2026-01-29T12:17:38.294832",
-      "url": "https://www.johnlewis.com/lego-disney-simba-the-lion-king-cub-building-toy-43243/p112028995"
     }
   ]
 }

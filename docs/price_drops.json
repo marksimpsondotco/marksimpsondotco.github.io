@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T16:50:51.995834",
-  "total_drops": 889,
+  "generated_at": "2026-01-29T16:55:56.014285",
+  "total_drops": 910,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -23,9 +23,9 @@
     },
     {
       "site": "brownsfashion_com",
-      "count": 104,
+      "count": 125,
       "max_drop": 47.4,
-      "total_savings": 10614.2
+      "total_savings": 11549.2
     },
     {
       "site": "pigletinbed_com",
@@ -320,7 +320,7 @@
       "percentage": 47.4,
       "old_price": "190.00",
       "new_price": "100.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/jonathan-adler-cabana-pillow-ollcty200134980"
     },
     {
@@ -473,7 +473,7 @@
       "percentage": 35.3,
       "old_price": "85.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/jonathan-adler-pop-set-of-four-coasters-lls78itym524232114"
     },
     {
@@ -482,7 +482,7 @@
       "percentage": 34.6,
       "old_price": "130.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-striped-ruffled-cushion-cover-ollcty200164645"
     },
     {
@@ -491,7 +491,7 @@
       "percentage": 34.0,
       "old_price": "2365.00",
       "new_price": "1560.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/prada-zip-logo-jacket-oo2ss2600167070"
     },
     {
@@ -500,7 +500,7 @@
       "percentage": 33.9,
       "old_price": "10690.00",
       "new_price": "7065.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/prada-contrast-collar-suede-jacket-oo2ss2600167197"
     },
     {
@@ -572,7 +572,7 @@
       "percentage": 29.1,
       "old_price": "275.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-chicken-design-ceramic-plate-ollcty200164644"
     },
     {
@@ -581,7 +581,7 @@
       "percentage": 29.0,
       "old_price": "155.00",
       "new_price": "110.00",
-      "timestamp": "2026-01-29T16:50:41.882598",
+      "timestamp": "2026-01-29T16:55:48.480662",
       "url": "https://www.astridandmiyu.com/products/pave-seamless-1-2mm-piercing-hoop-in-solid-white-gold"
     },
     {
@@ -617,7 +617,7 @@
       "percentage": 27.9,
       "old_price": "305.00",
       "new_price": "220.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-pig-oval-platter-41x29cm-ollcty200164631"
     },
     {
@@ -635,7 +635,7 @@
       "percentage": 27.1,
       "old_price": "885.00",
       "new_price": "645.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/prada-drawstring-waist-stripe-midi-skirt-olnss2600166449"
     },
     {
@@ -644,7 +644,7 @@
       "percentage": 27.0,
       "old_price": "2145.00",
       "new_price": "1565.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/prada-panel-trousers-olnss2600166451"
     },
     {
@@ -653,7 +653,7 @@
       "percentage": 27.0,
       "old_price": "1020.00",
       "new_price": "745.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/prada-striped-logo-polo-top-olnss2600166447"
     },
     {
@@ -662,7 +662,7 @@
       "percentage": 26.9,
       "old_price": "1395.00",
       "new_price": "1020.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/prada-striped-buttoned-shirt-olnss2600166950"
     },
     {
@@ -671,7 +671,7 @@
       "percentage": 26.8,
       "old_price": "950.00",
       "new_price": "695.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/prada-striped-logo-top-olnss2600166452"
     },
     {
@@ -680,7 +680,7 @@
       "percentage": 26.8,
       "old_price": "2945.00",
       "new_price": "2155.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/prada-button-fastening-blazer-olnss2600166947"
     },
     {
@@ -689,7 +689,7 @@
       "percentage": 26.8,
       "old_price": "1120.00",
       "new_price": "820.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/prada-patent-leather-wedge-sandals-olsss2600166987"
     },
     {
@@ -815,7 +815,7 @@
       "percentage": 24.6,
       "old_price": "1240.00",
       "new_price": "935.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/prada-openwork-ballet-flats-olsss2600166990"
     },
     {
@@ -896,7 +896,7 @@
       "percentage": 23.8,
       "old_price": "105.00",
       "new_price": "80.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/ancient-greek-sandals-eleftheria-sandals-olsaw2500152123"
     },
     {
@@ -905,7 +905,7 @@
       "percentage": 22.9,
       "old_price": "240.00",
       "new_price": "185.00",
-      "timestamp": "2026-01-29T16:50:37.991336",
+      "timestamp": "2026-01-29T16:55:44.337606",
       "url": "https://brownsfashion.com/products/jonathan-adler-druggist-pitcher-ollcty100150872"
     },
     {

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-29T12:26:53.612222",
-  "total_drops": 30,
-  "top_drops_shown": 30,
+  "generated_at": "2026-01-29T12:31:55.724983",
+  "total_drops": 45,
+  "top_drops_shown": 45,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 30,
+      "count": 45,
       "max_drop": 72.2,
-      "total_savings": 624.18
+      "total_savings": 719.28
     }
   ],
   "drops": [
@@ -166,12 +166,30 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Mint Velvet Colour Block Star Jumper",
+      "percentage": 25.3,
+      "old_price": "79.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/mint-velvet-colour-block-star-jumper/p113985383"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "LEGO ǀ Disney Simba the Lion King Cub Building Toy 43243",
       "percentage": 25.0,
       "old_price": "17.99",
       "new_price": "13.50",
       "timestamp": "2026-01-29T12:17:38.294832",
       "url": "https://www.johnlewis.com/lego-disney-simba-the-lion-king-cub-building-toy-43243/p112028995"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Adrianna Papell Stripe Short Sleeve Tie Neck Sweater Top, Cream/Multi",
+      "percentage": 20.0,
+      "old_price": "24.50",
+      "new_price": "19.60",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/adrianna-papell-stripe-short-sleeve-tie-neck-sweater-top-cream-multi/p114273296"
     },
     {
       "site": "johnlewis_com",
@@ -193,12 +211,129 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Gerard Darel Evange Pullover Cardigan Vest",
+      "percentage": 14.3,
+      "old_price": "115.50",
+      "new_price": "99.00",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/gerard-darel-evange-pullover-cardigan-vest/p113933215"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Gerard Darel Eva Crew Neck Pure Wool Jumper, Navy",
+      "percentage": 14.3,
+      "old_price": "94.50",
+      "new_price": "81.00",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/gerard-darel-eva-crew-neck-pure-wool-jumper-navy/p113747436"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Gerard Darel Nais Cotton Blend Sleeveless V Neck Blazer",
       "percentage": 14.3,
       "old_price": "136.50",
       "new_price": "117.00",
       "timestamp": "2026-01-29T12:17:38.294832",
       "url": "https://www.johnlewis.com/gerard-darel-nais-cotton-blend-sleeveless-v-neck-blazer/p113747595"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "ICHI Briac Riund Neck Long Sleeve Cardigan",
+      "percentage": 10.0,
+      "old_price": "36.00",
+      "new_price": "32.40",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/ichi-briac-riund-neck-long-sleeve-cardigan/p114394672"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Saint Tropez Lotty Open Knit Jumper, Greenbriar",
+      "percentage": 10.0,
+      "old_price": "40.00",
+      "new_price": "36.00",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/saint-tropez-lotty-open-knit-jumper-greenbriar/p113665694"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "KAFFE KAwilma Abstract Stripe Pullover Jumper, Grey/Black",
+      "percentage": 10.0,
+      "old_price": "36.00",
+      "new_price": "32.40",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/kaffe-kawilma-abstract-stripe-pullover-jumper-grey-black/p114393406"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Saint Tropez Inette Stripe Cardigan, Black/Multi",
+      "percentage": 10.0,
+      "old_price": "56.00",
+      "new_price": "50.40",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/saint-tropez-inette-stripe-cardigan-black-multi/p112858812"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "ICHI Dabria V-Neck Jumper, Cloud Dancer",
+      "percentage": 10.0,
+      "old_price": "28.00",
+      "new_price": "25.20",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/ichi-dabria-v-neck-jumper-cloud-dancer/p114498002"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Saint Tropez Konstansia Textured Short Sleeve Jumper, White",
+      "percentage": 10.0,
+      "old_price": "25.00",
+      "new_price": "22.50",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/saint-tropez-konstansia-textured-short-sleeve-jumper-white/p113262107"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Soaked In Luxury Spina Slim Fit Jumper, Grey",
+      "percentage": 10.0,
+      "old_price": "30.00",
+      "new_price": "27.00",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/soaked-in-luxury-spina-slim-fit-jumper-grey/p112924071"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "KAFFE Lizza Beaded Neck Jumper, Black",
+      "percentage": 10.0,
+      "old_price": "36.00",
+      "new_price": "32.40",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/kaffe-lizza-beaded-neck-jumper-black/p113756871"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Soaked In Luxury Spina Stripe Jumper, Porpoise/White",
+      "percentage": 10.0,
+      "old_price": "30.00",
+      "new_price": "27.00",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/soaked-in-luxury-spina-stripe-jumper-porpoise-white/p112924068"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Part Two Tinni Cotton Blend Short Sleeve Jumper",
+      "percentage": 10.0,
+      "old_price": "35.00",
+      "new_price": "31.50",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/part-two-tinni-cotton-blend-short-sleeve-jumper/p113723738"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "InWear Wiley Pintuck Seam Jumper",
+      "percentage": 10.0,
+      "old_price": "50.00",
+      "new_price": "45.00",
+      "timestamp": "2026-01-29T12:31:53.932033",
+      "url": "https://www.johnlewis.com/inwear-wiley-pintuck-seam-jumper/p113045320"
     },
     {
       "site": "johnlewis_com",

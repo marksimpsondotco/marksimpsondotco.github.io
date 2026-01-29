@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T18:58:27.175670",
-  "total_drops": 1088,
+  "generated_at": "2026-01-29T19:03:32.192653",
+  "total_drops": 1187,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "brownsfashion_com",
-      "count": 259,
+      "count": 358,
       "max_drop": 50.0,
-      "total_savings": 24154.2
+      "total_savings": 29414.2
     },
     {
       "site": "pigletinbed_com",
@@ -546,6 +546,15 @@
       "url": "https://www.victoriabeckham.com/products/rectangle-polka-dot-tights-in-black-20455"
     },
     {
+      "site": "brownsfashion_com",
+      "product": "Bwai striped bikini bottom",
+      "percentage": 36.4,
+      "old_price": "110.00",
+      "new_price": "70.00",
+      "timestamp": "2026-01-29T19:03:19.328228",
+      "url": "https://brownsfashion.com/products/simon-miller-bwai-striped-bikini-bottom-olrss2600169718"
+    },
+    {
       "site": "victoriabeckham_com",
       "product": "Alina Jean In Light Rinse",
       "percentage": 36.3,
@@ -605,7 +614,7 @@
       "percentage": 34.7,
       "old_price": "75.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-29T18:58:20.318592",
+      "timestamp": "2026-01-29T19:03:17.926202",
       "url": "https://ukbabycentre.com/products/icandy-core-footmuff-liner-black"
     },
     {
@@ -695,8 +704,53 @@
       "percentage": 30.0,
       "old_price": "250.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-29T18:58:20.318592",
+      "timestamp": "2026-01-29T19:03:17.926202",
       "url": "https://ukbabycentre.com/products/joie-i-harbour-e-signature-car-seat-eclipse"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "cinched-hem hoodie",
+      "percentage": 29.8,
+      "old_price": "570.00",
+      "new_price": "400.00",
+      "timestamp": "2026-01-29T19:03:19.328228",
+      "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "plaid frayed shirt",
+      "percentage": 29.8,
+      "old_price": "570.00",
+      "new_price": "400.00",
+      "timestamp": "2026-01-29T19:03:19.328228",
+      "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "zebra frayed shirt",
+      "percentage": 29.6,
+      "old_price": "675.00",
+      "new_price": "475.00",
+      "timestamp": "2026-01-29T19:03:19.328228",
+      "url": "https://brownsfashion.com/products/r13-zebra-frayed-shirt-olpss2600163645"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "plaid mini shirt dress",
+      "percentage": 29.5,
+      "old_price": "660.00",
+      "new_price": "465.00",
+      "timestamp": "2026-01-29T19:03:19.328228",
+      "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
+    },
+    {
+      "site": "brownsfashion_com",
+      "product": "plaid shirt",
+      "percentage": 29.3,
+      "old_price": "615.00",
+      "new_price": "435.00",
+      "timestamp": "2026-01-29T19:03:19.328228",
+      "url": "https://brownsfashion.com/products/r13-plaid-shirt-olpss2600163647"
     },
     {
       "site": "johnlewis_com",
@@ -758,7 +812,7 @@
       "percentage": 28.2,
       "old_price": "1099.00",
       "new_price": "789.00",
-      "timestamp": "2026-01-29T18:58:20.318592",
+      "timestamp": "2026-01-29T19:03:17.926202",
       "url": "https://ukbabycentre.com/products/icandy-orange-4-pram-and-pushchair-pistachio"
     },
     {
@@ -994,60 +1048,6 @@
       "new_price": "13.50",
       "timestamp": "2026-01-29T12:17:38.294832",
       "url": "https://www.johnlewis.com/lego-disney-simba-the-lion-king-cub-building-toy-43243/p112028995"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "VB Embroidered Towelling Slippers In White",
-      "percentage": 25.0,
-      "old_price": "120.00",
-      "new_price": "90.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/embroidered-towelling-slippers-in-white-20776"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "openwork ballet flats",
-      "percentage": 24.6,
-      "old_price": "1240.00",
-      "new_price": "935.00",
-      "timestamp": "2026-01-29T18:56:25.573475",
-      "url": "https://brownsfashion.com/products/prada-openwork-ballet-flats-olsss2600166990"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Lace Cami In Black",
-      "percentage": 24.1,
-      "old_price": "290.00",
-      "new_price": "220.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/lace-cami-in-black-18019"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "small Triple Jump tote bag",
-      "percentage": 24.1,
-      "old_price": "435.00",
-      "new_price": "330.00",
-      "timestamp": "2026-01-29T18:56:25.573475",
-      "url": "https://brownsfashion.com/products/dragon-diffusion-small-triple-jump-tote-bag-olbaw2500152517"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Colour Block Silk Scarf In Macadamia",
-      "percentage": 24.0,
-      "old_price": "100.00",
-      "new_price": "76.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/colour-block-silk-scarf-in-macadamia"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Rib Tank In Navy",
-      "percentage": 24.0,
-      "old_price": "250.00",
-      "new_price": "190.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/rib-tank-in-navy-21748"
     }
   ]
 }

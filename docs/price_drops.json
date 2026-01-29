@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T05:48:57.100991",
-  "total_drops": 7777,
+  "generated_at": "2026-01-29T05:54:56.769398",
+  "total_drops": 7779,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 685,
+      "count": 687,
       "max_drop": 74.2,
-      "total_savings": 18978.77
+      "total_savings": 18999.77
     },
     {
       "site": "oliversweeney_com",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:03:56.111182",
-  "total_drops": 755,
+  "generated_at": "2026-01-29T15:08:59.654791",
+  "total_drops": 757,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 8,
+      "count": 9,
       "max_drop": 63.6,
-      "total_savings": 97.2
+      "total_savings": 107.2
     },
     {
       "site": "kingofcotton_com",
@@ -53,9 +53,9 @@
     },
     {
       "site": "boden_com",
-      "count": 4,
+      "count": 5,
       "max_drop": 15.6,
-      "total_savings": 9.05
+      "total_savings": 10.65
     },
     {
       "site": "mamasandpapas_com",
@@ -134,7 +134,7 @@
       "percentage": 63.6,
       "old_price": "22.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T15:03:48.376381",
+      "timestamp": "2026-01-29T15:08:47.007356",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-sofa-cushion-cover-chalk-white"
     },
     {
@@ -152,7 +152,7 @@
       "percentage": 55.6,
       "old_price": "18.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T15:03:48.376381",
+      "timestamp": "2026-01-29T15:08:47.007356",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-cushion-cover-chalk-white"
     },
     {
@@ -251,8 +251,17 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-29T15:03:48.376381",
+      "timestamp": "2026-01-29T15:08:47.007356",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
+    },
+    {
+      "site": "dusk_com",
+      "product": "Colour Stitch Fade Effect Sofa Cushion Cover - Multi/Natural",
+      "percentage": 50.0,
+      "old_price": "20.00",
+      "new_price": "10.00",
+      "timestamp": "2026-01-29T15:08:47.007356",
+      "url": "https://dusk.com/products/colour-stitch-fade-effect-sofa-cushion-cover-multi-natural"
     },
     {
       "site": "johnlewis_com",
@@ -413,7 +422,7 @@
       "percentage": 31.4,
       "old_price": "7.00",
       "new_price": "4.80",
-      "timestamp": "2026-01-29T15:03:48.376381",
+      "timestamp": "2026-01-29T15:08:47.007356",
       "url": "https://dusk.com/products/pair-of-mykonos-pillowcases-white-200-thread-count"
     },
     {
@@ -485,7 +494,7 @@
       "percentage": 27.8,
       "old_price": "9.00",
       "new_price": "6.50",
-      "timestamp": "2026-01-29T15:03:52.848073",
+      "timestamp": "2026-01-29T15:08:57.514397",
       "url": "https://www.johnlewis.com/john-lewis-baby-pointelle-butterfly-long-sleeve-bodysuits-pack-of-5-pink-multi/p113762284"
     },
     {
@@ -575,7 +584,7 @@
       "percentage": 25.2,
       "old_price": "115.00",
       "new_price": "86.00",
-      "timestamp": "2026-01-29T15:03:46.741931",
+      "timestamp": "2026-01-29T15:04:56.719847",
       "url": "https://www.flannels.com/nike-vomero-18-mens-running-shoes-211531"
     },
     {
@@ -973,15 +982,6 @@
       "new_price": "390.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/julia-stretch-jean-in-washed-black"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Alina Jean In Butter Yellow",
-      "percentage": 20.4,
-      "old_price": "245.00",
-      "new_price": "195.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/alina-jean-in-butter-yellow"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T17:01:00.579078",
-  "total_drops": 920,
+  "generated_at": "2026-01-29T17:06:10.763440",
+  "total_drops": 922,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -41,9 +41,9 @@
     },
     {
       "site": "ukbabycentre_com",
-      "count": 10,
+      "count": 12,
       "max_drop": 34.7,
-      "total_savings": 1305.4
+      "total_savings": 1435.4
     },
     {
       "site": "astridandmiyu_com",
@@ -326,7 +326,7 @@
       "percentage": 47.4,
       "old_price": "190.00",
       "new_price": "100.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/jonathan-adler-cabana-pillow-ollcty200134980"
     },
     {
@@ -479,7 +479,7 @@
       "percentage": 35.3,
       "old_price": "85.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/jonathan-adler-pop-set-of-four-coasters-lls78itym524232114"
     },
     {
@@ -488,7 +488,7 @@
       "percentage": 34.7,
       "old_price": "75.00",
       "new_price": "49.00",
-      "timestamp": "2026-01-29T17:00:46.968227",
+      "timestamp": "2026-01-29T17:06:08.506072",
       "url": "https://ukbabycentre.com/products/icandy-core-footmuff-liner-black"
     },
     {
@@ -497,7 +497,7 @@
       "percentage": 34.6,
       "old_price": "130.00",
       "new_price": "85.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-striped-ruffled-cushion-cover-ollcty200164645"
     },
     {
@@ -506,7 +506,7 @@
       "percentage": 34.0,
       "old_price": "2365.00",
       "new_price": "1560.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/prada-zip-logo-jacket-oo2ss2600167070"
     },
     {
@@ -515,7 +515,7 @@
       "percentage": 33.9,
       "old_price": "10690.00",
       "new_price": "7065.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/prada-contrast-collar-suede-jacket-oo2ss2600167197"
     },
     {
@@ -573,6 +573,15 @@
       "url": "https://www.johnlewis.com/falke-cosy-wool-cashmere-blend-socks/p112090754"
     },
     {
+      "site": "ukbabycentre_com",
+      "product": "Joie i-Harbour E Signature Car Seat - Eclipse",
+      "percentage": 30.0,
+      "old_price": "250.00",
+      "new_price": "175.00",
+      "timestamp": "2026-01-29T17:06:08.506072",
+      "url": "https://ukbabycentre.com/products/joie-i-harbour-e-signature-car-seat-eclipse"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Sweaty Betty Escape Italian Luxe Fleece Hoodie",
       "percentage": 29.2,
@@ -587,7 +596,7 @@
       "percentage": 29.1,
       "old_price": "275.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-chicken-design-ceramic-plate-ollcty200164644"
     },
     {
@@ -596,7 +605,7 @@
       "percentage": 29.0,
       "old_price": "155.00",
       "new_price": "110.00",
-      "timestamp": "2026-01-29T17:00:41.773083",
+      "timestamp": "2026-01-29T17:05:39.808056",
       "url": "https://www.astridandmiyu.com/products/pave-seamless-1-2mm-piercing-hoop-in-solid-white-gold"
     },
     {
@@ -632,7 +641,7 @@
       "percentage": 28.2,
       "old_price": "1099.00",
       "new_price": "789.00",
-      "timestamp": "2026-01-29T17:00:46.968227",
+      "timestamp": "2026-01-29T17:06:08.506072",
       "url": "https://ukbabycentre.com/products/icandy-orange-4-pram-and-pushchair-pistachio"
     },
     {
@@ -641,7 +650,7 @@
       "percentage": 27.9,
       "old_price": "305.00",
       "new_price": "220.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-pig-oval-platter-41x29cm-ollcty200164631"
     },
     {
@@ -659,7 +668,7 @@
       "percentage": 27.1,
       "old_price": "885.00",
       "new_price": "645.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/prada-drawstring-waist-stripe-midi-skirt-olnss2600166449"
     },
     {
@@ -668,7 +677,7 @@
       "percentage": 27.0,
       "old_price": "2145.00",
       "new_price": "1565.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/prada-panel-trousers-olnss2600166451"
     },
     {
@@ -677,7 +686,7 @@
       "percentage": 27.0,
       "old_price": "1020.00",
       "new_price": "745.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/prada-striped-logo-polo-top-olnss2600166447"
     },
     {
@@ -686,7 +695,7 @@
       "percentage": 26.9,
       "old_price": "1395.00",
       "new_price": "1020.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/prada-striped-buttoned-shirt-olnss2600166950"
     },
     {
@@ -695,7 +704,7 @@
       "percentage": 26.8,
       "old_price": "950.00",
       "new_price": "695.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/prada-striped-logo-top-olnss2600166452"
     },
     {
@@ -704,7 +713,7 @@
       "percentage": 26.8,
       "old_price": "2945.00",
       "new_price": "2155.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/prada-button-fastening-blazer-olnss2600166947"
     },
     {
@@ -713,7 +722,7 @@
       "percentage": 26.8,
       "old_price": "1120.00",
       "new_price": "820.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/prada-patent-leather-wedge-sandals-olsss2600166987"
     },
     {
@@ -839,7 +848,7 @@
       "percentage": 24.6,
       "old_price": "1240.00",
       "new_price": "935.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/prada-openwork-ballet-flats-olsss2600166990"
     },
     {
@@ -915,12 +924,21 @@
       "url": "https://www.victoriabeckham.com/products/hat-in-glacial-blue-21751"
     },
     {
+      "site": "ukbabycentre_com",
+      "product": "Joie Sprint (Signature) ISOFIX Infant Carrier - Evergreen",
+      "percentage": 23.9,
+      "old_price": "230.00",
+      "new_price": "175.00",
+      "timestamp": "2026-01-29T17:06:08.506072",
+      "url": "https://ukbabycentre.com/products/joie-sprint-signature-isofix-infant-carrier-evergreen"
+    },
+    {
       "site": "brownsfashion_com",
       "product": "Eleftheria sandals",
       "percentage": 23.8,
       "old_price": "105.00",
       "new_price": "80.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/ancient-greek-sandals-eleftheria-sandals-olsaw2500152123"
     },
     {
@@ -929,7 +947,7 @@
       "percentage": 22.9,
       "old_price": "240.00",
       "new_price": "185.00",
-      "timestamp": "2026-01-29T17:00:44.425269",
+      "timestamp": "2026-01-29T17:05:46.314881",
       "url": "https://brownsfashion.com/products/jonathan-adler-druggist-pitcher-ollcty100150872"
     },
     {
@@ -938,7 +956,7 @@
       "percentage": 22.7,
       "old_price": "1099.00",
       "new_price": "849.00",
-      "timestamp": "2026-01-29T17:00:46.968227",
+      "timestamp": "2026-01-29T17:06:08.506072",
       "url": "https://ukbabycentre.com/products/icandy-orange-4-pram-and-pushchair-rose"
     },
     {
@@ -1012,24 +1030,6 @@
       "new_price": "195.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/knicker-in-poppy-red-20096"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Sequin Detail Mesh Bra In Black",
-      "percentage": 22.0,
-      "old_price": "250.00",
-      "new_price": "195.00",
-      "timestamp": "2026-01-29T13:39:43.695231",
-      "url": "https://www.victoriabeckham.com/products/sequin-detail-mesh-bra-in-black-21954"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Dorian Keyring In Sand",
-      "percentage": 21.4,
-      "old_price": "42.00",
-      "new_price": "33.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/b-frame-charm-keyring-tonal-in-sand-21097"
     }
   ]
 }

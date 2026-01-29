@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T07:51:57.205105",
-  "total_drops": 7855,
+  "generated_at": "2026-01-29T07:57:55.590958",
+  "total_drops": 7901,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 691,
+      "count": 692,
       "max_drop": 74.2,
-      "total_savings": 19086.17
+      "total_savings": 19110.97
     },
     {
       "site": "oliversweeney_com",
@@ -35,9 +35,9 @@
     },
     {
       "site": "currys_com",
-      "count": 1736,
+      "count": 1778,
       "max_drop": 63.7,
-      "total_savings": 45665.91
+      "total_savings": 46805.41
     },
     {
       "site": "fenwick_co_uk",
@@ -167,9 +167,9 @@
     },
     {
       "site": "boden_com",
-      "count": 36,
+      "count": 39,
       "max_drop": 17.1,
-      "total_savings": 92.19
+      "total_savings": 99.19
     },
     {
       "site": "hauslondon_com",

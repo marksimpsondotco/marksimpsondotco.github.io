@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T05:17:28.946366",
-  "total_drops": 7476,
+  "generated_at": "2026-01-29T05:23:24.077109",
+  "total_drops": 7480,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -161,9 +161,9 @@
     },
     {
       "site": "hoxtonmacs_co_uk",
-      "count": 6,
+      "count": 10,
       "max_drop": 18.3,
-      "total_savings": 680.0
+      "total_savings": 1180.0
     },
     {
       "site": "boden_com",

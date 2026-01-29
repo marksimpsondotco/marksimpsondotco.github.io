@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:47:50.870383",
-  "total_drops": 739,
+  "generated_at": "2026-01-29T13:52:53.667787",
+  "total_drops": 740,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -20,6 +20,12 @@
       "count": 8,
       "max_drop": 63.6,
       "total_savings": 97.2
+    },
+    {
+      "site": "babyandnurseryworld_co_uk",
+      "count": 1,
+      "max_drop": 20.0,
+      "total_savings": 10.0
     },
     {
       "site": "houseofisabella_co_uk",
@@ -86,7 +92,7 @@
       "percentage": 63.6,
       "old_price": "22.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T13:47:11.554375",
+      "timestamp": "2026-01-29T13:52:42.672002",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-sofa-cushion-cover-chalk-white"
     },
     {
@@ -104,7 +110,7 @@
       "percentage": 55.6,
       "old_price": "18.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T13:47:11.554375",
+      "timestamp": "2026-01-29T13:52:42.672002",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-cushion-cover-chalk-white"
     },
     {
@@ -203,7 +209,7 @@
       "percentage": 50.0,
       "old_price": "10.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-29T13:47:11.554375",
+      "timestamp": "2026-01-29T13:52:42.672002",
       "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
     },
     {
@@ -347,7 +353,7 @@
       "percentage": 32.1,
       "old_price": "129.00",
       "new_price": "87.55",
-      "timestamp": "2026-01-29T13:47:48.764672",
+      "timestamp": "2026-01-29T13:48:10.497516",
       "url": "https://www.johnlewis.com/baukjen-celine-v-neck-wool-rich-cardigan-blossom/p113169856"
     },
     {
@@ -356,7 +362,7 @@
       "percentage": 31.4,
       "old_price": "7.00",
       "new_price": "4.80",
-      "timestamp": "2026-01-29T13:47:11.554375",
+      "timestamp": "2026-01-29T13:52:42.672002",
       "url": "https://dusk.com/products/pair-of-mykonos-pillowcases-white-200-thread-count"
     },
     {
@@ -383,7 +389,7 @@
       "percentage": 30.0,
       "old_price": "20.00",
       "new_price": "14.00",
-      "timestamp": "2026-01-29T13:47:48.764672",
+      "timestamp": "2026-01-29T13:48:10.497516",
       "url": "https://www.johnlewis.com/falke-cosy-wool-cashmere-blend-socks/p112090754"
     },
     {
@@ -419,7 +425,7 @@
       "percentage": 28.6,
       "old_price": "77.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-29T13:47:48.764672",
+      "timestamp": "2026-01-29T13:48:10.497516",
       "url": "https://www.johnlewis.com/hush-raven-chunky-ribbed-knitted-cardigan/p113108223"
     },
     {

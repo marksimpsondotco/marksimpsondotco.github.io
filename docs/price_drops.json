@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-29T13:02:12.257459",
-  "total_drops": 60,
-  "top_drops_shown": 60,
+  "generated_at": "2026-01-29T13:07:15.117277",
+  "total_drops": 72,
+  "top_drops_shown": 72,
   "site_stats": [
     {
       "site": "johnlewis_com",
@@ -17,9 +17,15 @@
     },
     {
       "site": "victoriabeckham_com",
-      "count": 1,
-      "max_drop": 13.4,
-      "total_savings": 200.0
+      "count": 11,
+      "max_drop": 15.4,
+      "total_savings": 376.0
+    },
+    {
+      "site": "callidus_shop",
+      "count": 2,
+      "max_drop": 2.5,
+      "total_savings": 175.0
     }
   ],
   "drops": [
@@ -65,7 +71,7 @@
       "percentage": 60.0,
       "old_price": "129.00",
       "new_price": "51.60",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/john-lewis-oversized-leather-tote-bag/p113961376"
     },
     {
@@ -83,7 +89,7 @@
       "percentage": 50.6,
       "old_price": "178.00",
       "new_price": "88.00",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/reiss-logan-funnel-neck-coat/p112480690"
     },
     {
@@ -92,7 +98,7 @@
       "percentage": 50.0,
       "old_price": "129.00",
       "new_price": "64.50",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/lauren-ralph-lauren-keaton-tote-bag/p113887158"
     },
     {
@@ -101,7 +107,7 @@
       "percentage": 50.0,
       "old_price": "24.00",
       "new_price": "12.00",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/tommy-jeans-linear-logo-embroidery-t-shirt/p112462623"
     },
     {
@@ -182,7 +188,7 @@
       "percentage": 37.5,
       "old_price": "39.20",
       "new_price": "24.50",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/john-lewis-cashmere-rib-knit-beanie-hat/p113610121"
     },
     {
@@ -200,7 +206,7 @@
       "percentage": 31.4,
       "old_price": "7.00",
       "new_price": "4.80",
-      "timestamp": "2026-01-29T13:01:59.409581",
+      "timestamp": "2026-01-29T13:07:07.012123",
       "url": "https://dusk.com/products/pair-of-mykonos-pillowcases-white-200-thread-count"
     },
     {
@@ -227,7 +233,7 @@
       "percentage": 29.2,
       "old_price": "60.00",
       "new_price": "42.50",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/sweaty-betty-escape-italian-luxe-fleece-hoodie/p5437821"
     },
     {
@@ -245,7 +251,7 @@
       "percentage": 25.3,
       "old_price": "79.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/mint-velvet-colour-block-star-jumper/p113985383"
     },
     {
@@ -263,7 +269,7 @@
       "percentage": 20.0,
       "old_price": "24.50",
       "new_price": "19.60",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/adrianna-papell-stripe-short-sleeve-tie-neck-sweater-top-cream-multi/p114273296"
     },
     {
@@ -272,7 +278,7 @@
       "percentage": 20.0,
       "old_price": "35.00",
       "new_price": "28.00",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/john-lewis-cashmere-handwarmers/p113610096"
     },
     {
@@ -290,7 +296,7 @@
       "percentage": 18.5,
       "old_price": "10.80",
       "new_price": "8.80",
-      "timestamp": "2026-01-29T13:01:59.409581",
+      "timestamp": "2026-01-29T13:07:07.012123",
       "url": "https://dusk.com/products/floral-jacquard-embroidered-cushion-cover-blue"
     },
     {
@@ -308,8 +314,17 @@
       "percentage": 15.4,
       "old_price": "13.00",
       "new_price": "11.00",
-      "timestamp": "2026-01-29T13:01:59.409581",
+      "timestamp": "2026-01-29T13:07:07.012123",
       "url": "https://dusk.com/products/floral-jacquard-embroidered-sofa-cushion-cover-blue"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "My Dad Had A Rolls-Royce' Slogan T-Shirt In White",
+      "percentage": 15.4,
+      "old_price": "39.00",
+      "new_price": "33.00",
+      "timestamp": "2026-01-29T13:07:07.003909",
+      "url": "https://www.victoriabeckham.com/products/my-dad-had-a-rolls-royce-slogan-t-shirt-in-white-19451"
     },
     {
       "site": "johnlewis_com",
@@ -317,7 +332,7 @@
       "percentage": 14.3,
       "old_price": "115.50",
       "new_price": "99.00",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/gerard-darel-evange-pullover-cardigan-vest/p113933215"
     },
     {
@@ -326,7 +341,7 @@
       "percentage": 14.3,
       "old_price": "94.50",
       "new_price": "81.00",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/gerard-darel-eva-crew-neck-pure-wool-jumper-navy/p113747436"
     },
     {
@@ -339,12 +354,21 @@
       "url": "https://www.johnlewis.com/gerard-darel-nais-cotton-blend-sleeveless-v-neck-blazer/p113747595"
     },
     {
+      "site": "victoriabeckham_com",
+      "product": "Straight Leg Jean In Antique Indigo Wash",
+      "percentage": 14.3,
+      "old_price": "196.00",
+      "new_price": "168.00",
+      "timestamp": "2026-01-29T13:07:07.003909",
+      "url": "https://www.victoriabeckham.com/products/relaxed-straight-leg-jean-in-antique-indigo-wash"
+    },
+    {
       "site": "dusk_com",
       "product": "Surrey Ottoman Storage Bed - Thin Stripe",
       "percentage": 14.0,
       "old_price": "429.00",
       "new_price": "369.00",
-      "timestamp": "2026-01-29T13:01:59.409581",
+      "timestamp": "2026-01-29T13:07:07.012123",
       "url": "https://dusk.com/products/surrey-ottoman-storage-bed-thin-stripe"
     },
     {
@@ -357,12 +381,39 @@
       "url": "https://www.victoriabeckham.com/products/cut-out-gown-in-dark-teal-21650"
     },
     {
+      "site": "victoriabeckham_com",
+      "product": "Alina Jean in Dark Vintage Wash",
+      "percentage": 13.3,
+      "old_price": "315.00",
+      "new_price": "273.00",
+      "timestamp": "2026-01-29T13:07:07.003909",
+      "url": "https://www.victoriabeckham.com/products/alina-jean-in-dark-vintage-wash"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Split Front Leggings In Black",
+      "percentage": 10.3,
+      "old_price": "156.00",
+      "new_price": "140.00",
+      "timestamp": "2026-01-29T13:07:07.003909",
+      "url": "https://www.victoriabeckham.com/products/vb-body-split-front-leggings-in-black"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Ellys Shirt In Oxford Blue",
+      "percentage": 10.3,
+      "old_price": "195.00",
+      "new_price": "175.00",
+      "timestamp": "2026-01-29T13:07:07.003909",
+      "url": "https://www.victoriabeckham.com/products/shirt-in-oxford-blue"
+    },
+    {
       "site": "johnlewis_com",
       "product": "ICHI Briac Riund Neck Long Sleeve Cardigan",
       "percentage": 10.0,
       "old_price": "36.00",
       "new_price": "32.40",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/ichi-briac-riund-neck-long-sleeve-cardigan/p114394672"
     },
     {
@@ -371,7 +422,7 @@
       "percentage": 10.0,
       "old_price": "40.00",
       "new_price": "36.00",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/saint-tropez-lotty-open-knit-jumper-greenbriar/p113665694"
     },
     {
@@ -380,7 +431,7 @@
       "percentage": 10.0,
       "old_price": "36.00",
       "new_price": "32.40",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/kaffe-kawilma-abstract-stripe-pullover-jumper-grey-black/p114393406"
     },
     {
@@ -389,7 +440,7 @@
       "percentage": 10.0,
       "old_price": "56.00",
       "new_price": "50.40",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/saint-tropez-inette-stripe-cardigan-black-multi/p112858812"
     },
     {
@@ -398,7 +449,7 @@
       "percentage": 10.0,
       "old_price": "28.00",
       "new_price": "25.20",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/ichi-dabria-v-neck-jumper-cloud-dancer/p114498002"
     },
     {
@@ -407,7 +458,7 @@
       "percentage": 10.0,
       "old_price": "25.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/saint-tropez-konstansia-textured-short-sleeve-jumper-white/p113262107"
     },
     {
@@ -416,7 +467,7 @@
       "percentage": 10.0,
       "old_price": "30.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/soaked-in-luxury-spina-slim-fit-jumper-grey/p112924071"
     },
     {
@@ -425,7 +476,7 @@
       "percentage": 10.0,
       "old_price": "36.00",
       "new_price": "32.40",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/kaffe-lizza-beaded-neck-jumper-black/p113756871"
     },
     {
@@ -434,7 +485,7 @@
       "percentage": 10.0,
       "old_price": "30.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/soaked-in-luxury-spina-stripe-jumper-porpoise-white/p112924068"
     },
     {
@@ -443,7 +494,7 @@
       "percentage": 10.0,
       "old_price": "35.00",
       "new_price": "31.50",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/part-two-tinni-cotton-blend-short-sleeve-jumper/p113723738"
     },
     {
@@ -452,7 +503,7 @@
       "percentage": 10.0,
       "old_price": "50.00",
       "new_price": "45.00",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/inwear-wiley-pintuck-seam-jumper/p113045320"
     },
     {
@@ -461,7 +512,7 @@
       "percentage": 10.0,
       "old_price": "17.00",
       "new_price": "15.30",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/casual-friday-thor-short-sleeve-micro-stripe-t-shirt/p111804486"
     },
     {
@@ -528,6 +579,51 @@
       "url": "https://www.johnlewis.com/j-lindeberg-kai-merino-wool-regular-fit-long-sleeve-polo-shirt-navy/p114257178"
     },
     {
+      "site": "victoriabeckham_com",
+      "product": "Cropped Tuxedo Trouser In Ivory",
+      "percentage": 9.2,
+      "old_price": "390.00",
+      "new_price": "354.00",
+      "timestamp": "2026-01-29T13:07:07.003909",
+      "url": "https://www.victoriabeckham.com/products/cropped-tux-trouser-in-ivory-19446"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Fitted Midi Skirt In White",
+      "percentage": 8.6,
+      "old_price": "140.00",
+      "new_price": "128.00",
+      "timestamp": "2026-01-29T13:07:07.003909",
+      "url": "https://www.victoriabeckham.com/products/vb-body-fitted-midi-skirt-in-white"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Fitted Midi Skirt In Black",
+      "percentage": 8.6,
+      "old_price": "105.00",
+      "new_price": "96.00",
+      "timestamp": "2026-01-29T13:07:07.003909",
+      "url": "https://www.victoriabeckham.com/products/vb-body-fitted-midi-skirt-in-black"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Strap Bandeau Top In White",
+      "percentage": 8.3,
+      "old_price": "48.00",
+      "new_price": "44.00",
+      "timestamp": "2026-01-29T13:07:07.003909",
+      "url": "https://www.victoriabeckham.com/products/vb-body-bandeau-top-in-white"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Strap Bandeau Top In Black",
+      "percentage": 8.3,
+      "old_price": "36.00",
+      "new_price": "33.00",
+      "timestamp": "2026-01-29T13:07:07.003909",
+      "url": "https://www.victoriabeckham.com/products/vb-body-strap-bandeau-top-in-black"
+    },
+    {
       "site": "johnlewis_com",
       "product": "LEGO Disney 43279 Pixar WALL-E and EVE Building Set",
       "percentage": 6.2,
@@ -542,7 +638,7 @@
       "percentage": 6.2,
       "old_price": "32.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-29T13:01:59.409581",
+      "timestamp": "2026-01-29T13:07:07.012123",
       "url": "https://dusk.com/products/corinne-100-cotton-reversible-duvet-cover-pillowcase-set-natural"
     },
     {
@@ -551,8 +647,26 @@
       "percentage": 5.5,
       "old_price": "1269.00",
       "new_price": "1199.00",
-      "timestamp": "2026-01-29T13:02:11.803966",
+      "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/microsoft-surface-laptop-copilot-pc-c12-snapdragon-x-elite-processor-16gb-512gb-13-8-pixelsense-display-black/p112052474"
+    },
+    {
+      "site": "callidus_shop",
+      "product": "Two / Three Bedroom House Off Grid Kit Victron 5000 Easysolar 2 GX with Pytes Lithium Batteries & Solar Panels",
+      "percentage": 2.5,
+      "old_price": "4895.00",
+      "new_price": "4775.00",
+      "timestamp": "2026-01-29T13:06:56.018568",
+      "url": "https://callidus.shop/products/two-three-bedroom-house-off-grid-kit-victron-5000-easysolar-with-pytes-lithium-batteries-solar-panels-copy"
+    },
+    {
+      "site": "callidus_shop",
+      "product": "One Bedroom House Off Grid Kit Victron 3000 Easysolar 2 GX with Pytes Lithium Batteries & Solar Panels",
+      "percentage": 1.5,
+      "old_price": "3790.00",
+      "new_price": "3735.00",
+      "timestamp": "2026-01-29T13:06:56.018568",
+      "url": "https://callidus.shop/products/two-bed-room-house-offgrid-kit-kit-victron-3000-easysolar-with-pytes-lithium-batteries-solar-panels"
     },
     {
       "site": "johnlewis_com",

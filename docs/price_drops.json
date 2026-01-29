@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:12:18.606548",
-  "total_drops": 552,
+  "generated_at": "2026-01-29T13:17:25.898150",
+  "total_drops": 685,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,15 +11,15 @@
     },
     {
       "site": "victoriabeckham_com",
-      "count": 489,
+      "count": 621,
       "max_drop": 67.7,
-      "total_savings": 44726.0
+      "total_savings": 52976.0
     },
     {
       "site": "dusk_com",
-      "count": 6,
+      "count": 7,
       "max_drop": 63.6,
-      "total_savings": 82.2
+      "total_savings": 92.2
     },
     {
       "site": "houseofisabella_co_uk",
@@ -77,7 +77,7 @@
       "percentage": 67.7,
       "old_price": "990.00",
       "new_price": "320.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/blackless-bib-top-in-white-21769"
     },
     {
@@ -86,7 +86,7 @@
       "percentage": 63.6,
       "old_price": "22.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-29T13:12:06.866411",
+      "timestamp": "2026-01-29T13:17:21.991597",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-sofa-cushion-cover-chalk-white"
     },
     {
@@ -97,6 +97,15 @@
       "new_price": "51.60",
       "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/john-lewis-oversized-leather-tote-bag/p113961376"
+    },
+    {
+      "site": "dusk_com",
+      "product": "Washed Cotton Linen Blend Plain Dye Cushion Cover - Chalk White",
+      "percentage": 55.6,
+      "old_price": "18.00",
+      "new_price": "8.00",
+      "timestamp": "2026-01-29T13:17:21.991597",
+      "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-cushion-cover-chalk-white"
     },
     {
       "site": "johnlewis_com",
@@ -212,7 +221,7 @@
       "percentage": 40.0,
       "old_price": "75.00",
       "new_price": "45.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/tank-top-in-white-21159"
     },
     {
@@ -221,7 +230,7 @@
       "percentage": 40.0,
       "old_price": "60.00",
       "new_price": "36.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/tank-top-in-rose-21159"
     },
     {
@@ -230,7 +239,7 @@
       "percentage": 40.0,
       "old_price": "45.00",
       "new_price": "27.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/tank-top-in-pistachio-21159"
     },
     {
@@ -239,7 +248,7 @@
       "percentage": 40.0,
       "old_price": "60.00",
       "new_price": "36.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/tank-top-in-delphinium-21159"
     },
     {
@@ -266,7 +275,7 @@
       "percentage": 36.7,
       "old_price": "45.00",
       "new_price": "28.50",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/victoria-t-shirt-in-pistachio-19466"
     },
     {
@@ -275,7 +284,7 @@
       "percentage": 36.7,
       "old_price": "60.00",
       "new_price": "38.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/victoria-t-shirt-in-rose-19466"
     },
     {
@@ -284,7 +293,7 @@
       "percentage": 36.7,
       "old_price": "45.00",
       "new_price": "28.50",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/rectangle-polka-dot-tights-in-black-20455"
     },
     {
@@ -293,7 +302,7 @@
       "percentage": 36.3,
       "old_price": "490.00",
       "new_price": "312.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/alina-jean-in-light-rinse"
     },
     {
@@ -302,7 +311,7 @@
       "percentage": 36.3,
       "old_price": "490.00",
       "new_price": "312.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/alina-stretch-jean-in-washed-black-1"
     },
     {
@@ -311,7 +320,7 @@
       "percentage": 36.3,
       "old_price": "490.00",
       "new_price": "312.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/alina-jean-short-in-mid-blue-wash-21569"
     },
     {
@@ -320,7 +329,7 @@
       "percentage": 36.3,
       "old_price": "490.00",
       "new_price": "312.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/alina-jean-short-in-mid-blue-wash-21566"
     },
     {
@@ -329,7 +338,7 @@
       "percentage": 31.4,
       "old_price": "7.00",
       "new_price": "4.80",
-      "timestamp": "2026-01-29T13:12:06.866411",
+      "timestamp": "2026-01-29T13:17:21.991597",
       "url": "https://dusk.com/products/pair-of-mykonos-pillowcases-white-200-thread-count"
     },
     {
@@ -365,7 +374,7 @@
       "percentage": 28.9,
       "old_price": "190.00",
       "new_price": "135.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/sequin-detail-mesh-thong-in-black-21955"
     },
     {
@@ -383,7 +392,7 @@
       "percentage": 26.7,
       "old_price": "150.00",
       "new_price": "110.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/slogan-tee-its-fine-just-stick-a-filter-on-it-in-white-21886"
     },
     {
@@ -392,7 +401,7 @@
       "percentage": 26.7,
       "old_price": "45.00",
       "new_price": "33.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/davids-wife-slogan-t-shirt-in-white"
     },
     {
@@ -401,7 +410,7 @@
       "percentage": 26.7,
       "old_price": "45.00",
       "new_price": "33.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/netflix-made-me-do-it-slogan-t-shirt-in-white"
     },
     {
@@ -410,7 +419,7 @@
       "percentage": 26.7,
       "old_price": "45.00",
       "new_price": "33.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/netflix-made-me-do-it-slogan-t-shirt-in-black"
     },
     {
@@ -419,7 +428,7 @@
       "percentage": 26.7,
       "old_price": "45.00",
       "new_price": "33.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/cap-in-beige-lemon-pistachio-21162"
     },
     {
@@ -428,7 +437,7 @@
       "percentage": 26.7,
       "old_price": "45.00",
       "new_price": "33.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/cap-in-delphinium-19452"
     },
     {
@@ -451,11 +460,29 @@
     },
     {
       "site": "victoriabeckham_com",
+      "product": "VB Embroidered Towelling Slippers In White",
+      "percentage": 25.0,
+      "old_price": "120.00",
+      "new_price": "90.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/embroidered-towelling-slippers-in-white-20776"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Lace Cami In Black",
+      "percentage": 24.1,
+      "old_price": "290.00",
+      "new_price": "220.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/lace-cami-in-black-18019"
+    },
+    {
+      "site": "victoriabeckham_com",
       "product": "Colour Block Silk Scarf In Macadamia",
       "percentage": 24.0,
       "old_price": "100.00",
       "new_price": "76.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/colour-block-silk-scarf-in-macadamia"
     },
     {
@@ -464,7 +491,7 @@
       "percentage": 24.0,
       "old_price": "250.00",
       "new_price": "190.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/rib-tank-in-navy-21748"
     },
     {
@@ -473,7 +500,7 @@
       "percentage": 24.0,
       "old_price": "250.00",
       "new_price": "190.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/rib-tank-in-white-21748"
     },
     {
@@ -482,8 +509,35 @@
       "percentage": 24.0,
       "old_price": "100.00",
       "new_price": "76.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/lightweight-t-shirt-in-bottle-green"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Alpaca Hat In Navy",
+      "percentage": 24.0,
+      "old_price": "250.00",
+      "new_price": "190.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/hat-in-navy-21751"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Alpaca Hat In Antique Wood",
+      "percentage": 24.0,
+      "old_price": "250.00",
+      "new_price": "190.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/hat-in-antique-wood-21751"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Alpaca Hat In Glacial Blue",
+      "percentage": 24.0,
+      "old_price": "250.00",
+      "new_price": "190.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/hat-in-glacial-blue-21751"
     },
     {
       "site": "victoriabeckham_com",
@@ -491,7 +545,7 @@
       "percentage": 22.2,
       "old_price": "450.00",
       "new_price": "350.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/monogram-sleep-set-in-ivory-monogram-19463"
     },
     {
@@ -500,7 +554,7 @@
       "percentage": 22.2,
       "old_price": "450.00",
       "new_price": "350.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/monogram-sleep-set-in-black-monogram-19463"
     },
     {
@@ -509,7 +563,7 @@
       "percentage": 22.2,
       "old_price": "180.00",
       "new_price": "140.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/crew-neck-raglan-sweatshirt-in-black-21268"
     },
     {
@@ -518,7 +572,7 @@
       "percentage": 22.0,
       "old_price": "250.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/lace-bra-in-black"
     },
     {
@@ -527,8 +581,89 @@
       "percentage": 22.0,
       "old_price": "250.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/knicker-in-black-20096"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Lace Bra In Poppy Red",
+      "percentage": 22.0,
+      "old_price": "250.00",
+      "new_price": "195.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/bra-in-poppy-red-20095"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Lace Monogram Knicker In Poppy Red",
+      "percentage": 22.0,
+      "old_price": "250.00",
+      "new_price": "195.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/knicker-in-poppy-red-20096"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Dorian Keyring In Sand",
+      "percentage": 21.4,
+      "old_price": "42.00",
+      "new_price": "33.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/b-frame-charm-keyring-tonal-in-sand-21097"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Dorian Keyring In Khaki",
+      "percentage": 21.4,
+      "old_price": "42.00",
+      "new_price": "33.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/b-frame-charm-keyring-tonal-in-khaki-21097"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Dorian Keyring In Brick Red",
+      "percentage": 21.4,
+      "old_price": "140.00",
+      "new_price": "110.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/b-frame-charm-keyring-tonal-in-brick-red-21097"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Dorian Keyring In Dark Olive",
+      "percentage": 21.4,
+      "old_price": "42.00",
+      "new_price": "33.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/dorian-keyring-in-dark-olive-1"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Dorian Keyring In Black",
+      "percentage": 21.4,
+      "old_price": "140.00",
+      "new_price": "110.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/b-frame-charm-keyring-tonal-in-black-21097"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Dorian Keyring In Burgundy",
+      "percentage": 21.4,
+      "old_price": "140.00",
+      "new_price": "110.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/b-frame-charm-keyring-tonal-in-burgundy-21097"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Dorian Keyring In Tan",
+      "percentage": 21.4,
+      "old_price": "42.00",
+      "new_price": "33.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/vb430-b-frame-charm-keyring-tonal-in-tan-21097"
     },
     {
       "site": "victoriabeckham_com",
@@ -536,7 +671,7 @@
       "percentage": 21.1,
       "old_price": "190.00",
       "new_price": "150.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/shrunken-logo-tee-in-white-19816"
     },
     {
@@ -545,7 +680,7 @@
       "percentage": 21.1,
       "old_price": "95.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/signet-b-ring-in-silver-19672"
     },
     {
@@ -554,7 +689,7 @@
       "percentage": 21.1,
       "old_price": "95.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/signet-b-ring-in-gold-19671"
     },
     {
@@ -563,7 +698,7 @@
       "percentage": 21.1,
       "old_price": "190.00",
       "new_price": "150.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/high-leg-body-suit-in-white-20781"
     },
     {
@@ -572,7 +707,7 @@
       "percentage": 21.1,
       "old_price": "190.00",
       "new_price": "150.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/high-leg-body-suit-in-grey-marl-20781"
     },
     {
@@ -581,7 +716,7 @@
       "percentage": 21.1,
       "old_price": "190.00",
       "new_price": "150.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/high-leg-body-suit-in-black-20781"
     },
     {
@@ -590,7 +725,7 @@
       "percentage": 20.8,
       "old_price": "120.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/boxy-t-shirt-in-grey-marl-21750"
     },
     {
@@ -599,7 +734,7 @@
       "percentage": 20.8,
       "old_price": "120.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/boxy-t-shirt-in-white-21750"
     },
     {
@@ -608,7 +743,7 @@
       "percentage": 20.8,
       "old_price": "120.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/boxy-t-shirt-in-black-21750"
     },
     {
@@ -617,7 +752,7 @@
       "percentage": 20.8,
       "old_price": "120.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/boxy-t-shirt-in-navy-21750"
     },
     {
@@ -626,7 +761,7 @@
       "percentage": 20.8,
       "old_price": "120.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/tights-in-black-21977"
     },
     {
@@ -635,7 +770,7 @@
       "percentage": 20.8,
       "old_price": "120.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/tights-in-black-21978"
     },
     {
@@ -644,8 +779,17 @@
       "percentage": 20.8,
       "old_price": "120.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/cufflink-ring-s-m-l-in-light-gold-20548"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Monogram Lace Tights In Red",
+      "percentage": 20.8,
+      "old_price": "120.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/tights-in-red-21978"
     },
     {
       "site": "victoriabeckham_com",
@@ -653,7 +797,7 @@
       "percentage": 20.4,
       "old_price": "343.00",
       "new_price": "273.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/alina-jean-in-washed-black-1"
     },
     {
@@ -662,7 +806,7 @@
       "percentage": 20.4,
       "old_price": "245.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/alina-corduroy-jean-in-khaki-1"
     },
     {
@@ -671,8 +815,26 @@
       "percentage": 20.4,
       "old_price": "490.00",
       "new_price": "390.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/julia-jean-in-light-rinse"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Julia Stretch Jean In Mid Blue",
+      "percentage": 20.4,
+      "old_price": "490.00",
+      "new_price": "390.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/julia-stretch-jean-in-mid-blue"
+    },
+    {
+      "site": "victoriabeckham_com",
+      "product": "Julia Stretch Jean In Washed Black",
+      "percentage": 20.4,
+      "old_price": "490.00",
+      "new_price": "390.00",
+      "timestamp": "2026-01-29T13:17:09.467008",
+      "url": "https://www.victoriabeckham.com/products/julia-stretch-jean-in-washed-black"
     },
     {
       "site": "victoriabeckham_com",
@@ -680,7 +842,7 @@
       "percentage": 20.4,
       "old_price": "245.00",
       "new_price": "195.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/alina-jean-in-butter-yellow"
     },
     {
@@ -689,7 +851,7 @@
       "percentage": 20.4,
       "old_price": "490.00",
       "new_price": "390.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/harper-jean-in-heritage-blue-21727"
     },
     {
@@ -698,7 +860,7 @@
       "percentage": 20.4,
       "old_price": "490.00",
       "new_price": "390.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/high-rise-slim-jean-in-washed-white-21726"
     },
     {
@@ -707,7 +869,7 @@
       "percentage": 20.4,
       "old_price": "490.00",
       "new_price": "390.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/twist-detail-polo-top-in-white-21621"
     },
     {
@@ -716,7 +878,7 @@
       "percentage": 20.4,
       "old_price": "392.00",
       "new_price": "312.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/alina-jean-long-in-classic-blue-wash-21442"
     },
     {
@@ -752,7 +914,7 @@
       "percentage": 19.0,
       "old_price": "474.00",
       "new_price": "384.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/100mm-square-toe-pump-in-black-21232"
     },
     {
@@ -761,7 +923,7 @@
       "percentage": 19.0,
       "old_price": "474.00",
       "new_price": "384.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/100mm-square-toe-pump-in-burgundy-21232"
     },
     {
@@ -770,170 +932,8 @@
       "percentage": 19.0,
       "old_price": "790.00",
       "new_price": "640.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
+      "timestamp": "2026-01-29T13:17:09.467008",
       "url": "https://www.victoriabeckham.com/products/100mm-pointed-pump-in-black-21612"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Victoria Stiletto Pump 100 In Burgundy Leather",
-      "percentage": 19.0,
-      "old_price": "790.00",
-      "new_price": "640.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/100mm-pointed-pump-in-burgundy-21612"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Victoria Stiletto Pump 100 In Red Leather",
-      "percentage": 19.0,
-      "old_price": "790.00",
-      "new_price": "640.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/100mm-pointed-pump-in-red-21611"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Wide Leg Trouser In Black",
-      "percentage": 18.8,
-      "old_price": "340.00",
-      "new_price": "276.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/wide-leg-trouser-in-black-21505"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Cropped Cable Jumper In Grey Melange",
-      "percentage": 18.8,
-      "old_price": "255.00",
-      "new_price": "207.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/cropped-cable-jumper-in-grey-melange-21283"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Sculptural Leg Trouser In Dark Camel",
-      "percentage": 18.8,
-      "old_price": "340.00",
-      "new_price": "276.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/sculptural-leg-trouser-in-dark-camel-21397"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Sculptural Leg Trouser In Black",
-      "percentage": 18.8,
-      "old_price": "850.00",
-      "new_price": "690.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/sculptural-leg-trouser-in-black-21397"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Midi Dress In Black",
-      "percentage": 18.8,
-      "old_price": "850.00",
-      "new_price": "690.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/long-sleeve-midi-dress-in-black-21620"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Shirt In Red Floral Print",
-      "percentage": 18.8,
-      "old_price": "850.00",
-      "new_price": "690.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/cropped-long-sleeve-shirt-in-shell-cardinal-red-21710"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Denim Trucker Jacket In Heritage Blue",
-      "percentage": 18.8,
-      "old_price": "850.00",
-      "new_price": "690.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/denim-trucker-jacket-in-heritage-blue-21923"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Panelled Denim Midi Skirt In Indigo",
-      "percentage": 18.8,
-      "old_price": "850.00",
-      "new_price": "690.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/panelled-denim-midi-skirt-in-indigo-white-21610"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Floral Jacquard Embroidered Cushion Cover - Blue",
-      "percentage": 18.5,
-      "old_price": "10.80",
-      "new_price": "8.80",
-      "timestamp": "2026-01-29T13:12:06.866411",
-      "url": "https://dusk.com/products/floral-jacquard-embroidered-cushion-cover-blue"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Julia Jean In Washed Blue",
-      "percentage": 18.2,
-      "old_price": "220.00",
-      "new_price": "180.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/julia-jean-in-washed-blue"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Julia Jean In Washed Black",
-      "percentage": 18.2,
-      "old_price": "330.00",
-      "new_price": "270.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/julia-jean-in-washed-black"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Button Midi Skirt In Camel",
-      "percentage": 18.2,
-      "old_price": "550.00",
-      "new_price": "450.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/button-midi-skirt-in-camel"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Alina Corduroy Jean In Indigo",
-      "percentage": 18.2,
-      "old_price": "275.00",
-      "new_price": "225.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/alina-corduroy-jean-in-indigo"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Julia Stretch Jean In Mid Blue",
-      "percentage": 18.2,
-      "old_price": "550.00",
-      "new_price": "450.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/julia-stretch-jean-in-mid-blue"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Julia Stretch Jean In Washed Black",
-      "percentage": 18.2,
-      "old_price": "550.00",
-      "new_price": "450.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/julia-stretch-jean-in-washed-black"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Double Bib Detail Shirt In White",
-      "percentage": 18.2,
-      "old_price": "165.00",
-      "new_price": "135.00",
-      "timestamp": "2026-01-29T13:12:18.079404",
-      "url": "https://www.victoriabeckham.com/products/double-bib-detail-shirt-in-white-21371"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T09:51:11.455178",
-  "total_drops": 2119,
+  "generated_at": "2026-01-30T09:56:27.279650",
+  "total_drops": 2124,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 531,
+      "count": 533,
       "max_drop": 72.2,
-      "total_savings": 10616.8
+      "total_savings": 10629.8
     },
     {
       "site": "oliversweeney_com",
@@ -47,9 +47,9 @@
     },
     {
       "site": "currys_com",
-      "count": 224,
+      "count": 227,
       "max_drop": 40.0,
-      "total_savings": 14771.54
+      "total_savings": 14833.54
     },
     {
       "site": "kingofcotton_com",
@@ -304,6 +304,24 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Fringed Velvet Cushion",
+      "percentage": 50.0,
+      "old_price": "35.00",
+      "new_price": "17.50",
+      "timestamp": "2026-01-30T09:56:18.609801",
+      "url": "https://www.johnlewis.com/john-lewis-fringed-velvet-cushion/p112452017"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis ANYDAY Spots Reversible Toddler Pure Cotton Duvet Cover & Pillowcase Set",
+      "percentage": 50.0,
+      "old_price": "18.00",
+      "new_price": "9.00",
+      "timestamp": "2026-01-30T09:56:18.609801",
+      "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Lauren Ralph Lauren Keaton Tote Bag",
       "percentage": 50.0,
       "old_price": "129.00",
@@ -319,15 +337,6 @@
       "new_price": "12.00",
       "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/tommy-jeans-linear-logo-embroidery-t-shirt/p112462623"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Fringed Velvet Cushion",
-      "percentage": 50.0,
-      "old_price": "35.00",
-      "new_price": "17.50",
-      "timestamp": "2026-01-29T12:17:38.294832",
-      "url": "https://www.johnlewis.com/john-lewis-fringed-velvet-cushion/p112452017"
     },
     {
       "site": "johnlewis_com",
@@ -740,7 +749,7 @@
       "percentage": 35.0,
       "old_price": "200.00",
       "new_price": "130.00",
-      "timestamp": "2026-01-30T09:50:14.611135",
+      "timestamp": "2026-01-30T09:55:58.362824",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-duvet-set"
     },
     {
@@ -830,7 +839,7 @@
       "percentage": 32.7,
       "old_price": "245.00",
       "new_price": "165.00",
-      "timestamp": "2026-01-30T09:50:14.611135",
+      "timestamp": "2026-01-30T09:55:58.362824",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-sheet-set"
     },
     {
@@ -1001,7 +1010,7 @@
       "percentage": 30.0,
       "old_price": "59.99",
       "new_price": "41.99",
-      "timestamp": "2026-01-30T09:51:07.823004",
+      "timestamp": "2026-01-30T09:56:21.909810",
       "url": "https://www.currys.co.uk/products/10287528.html"
     },
     {
@@ -1057,15 +1066,6 @@
       "new_price": "48.00",
       "timestamp": "2026-01-30T03:57:13.964543",
       "url": "https://www.flannels.com/ganni-womens-rib-knit-wool-beanie-901340"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Lauren by Ralph Lauren - Logo-Embossed Gloves",
-      "percentage": 29.4,
-      "old_price": "85.00",
-      "new_price": "60.00",
-      "timestamp": "2026-01-30T03:57:13.964543",
-      "url": "https://www.flannels.com/lauren-by-ralph-lauren-womens-logo-embossed-leather-gloves-903598"
     }
   ]
 }

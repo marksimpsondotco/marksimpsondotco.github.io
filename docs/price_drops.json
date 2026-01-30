@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T06:16:45.123992",
-  "total_drops": 1902,
+  "generated_at": "2026-01-30T06:21:53.674389",
+  "total_drops": 1903,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 524,
+      "count": 525,
       "max_drop": 72.2,
-      "total_savings": 10473.5
+      "total_savings": 10578.0
     },
     {
       "site": "oliversweeney_com",
@@ -274,6 +274,15 @@
       "new_price": "8.00",
       "timestamp": "2026-01-29T16:04:33.096934",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-cushion-cover-chalk-white"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "J.Lindeberg Clinton Water-Repellent Utility Jacket, Navy",
+      "percentage": 55.0,
+      "old_price": "190.00",
+      "new_price": "85.50",
+      "timestamp": "2026-01-30T06:21:49.653903",
+      "url": "https://www.johnlewis.com/j-lindeberg-clinton-water-repellent-utility-jacket-navy/p114708473"
     },
     {
       "site": "johnlewis_com",
@@ -893,7 +902,7 @@
       "percentage": 30.0,
       "old_price": "250.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-30T06:16:36.690477",
+      "timestamp": "2026-01-30T06:21:43.354168",
       "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
     },
     {
@@ -902,7 +911,7 @@
       "percentage": 30.0,
       "old_price": "140.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-30T06:16:36.690477",
+      "timestamp": "2026-01-30T06:21:43.354168",
       "url": "https://www.flannels.com/fred-perry-mens-zip-long-sleeve-overshirt-603891"
     },
     {
@@ -1057,15 +1066,6 @@
       "new_price": "139.00",
       "timestamp": "2026-01-30T03:57:13.964543",
       "url": "https://www.flannels.com/fred-perry-mens-caban-barn-jacket-326953"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tommy Hilfiger 1985 Regular Fit Polo Shirt",
-      "percentage": 28.6,
-      "old_price": "42.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-29T12:17:38.294832",
-      "url": "https://www.johnlewis.com/tommy-hilfiger-1985-regular-fit-polo-shirt/p109261145"
     }
   ]
 }

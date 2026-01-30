@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T07:50:08.501850",
-  "total_drops": 1975,
+  "generated_at": "2026-01-30T07:55:19.431986",
+  "total_drops": 1993,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "site": "currys_com",
-      "count": 88,
+      "count": 106,
       "max_drop": 34.9,
-      "total_savings": 7743.0
+      "total_savings": 8735.0
     },
     {
       "site": "ukbabycentre_com",
@@ -722,7 +722,7 @@
       "percentage": 34.9,
       "old_price": "229.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-30T07:49:58.886741",
+      "timestamp": "2026-01-30T07:55:04.514520",
       "url": "https://www.currys.co.uk/products/10281509.html"
     },
     {
@@ -760,6 +760,15 @@
       "new_price": "1560.00",
       "timestamp": "2026-01-29T18:56:25.573475",
       "url": "https://brownsfashion.com/products/prada-zip-logo-jacket-oo2ss2600167070"
+    },
+    {
+      "site": "currys_com",
+      "product": "KENSINGTON SD5000T5 5-Port USB-A Docking Station",
+      "percentage": 33.9,
+      "old_price": "179.99",
+      "new_price": "119.00",
+      "timestamp": "2026-01-30T07:55:04.514520",
+      "url": "https://www.currys.co.uk/products/10271325.html"
     },
     {
       "site": "2tall_com",
@@ -812,7 +821,7 @@
       "percentage": 32.1,
       "old_price": "249.00",
       "new_price": "169.00",
-      "timestamp": "2026-01-30T07:49:58.886741",
+      "timestamp": "2026-01-30T07:55:04.514520",
       "url": "https://www.currys.co.uk/products/10263910.html"
     },
     {
@@ -911,7 +920,7 @@
       "percentage": 30.0,
       "old_price": "250.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-30T07:50:03.094042",
+      "timestamp": "2026-01-30T07:55:13.118124",
       "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
     },
     {
@@ -920,7 +929,7 @@
       "percentage": 30.0,
       "old_price": "140.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-30T07:50:03.094042",
+      "timestamp": "2026-01-30T07:55:13.118124",
       "url": "https://www.flannels.com/fred-perry-mens-zip-long-sleeve-overshirt-603891"
     },
     {
@@ -1057,15 +1066,6 @@
       "new_price": "709.00",
       "timestamp": "2026-01-30T07:05:25.696502",
       "url": "https://www.currys.co.uk/products/10281801.html"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Sequin Mesh Thong In Black",
-      "percentage": 28.9,
-      "old_price": "190.00",
-      "new_price": "135.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/sequin-detail-mesh-thong-in-black-21955"
     }
   ]
 }

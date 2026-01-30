@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T06:11:38.061647",
-  "total_drops": 1901,
+  "generated_at": "2026-01-30T06:16:45.123992",
+  "total_drops": 1902,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 523,
+      "count": 524,
       "max_drop": 72.2,
-      "total_savings": 10461.7
+      "total_savings": 10473.5
     },
     {
       "site": "oliversweeney_com",
@@ -893,7 +893,7 @@
       "percentage": 30.0,
       "old_price": "250.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-30T06:11:29.130347",
+      "timestamp": "2026-01-30T06:16:36.690477",
       "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
     },
     {
@@ -902,7 +902,7 @@
       "percentage": 30.0,
       "old_price": "140.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-30T06:11:29.130347",
+      "timestamp": "2026-01-30T06:16:36.690477",
       "url": "https://www.flannels.com/fred-perry-mens-zip-long-sleeve-overshirt-603891"
     },
     {

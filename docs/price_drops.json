@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T11:37:10.366907",
-  "total_drops": 2158,
+  "generated_at": "2026-01-30T11:42:23.748022",
+  "total_drops": 2160,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 541,
+      "count": 543,
       "max_drop": 72.2,
-      "total_savings": 10869.1
+      "total_savings": 11236.6
     },
     {
       "site": "oliversweeney_com",
@@ -221,7 +221,7 @@
       "percentage": 70.0,
       "old_price": "12.00",
       "new_price": "3.60",
-      "timestamp": "2026-01-30T11:37:00.953553",
+      "timestamp": "2026-01-30T11:42:12.879114",
       "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-egyptian-cotton-percale-200-thread-count-bedding/p5417600"
     },
     {
@@ -320,8 +320,17 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T11:36:40.285525",
+      "timestamp": "2026-01-30T11:42:15.030188",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Harry Floor Lamp",
+      "percentage": 53.6,
+      "old_price": "70.00",
+      "new_price": "32.50",
+      "timestamp": "2026-01-30T11:42:12.879114",
+      "url": "https://www.johnlewis.com/john-lewis-harry-floor-lamp/p3299933"
     },
     {
       "site": "johnlewis_com",
@@ -347,7 +356,7 @@
       "percentage": 50.0,
       "old_price": "110.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-30T11:37:00.953553",
+      "timestamp": "2026-01-30T11:42:12.879114",
       "url": "https://www.johnlewis.com/john-lewis-2-section-recycling-bin-with-handles-60l/p5971630"
     },
     {
@@ -356,7 +365,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-30T11:37:00.953553",
+      "timestamp": "2026-01-30T11:42:12.879114",
       "url": "https://www.johnlewis.com/john-lewis-pedal-bin-30l/p6361018"
     },
     {
@@ -626,7 +635,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T11:36:40.285525",
+      "timestamp": "2026-01-30T11:42:15.030188",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -761,7 +770,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T11:36:40.285525",
+      "timestamp": "2026-01-30T11:42:15.030188",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1069,15 +1078,6 @@
       "new_price": "2.75",
       "timestamp": "2026-01-30T03:42:14.544591",
       "url": "https://www.smallsmart.co.uk/products/sebra-classic-wooden-car"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Barbour International - Men's Lumley Hooded Long Sleeve Full Zip Quilted Jacket",
-      "percentage": 30.3,
-      "old_price": "165.00",
-      "new_price": "115.00",
-      "timestamp": "2026-01-30T05:55:16.487573",
-      "url": "https://www.flannels.com/barbour-international-mens-lumley-hooded-long-sleeve-full-zip-quilted-jacket-321557"
     }
   ]
 }

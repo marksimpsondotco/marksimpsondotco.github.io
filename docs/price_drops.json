@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T13:37:30.245049",
-  "total_drops": 2210,
+  "generated_at": "2026-01-30T13:42:40.533837",
+  "total_drops": 2217,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 564,
+      "count": 571,
       "max_drop": 72.2,
-      "total_savings": 12289.16
+      "total_savings": 12533.56
     },
     {
       "site": "oliversweeney_com",
@@ -265,6 +265,24 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Olive Leather Block Heel Ankle Boots",
+      "percentage": 70.0,
+      "old_price": "99.00",
+      "new_price": "29.70",
+      "timestamp": "2026-01-30T13:42:32.589429",
+      "url": "https://www.johnlewis.com/john-lewis-olive-leather-block-heel-ankle-boots/p113907301"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Straight Relaxed Leg Jean",
+      "percentage": 70.0,
+      "old_price": "65.00",
+      "new_price": "19.50",
+      "timestamp": "2026-01-30T13:42:32.589429",
+      "url": "https://www.johnlewis.com/john-lewis-straight-relaxed-leg-jean/p114103538"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Spot Print Baby Sleeping Bag, 0.5 Tog, Pack of 2",
       "percentage": 70.0,
       "old_price": "36.00",
@@ -359,7 +377,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T13:37:21.719406",
+      "timestamp": "2026-01-30T13:42:29.424069",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -517,6 +535,33 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Merino Wool Crew Neck Jumper",
+      "percentage": 50.0,
+      "old_price": "45.00",
+      "new_price": "22.50",
+      "timestamp": "2026-01-30T13:42:32.589429",
+      "url": "https://www.johnlewis.com/john-lewis-merino-wool-crew-neck-jumper/p113797003"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis V-Neck Merino Wool Sleeveless Jumper",
+      "percentage": 50.0,
+      "old_price": "39.00",
+      "new_price": "19.50",
+      "timestamp": "2026-01-30T13:42:32.589429",
+      "url": "https://www.johnlewis.com/john-lewis-v-neck-merino-wool-sleeveless-jumper/p113744926"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Levi's 501 Cropped Jeans",
+      "percentage": 50.0,
+      "old_price": "100.00",
+      "new_price": "50.00",
+      "timestamp": "2026-01-30T13:42:32.589429",
+      "url": "https://www.johnlewis.com/levis-501-cropped-jeans/p112906802"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Cotton/Viscose Blend Towels, Pack of 2",
       "percentage": 50.0,
       "old_price": "9.60",
@@ -584,7 +629,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T13:37:21.719406",
+      "timestamp": "2026-01-30T13:42:29.424069",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -782,7 +827,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T13:37:21.719406",
+      "timestamp": "2026-01-30T13:42:29.424069",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -820,6 +865,15 @@
       "new_price": "10.20",
       "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/le-creuset-stoneware-mug-350ml/p1816158"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Cashmere Sleeveless Knit Vest",
+      "percentage": 40.0,
+      "old_price": "69.00",
+      "new_price": "41.40",
+      "timestamp": "2026-01-30T13:42:32.589429",
+      "url": "https://www.johnlewis.com/john-lewis-cashmere-sleeveless-knit-vest/p113835631"
     },
     {
       "site": "johnlewis_com",
@@ -917,7 +971,7 @@
       "percentage": 38.1,
       "old_price": "289.00",
       "new_price": "179.00",
-      "timestamp": "2026-01-30T13:37:27.127483",
+      "timestamp": "2026-01-30T13:42:28.659344",
       "url": "https://www.currys.co.uk/products/10263784.html"
     },
     {
@@ -944,7 +998,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T13:37:21.719406",
+      "timestamp": "2026-01-30T13:42:29.424069",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1036,60 +1090,6 @@
       "new_price": "312.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/alina-jean-short-in-mid-blue-wash-21566"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Ramada Dark Grey",
-      "percentage": 36.2,
-      "old_price": "69.00",
-      "new_price": "44.00",
-      "timestamp": "2026-01-29T17:35:21.405371",
-      "url": "https://www.oliversweeney.com/products/ramada-dark-grey-trousers"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "OLIVER SWEENEY Eastington Shoes",
-      "percentage": 36.0,
-      "old_price": "250.00",
-      "new_price": "160.00",
-      "timestamp": "2026-01-30T13:37:21.719406",
-      "url": "https://fenwick.co.uk/products/black-oliver-sweeney-eastington-shoes-eastobk"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "Pop! set-of-four coasters",
-      "percentage": 35.3,
-      "old_price": "85.00",
-      "new_price": "55.00",
-      "timestamp": "2026-01-29T18:56:25.573475",
-      "url": "https://brownsfashion.com/products/jonathan-adler-pop-set-of-four-coasters-lls78itym524232114"
-    },
-    {
-      "site": "pigletinbed_com",
-      "product": "Berry Linen Blend Duvet Set",
-      "percentage": 35.0,
-      "old_price": "200.00",
-      "new_price": "130.00",
-      "timestamp": "2026-01-30T11:02:17.660991",
-      "url": "https://www.pigletinbed.com/products/berry-linen-blend-duvet-set"
-    },
-    {
-      "site": "currys_com",
-      "product": "HP 14a-ne1500sa 14\" Chromebook - Intel® Celeron®, 64 GB",
-      "percentage": 34.9,
-      "old_price": "229.00",
-      "new_price": "149.00",
-      "timestamp": "2026-01-30T08:13:22.254968",
-      "url": "https://www.currys.co.uk/products/10281509.html"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "iCandy Core Footmuff / Liner - Black",
-      "percentage": 34.7,
-      "old_price": "75.00",
-      "new_price": "49.00",
-      "timestamp": "2026-01-29T19:50:16.995026",
-      "url": "https://ukbabycentre.com/products/icandy-core-footmuff-liner-black"
     }
   ]
 }

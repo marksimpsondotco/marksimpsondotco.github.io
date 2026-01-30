@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T13:27:04.393102",
-  "total_drops": 2204,
+  "generated_at": "2026-01-30T13:32:18.262650",
+  "total_drops": 2210,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -53,9 +53,9 @@
     },
     {
       "site": "currys_com",
-      "count": 237,
+      "count": 243,
       "max_drop": 40.0,
-      "total_savings": 15468.51
+      "total_savings": 15728.51
     },
     {
       "site": "kingofcotton_com",
@@ -242,7 +242,7 @@
       "percentage": 70.0,
       "old_price": "475.00",
       "new_price": "142.50",
-      "timestamp": "2026-01-30T13:26:56.378130",
+      "timestamp": "2026-01-30T13:28:10.643396",
       "url": "https://www.johnlewis.com/coach-tabby-26-pebbled-leather-shoulder-bag/p5071387"
     },
     {
@@ -278,7 +278,7 @@
       "percentage": 68.0,
       "old_price": "50.00",
       "new_price": "16.00",
-      "timestamp": "2026-01-30T13:26:56.378130",
+      "timestamp": "2026-01-30T13:28:10.643396",
       "url": "https://www.johnlewis.com/sweaty-betty-after-class-longline-sweatshirt/p110202256"
     },
     {
@@ -332,7 +332,7 @@
       "percentage": 56.3,
       "old_price": "34.99",
       "new_price": "15.30",
-      "timestamp": "2026-01-30T13:26:56.378130",
+      "timestamp": "2026-01-30T13:28:10.643396",
       "url": "https://www.johnlewis.com/saint-tropez-mila-3-4-sleeve-jumper/p112393072"
     },
     {
@@ -359,7 +359,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T13:26:41.341181",
+      "timestamp": "2026-01-30T13:32:09.916106",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -422,7 +422,7 @@
       "percentage": 50.0,
       "old_price": "109.00",
       "new_price": "54.50",
-      "timestamp": "2026-01-30T13:26:56.378130",
+      "timestamp": "2026-01-30T13:28:10.643396",
       "url": "https://www.johnlewis.com/john-lewis-atlanta-4-wheel-66cm-ultra-lightweight-medium-suitcase/p5814267"
     },
     {
@@ -584,7 +584,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T13:26:41.341181",
+      "timestamp": "2026-01-30T13:32:09.916106",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -782,7 +782,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T13:26:41.341181",
+      "timestamp": "2026-01-30T13:32:09.916106",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -912,6 +912,15 @@
       "url": "https://www.flannels.com/kangol-womens-panel-six-panel-baseball-cap-402639"
     },
     {
+      "site": "currys_com",
+      "product": "HISENSE GG643B 60 cm Gas Hob - Black",
+      "percentage": 38.1,
+      "old_price": "289.00",
+      "new_price": "179.00",
+      "timestamp": "2026-01-30T13:32:12.195266",
+      "url": "https://www.currys.co.uk/products/10263784.html"
+    },
+    {
       "site": "johnlewis_com",
       "product": "John Lewis Cashmere Rib Knit Beanie Hat",
       "percentage": 37.5,
@@ -935,7 +944,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T13:26:41.341181",
+      "timestamp": "2026-01-30T13:32:09.916106",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1043,7 +1052,7 @@
       "percentage": 36.0,
       "old_price": "250.00",
       "new_price": "160.00",
-      "timestamp": "2026-01-30T13:26:41.341181",
+      "timestamp": "2026-01-30T13:32:09.916106",
       "url": "https://fenwick.co.uk/products/black-oliver-sweeney-eastington-shoes-eastobk"
     },
     {
@@ -1081,15 +1090,6 @@
       "new_price": "49.00",
       "timestamp": "2026-01-29T19:50:16.995026",
       "url": "https://ukbabycentre.com/products/icandy-core-footmuff-liner-black"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "striped ruffled cushion cover",
-      "percentage": 34.6,
-      "old_price": "130.00",
-      "new_price": "85.00",
-      "timestamp": "2026-01-29T18:56:25.573475",
-      "url": "https://brownsfashion.com/products/amuse-la-bouche-striped-ruffled-cushion-cover-ollcty200164645"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T12:34:51.355324",
-  "total_drops": 2178,
+  "generated_at": "2026-01-30T12:40:02.836718",
+  "total_drops": 2181,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 555,
+      "count": 557,
       "max_drop": 72.2,
-      "total_savings": 11717.1
+      "total_savings": 11793.57
     },
     {
       "site": "oliversweeney_com",
@@ -154,6 +154,12 @@
       "total_savings": 90.0
     },
     {
+      "site": "chelseababy_com",
+      "count": 2,
+      "max_drop": 12.6,
+      "total_savings": 20.01
+    },
+    {
       "site": "callidus_shop",
       "count": 3,
       "max_drop": 12.1,
@@ -182,12 +188,6 @@
       "count": 1,
       "max_drop": 0.1,
       "total_savings": 0.28
-    },
-    {
-      "site": "chelseababy_com",
-      "count": 1,
-      "max_drop": 0,
-      "total_savings": 0.01
     }
   ],
   "drops": [
@@ -260,7 +260,7 @@
       "percentage": 70.0,
       "old_price": "36.00",
       "new_price": "10.80",
-      "timestamp": "2026-01-30T12:34:41.791230",
+      "timestamp": "2026-01-30T12:39:53.239285",
       "url": "https://www.johnlewis.com/john-lewis-spot-print-baby-sleeping-bag-0-5-tog-pack-of-2/p111143888"
     },
     {
@@ -341,7 +341,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T12:34:26.578807",
+      "timestamp": "2026-01-30T12:39:52.017157",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -494,7 +494,7 @@
       "percentage": 50.0,
       "old_price": "9.60",
       "new_price": "4.80",
-      "timestamp": "2026-01-30T12:34:41.791230",
+      "timestamp": "2026-01-30T12:39:53.239285",
       "url": "https://www.johnlewis.com/john-lewis-cotton-viscose-blend-towels-pack-of-2/p111568001"
     },
     {
@@ -503,7 +503,7 @@
       "percentage": 50.0,
       "old_price": "16.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-30T12:34:41.791230",
+      "timestamp": "2026-01-30T12:39:53.239285",
       "url": "https://www.johnlewis.com/john-lewis-night-and-day-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p6332606"
     },
     {
@@ -512,7 +512,7 @@
       "percentage": 50.0,
       "old_price": "100.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-30T12:34:41.791230",
+      "timestamp": "2026-01-30T12:39:53.239285",
       "url": "https://www.johnlewis.com/herschel-supply-co-retreat-backpack/p110710185"
     },
     {
@@ -521,7 +521,7 @@
       "percentage": 50.0,
       "old_price": "165.00",
       "new_price": "82.50",
-      "timestamp": "2026-01-30T12:34:41.791230",
+      "timestamp": "2026-01-30T12:39:53.239285",
       "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
     },
     {
@@ -530,7 +530,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-30T12:34:41.791230",
+      "timestamp": "2026-01-30T12:39:53.239285",
       "url": "https://www.johnlewis.com/john-lewis-beatrice-upturn-disc-twirl-fascinator/p111454501"
     },
     {
@@ -539,8 +539,17 @@
       "percentage": 50.0,
       "old_price": "190.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-30T12:34:41.791230",
+      "timestamp": "2026-01-30T12:39:53.239285",
       "url": "https://www.johnlewis.com/polo-ralph-lauren-cotton-cable-knit-jumper/p5085683"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "ROKA London Canfield B Recycled Nylon Rolltop Backpack, 15L",
+      "percentage": 50.0,
+      "old_price": "74.95",
+      "new_price": "37.48",
+      "timestamp": "2026-01-30T12:39:53.239285",
+      "url": "https://www.johnlewis.com/roka-london-canfield-b-recycled-nylon-rolltop-backpack-15l/p112395052"
     },
     {
       "site": "fenwick_co_uk",
@@ -548,7 +557,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T12:34:26.578807",
+      "timestamp": "2026-01-30T12:39:52.017157",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -687,6 +696,15 @@
       "url": "https://www.oliversweeney.com/products/hyde-navy-knitwear"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty Power UltraSculpt High Waisted 7/8 Gym Leggings",
+      "percentage": 44.3,
+      "old_price": "88.00",
+      "new_price": "49.00",
+      "timestamp": "2026-01-30T12:39:53.239285",
+      "url": "https://www.johnlewis.com/sweaty-betty-power-ultrasculpt-high-waisted-7-8-gym-leggings/p110400324"
+    },
+    {
       "site": "brownsfashion_com",
       "product": "Bellatrix off shoulder ruffled midi dress",
       "percentage": 43.7,
@@ -710,7 +728,7 @@
       "percentage": 40.5,
       "old_price": "100.00",
       "new_price": "59.50",
-      "timestamp": "2026-01-30T12:34:41.791230",
+      "timestamp": "2026-01-30T12:39:53.239285",
       "url": "https://www.johnlewis.com/polo-ralph-lauren-short-sleeve-custom-slim-fit-polo-shirt/p111436343"
     },
     {
@@ -737,7 +755,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T12:34:26.578807",
+      "timestamp": "2026-01-30T12:39:52.017157",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -782,7 +800,7 @@
       "percentage": 40.0,
       "old_price": "10.00",
       "new_price": "6.00",
-      "timestamp": "2026-01-30T12:34:41.791230",
+      "timestamp": "2026-01-30T12:39:53.239285",
       "url": "https://www.johnlewis.com/john-lewis-connect-check-towels/p111662913"
     },
     {
@@ -791,7 +809,7 @@
       "percentage": 40.0,
       "old_price": "12.50",
       "new_price": "7.50",
-      "timestamp": "2026-01-30T12:34:41.791230",
+      "timestamp": "2026-01-30T12:39:53.239285",
       "url": "https://www.johnlewis.com/john-lewis-colour-block-towels/p112259760"
     },
     {
@@ -890,7 +908,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T12:34:26.578807",
+      "timestamp": "2026-01-30T12:39:52.017157",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1072,24 +1090,6 @@
       "new_price": "39.00",
       "timestamp": "2026-01-30T11:19:17.455806",
       "url": "https://www.oliversweeney.com/products/treath-grey-knitwear"
-    },
-    {
-      "site": "currys_com",
-      "product": "KENSINGTON SD5000T5 5-Port USB-A Docking Station",
-      "percentage": 33.9,
-      "old_price": "179.99",
-      "new_price": "119.00",
-      "timestamp": "2026-01-30T08:13:22.254968",
-      "url": "https://www.currys.co.uk/products/10271325.html"
-    },
-    {
-      "site": "2tall_com",
-      "product": "Blend Twister Jogg Tapered Fit Tall Jeans (dark denim)",
-      "percentage": 33.9,
-      "old_price": "59.00",
-      "new_price": "39.00",
-      "timestamp": "2026-01-29T23:45:18.075792",
-      "url": "https://www.2tall.com/products/blend-twister-jogg-tapered-fit-tall-jeans-dark-denim"
     }
   ]
 }

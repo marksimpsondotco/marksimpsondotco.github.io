@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T10:23:04.255855",
-  "total_drops": 2133,
+  "generated_at": "2026-01-30T10:28:18.607481",
+  "total_drops": 2136,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,15 +47,15 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 6,
+      "count": 7,
       "max_drop": 40.1,
-      "total_savings": 240.0
+      "total_savings": 285.0
     },
     {
       "site": "currys_com",
-      "count": 227,
+      "count": 229,
       "max_drop": 40.0,
-      "total_savings": 14833.54
+      "total_savings": 14927.51
     },
     {
       "site": "kingofcotton_com",
@@ -206,7 +206,7 @@
       "percentage": 70.0,
       "old_price": "59.00",
       "new_price": "17.70",
-      "timestamp": "2026-01-30T10:22:54.079509",
+      "timestamp": "2026-01-30T10:28:06.380316",
       "url": "https://www.johnlewis.com/john-lewis-regular-fit-linen-shirt/p6172177"
     },
     {
@@ -314,7 +314,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T10:22:54.079509",
+      "timestamp": "2026-01-30T10:28:06.380316",
       "url": "https://www.johnlewis.com/john-lewis-fringed-velvet-cushion/p112452017"
     },
     {
@@ -323,7 +323,7 @@
       "percentage": 50.0,
       "old_price": "18.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-30T10:22:54.079509",
+      "timestamp": "2026-01-30T10:28:06.380316",
       "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
     },
     {
@@ -332,7 +332,7 @@
       "percentage": 50.0,
       "old_price": "65.00",
       "new_price": "32.50",
-      "timestamp": "2026-01-30T10:22:54.079509",
+      "timestamp": "2026-01-30T10:28:06.380316",
       "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
     },
     {
@@ -341,7 +341,7 @@
       "percentage": 50.0,
       "old_price": "60.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T10:22:54.079509",
+      "timestamp": "2026-01-30T10:28:06.380316",
       "url": "https://www.johnlewis.com/john-lewis-egyptian-cotton-unisex-bath-robe/p111801685"
     },
     {
@@ -548,7 +548,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T10:22:34.971922",
+      "timestamp": "2026-01-30T10:28:06.570148",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -584,7 +584,7 @@
       "percentage": 40.0,
       "old_price": "17.00",
       "new_price": "10.20",
-      "timestamp": "2026-01-29T12:17:38.294832",
+      "timestamp": "2026-01-30T10:28:06.380316",
       "url": "https://www.johnlewis.com/le-creuset-stoneware-mug-350ml/p1816158"
     },
     {
@@ -674,7 +674,7 @@
       "percentage": 36.8,
       "old_price": "31.00",
       "new_price": "19.60",
-      "timestamp": "2026-01-30T10:22:54.079509",
+      "timestamp": "2026-01-30T10:28:06.380316",
       "url": "https://www.johnlewis.com/travalo-milano-refillable-perfume-atomiser-spray/p3139891"
     },
     {
@@ -782,7 +782,7 @@
       "percentage": 35.0,
       "old_price": "200.00",
       "new_price": "130.00",
-      "timestamp": "2026-01-30T10:22:40.463809",
+      "timestamp": "2026-01-30T10:27:26.969155",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-duvet-set"
     },
     {
@@ -872,7 +872,7 @@
       "percentage": 32.7,
       "old_price": "245.00",
       "new_price": "165.00",
-      "timestamp": "2026-01-30T10:22:40.463809",
+      "timestamp": "2026-01-30T10:27:26.969155",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-sheet-set"
     },
     {
@@ -935,7 +935,7 @@
       "percentage": 31.0,
       "old_price": "44.95",
       "new_price": "31.00",
-      "timestamp": "2026-01-29T12:17:38.294832",
+      "timestamp": "2026-01-30T10:28:06.380316",
       "url": "https://www.johnlewis.com/stanley-quencher-stainless-steel-flowstate-tumbler-1-18l/p110979710"
     },
     {
@@ -980,7 +980,7 @@
       "percentage": 30.0,
       "old_price": "90.00",
       "new_price": "63.00",
-      "timestamp": "2026-01-30T10:22:54.079509",
+      "timestamp": "2026-01-30T10:28:06.380316",
       "url": "https://www.johnlewis.com/john-lewis-washed-waffle-bedspread/p5296028"
     },
     {

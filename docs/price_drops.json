@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T13:01:07.416741",
-  "total_drops": 2197,
+  "generated_at": "2026-01-30T13:06:17.297067",
+  "total_drops": 2199,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -23,9 +23,9 @@
     },
     {
       "site": "victoriabeckham_com",
-      "count": 669,
+      "count": 670,
       "max_drop": 67.7,
-      "total_savings": 57403.0
+      "total_savings": 57419.0
     },
     {
       "site": "dusk_com",
@@ -35,9 +35,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 17,
+      "count": 18,
       "max_drop": 53.8,
-      "total_savings": 689.48
+      "total_savings": 699.48
     },
     {
       "site": "brownsfashion_com",
@@ -242,7 +242,7 @@
       "percentage": 70.0,
       "old_price": "475.00",
       "new_price": "142.50",
-      "timestamp": "2026-01-30T13:00:58.998515",
+      "timestamp": "2026-01-30T13:06:07.776809",
       "url": "https://www.johnlewis.com/coach-tabby-26-pebbled-leather-shoulder-bag/p5071387"
     },
     {
@@ -332,7 +332,7 @@
       "percentage": 56.3,
       "old_price": "34.99",
       "new_price": "15.30",
-      "timestamp": "2026-01-30T13:00:58.998515",
+      "timestamp": "2026-01-30T13:06:07.776809",
       "url": "https://www.johnlewis.com/saint-tropez-mila-3-4-sleeve-jumper/p112393072"
     },
     {
@@ -359,7 +359,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T13:00:55.109444",
+      "timestamp": "2026-01-30T13:06:06.519042",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -575,7 +575,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T13:00:55.109444",
+      "timestamp": "2026-01-30T13:06:06.519042",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -773,7 +773,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T13:00:55.109444",
+      "timestamp": "2026-01-30T13:06:06.519042",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -926,7 +926,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T13:00:55.109444",
+      "timestamp": "2026-01-30T13:06:06.519042",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1034,7 +1034,7 @@
       "percentage": 36.0,
       "old_price": "250.00",
       "new_price": "160.00",
-      "timestamp": "2026-01-30T13:00:55.109444",
+      "timestamp": "2026-01-30T13:06:06.519042",
       "url": "https://fenwick.co.uk/products/black-oliver-sweeney-eastington-shoes-eastobk"
     },
     {

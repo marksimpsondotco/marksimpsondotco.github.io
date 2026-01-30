@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T21:17:26.966556",
-  "total_drops": 2695,
+  "generated_at": "2026-01-30T21:22:45.677070",
+  "total_drops": 2696,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -71,9 +71,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 48,
+      "count": 49,
       "max_drop": 38.9,
-      "total_savings": 1691.5
+      "total_savings": 1693.5
     },
     {
       "site": "chelseababy_com",
@@ -710,7 +710,7 @@
       "percentage": 50.0,
       "old_price": "129.95",
       "new_price": "65.00",
-      "timestamp": "2026-01-30T21:17:12.394102",
+      "timestamp": "2026-01-30T21:22:04.306749",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-pink-filician-dark-pink-leather-trainers-filician"
     },
     {
@@ -890,7 +890,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T21:17:09.445562",
+      "timestamp": "2026-01-30T21:19:06.189413",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-stone"
     },
     {
@@ -899,7 +899,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T21:17:09.445562",
+      "timestamp": "2026-01-30T21:19:06.189413",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-carbonite"
     },
     {
@@ -908,7 +908,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T21:17:09.445562",
+      "timestamp": "2026-01-30T21:19:06.189413",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-mink"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T17:06:25.410497",
-  "total_drops": 2280,
+  "generated_at": "2026-01-30T17:11:39.656829",
+  "total_drops": 2281,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -65,9 +65,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 47,
+      "count": 48,
       "max_drop": 38.9,
-      "total_savings": 1687.5
+      "total_savings": 1691.5
     },
     {
       "site": "ukbabycentre_com",
@@ -404,7 +404,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T17:05:36.769796",
+      "timestamp": "2026-01-30T17:11:30.860975",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -422,7 +422,7 @@
       "percentage": 53.5,
       "old_price": "85.95",
       "new_price": "40.00",
-      "timestamp": "2026-01-30T17:05:36.769796",
+      "timestamp": "2026-01-30T17:11:30.860975",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-black-fabri-shoes-fabri"
     },
     {
@@ -692,7 +692,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T17:05:36.769796",
+      "timestamp": "2026-01-30T17:11:30.860975",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -917,7 +917,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T17:05:36.769796",
+      "timestamp": "2026-01-30T17:11:30.860975",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {

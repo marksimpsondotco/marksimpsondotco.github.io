@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T10:59:59.519117",
-  "total_drops": 2143,
+  "generated_at": "2026-01-30T11:05:27.582794",
+  "total_drops": 2144,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "oliversweeney_com",
-      "count": 11,
+      "count": 12,
       "max_drop": 70.2,
-      "total_savings": 505.0
+      "total_savings": 510.0
     },
     {
       "site": "victoriabeckham_com",
@@ -296,7 +296,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T10:59:37.168788",
+      "timestamp": "2026-01-30T11:05:03.952348",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -557,7 +557,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T10:59:37.168788",
+      "timestamp": "2026-01-30T11:05:03.952348",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -683,7 +683,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T10:59:37.168788",
+      "timestamp": "2026-01-30T11:05:03.952348",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -800,7 +800,7 @@
       "percentage": 35.0,
       "old_price": "200.00",
       "new_price": "130.00",
-      "timestamp": "2026-01-30T10:59:43.320472",
+      "timestamp": "2026-01-30T11:02:17.660991",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-duvet-set"
     },
     {
@@ -890,7 +890,7 @@
       "percentage": 32.7,
       "old_price": "245.00",
       "new_price": "165.00",
-      "timestamp": "2026-01-30T10:59:43.320472",
+      "timestamp": "2026-01-30T11:02:17.660991",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-sheet-set"
     },
     {

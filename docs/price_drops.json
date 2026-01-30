@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T14:24:30.784677",
-  "total_drops": 2222,
+  "generated_at": "2026-01-30T14:29:41.857673",
+  "total_drops": 2229,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 572,
+      "count": 577,
       "max_drop": 72.2,
-      "total_savings": 12536.16
+      "total_savings": 12704.96
     },
     {
       "site": "oliversweeney_com",
@@ -53,9 +53,9 @@
     },
     {
       "site": "currys_com",
-      "count": 247,
+      "count": 249,
       "max_drop": 40.0,
-      "total_savings": 15988.51
+      "total_savings": 16148.51
     },
     {
       "site": "kingofcotton_com",
@@ -238,6 +238,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Helm Leather High Vamp Ballerina Pumps",
+      "percentage": 70.0,
+      "old_price": "69.00",
+      "new_price": "20.70",
+      "timestamp": "2026-01-30T14:29:32.007614",
+      "url": "https://www.johnlewis.com/john-lewis-helm-leather-high-vamp-ballerina-pumps/p113907298"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Coach Tabby 26 Pebbled Leather Shoulder Bag",
       "percentage": 70.0,
       "old_price": "475.00",
@@ -377,7 +386,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T14:24:22.223366",
+      "timestamp": "2026-01-30T14:29:25.120866",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -397,6 +406,15 @@
       "new_price": "19.00",
       "timestamp": "2026-01-29T12:17:38.294832",
       "url": "https://www.johnlewis.com/tefal-emotion-stainless-steel-non-stick-frying-pan/p5417734"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Reiss Gabi Slim Fit Tailored Suit Trousers",
+      "percentage": 51.0,
+      "old_price": "98.00",
+      "new_price": "48.00",
+      "timestamp": "2026-01-30T14:29:32.007614",
+      "url": "https://www.johnlewis.com/reiss-gabi-slim-fit-tailored-suit-trousers/p110852260"
     },
     {
       "site": "johnlewis_com",
@@ -629,7 +647,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T14:24:22.223366",
+      "timestamp": "2026-01-30T14:29:25.120866",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -813,6 +831,15 @@
       "url": "https://www.oliversweeney.com/products/swanley-tan-boots"
     },
     {
+      "site": "johnlewis_com",
+      "product": "John Lewis Roll Neck Cashmere Jumper",
+      "percentage": 40.4,
+      "old_price": "109.00",
+      "new_price": "65.00",
+      "timestamp": "2026-01-30T14:29:32.007614",
+      "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
+    },
+    {
       "site": "berrysjewellers_co_uk",
       "product": "18ct White Gold Oval Cut Pink Tourmaline & Diamond Set Trefoil Drop Earnings",
       "percentage": 40.4,
@@ -827,7 +854,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T14:24:22.223366",
+      "timestamp": "2026-01-30T14:29:25.120866",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -998,7 +1025,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T14:24:22.223366",
+      "timestamp": "2026-01-30T14:29:25.120866",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1063,33 +1090,6 @@
       "new_price": "312.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/alina-jean-in-light-rinse"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Alina Stretch Jean In Washed Black",
-      "percentage": 36.3,
-      "old_price": "490.00",
-      "new_price": "312.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/alina-stretch-jean-in-washed-black-1"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Alina Stretch Jean In Mid Blue",
-      "percentage": 36.3,
-      "old_price": "490.00",
-      "new_price": "312.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/alina-jean-short-in-mid-blue-wash-21569"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Alina Jean In Mid Blue",
-      "percentage": 36.3,
-      "old_price": "490.00",
-      "new_price": "312.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/alina-jean-short-in-mid-blue-wash-21566"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-30T17:49:07.486827",
-  "total_drops": 2358,
+  "generated_at": "2026-01-30T17:54:26.761264",
+  "total_drops": 2452,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "pigletinbed_com",
-      "count": 9,
+      "count": 11,
       "max_drop": 76.0,
-      "total_savings": 279.0
+      "total_savings": 379.0
     },
     {
       "site": "johnlewis_com",
-      "count": 588,
+      "count": 589,
       "max_drop": 72.2,
-      "total_savings": 13230.04
+      "total_savings": 13244.29
     },
     {
       "site": "oliversweeney_com",
@@ -29,9 +29,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 91,
+      "count": 120,
       "max_drop": 63.6,
-      "total_savings": 3653.0
+      "total_savings": 5428.5
     },
     {
       "site": "fenwick_co_uk",
@@ -142,6 +142,18 @@
       "total_savings": 35.05
     },
     {
+      "site": "pendletonwoolenmills_eu",
+      "count": 122,
+      "max_drop": 16.7,
+      "total_savings": 1541.25
+    },
+    {
+      "site": "hauslondon_com",
+      "count": 1,
+      "max_drop": 14.7,
+      "total_savings": 407.0
+    },
+    {
       "site": "baby-nest_co_uk",
       "count": 7,
       "max_drop": 14.3,
@@ -170,12 +182,6 @@
       "count": 1,
       "max_drop": 10.0,
       "total_savings": 10.0
-    },
-    {
-      "site": "pendletonwoolenmills_eu",
-      "count": 61,
-      "max_drop": 9.1,
-      "total_savings": 800.25
     },
     {
       "site": "houseofisabella_co_uk",
@@ -905,7 +911,7 @@
       "percentage": 40.4,
       "old_price": "156.00",
       "new_price": "93.00",
-      "timestamp": "2026-01-30T17:48:50.403969",
+      "timestamp": "2026-01-30T17:54:09.884418",
       "url": "https://www.johnlewis.com/ralph-lauren-ph4206-mens-phantos-sunglasses/p110648655"
     },
     {

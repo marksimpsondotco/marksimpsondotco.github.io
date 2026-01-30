@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-01-30T01:42:31.527074",
-  "total_drops": 1806,
+  "generated_at": "2026-01-30T01:47:41.734755",
+  "total_drops": 1807,
   "top_drops_shown": 100,
   "site_stats": [
+    {
+      "site": "pigletinbed_com",
+      "count": 5,
+      "max_drop": 76.0,
+      "total_savings": 105.0
+    },
     {
       "site": "johnlewis_com",
       "count": 522,
@@ -32,12 +38,6 @@
       "count": 417,
       "max_drop": 50.0,
       "total_savings": 39819.2
-    },
-    {
-      "site": "pigletinbed_com",
-      "count": 4,
-      "max_drop": 46.2,
-      "total_savings": 86.0
     },
     {
       "site": "berrysjewellers_co_uk",
@@ -161,6 +161,15 @@
     }
   ],
   "drops": [
+    {
+      "site": "pigletinbed_com",
+      "product": "Pine Green Pembroke Stripe Cotton Towels",
+      "percentage": 76.0,
+      "old_price": "25.00",
+      "new_price": "6.00",
+      "timestamp": "2026-01-30T01:47:09.146011",
+      "url": "https://www.pigletinbed.com/products/pine-green-stripe-cotton-towels"
+    },
     {
       "site": "johnlewis_com",
       "product": "John Lewis Helenca Lace Bikini Knickers, Pack of 3",
@@ -392,7 +401,7 @@
       "percentage": 46.4,
       "old_price": "16.80",
       "new_price": "9.00",
-      "timestamp": "2026-01-30T01:42:05.544558",
+      "timestamp": "2026-01-30T01:47:22.291641",
       "url": "https://dusk.com/products/washed-cotton-plain-dye-duvet-cover-set-almond"
     },
     {
@@ -428,7 +437,7 @@
       "percentage": 45.4,
       "old_price": "3030.00",
       "new_price": "1655.00",
-      "timestamp": "2026-01-30T01:42:28.566769",
+      "timestamp": "2026-01-30T01:47:06.729796",
       "url": "https://brownsfashion.com/products/bernadette-winnie-embroidery-maxi-dress-olmss2600156454"
     },
     {
@@ -464,7 +473,7 @@
       "percentage": 43.7,
       "old_price": "1305.00",
       "new_price": "735.00",
-      "timestamp": "2026-01-30T01:42:28.566769",
+      "timestamp": "2026-01-30T01:47:06.729796",
       "url": "https://brownsfashion.com/products/rebecca-vallance-bellatrix-off-shoulder-ruffled-midi-dress-olmss2600160546"
     },
     {
@@ -617,7 +626,7 @@
       "percentage": 36.4,
       "old_price": "110.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-30T01:42:28.566769",
+      "timestamp": "2026-01-30T01:47:06.729796",
       "url": "https://brownsfashion.com/products/simon-miller-bwai-striped-bikini-bottom-olrss2600169718"
     },
     {
@@ -698,7 +707,7 @@
       "percentage": 34.4,
       "old_price": "90.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-30T01:42:21.959409",
+      "timestamp": "2026-01-30T01:47:26.599298",
       "url": "https://fenwick.co.uk/products/kurt-geiger-white-bmaxima-white-8648110979"
     },
     {
@@ -734,7 +743,7 @@
       "percentage": 33.6,
       "old_price": "119.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-30T01:42:21.959409",
+      "timestamp": "2026-01-30T01:47:26.599298",
       "url": "https://fenwick.co.uk/products/dark-brown-silver-ankle-boot-9617531109"
     },
     {
@@ -815,7 +824,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T01:42:28.566769",
+      "timestamp": "2026-01-30T01:47:06.729796",
       "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
     },
     {
@@ -824,7 +833,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T01:42:28.566769",
+      "timestamp": "2026-01-30T01:47:06.729796",
       "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
     },
     {
@@ -833,7 +842,7 @@
       "percentage": 29.6,
       "old_price": "675.00",
       "new_price": "475.00",
-      "timestamp": "2026-01-30T01:42:28.566769",
+      "timestamp": "2026-01-30T01:47:06.729796",
       "url": "https://brownsfashion.com/products/r13-zebra-frayed-shirt-olpss2600163645"
     },
     {
@@ -842,7 +851,7 @@
       "percentage": 29.5,
       "old_price": "660.00",
       "new_price": "465.00",
-      "timestamp": "2026-01-30T01:42:28.566769",
+      "timestamp": "2026-01-30T01:47:06.729796",
       "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
     },
     {
@@ -851,7 +860,7 @@
       "percentage": 29.3,
       "old_price": "615.00",
       "new_price": "435.00",
-      "timestamp": "2026-01-30T01:42:28.566769",
+      "timestamp": "2026-01-30T01:47:06.729796",
       "url": "https://brownsfashion.com/products/r13-plaid-shirt-olpss2600163647"
     },
     {
@@ -1051,15 +1060,6 @@
       "new_price": "33.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/netflix-made-me-do-it-slogan-t-shirt-in-white"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Netflix Made Me Do It' Slogan T-Shirt In Black",
-      "percentage": 26.7,
-      "old_price": "45.00",
-      "new_price": "33.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/netflix-made-me-do-it-slogan-t-shirt-in-black"
     }
   ]
 }

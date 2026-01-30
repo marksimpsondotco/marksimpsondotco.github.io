@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T10:01:42.033171",
-  "total_drops": 2125,
+  "generated_at": "2026-01-30T10:07:01.905762",
+  "total_drops": 2129,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 534,
+      "count": 535,
       "max_drop": 72.2,
-      "total_savings": 10659.8
+      "total_savings": 10686.8
     },
     {
       "site": "oliversweeney_com",
@@ -46,6 +46,12 @@
       "total_savings": 4000.0
     },
     {
+      "site": "fenwick_co_uk",
+      "count": 6,
+      "max_drop": 40.1,
+      "total_savings": 240.0
+    },
+    {
       "site": "currys_com",
       "count": 227,
       "max_drop": 40.0,
@@ -68,12 +74,6 @@
       "count": 19,
       "max_drop": 34.7,
       "total_savings": 1672.35
-    },
-    {
-      "site": "fenwick_co_uk",
-      "count": 4,
-      "max_drop": 34.4,
-      "total_savings": 88.0
     },
     {
       "site": "2tall_com",
@@ -104,6 +104,12 @@
       "count": 9,
       "max_drop": 26.1,
       "total_savings": 1290.0
+    },
+    {
+      "site": "twentytwentyone_com",
+      "count": 1,
+      "max_drop": 24.1,
+      "total_savings": 3.5
     },
     {
       "site": "scandiborn_co_uk",
@@ -196,21 +202,21 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Regular Fit Linen Shirt",
+      "percentage": 70.0,
+      "old_price": "59.00",
+      "new_price": "17.70",
+      "timestamp": "2026-01-30T10:06:53.197496",
+      "url": "https://www.johnlewis.com/john-lewis-regular-fit-linen-shirt/p6172177"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Sam Edelman Michaela Leather Mary Janes",
       "percentage": 70.0,
       "old_price": "150.00",
       "new_price": "45.00",
       "timestamp": "2026-01-29T12:17:38.294832",
       "url": "https://www.johnlewis.com/sam-edelman-michaela-leather-mary-janes/p112156070"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Regular Fit Linen Shirt",
-      "percentage": 70.0,
-      "old_price": "59.00",
-      "new_price": "17.70",
-      "timestamp": "2026-01-29T12:17:38.294832",
-      "url": "https://www.johnlewis.com/john-lewis-regular-fit-linen-shirt/p6172177"
     },
     {
       "site": "johnlewis_com",
@@ -308,7 +314,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T10:01:31.437716",
+      "timestamp": "2026-01-30T10:06:53.197496",
       "url": "https://www.johnlewis.com/john-lewis-fringed-velvet-cushion/p112452017"
     },
     {
@@ -317,7 +323,7 @@
       "percentage": 50.0,
       "old_price": "18.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-30T10:01:31.437716",
+      "timestamp": "2026-01-30T10:06:53.197496",
       "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
     },
     {
@@ -326,7 +332,7 @@
       "percentage": 50.0,
       "old_price": "65.00",
       "new_price": "32.50",
-      "timestamp": "2026-01-30T10:01:31.437716",
+      "timestamp": "2026-01-30T10:06:53.197496",
       "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
     },
     {
@@ -335,7 +341,7 @@
       "percentage": 50.0,
       "old_price": "60.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T10:01:31.437716",
+      "timestamp": "2026-01-30T10:06:53.197496",
       "url": "https://www.johnlewis.com/john-lewis-egyptian-cotton-unisex-bath-robe/p111801685"
     },
     {
@@ -535,6 +541,15 @@
       "new_price": "5895.00",
       "timestamp": "2026-01-29T18:15:19.449923",
       "url": "https://www.berrysjewellers.co.uk/products/berrys-18ct-white-gold-oval-cut-pink-tourmaline-diamond-set-trefoil-drop-earnings"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Oxford Duvet Cover",
+      "percentage": 40.1,
+      "old_price": "359.00",
+      "new_price": "215.00",
+      "timestamp": "2026-01-30T10:06:44.094521",
+      "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
       "site": "johnlewis_com",
@@ -758,7 +773,7 @@
       "percentage": 35.0,
       "old_price": "200.00",
       "new_price": "130.00",
-      "timestamp": "2026-01-30T10:01:18.681979",
+      "timestamp": "2026-01-30T10:06:35.188014",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-duvet-set"
     },
     {
@@ -848,7 +863,7 @@
       "percentage": 32.7,
       "old_price": "245.00",
       "new_price": "165.00",
-      "timestamp": "2026-01-30T10:01:18.681979",
+      "timestamp": "2026-01-30T10:06:35.188014",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-sheet-set"
     },
     {
@@ -952,6 +967,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "John Lewis Washed Waffle Bedspread",
+      "percentage": 30.0,
+      "old_price": "90.00",
+      "new_price": "63.00",
+      "timestamp": "2026-01-30T10:06:53.197496",
+      "url": "https://www.johnlewis.com/john-lewis-washed-waffle-bedspread/p5296028"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Brushed Cotton Gingham Pyjama Set",
       "percentage": 30.0,
       "old_price": "46.00",
@@ -1048,24 +1072,6 @@
       "new_price": "400.00",
       "timestamp": "2026-01-30T05:28:35.260186",
       "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "zebra frayed shirt",
-      "percentage": 29.6,
-      "old_price": "675.00",
-      "new_price": "475.00",
-      "timestamp": "2026-01-30T05:28:35.260186",
-      "url": "https://brownsfashion.com/products/r13-zebra-frayed-shirt-olpss2600163645"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "plaid mini shirt dress",
-      "percentage": 29.5,
-      "old_price": "660.00",
-      "new_price": "465.00",
-      "timestamp": "2026-01-30T05:28:35.260186",
-      "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T14:29:41.857673",
-  "total_drops": 2229,
+  "generated_at": "2026-01-30T14:34:52.281161",
+  "total_drops": 2235,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 577,
+      "count": 583,
       "max_drop": 72.2,
-      "total_savings": 12704.96
+      "total_savings": 13113.96
     },
     {
       "site": "oliversweeney_com",
@@ -229,6 +229,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Reiss Gable Single Breasted Wool Blend Coat",
+      "percentage": 70.1,
+      "old_price": "328.00",
+      "new_price": "98.00",
+      "timestamp": "2026-01-30T14:34:44.282860",
+      "url": "https://www.johnlewis.com/reiss-gable-single-breasted-wool-blend-coat/p114285714"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Crisp & Fresh Egyptian Cotton Percale 200 Thread Count Bedding",
       "percentage": 70.0,
       "old_price": "12.00",
@@ -242,7 +251,7 @@
       "percentage": 70.0,
       "old_price": "69.00",
       "new_price": "20.70",
-      "timestamp": "2026-01-30T14:29:32.007614",
+      "timestamp": "2026-01-30T14:34:44.282860",
       "url": "https://www.johnlewis.com/john-lewis-helm-leather-high-vamp-ballerina-pumps/p113907298"
     },
     {
@@ -328,6 +337,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Dune London Overly Leather Boots",
+      "percentage": 60.4,
+      "old_price": "149.00",
+      "new_price": "59.00",
+      "timestamp": "2026-01-30T14:34:44.282860",
+      "url": "https://www.johnlewis.com/dune-london-overly-leather-boots/p113981016"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "Adrianna Papell Colour Contrast Long Sleeve Shirt, Petal Blush/Black",
       "percentage": 60.0,
       "old_price": "35.00",
@@ -386,7 +404,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T14:29:25.120866",
+      "timestamp": "2026-01-30T14:34:40.541969",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -413,7 +431,7 @@
       "percentage": 51.0,
       "old_price": "98.00",
       "new_price": "48.00",
-      "timestamp": "2026-01-30T14:29:32.007614",
+      "timestamp": "2026-01-30T14:34:44.282860",
       "url": "https://www.johnlewis.com/reiss-gabi-slim-fit-tailored-suit-trousers/p110852260"
     },
     {
@@ -451,6 +469,24 @@
       "new_price": "110.00",
       "timestamp": "2026-01-30T11:57:35.582866",
       "url": "https://www.johnlewis.com/montane-composite-insulated-hooded-jacket/p111787995"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "FALKE Pure Matt 50 Denier Semi-Opaque Tights",
+      "percentage": 50.0,
+      "old_price": "27.00",
+      "new_price": "13.50",
+      "timestamp": "2026-01-30T14:34:44.282860",
+      "url": "https://www.johnlewis.com/falke-pure-matt-50-denier-semi-opaque-tights/p109776290"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Crew Neck Cotton T-Shirt",
+      "percentage": 50.0,
+      "old_price": "12.00",
+      "new_price": "6.00",
+      "timestamp": "2026-01-30T14:34:44.282860",
+      "url": "https://www.johnlewis.com/john-lewis-crew-neck-cotton-t-shirt/p113944854"
     },
     {
       "site": "johnlewis_com",
@@ -647,7 +683,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T14:29:25.120866",
+      "timestamp": "2026-01-30T14:34:40.541969",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -836,7 +872,7 @@
       "percentage": 40.4,
       "old_price": "109.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-30T14:29:32.007614",
+      "timestamp": "2026-01-30T14:34:44.282860",
       "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
     },
     {
@@ -854,7 +890,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T14:29:25.120866",
+      "timestamp": "2026-01-30T14:34:40.541969",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -1025,7 +1061,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T14:29:25.120866",
+      "timestamp": "2026-01-30T14:34:40.541969",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1054,42 +1090,6 @@
       "new_price": "28.50",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/victoria-t-shirt-in-pistachio-19466"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Victoria T-Shirt In Rose",
-      "percentage": 36.7,
-      "old_price": "60.00",
-      "new_price": "38.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/victoria-t-shirt-in-rose-19466"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Rectangle Polka Dot Tights In Black",
-      "percentage": 36.7,
-      "old_price": "45.00",
-      "new_price": "28.50",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/rectangle-polka-dot-tights-in-black-20455"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "Bwai striped bikini bottom",
-      "percentage": 36.4,
-      "old_price": "110.00",
-      "new_price": "70.00",
-      "timestamp": "2026-01-30T05:28:35.260186",
-      "url": "https://brownsfashion.com/products/simon-miller-bwai-striped-bikini-bottom-olrss2600169718"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Alina Jean In Light Rinse",
-      "percentage": 36.3,
-      "old_price": "490.00",
-      "new_price": "312.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/alina-jean-in-light-rinse"
     }
   ]
 }

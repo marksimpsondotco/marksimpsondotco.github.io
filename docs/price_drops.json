@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T09:56:27.279650",
-  "total_drops": 2124,
+  "generated_at": "2026-01-30T10:01:42.033171",
+  "total_drops": 2125,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 533,
+      "count": 534,
       "max_drop": 72.2,
-      "total_savings": 10629.8
+      "total_savings": 10659.8
     },
     {
       "site": "oliversweeney_com",
@@ -308,7 +308,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T09:56:18.609801",
+      "timestamp": "2026-01-30T10:01:31.437716",
       "url": "https://www.johnlewis.com/john-lewis-fringed-velvet-cushion/p112452017"
     },
     {
@@ -317,8 +317,26 @@
       "percentage": 50.0,
       "old_price": "18.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-30T09:56:18.609801",
+      "timestamp": "2026-01-30T10:01:31.437716",
       "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Stackers Hanging Wash Bag",
+      "percentage": 50.0,
+      "old_price": "65.00",
+      "new_price": "32.50",
+      "timestamp": "2026-01-30T10:01:31.437716",
+      "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Egyptian Cotton Unisex Bath Robe",
+      "percentage": 50.0,
+      "old_price": "60.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-30T10:01:31.437716",
+      "url": "https://www.johnlewis.com/john-lewis-egyptian-cotton-unisex-bath-robe/p111801685"
     },
     {
       "site": "johnlewis_com",
@@ -346,15 +364,6 @@
       "new_price": "21.00",
       "timestamp": "2026-01-29T12:17:38.294832",
       "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-325-thread-count-anti-allergy-duvet-cover-set/p110918602"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Stackers Hanging Wash Bag",
-      "percentage": 50.0,
-      "old_price": "65.00",
-      "new_price": "32.50",
-      "timestamp": "2026-01-29T12:17:38.294832",
-      "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
     },
     {
       "site": "johnlewis_com",
@@ -749,7 +758,7 @@
       "percentage": 35.0,
       "old_price": "200.00",
       "new_price": "130.00",
-      "timestamp": "2026-01-30T09:55:58.362824",
+      "timestamp": "2026-01-30T10:01:18.681979",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-duvet-set"
     },
     {
@@ -839,7 +848,7 @@
       "percentage": 32.7,
       "old_price": "245.00",
       "new_price": "165.00",
-      "timestamp": "2026-01-30T09:55:58.362824",
+      "timestamp": "2026-01-30T10:01:18.681979",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-sheet-set"
     },
     {
@@ -1010,7 +1019,7 @@
       "percentage": 30.0,
       "old_price": "59.99",
       "new_price": "41.99",
-      "timestamp": "2026-01-30T09:56:21.909810",
+      "timestamp": "2026-01-30T09:58:32.758625",
       "url": "https://www.currys.co.uk/products/10287528.html"
     },
     {
@@ -1057,15 +1066,6 @@
       "new_price": "465.00",
       "timestamp": "2026-01-30T05:28:35.260186",
       "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
-    },
-    {
-      "site": "flannels_com",
-      "product": "GANNI - Rib Knit Beanie",
-      "percentage": 29.4,
-      "old_price": "68.00",
-      "new_price": "48.00",
-      "timestamp": "2026-01-30T03:57:13.964543",
-      "url": "https://www.flannels.com/ganni-womens-rib-knit-wool-beanie-901340"
     }
   ]
 }

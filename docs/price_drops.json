@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T08:58:17.964522",
-  "total_drops": 2096,
+  "generated_at": "2026-01-30T09:03:31.883526",
+  "total_drops": 2098,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "currys_com",
-      "count": 205,
+      "count": 207,
       "max_drop": 40.0,
-      "total_savings": 13308.54
+      "total_savings": 13432.56
     },
     {
       "site": "kingofcotton_com",
@@ -974,7 +974,7 @@
       "percentage": 30.0,
       "old_price": "34.99",
       "new_price": "24.49",
-      "timestamp": "2026-01-30T08:58:12.410848",
+      "timestamp": "2026-01-30T09:03:20.467236",
       "url": "https://www.currys.co.uk/products/10287538.html"
     },
     {

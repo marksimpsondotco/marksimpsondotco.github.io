@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T20:34:30.324425",
-  "total_drops": 2683,
+  "generated_at": "2026-01-30T20:39:47.157464",
+  "total_drops": 2686,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -119,9 +119,9 @@
     },
     {
       "site": "scandiborn_co_uk",
-      "count": 5,
+      "count": 8,
       "max_drop": 20.0,
-      "total_savings": 14.85
+      "total_savings": 44.85
     },
     {
       "site": "babyandnurseryworld_co_uk",
@@ -710,7 +710,7 @@
       "percentage": 50.0,
       "old_price": "129.95",
       "new_price": "65.00",
-      "timestamp": "2026-01-30T20:34:09.353111",
+      "timestamp": "2026-01-30T20:39:24.732492",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-pink-filician-dark-pink-leather-trainers-filician"
     },
     {
@@ -755,7 +755,7 @@
       "percentage": 48.0,
       "old_price": "25.00",
       "new_price": "13.00",
-      "timestamp": "2026-01-30T20:34:20.714619",
+      "timestamp": "2026-01-30T20:38:55.528393",
       "url": "https://dusk.com/products/colour-stitch-fade-effect-cushion-cover-multi-natural"
     },
     {
@@ -890,7 +890,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T20:34:09.713774",
+      "timestamp": "2026-01-30T20:39:39.472104",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-stone"
     },
     {
@@ -899,7 +899,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T20:34:09.713774",
+      "timestamp": "2026-01-30T20:39:39.472104",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-carbonite"
     },
     {
@@ -908,7 +908,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T20:34:09.713774",
+      "timestamp": "2026-01-30T20:39:39.472104",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-mink"
     },
     {

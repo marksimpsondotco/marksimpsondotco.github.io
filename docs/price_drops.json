@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T07:44:48.069075",
-  "total_drops": 1945,
+  "generated_at": "2026-01-30T07:44:59.022508",
+  "total_drops": 1947,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "site": "currys_com",
-      "count": 61,
+      "count": 63,
       "max_drop": 34.9,
-      "total_savings": 5115.0
+      "total_savings": 5161.0
     },
     {
       "site": "ukbabycentre_com",
@@ -722,7 +722,7 @@
       "percentage": 34.9,
       "old_price": "229.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-30T07:44:37.718305",
+      "timestamp": "2026-01-30T07:44:53.273869",
       "url": "https://www.currys.co.uk/products/10281509.html"
     },
     {
@@ -812,7 +812,7 @@
       "percentage": 32.1,
       "old_price": "249.00",
       "new_price": "169.00",
-      "timestamp": "2026-01-30T07:44:37.718305",
+      "timestamp": "2026-01-30T07:44:53.273869",
       "url": "https://www.currys.co.uk/products/10263910.html"
     },
     {
@@ -911,7 +911,7 @@
       "percentage": 30.0,
       "old_price": "250.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-30T07:44:39.281312",
+      "timestamp": "2026-01-30T07:44:51.443164",
       "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
     },
     {
@@ -920,7 +920,7 @@
       "percentage": 30.0,
       "old_price": "140.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-30T07:44:39.281312",
+      "timestamp": "2026-01-30T07:44:51.443164",
       "url": "https://www.flannels.com/fred-perry-mens-zip-long-sleeve-overshirt-603891"
     },
     {

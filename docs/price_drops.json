@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T08:42:27.642364",
-  "total_drops": 2075,
+  "generated_at": "2026-01-30T08:47:40.820154",
+  "total_drops": 2090,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "currys_com",
-      "count": 186,
+      "count": 201,
       "max_drop": 40.0,
-      "total_savings": 12031.03
+      "total_savings": 13190.54
     },
     {
       "site": "kingofcotton_com",
@@ -969,6 +969,15 @@
       "url": "https://ukbabycentre.com/products/joie-i-harbour-e-signature-car-seat-eclipse"
     },
     {
+      "site": "currys_com",
+      "product": "SAMSUNG Z Flip7 Case - Clear",
+      "percentage": 30.0,
+      "old_price": "34.99",
+      "new_price": "24.49",
+      "timestamp": "2026-01-30T08:47:34.631994",
+      "url": "https://www.currys.co.uk/products/10287538.html"
+    },
+    {
       "site": "flannels_com",
       "product": "BARBOUR - Men's Re Engineered Bardon Spey Detachable Hood Long Sleeve Wax Jacket",
       "percentage": 29.8,
@@ -1057,15 +1066,6 @@
       "new_price": "195.00",
       "timestamp": "2026-01-29T18:56:25.573475",
       "url": "https://brownsfashion.com/products/amuse-la-bouche-chicken-design-ceramic-plate-ollcty200164644"
-    },
-    {
-      "site": "pigletinbed_com",
-      "product": "Warm Clay 100% Linen Fitted Sheet",
-      "percentage": 29.0,
-      "old_price": "62.00",
-      "new_price": "44.00",
-      "timestamp": "2026-01-30T03:03:40.904965",
-      "url": "https://www.pigletinbed.com/products/warm-clay-100-linen-fitted-sheet"
     }
   ]
 }

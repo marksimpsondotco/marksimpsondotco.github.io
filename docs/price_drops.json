@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T19:14:24.645482",
-  "total_drops": 2662,
+  "generated_at": "2026-01-30T19:14:44.380647",
+  "total_drops": 2663,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 120,
+      "count": 121,
       "max_drop": 63.6,
-      "total_savings": 5428.5
+      "total_savings": 5440.5
     },
     {
       "site": "fenwick_co_uk",
@@ -741,6 +741,15 @@
       "url": "https://brownsfashion.com/products/ala-a-perforated-suede-ballet-flats-olsss2600162631"
     },
     {
+      "site": "dusk_com",
+      "product": "Colour Stitch Fade Effect Cushion Cover - Multi/Natural",
+      "percentage": 48.0,
+      "old_price": "25.00",
+      "new_price": "13.00",
+      "timestamp": "2026-01-30T19:14:33.613094",
+      "url": "https://dusk.com/products/colour-stitch-fade-effect-cushion-cover-multi-natural"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Le Creuset Classic Salt Mill",
       "percentage": 47.6,
@@ -1099,15 +1108,6 @@
       "new_price": "23.00",
       "timestamp": "2026-01-29T15:02:55.476827",
       "url": "https://www.kingofcotton.com/products/pima-750-thread-cotton-sateen-fitted-sheet"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Treath Navy",
-      "percentage": 39.1,
-      "old_price": "64.00",
-      "new_price": "39.00",
-      "timestamp": "2026-01-30T11:19:17.455806",
-      "url": "https://www.oliversweeney.com/products/treath-navy-knitwear"
     }
   ]
 }

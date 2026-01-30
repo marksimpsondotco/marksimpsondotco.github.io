@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T02:49:40.822368",
-  "total_drops": 1845,
+  "generated_at": "2026-01-30T02:54:51.814825",
+  "total_drops": 1850,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -52,6 +52,12 @@
       "total_savings": 15.0
     },
     {
+      "site": "currys_com",
+      "count": 15,
+      "max_drop": 34.9,
+      "total_savings": 1297.0
+    },
+    {
       "site": "ukbabycentre_com",
       "count": 19,
       "max_drop": 34.7,
@@ -77,9 +83,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 29,
+      "count": 33,
       "max_drop": 31.8,
-      "total_savings": 875.0
+      "total_savings": 1095.0
     },
     {
       "site": "astridandmiyu_com",
@@ -104,12 +110,6 @@
       "count": 1,
       "max_drop": 20.0,
       "total_savings": 10.0
-    },
-    {
-      "site": "currys_com",
-      "count": 14,
-      "max_drop": 19.5,
-      "total_savings": 1217.0
     },
     {
       "site": "uk_renogy_com",
@@ -173,7 +173,7 @@
       "percentage": 76.0,
       "old_price": "25.00",
       "new_price": "6.00",
-      "timestamp": "2026-01-30T02:49:25.394631",
+      "timestamp": "2026-01-30T02:54:34.164904",
       "url": "https://www.pigletinbed.com/products/pine-green-stripe-cotton-towels"
     },
     {
@@ -407,7 +407,7 @@
       "percentage": 46.4,
       "old_price": "16.80",
       "new_price": "9.00",
-      "timestamp": "2026-01-30T02:49:24.590476",
+      "timestamp": "2026-01-30T02:54:41.226830",
       "url": "https://dusk.com/products/washed-cotton-plain-dye-duvet-cover-set-almond"
     },
     {
@@ -443,7 +443,7 @@
       "percentage": 45.4,
       "old_price": "3030.00",
       "new_price": "1655.00",
-      "timestamp": "2026-01-30T02:49:20.353992",
+      "timestamp": "2026-01-30T02:54:25.814483",
       "url": "https://brownsfashion.com/products/bernadette-winnie-embroidery-maxi-dress-olmss2600156454"
     },
     {
@@ -479,7 +479,7 @@
       "percentage": 43.7,
       "old_price": "1305.00",
       "new_price": "735.00",
-      "timestamp": "2026-01-30T02:49:20.353992",
+      "timestamp": "2026-01-30T02:54:25.814483",
       "url": "https://brownsfashion.com/products/rebecca-vallance-bellatrix-off-shoulder-ruffled-midi-dress-olmss2600160546"
     },
     {
@@ -632,7 +632,7 @@
       "percentage": 36.4,
       "old_price": "110.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-30T02:49:20.353992",
+      "timestamp": "2026-01-30T02:54:25.814483",
       "url": "https://brownsfashion.com/products/simon-miller-bwai-striped-bikini-bottom-olrss2600169718"
     },
     {
@@ -690,6 +690,15 @@
       "url": "https://brownsfashion.com/products/jonathan-adler-pop-set-of-four-coasters-lls78itym524232114"
     },
     {
+      "site": "currys_com",
+      "product": "HP 14a-ne1500sa 14\" Chromebook - Intel® Celeron®, 64 GB",
+      "percentage": 34.9,
+      "old_price": "229.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-30T02:54:44.376422",
+      "url": "https://www.currys.co.uk/products/10281509.html"
+    },
+    {
       "site": "ukbabycentre_com",
       "product": "iCandy Core Footmuff / Liner - Black",
       "percentage": 34.7,
@@ -713,7 +722,7 @@
       "percentage": 34.4,
       "old_price": "90.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-30T02:49:23.326977",
+      "timestamp": "2026-01-30T02:54:36.098901",
       "url": "https://fenwick.co.uk/products/kurt-geiger-white-bmaxima-white-8648110979"
     },
     {
@@ -749,7 +758,7 @@
       "percentage": 33.6,
       "old_price": "119.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-30T02:49:23.326977",
+      "timestamp": "2026-01-30T02:54:36.098901",
       "url": "https://fenwick.co.uk/products/dark-brown-silver-ankle-boot-9617531109"
     },
     {
@@ -776,7 +785,7 @@
       "percentage": 31.8,
       "old_price": "22.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-30T02:49:35.864974",
+      "timestamp": "2026-01-30T02:54:45.448222",
       "url": "https://www.flannels.com/barbour-international-womens-mallory-cable-knit-pom-beanie-906987"
     },
     {
@@ -785,7 +794,7 @@
       "percentage": 31.8,
       "old_price": "22.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-30T02:49:35.864974",
+      "timestamp": "2026-01-30T02:54:45.448222",
       "url": "https://www.flannels.com/barbour-womens-beldon-beret-900180"
     },
     {
@@ -839,7 +848,7 @@
       "percentage": 30.0,
       "old_price": "100.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-30T02:49:35.864974",
+      "timestamp": "2026-01-30T02:54:45.448222",
       "url": "https://www.flannels.com/barbour-mens--cord-cotton-long-sleeve-overshirt-604215"
     },
     {
@@ -857,7 +866,7 @@
       "percentage": 29.8,
       "old_price": "349.00",
       "new_price": "245.00",
-      "timestamp": "2026-01-30T02:49:35.864974",
+      "timestamp": "2026-01-30T02:54:45.448222",
       "url": "https://www.flannels.com/barbour-mens-re-engineered-bardon-spey-detachable-hood-long-sleeve-wax-jacket-321161"
     },
     {
@@ -866,7 +875,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T02:49:20.353992",
+      "timestamp": "2026-01-30T02:54:25.814483",
       "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
     },
     {
@@ -875,7 +884,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T02:49:20.353992",
+      "timestamp": "2026-01-30T02:54:25.814483",
       "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
     },
     {
@@ -884,7 +893,7 @@
       "percentage": 29.6,
       "old_price": "675.00",
       "new_price": "475.00",
-      "timestamp": "2026-01-30T02:49:20.353992",
+      "timestamp": "2026-01-30T02:54:25.814483",
       "url": "https://brownsfashion.com/products/r13-zebra-frayed-shirt-olpss2600163645"
     },
     {
@@ -893,7 +902,7 @@
       "percentage": 29.5,
       "old_price": "660.00",
       "new_price": "465.00",
-      "timestamp": "2026-01-30T02:49:20.353992",
+      "timestamp": "2026-01-30T02:54:25.814483",
       "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
     },
     {
@@ -902,7 +911,7 @@
       "percentage": 29.4,
       "old_price": "68.00",
       "new_price": "48.00",
-      "timestamp": "2026-01-30T02:49:35.864974",
+      "timestamp": "2026-01-30T02:54:45.448222",
       "url": "https://www.flannels.com/ganni-womens-rib-knit-wool-beanie-901340"
     },
     {
@@ -911,7 +920,7 @@
       "percentage": 29.3,
       "old_price": "615.00",
       "new_price": "435.00",
-      "timestamp": "2026-01-30T02:49:20.353992",
+      "timestamp": "2026-01-30T02:54:25.814483",
       "url": "https://brownsfashion.com/products/r13-plaid-shirt-olpss2600163647"
     },
     {
@@ -938,7 +947,7 @@
       "percentage": 29.0,
       "old_price": "62.00",
       "new_price": "44.00",
-      "timestamp": "2026-01-30T02:49:25.394631",
+      "timestamp": "2026-01-30T02:54:34.164904",
       "url": "https://www.pigletinbed.com/products/warm-clay-100-linen-fitted-sheet"
     },
     {
@@ -969,6 +978,15 @@
       "url": "https://www.johnlewis.com/carvela-sardinia-woven-panel-lace-up-trainers-black/p112893124"
     },
     {
+      "site": "flannels_com",
+      "product": "Fred Perry - Men's Caban Barn Jacket",
+      "percentage": 28.7,
+      "old_price": "195.00",
+      "new_price": "139.00",
+      "timestamp": "2026-01-30T02:54:45.448222",
+      "url": "https://www.flannels.com/fred-perry-mens-caban-barn-jacket-326953"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Tommy Hilfiger 1985 Regular Fit Polo Shirt",
       "percentage": 28.6,
@@ -992,7 +1010,7 @@
       "percentage": 28.6,
       "old_price": "105.00",
       "new_price": "75.00",
-      "timestamp": "2026-01-30T02:49:35.864974",
+      "timestamp": "2026-01-30T02:54:45.448222",
       "url": "https://www.flannels.com/the-north-face-mens-mountain-water-resistant-long-sleeve-rain-anorak-605099"
     },
     {
@@ -1001,8 +1019,17 @@
       "percentage": 28.6,
       "old_price": "259.00",
       "new_price": "185.00",
-      "timestamp": "2026-01-30T02:49:35.864974",
+      "timestamp": "2026-01-30T02:54:45.448222",
       "url": "https://www.flannels.com/barbour-mens-gustnado-weather-resistant-parka-600520"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Polo Ralph Lauren - Men's El Cap Quilted Medium Puffer Jacket",
+      "percentage": 28.3,
+      "old_price": "445.00",
+      "new_price": "319.00",
+      "timestamp": "2026-01-30T02:54:45.448222",
+      "url": "https://www.flannels.com/polo-ralph-lauren-mens-el-cap-quilted-medium-puffer-jacket-602550"
     },
     {
       "site": "flannels_com",
@@ -1010,7 +1037,7 @@
       "percentage": 28.2,
       "old_price": "39.00",
       "new_price": "28.00",
-      "timestamp": "2026-01-30T02:49:35.864974",
+      "timestamp": "2026-01-30T02:54:45.448222",
       "url": "https://www.flannels.com/coach-womens-embroidered-cable-knit-beanie-900594"
     },
     {
@@ -1019,7 +1046,7 @@
       "percentage": 28.2,
       "old_price": "39.00",
       "new_price": "28.00",
-      "timestamp": "2026-01-30T02:49:35.864974",
+      "timestamp": "2026-01-30T02:54:45.448222",
       "url": "https://www.flannels.com/barbour-international-womens-sparkle-beanie-and-scarf-gift-set-756589"
     },
     {
@@ -1037,35 +1064,8 @@
       "percentage": 27.9,
       "old_price": "179.00",
       "new_price": "129.00",
-      "timestamp": "2026-01-30T02:49:35.864974",
+      "timestamp": "2026-01-30T02:54:45.448222",
       "url": "https://www.flannels.com/barbour-mens-lorden-thigh-length-long-sleeve-button-mac-320949"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "pig oval platter (41x29cm)",
-      "percentage": 27.9,
-      "old_price": "305.00",
-      "new_price": "220.00",
-      "timestamp": "2026-01-29T18:56:25.573475",
-      "url": "https://brownsfashion.com/products/amuse-la-bouche-pig-oval-platter-41x29cm-ollcty200164631"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Baby Pointelle Butterfly Long Sleeve Bodysuits, Pack of 5, Pink Multi",
-      "percentage": 27.8,
-      "old_price": "9.00",
-      "new_price": "6.50",
-      "timestamp": "2026-01-29T15:16:23.174917",
-      "url": "https://www.johnlewis.com/john-lewis-baby-pointelle-butterfly-long-sleeve-bodysuits-pack-of-5-pink-multi/p113762284"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "eyelet-details lace-up sneakers",
-      "percentage": 27.2,
-      "old_price": "810.00",
-      "new_price": "590.00",
-      "timestamp": "2026-01-29T18:56:25.573475",
-      "url": "https://brownsfashion.com/products/alexander-mcqueen-eyelet-details-lace-up-sneakers-olsss2600162649"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T10:28:18.607481",
-  "total_drops": 2136,
+  "generated_at": "2026-01-30T10:33:35.416081",
+  "total_drops": 2138,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -34,6 +34,12 @@
       "total_savings": 3643.0
     },
     {
+      "site": "fenwick_co_uk",
+      "count": 8,
+      "max_drop": 53.8,
+      "total_savings": 320.0
+    },
+    {
       "site": "brownsfashion_com",
       "count": 417,
       "max_drop": 50.0,
@@ -46,16 +52,10 @@
       "total_savings": 4000.0
     },
     {
-      "site": "fenwick_co_uk",
-      "count": 7,
-      "max_drop": 40.1,
-      "total_savings": 285.0
-    },
-    {
       "site": "currys_com",
-      "count": 229,
+      "count": 230,
       "max_drop": 40.0,
-      "total_savings": 14927.51
+      "total_savings": 14931.51
     },
     {
       "site": "kingofcotton_com",
@@ -206,7 +206,7 @@
       "percentage": 70.0,
       "old_price": "59.00",
       "new_price": "17.70",
-      "timestamp": "2026-01-30T10:28:06.380316",
+      "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/john-lewis-regular-fit-linen-shirt/p6172177"
     },
     {
@@ -291,6 +291,15 @@
       "url": "https://www.johnlewis.com/j-lindeberg-clinton-water-repellent-utility-jacket-navy/p114708473"
     },
     {
+      "site": "fenwick_co_uk",
+      "product": "Moonshadow Towel Collection",
+      "percentage": 53.8,
+      "old_price": "65.00",
+      "new_price": "30.00",
+      "timestamp": "2026-01-30T10:33:25.381970",
+      "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Tefal Emotion Stainless Steel Non-Stick Frying Pan",
       "percentage": 52.5,
@@ -314,7 +323,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T10:28:06.380316",
+      "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/john-lewis-fringed-velvet-cushion/p112452017"
     },
     {
@@ -323,7 +332,7 @@
       "percentage": 50.0,
       "old_price": "18.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-30T10:28:06.380316",
+      "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
     },
     {
@@ -332,7 +341,7 @@
       "percentage": 50.0,
       "old_price": "65.00",
       "new_price": "32.50",
-      "timestamp": "2026-01-30T10:28:06.380316",
+      "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
     },
     {
@@ -341,7 +350,7 @@
       "percentage": 50.0,
       "old_price": "60.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T10:28:06.380316",
+      "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/john-lewis-egyptian-cotton-unisex-bath-robe/p111801685"
     },
     {
@@ -548,7 +557,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T10:28:06.570148",
+      "timestamp": "2026-01-30T10:33:25.381970",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -584,7 +593,7 @@
       "percentage": 40.0,
       "old_price": "17.00",
       "new_price": "10.20",
-      "timestamp": "2026-01-30T10:28:06.380316",
+      "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/le-creuset-stoneware-mug-350ml/p1816158"
     },
     {
@@ -674,7 +683,7 @@
       "percentage": 36.8,
       "old_price": "31.00",
       "new_price": "19.60",
-      "timestamp": "2026-01-30T10:28:06.380316",
+      "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/travalo-milano-refillable-perfume-atomiser-spray/p3139891"
     },
     {
@@ -782,7 +791,7 @@
       "percentage": 35.0,
       "old_price": "200.00",
       "new_price": "130.00",
-      "timestamp": "2026-01-30T10:27:26.969155",
+      "timestamp": "2026-01-30T10:33:17.280191",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-duvet-set"
     },
     {
@@ -872,7 +881,7 @@
       "percentage": 32.7,
       "old_price": "245.00",
       "new_price": "165.00",
-      "timestamp": "2026-01-30T10:27:26.969155",
+      "timestamp": "2026-01-30T10:33:17.280191",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-sheet-set"
     },
     {
@@ -935,7 +944,7 @@
       "percentage": 31.0,
       "old_price": "44.95",
       "new_price": "31.00",
-      "timestamp": "2026-01-30T10:28:06.380316",
+      "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/stanley-quencher-stainless-steel-flowstate-tumbler-1-18l/p110979710"
     },
     {
@@ -980,7 +989,7 @@
       "percentage": 30.0,
       "old_price": "90.00",
       "new_price": "63.00",
-      "timestamp": "2026-01-30T10:28:06.380316",
+      "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/john-lewis-washed-waffle-bedspread/p5296028"
     },
     {
@@ -1063,15 +1072,6 @@
       "new_price": "245.00",
       "timestamp": "2026-01-30T03:57:13.964543",
       "url": "https://www.flannels.com/barbour-mens-re-engineered-bardon-spey-detachable-hood-long-sleeve-wax-jacket-321161"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "cinched-hem hoodie",
-      "percentage": 29.8,
-      "old_price": "570.00",
-      "new_price": "400.00",
-      "timestamp": "2026-01-30T05:28:35.260186",
-      "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T21:33:19.784486",
-  "total_drops": 2709,
+  "generated_at": "2026-01-30T21:38:35.620493",
+  "total_drops": 2710,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -65,9 +65,9 @@
     },
     {
       "site": "currys_com",
-      "count": 320,
+      "count": 321,
       "max_drop": 40.0,
-      "total_savings": 20607.53
+      "total_savings": 20627.53
     },
     {
       "site": "kingofcotton_com",
@@ -716,7 +716,7 @@
       "percentage": 50.0,
       "old_price": "129.95",
       "new_price": "65.00",
-      "timestamp": "2026-01-30T21:33:05.559469",
+      "timestamp": "2026-01-30T21:38:19.166103",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-pink-filician-dark-pink-leather-trainers-filician"
     },
     {
@@ -1076,7 +1076,7 @@
       "percentage": 40.0,
       "old_price": "999.00",
       "new_price": "599.00",
-      "timestamp": "2026-01-30T21:32:59.248710",
+      "timestamp": "2026-01-30T21:38:19.915702",
       "url": "https://www.thesewingstudio.co.uk/products/pfaff-ambition-610-sewing-machine"
     },
     {

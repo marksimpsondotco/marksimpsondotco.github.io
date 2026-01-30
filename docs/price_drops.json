@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T14:45:22.701396",
-  "total_drops": 2236,
+  "generated_at": "2026-01-30T14:50:32.419867",
+  "total_drops": 2238,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 583,
+      "count": 585,
       "max_drop": 72.2,
-      "total_savings": 13113.96
+      "total_savings": 13137.04
     },
     {
       "site": "oliversweeney_com",
@@ -233,7 +233,7 @@
       "percentage": 70.1,
       "old_price": "328.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-30T14:45:14.840388",
+      "timestamp": "2026-01-30T14:50:23.984279",
       "url": "https://www.johnlewis.com/reiss-gable-single-breasted-wool-blend-coat/p114285714"
     },
     {
@@ -251,7 +251,7 @@
       "percentage": 70.0,
       "old_price": "69.00",
       "new_price": "20.70",
-      "timestamp": "2026-01-30T14:45:14.840388",
+      "timestamp": "2026-01-30T14:50:23.984279",
       "url": "https://www.johnlewis.com/john-lewis-helm-leather-high-vamp-ballerina-pumps/p113907298"
     },
     {
@@ -341,7 +341,7 @@
       "percentage": 60.4,
       "old_price": "149.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-30T14:45:14.840388",
+      "timestamp": "2026-01-30T14:50:23.984279",
       "url": "https://www.johnlewis.com/dune-london-overly-leather-boots/p113981016"
     },
     {
@@ -404,7 +404,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T14:45:17.352174",
+      "timestamp": "2026-01-30T14:50:26.463657",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -422,7 +422,7 @@
       "percentage": 53.5,
       "old_price": "85.95",
       "new_price": "40.00",
-      "timestamp": "2026-01-30T14:45:17.352174",
+      "timestamp": "2026-01-30T14:50:26.463657",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-black-fabri-shoes-fabri"
     },
     {
@@ -440,7 +440,7 @@
       "percentage": 51.0,
       "old_price": "98.00",
       "new_price": "48.00",
-      "timestamp": "2026-01-30T14:45:14.840388",
+      "timestamp": "2026-01-30T14:50:23.984279",
       "url": "https://www.johnlewis.com/reiss-gabi-slim-fit-tailored-suit-trousers/p110852260"
     },
     {
@@ -485,7 +485,7 @@
       "percentage": 50.0,
       "old_price": "27.00",
       "new_price": "13.50",
-      "timestamp": "2026-01-30T14:45:14.840388",
+      "timestamp": "2026-01-30T14:50:23.984279",
       "url": "https://www.johnlewis.com/falke-pure-matt-50-denier-semi-opaque-tights/p109776290"
     },
     {
@@ -494,7 +494,7 @@
       "percentage": 50.0,
       "old_price": "12.00",
       "new_price": "6.00",
-      "timestamp": "2026-01-30T14:45:14.840388",
+      "timestamp": "2026-01-30T14:50:23.984279",
       "url": "https://www.johnlewis.com/john-lewis-crew-neck-cotton-t-shirt/p113944854"
     },
     {
@@ -692,7 +692,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T14:45:17.352174",
+      "timestamp": "2026-01-30T14:50:26.463657",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -840,6 +840,15 @@
       "url": "https://www.johnlewis.com/sweaty-betty-power-ultrasculpt-high-waisted-7-8-gym-leggings/p110400324"
     },
     {
+      "site": "johnlewis_com",
+      "product": "The Little Green Sheep Organic Cotton Cellular Blanket",
+      "percentage": 44.0,
+      "old_price": "32.00",
+      "new_price": "17.92",
+      "timestamp": "2026-01-30T14:50:23.984279",
+      "url": "https://www.johnlewis.com/the-little-green-sheep-organic-cotton-cellular-blanket/p111896247"
+    },
+    {
       "site": "brownsfashion_com",
       "product": "Bellatrix off shoulder ruffled midi dress",
       "percentage": 43.7,
@@ -881,7 +890,7 @@
       "percentage": 40.4,
       "old_price": "109.00",
       "new_price": "65.00",
-      "timestamp": "2026-01-30T14:45:14.840388",
+      "timestamp": "2026-01-30T14:50:23.984279",
       "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
     },
     {
@@ -899,7 +908,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T14:45:17.352174",
+      "timestamp": "2026-01-30T14:50:26.463657",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -1070,7 +1079,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T14:45:17.352174",
+      "timestamp": "2026-01-30T14:50:26.463657",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1081,15 +1090,6 @@
       "new_price": "19.60",
       "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/travalo-milano-refillable-perfume-atomiser-spray/p3139891"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Victoria T-Shirt In Delphinium",
-      "percentage": 36.7,
-      "old_price": "60.00",
-      "new_price": "38.00",
-      "timestamp": "2026-01-29T19:54:32.803866",
-      "url": "https://www.victoriabeckham.com/products/victoria-t-shirt-in-delphinium-19466"
     }
   ]
 }

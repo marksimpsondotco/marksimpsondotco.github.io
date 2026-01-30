@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T08:53:06.404775",
-  "total_drops": 2093,
+  "generated_at": "2026-01-30T08:58:17.964522",
+  "total_drops": 2096,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 529,
+      "count": 531,
       "max_drop": 72.2,
-      "total_savings": 10605.6
+      "total_savings": 10616.8
     },
     {
       "site": "oliversweeney_com",
@@ -47,9 +47,9 @@
     },
     {
       "site": "currys_com",
-      "count": 204,
+      "count": 205,
       "max_drop": 40.0,
-      "total_savings": 13302.54
+      "total_savings": 13308.54
     },
     {
       "site": "kingofcotton_com",
@@ -974,7 +974,7 @@
       "percentage": 30.0,
       "old_price": "34.99",
       "new_price": "24.49",
-      "timestamp": "2026-01-30T08:53:00.518459",
+      "timestamp": "2026-01-30T08:58:12.410848",
       "url": "https://www.currys.co.uk/products/10287538.html"
     },
     {

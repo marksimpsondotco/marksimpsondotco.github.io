@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T05:25:05.212205",
-  "total_drops": 1895,
+  "generated_at": "2026-01-30T05:30:14.279633",
+  "total_drops": 1896,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 522,
+      "count": 523,
       "max_drop": 72.2,
-      "total_savings": 10377.7
+      "total_savings": 10461.7
     },
     {
       "site": "oliversweeney_com",
@@ -250,6 +250,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Tommy Hilfiger Timeless Slim Straight Leg Ankle Trousers",
+      "percentage": 60.0,
+      "old_price": "140.00",
+      "new_price": "56.00",
+      "timestamp": "2026-01-30T05:30:10.202565",
+      "url": "https://www.johnlewis.com/tommy-hilfiger-timeless-slim-straight-leg-ankle-trousers/p114062639"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Oversized Leather Tote Bag",
       "percentage": 60.0,
       "old_price": "129.00",
@@ -443,7 +452,7 @@
       "percentage": 45.4,
       "old_price": "3030.00",
       "new_price": "1655.00",
-      "timestamp": "2026-01-30T05:24:20.845456",
+      "timestamp": "2026-01-30T05:28:35.260186",
       "url": "https://brownsfashion.com/products/bernadette-winnie-embroidery-maxi-dress-olmss2600156454"
     },
     {
@@ -479,7 +488,7 @@
       "percentage": 43.7,
       "old_price": "1305.00",
       "new_price": "735.00",
-      "timestamp": "2026-01-30T05:24:20.845456",
+      "timestamp": "2026-01-30T05:28:35.260186",
       "url": "https://brownsfashion.com/products/rebecca-vallance-bellatrix-off-shoulder-ruffled-midi-dress-olmss2600160546"
     },
     {
@@ -641,7 +650,7 @@
       "percentage": 36.4,
       "old_price": "110.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-30T05:24:20.845456",
+      "timestamp": "2026-01-30T05:28:35.260186",
       "url": "https://brownsfashion.com/products/simon-miller-bwai-striped-bikini-bottom-olrss2600169718"
     },
     {
@@ -848,7 +857,7 @@
       "percentage": 30.3,
       "old_price": "165.00",
       "new_price": "115.00",
-      "timestamp": "2026-01-30T05:24:52.135391",
+      "timestamp": "2026-01-30T05:30:06.127633",
       "url": "https://www.flannels.com/barbour-international-mens-lumley-hooded-long-sleeve-full-zip-quilted-jacket-321557"
     },
     {
@@ -911,7 +920,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T05:24:20.845456",
+      "timestamp": "2026-01-30T05:28:35.260186",
       "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
     },
     {
@@ -920,7 +929,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T05:24:20.845456",
+      "timestamp": "2026-01-30T05:28:35.260186",
       "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
     },
     {
@@ -929,7 +938,7 @@
       "percentage": 29.6,
       "old_price": "675.00",
       "new_price": "475.00",
-      "timestamp": "2026-01-30T05:24:20.845456",
+      "timestamp": "2026-01-30T05:28:35.260186",
       "url": "https://brownsfashion.com/products/r13-zebra-frayed-shirt-olpss2600163645"
     },
     {
@@ -938,7 +947,7 @@
       "percentage": 29.5,
       "old_price": "660.00",
       "new_price": "465.00",
-      "timestamp": "2026-01-30T05:24:20.845456",
+      "timestamp": "2026-01-30T05:28:35.260186",
       "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
     },
     {
@@ -965,7 +974,7 @@
       "percentage": 29.3,
       "old_price": "615.00",
       "new_price": "435.00",
-      "timestamp": "2026-01-30T05:24:20.845456",
+      "timestamp": "2026-01-30T05:28:35.260186",
       "url": "https://brownsfashion.com/products/r13-plaid-shirt-olpss2600163647"
     },
     {
@@ -1057,15 +1066,6 @@
       "new_price": "75.00",
       "timestamp": "2026-01-30T03:57:13.964543",
       "url": "https://www.flannels.com/the-north-face-mens-mountain-water-resistant-long-sleeve-rain-anorak-605099"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Barbour - Men's Gustnado Weather-Resistant Parka",
-      "percentage": 28.6,
-      "old_price": "259.00",
-      "new_price": "185.00",
-      "timestamp": "2026-01-30T03:57:13.964543",
-      "url": "https://www.flannels.com/barbour-mens-gustnado-weather-resistant-parka-600520"
     }
   ]
 }

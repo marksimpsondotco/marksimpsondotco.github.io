@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-30T00:24:59.118703",
-  "total_drops": 1364,
+  "generated_at": "2026-01-30T00:30:05.194557",
+  "total_drops": 1371,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 163,
+      "count": 169,
       "max_drop": 72.2,
-      "total_savings": 2901.19
+      "total_savings": 2958.71
     },
     {
       "site": "oliversweeney_com",
@@ -107,9 +107,9 @@
     },
     {
       "site": "currys_com",
-      "count": 8,
+      "count": 9,
       "max_drop": 19.5,
-      "total_savings": 742.0
+      "total_savings": 892.0
     },
     {
       "site": "uk_renogy_com",
@@ -419,7 +419,7 @@
       "percentage": 45.4,
       "old_price": "3030.00",
       "new_price": "1655.00",
-      "timestamp": "2026-01-30T00:24:45.416235",
+      "timestamp": "2026-01-30T00:29:44.442450",
       "url": "https://brownsfashion.com/products/bernadette-winnie-embroidery-maxi-dress-olmss2600156454"
     },
     {
@@ -455,7 +455,7 @@
       "percentage": 43.7,
       "old_price": "1305.00",
       "new_price": "735.00",
-      "timestamp": "2026-01-30T00:24:45.416235",
+      "timestamp": "2026-01-30T00:29:44.442450",
       "url": "https://brownsfashion.com/products/rebecca-vallance-bellatrix-off-shoulder-ruffled-midi-dress-olmss2600160546"
     },
     {
@@ -482,7 +482,7 @@
       "percentage": 40.0,
       "old_price": "25.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-30T00:24:52.717034",
+      "timestamp": "2026-01-30T00:29:59.408375",
       "url": "https://www.johnlewis.com/mac-powder-kiss-lipstick/p114703485"
     },
     {
@@ -599,7 +599,7 @@
       "percentage": 36.4,
       "old_price": "110.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-30T00:24:45.416235",
+      "timestamp": "2026-01-30T00:29:44.442450",
       "url": "https://brownsfashion.com/products/simon-miller-bwai-striped-bikini-bottom-olrss2600169718"
     },
     {
@@ -707,7 +707,7 @@
       "percentage": 33.6,
       "old_price": "119.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-30T00:24:46.625226",
+      "timestamp": "2026-01-30T00:30:01.143642",
       "url": "https://fenwick.co.uk/products/dark-brown-silver-ankle-boot-9617531109"
     },
     {
@@ -725,7 +725,7 @@
       "percentage": 32.1,
       "old_price": "249.00",
       "new_price": "169.00",
-      "timestamp": "2026-01-30T00:24:36.397889",
+      "timestamp": "2026-01-30T00:29:59.813668",
       "url": "https://www.mamasandpapas.com/products/armadillo-224165200"
     },
     {
@@ -788,7 +788,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T00:24:45.416235",
+      "timestamp": "2026-01-30T00:29:44.442450",
       "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
     },
     {
@@ -797,7 +797,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T00:24:45.416235",
+      "timestamp": "2026-01-30T00:29:44.442450",
       "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
     },
     {
@@ -806,7 +806,7 @@
       "percentage": 29.6,
       "old_price": "675.00",
       "new_price": "475.00",
-      "timestamp": "2026-01-30T00:24:45.416235",
+      "timestamp": "2026-01-30T00:29:44.442450",
       "url": "https://brownsfashion.com/products/r13-zebra-frayed-shirt-olpss2600163645"
     },
     {
@@ -815,7 +815,7 @@
       "percentage": 29.5,
       "old_price": "660.00",
       "new_price": "465.00",
-      "timestamp": "2026-01-30T00:24:45.416235",
+      "timestamp": "2026-01-30T00:29:44.442450",
       "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
     },
     {
@@ -824,7 +824,7 @@
       "percentage": 29.3,
       "old_price": "615.00",
       "new_price": "435.00",
-      "timestamp": "2026-01-30T00:24:45.416235",
+      "timestamp": "2026-01-30T00:29:44.442450",
       "url": "https://brownsfashion.com/products/r13-plaid-shirt-olpss2600163647"
     },
     {
@@ -869,7 +869,7 @@
       "percentage": 28.8,
       "old_price": "139.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-30T00:24:52.717034",
+      "timestamp": "2026-01-30T00:29:59.408375",
       "url": "https://www.johnlewis.com/carvela-sardinia-woven-panel-lace-up-trainers-black/p112893124"
     },
     {

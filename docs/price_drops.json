@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T10:07:14.736269",
-  "total_drops": 2129,
+  "generated_at": "2026-01-30T10:12:30.232993",
+  "total_drops": 2131,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 88,
+      "count": 90,
       "max_drop": 63.6,
-      "total_savings": 3631.0
+      "total_savings": 3643.0
     },
     {
       "site": "brownsfashion_com",
@@ -206,7 +206,7 @@
       "percentage": 70.0,
       "old_price": "59.00",
       "new_price": "17.70",
-      "timestamp": "2026-01-30T10:07:06.372389",
+      "timestamp": "2026-01-30T10:12:18.813708",
       "url": "https://www.johnlewis.com/john-lewis-regular-fit-linen-shirt/p6172177"
     },
     {
@@ -314,7 +314,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T10:07:06.372389",
+      "timestamp": "2026-01-30T10:12:18.813708",
       "url": "https://www.johnlewis.com/john-lewis-fringed-velvet-cushion/p112452017"
     },
     {
@@ -323,7 +323,7 @@
       "percentage": 50.0,
       "old_price": "18.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-30T10:07:06.372389",
+      "timestamp": "2026-01-30T10:12:18.813708",
       "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
     },
     {
@@ -332,7 +332,7 @@
       "percentage": 50.0,
       "old_price": "65.00",
       "new_price": "32.50",
-      "timestamp": "2026-01-30T10:07:06.372389",
+      "timestamp": "2026-01-30T10:12:18.813708",
       "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
     },
     {
@@ -341,7 +341,7 @@
       "percentage": 50.0,
       "old_price": "60.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T10:07:06.372389",
+      "timestamp": "2026-01-30T10:12:18.813708",
       "url": "https://www.johnlewis.com/john-lewis-egyptian-cotton-unisex-bath-robe/p111801685"
     },
     {
@@ -548,7 +548,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T10:07:05.587145",
+      "timestamp": "2026-01-30T10:12:09.638007",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -773,7 +773,7 @@
       "percentage": 35.0,
       "old_price": "200.00",
       "new_price": "130.00",
-      "timestamp": "2026-01-30T10:06:35.188014",
+      "timestamp": "2026-01-30T10:11:58.275657",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-duvet-set"
     },
     {
@@ -863,7 +863,7 @@
       "percentage": 32.7,
       "old_price": "245.00",
       "new_price": "165.00",
-      "timestamp": "2026-01-30T10:06:35.188014",
+      "timestamp": "2026-01-30T10:11:58.275657",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-sheet-set"
     },
     {
@@ -971,7 +971,7 @@
       "percentage": 30.0,
       "old_price": "90.00",
       "new_price": "63.00",
-      "timestamp": "2026-01-30T10:07:06.372389",
+      "timestamp": "2026-01-30T10:12:18.813708",
       "url": "https://www.johnlewis.com/john-lewis-washed-waffle-bedspread/p5296028"
     },
     {

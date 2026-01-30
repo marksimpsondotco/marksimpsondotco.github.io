@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T06:37:20.614007",
-  "total_drops": 1904,
+  "generated_at": "2026-01-30T06:42:30.154934",
+  "total_drops": 1906,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "site": "currys_com",
-      "count": 20,
+      "count": 22,
       "max_drop": 34.9,
-      "total_savings": 1517.0
+      "total_savings": 1707.0
     },
     {
       "site": "ukbabycentre_com",
@@ -281,7 +281,7 @@
       "percentage": 55.0,
       "old_price": "190.00",
       "new_price": "85.50",
-      "timestamp": "2026-01-30T06:37:16.571601",
+      "timestamp": "2026-01-30T06:42:24.031994",
       "url": "https://www.johnlewis.com/j-lindeberg-clinton-water-repellent-utility-jacket-navy/p114708473"
     },
     {
@@ -902,7 +902,7 @@
       "percentage": 30.0,
       "old_price": "250.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-30T06:37:09.007394",
+      "timestamp": "2026-01-30T06:42:20.472799",
       "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
     },
     {
@@ -911,7 +911,7 @@
       "percentage": 30.0,
       "old_price": "140.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-30T06:37:09.007394",
+      "timestamp": "2026-01-30T06:42:20.472799",
       "url": "https://www.flannels.com/fred-perry-mens-zip-long-sleeve-overshirt-603891"
     },
     {

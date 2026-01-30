@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T07:34:23.480597",
-  "total_drops": 1914,
+  "generated_at": "2026-01-30T07:39:38.203141",
+  "total_drops": 1925,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "site": "currys_com",
-      "count": 30,
+      "count": 41,
       "max_drop": 34.9,
-      "total_savings": 2764.0
+      "total_savings": 3594.0
     },
     {
       "site": "ukbabycentre_com",
@@ -722,7 +722,7 @@
       "percentage": 34.9,
       "old_price": "229.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-30T07:34:14.044562",
+      "timestamp": "2026-01-30T07:39:26.870986",
       "url": "https://www.currys.co.uk/products/10281509.html"
     },
     {
@@ -805,6 +805,15 @@
       "new_price": "169.00",
       "timestamp": "2026-01-30T00:36:16.620301",
       "url": "https://www.mamasandpapas.com/products/armadillo-224165200"
+    },
+    {
+      "site": "currys_com",
+      "product": "ACER 315 15.6\" Chromebook - Intel® Celeron®, 64 GB eMMC",
+      "percentage": 32.1,
+      "old_price": "249.00",
+      "new_price": "169.00",
+      "timestamp": "2026-01-30T07:39:26.870986",
+      "url": "https://www.currys.co.uk/products/10263910.html"
     },
     {
       "site": "flannels_com",
@@ -902,7 +911,7 @@
       "percentage": 30.0,
       "old_price": "250.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-30T07:34:18.644445",
+      "timestamp": "2026-01-30T07:39:22.344378",
       "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
     },
     {
@@ -911,7 +920,7 @@
       "percentage": 30.0,
       "old_price": "140.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-30T07:34:18.644445",
+      "timestamp": "2026-01-30T07:39:22.344378",
       "url": "https://www.flannels.com/fred-perry-mens-zip-long-sleeve-overshirt-603891"
     },
     {
@@ -1057,15 +1066,6 @@
       "new_price": "135.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/sequin-detail-mesh-thong-in-black-21955"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Carvela Sardinia Woven Panel Lace Up Trainers, Black",
-      "percentage": 28.8,
-      "old_price": "139.00",
-      "new_price": "99.00",
-      "timestamp": "2026-01-30T00:54:42.317035",
-      "url": "https://www.johnlewis.com/carvela-sardinia-woven-panel-lace-up-trainers-black/p112893124"
     }
   ]
 }

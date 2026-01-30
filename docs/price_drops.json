@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T06:42:30.154934",
-  "total_drops": 1906,
+  "generated_at": "2026-01-30T06:47:38.252094",
+  "total_drops": 1910,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "site": "currys_com",
-      "count": 22,
+      "count": 26,
       "max_drop": 34.9,
-      "total_savings": 1707.0
+      "total_savings": 2377.0
     },
     {
       "site": "ukbabycentre_com",
@@ -281,7 +281,7 @@
       "percentage": 55.0,
       "old_price": "190.00",
       "new_price": "85.50",
-      "timestamp": "2026-01-30T06:42:24.031994",
+      "timestamp": "2026-01-30T06:44:33.185259",
       "url": "https://www.johnlewis.com/j-lindeberg-clinton-water-repellent-utility-jacket-navy/p114708473"
     },
     {
@@ -902,7 +902,7 @@
       "percentage": 30.0,
       "old_price": "250.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-30T06:42:20.472799",
+      "timestamp": "2026-01-30T06:47:34.607713",
       "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
     },
     {
@@ -911,7 +911,7 @@
       "percentage": 30.0,
       "old_price": "140.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-30T06:42:20.472799",
+      "timestamp": "2026-01-30T06:47:34.607713",
       "url": "https://www.flannels.com/fred-perry-mens-zip-long-sleeve-overshirt-603891"
     },
     {
@@ -1041,6 +1041,15 @@
       "url": "https://www.astridandmiyu.com/products/pave-seamless-1-2mm-piercing-hoop-in-solid-white-gold"
     },
     {
+      "site": "currys_com",
+      "product": "AEG 7000 SenseBoil TI84IB10FB 80 cm Electric Induction",
+      "percentage": 29.0,
+      "old_price": "999.00",
+      "new_price": "709.00",
+      "timestamp": "2026-01-30T06:47:32.641387",
+      "url": "https://www.currys.co.uk/products/10281801.html"
+    },
+    {
       "site": "victoriabeckham_com",
       "product": "Sequin Mesh Thong In Black",
       "percentage": 28.9,
@@ -1057,15 +1066,6 @@
       "new_price": "99.00",
       "timestamp": "2026-01-30T00:54:42.317035",
       "url": "https://www.johnlewis.com/carvela-sardinia-woven-panel-lace-up-trainers-black/p112893124"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Fred Perry - Men's Caban Barn Jacket",
-      "percentage": 28.7,
-      "old_price": "195.00",
-      "new_price": "139.00",
-      "timestamp": "2026-01-30T03:57:13.964543",
-      "url": "https://www.flannels.com/fred-perry-mens-caban-barn-jacket-326953"
     }
   ]
 }

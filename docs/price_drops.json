@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T12:29:40.251281",
-  "total_drops": 2176,
+  "generated_at": "2026-01-30T12:34:51.355324",
+  "total_drops": 2178,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 554,
+      "count": 555,
       "max_drop": 72.2,
-      "total_savings": 11691.9
+      "total_savings": 11717.1
     },
     {
       "site": "oliversweeney_com",
@@ -182,6 +182,12 @@
       "count": 1,
       "max_drop": 0.1,
       "total_savings": 0.28
+    },
+    {
+      "site": "chelseababy_com",
+      "count": 1,
+      "max_drop": 0,
+      "total_savings": 0.01
     }
   ],
   "drops": [
@@ -247,6 +253,15 @@
       "new_price": "45.00",
       "timestamp": "2026-01-29T12:17:38.294832",
       "url": "https://www.johnlewis.com/sam-edelman-michaela-leather-mary-janes/p112156070"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Spot Print Baby Sleeping Bag, 0.5 Tog, Pack of 2",
+      "percentage": 70.0,
+      "old_price": "36.00",
+      "new_price": "10.80",
+      "timestamp": "2026-01-30T12:34:41.791230",
+      "url": "https://www.johnlewis.com/john-lewis-spot-print-baby-sleeping-bag-0-5-tog-pack-of-2/p111143888"
     },
     {
       "site": "johnlewis_com",
@@ -326,7 +341,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T12:29:13.929790",
+      "timestamp": "2026-01-30T12:34:26.578807",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -479,7 +494,7 @@
       "percentage": 50.0,
       "old_price": "9.60",
       "new_price": "4.80",
-      "timestamp": "2026-01-30T12:29:33.203170",
+      "timestamp": "2026-01-30T12:34:41.791230",
       "url": "https://www.johnlewis.com/john-lewis-cotton-viscose-blend-towels-pack-of-2/p111568001"
     },
     {
@@ -488,7 +503,7 @@
       "percentage": 50.0,
       "old_price": "16.00",
       "new_price": "8.00",
-      "timestamp": "2026-01-30T12:29:33.203170",
+      "timestamp": "2026-01-30T12:34:41.791230",
       "url": "https://www.johnlewis.com/john-lewis-night-and-day-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p6332606"
     },
     {
@@ -497,7 +512,7 @@
       "percentage": 50.0,
       "old_price": "100.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-30T12:29:33.203170",
+      "timestamp": "2026-01-30T12:34:41.791230",
       "url": "https://www.johnlewis.com/herschel-supply-co-retreat-backpack/p110710185"
     },
     {
@@ -506,7 +521,7 @@
       "percentage": 50.0,
       "old_price": "165.00",
       "new_price": "82.50",
-      "timestamp": "2026-01-30T12:29:33.203170",
+      "timestamp": "2026-01-30T12:34:41.791230",
       "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
     },
     {
@@ -515,7 +530,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-30T12:29:33.203170",
+      "timestamp": "2026-01-30T12:34:41.791230",
       "url": "https://www.johnlewis.com/john-lewis-beatrice-upturn-disc-twirl-fascinator/p111454501"
     },
     {
@@ -524,7 +539,7 @@
       "percentage": 50.0,
       "old_price": "190.00",
       "new_price": "95.00",
-      "timestamp": "2026-01-30T12:29:33.203170",
+      "timestamp": "2026-01-30T12:34:41.791230",
       "url": "https://www.johnlewis.com/polo-ralph-lauren-cotton-cable-knit-jumper/p5085683"
     },
     {
@@ -533,7 +548,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T12:29:13.929790",
+      "timestamp": "2026-01-30T12:34:26.578807",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -695,7 +710,7 @@
       "percentage": 40.5,
       "old_price": "100.00",
       "new_price": "59.50",
-      "timestamp": "2026-01-30T12:29:33.203170",
+      "timestamp": "2026-01-30T12:34:41.791230",
       "url": "https://www.johnlewis.com/polo-ralph-lauren-short-sleeve-custom-slim-fit-polo-shirt/p111436343"
     },
     {
@@ -722,7 +737,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T12:29:13.929790",
+      "timestamp": "2026-01-30T12:34:26.578807",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -767,7 +782,7 @@
       "percentage": 40.0,
       "old_price": "10.00",
       "new_price": "6.00",
-      "timestamp": "2026-01-30T12:29:33.203170",
+      "timestamp": "2026-01-30T12:34:41.791230",
       "url": "https://www.johnlewis.com/john-lewis-connect-check-towels/p111662913"
     },
     {
@@ -776,7 +791,7 @@
       "percentage": 40.0,
       "old_price": "12.50",
       "new_price": "7.50",
-      "timestamp": "2026-01-30T12:29:33.203170",
+      "timestamp": "2026-01-30T12:34:41.791230",
       "url": "https://www.johnlewis.com/john-lewis-colour-block-towels/p112259760"
     },
     {
@@ -875,7 +890,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T12:29:13.929790",
+      "timestamp": "2026-01-30T12:34:26.578807",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1075,15 +1090,6 @@
       "new_price": "39.00",
       "timestamp": "2026-01-29T23:45:18.075792",
       "url": "https://www.2tall.com/products/blend-twister-jogg-tapered-fit-tall-jeans-dark-denim"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "contrast-collar suede jacket",
-      "percentage": 33.9,
-      "old_price": "10690.00",
-      "new_price": "7065.00",
-      "timestamp": "2026-01-29T18:56:25.573475",
-      "url": "https://brownsfashion.com/products/prada-contrast-collar-suede-jacket-oo2ss2600167197"
     }
   ]
 }

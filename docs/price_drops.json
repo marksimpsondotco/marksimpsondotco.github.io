@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T08:11:11.014236",
-  "total_drops": 2025,
+  "generated_at": "2026-01-30T08:16:24.664051",
+  "total_drops": 2030,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "currys_com",
-      "count": 137,
+      "count": 142,
       "max_drop": 40.0,
-      "total_savings": 9706.03
+      "total_savings": 9838.03
     },
     {
       "site": "kingofcotton_com",
@@ -524,7 +524,7 @@
       "percentage": 40.0,
       "old_price": "15.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-30T08:10:59.913267",
+      "timestamp": "2026-01-30T08:14:54.633838",
       "url": "https://www.johnlewis.com/joules-kids-cotton-long-sleeve-floral-top-red/p114201130"
     },
     {
@@ -560,7 +560,7 @@
       "percentage": 40.0,
       "old_price": "39.99",
       "new_price": "23.99",
-      "timestamp": "2026-01-30T08:10:54.712639",
+      "timestamp": "2026-01-30T08:13:22.254968",
       "url": "https://www.currys.co.uk/products/10156607.html"
     },
     {
@@ -740,7 +740,7 @@
       "percentage": 34.9,
       "old_price": "229.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-30T08:10:54.712639",
+      "timestamp": "2026-01-30T08:13:22.254968",
       "url": "https://www.currys.co.uk/products/10281509.html"
     },
     {
@@ -785,7 +785,7 @@
       "percentage": 33.9,
       "old_price": "179.99",
       "new_price": "119.00",
-      "timestamp": "2026-01-30T08:10:54.712639",
+      "timestamp": "2026-01-30T08:13:22.254968",
       "url": "https://www.currys.co.uk/products/10271325.html"
     },
     {
@@ -839,7 +839,7 @@
       "percentage": 32.1,
       "old_price": "249.00",
       "new_price": "169.00",
-      "timestamp": "2026-01-30T08:10:54.712639",
+      "timestamp": "2026-01-30T08:13:22.254968",
       "url": "https://www.currys.co.uk/products/10263910.html"
     },
     {

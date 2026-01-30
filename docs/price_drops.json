@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T18:21:16.556193",
-  "total_drops": 2482,
+  "generated_at": "2026-01-30T18:26:36.353088",
+  "total_drops": 2490,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -53,9 +53,9 @@
     },
     {
       "site": "currys_com",
-      "count": 303,
+      "count": 304,
       "max_drop": 40.0,
-      "total_savings": 19623.53
+      "total_savings": 19633.53
     },
     {
       "site": "kingofcotton_com",
@@ -71,9 +71,9 @@
     },
     {
       "site": "ukbabycentre_com",
-      "count": 26,
+      "count": 33,
       "max_drop": 34.7,
-      "total_savings": 1759.38
+      "total_savings": 1946.88
     },
     {
       "site": "2tall_com",

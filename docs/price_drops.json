@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T10:17:46.063360",
-  "total_drops": 2131,
+  "generated_at": "2026-01-30T10:23:04.255855",
+  "total_drops": 2133,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 535,
+      "count": 537,
       "max_drop": 72.2,
-      "total_savings": 10686.8
+      "total_savings": 10700.7
     },
     {
       "site": "oliversweeney_com",
@@ -206,7 +206,7 @@
       "percentage": 70.0,
       "old_price": "59.00",
       "new_price": "17.70",
-      "timestamp": "2026-01-30T10:17:35.052630",
+      "timestamp": "2026-01-30T10:22:54.079509",
       "url": "https://www.johnlewis.com/john-lewis-regular-fit-linen-shirt/p6172177"
     },
     {
@@ -314,7 +314,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T10:17:35.052630",
+      "timestamp": "2026-01-30T10:22:54.079509",
       "url": "https://www.johnlewis.com/john-lewis-fringed-velvet-cushion/p112452017"
     },
     {
@@ -323,7 +323,7 @@
       "percentage": 50.0,
       "old_price": "18.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-30T10:17:35.052630",
+      "timestamp": "2026-01-30T10:22:54.079509",
       "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
     },
     {
@@ -332,7 +332,7 @@
       "percentage": 50.0,
       "old_price": "65.00",
       "new_price": "32.50",
-      "timestamp": "2026-01-30T10:17:35.052630",
+      "timestamp": "2026-01-30T10:22:54.079509",
       "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
     },
     {
@@ -341,7 +341,7 @@
       "percentage": 50.0,
       "old_price": "60.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T10:17:35.052630",
+      "timestamp": "2026-01-30T10:22:54.079509",
       "url": "https://www.johnlewis.com/john-lewis-egyptian-cotton-unisex-bath-robe/p111801685"
     },
     {
@@ -548,7 +548,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T10:17:35.757779",
+      "timestamp": "2026-01-30T10:22:34.971922",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -669,6 +669,15 @@
       "url": "https://www.johnlewis.com/john-lewis-cashmere-gloves/p112374235"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Travalo Milano Refillable Perfume Atomiser Spray",
+      "percentage": 36.8,
+      "old_price": "31.00",
+      "new_price": "19.60",
+      "timestamp": "2026-01-30T10:22:54.079509",
+      "url": "https://www.johnlewis.com/travalo-milano-refillable-perfume-atomiser-spray/p3139891"
+    },
+    {
       "site": "victoriabeckham_com",
       "product": "Victoria T-Shirt In Delphinium",
       "percentage": 36.7,
@@ -773,7 +782,7 @@
       "percentage": 35.0,
       "old_price": "200.00",
       "new_price": "130.00",
-      "timestamp": "2026-01-30T10:17:07.607264",
+      "timestamp": "2026-01-30T10:22:40.463809",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-duvet-set"
     },
     {
@@ -863,7 +872,7 @@
       "percentage": 32.7,
       "old_price": "245.00",
       "new_price": "165.00",
-      "timestamp": "2026-01-30T10:17:07.607264",
+      "timestamp": "2026-01-30T10:22:40.463809",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-sheet-set"
     },
     {
@@ -971,7 +980,7 @@
       "percentage": 30.0,
       "old_price": "90.00",
       "new_price": "63.00",
-      "timestamp": "2026-01-30T10:17:35.052630",
+      "timestamp": "2026-01-30T10:22:54.079509",
       "url": "https://www.johnlewis.com/john-lewis-washed-waffle-bedspread/p5296028"
     },
     {
@@ -1063,15 +1072,6 @@
       "new_price": "400.00",
       "timestamp": "2026-01-30T05:28:35.260186",
       "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "plaid frayed shirt",
-      "percentage": 29.8,
-      "old_price": "570.00",
-      "new_price": "400.00",
-      "timestamp": "2026-01-30T05:28:35.260186",
-      "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
     }
   ]
 }

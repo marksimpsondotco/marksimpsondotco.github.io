@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T07:55:19.431986",
-  "total_drops": 1993,
+  "generated_at": "2026-01-30T08:00:32.584168",
+  "total_drops": 2016,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 528,
+      "count": 529,
       "max_drop": 72.2,
-      "total_savings": 10599.6
+      "total_savings": 10605.6
     },
     {
       "site": "oliversweeney_com",
@@ -46,6 +46,12 @@
       "total_savings": 4000.0
     },
     {
+      "site": "currys_com",
+      "count": 128,
+      "max_drop": 40.0,
+      "total_savings": 9080.03
+    },
+    {
       "site": "kingofcotton_com",
       "count": 1,
       "max_drop": 39.5,
@@ -56,12 +62,6 @@
       "count": 46,
       "max_drop": 38.9,
       "total_savings": 1678.0
-    },
-    {
-      "site": "currys_com",
-      "count": 106,
-      "max_drop": 34.9,
-      "total_savings": 8735.0
     },
     {
       "site": "ukbabycentre_com",
@@ -520,6 +520,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Joules Kids' Cotton Long Sleeve Floral Top, Red",
+      "percentage": 40.0,
+      "old_price": "15.00",
+      "new_price": "9.00",
+      "timestamp": "2026-01-30T08:00:20.508121",
+      "url": "https://www.johnlewis.com/joules-kids-cotton-long-sleeve-floral-top-red/p114201130"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "MAC Powder Kiss Lipstick",
       "percentage": 40.0,
       "old_price": "25.00",
@@ -544,6 +553,15 @@
       "new_price": "10.20",
       "timestamp": "2026-01-29T12:17:38.294832",
       "url": "https://www.johnlewis.com/le-creuset-stoneware-mug-350ml/p1816158"
+    },
+    {
+      "site": "currys_com",
+      "product": "TTAP TTD-2 Twin Glass Wall Shelf",
+      "percentage": 40.0,
+      "old_price": "39.99",
+      "new_price": "23.99",
+      "timestamp": "2026-01-30T08:00:19.163927",
+      "url": "https://www.currys.co.uk/products/10156607.html"
     },
     {
       "site": "victoriabeckham_com",
@@ -722,7 +740,7 @@
       "percentage": 34.9,
       "old_price": "229.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-30T07:55:04.514520",
+      "timestamp": "2026-01-30T08:00:19.163927",
       "url": "https://www.currys.co.uk/products/10281509.html"
     },
     {
@@ -767,7 +785,7 @@
       "percentage": 33.9,
       "old_price": "179.99",
       "new_price": "119.00",
-      "timestamp": "2026-01-30T07:55:04.514520",
+      "timestamp": "2026-01-30T08:00:19.163927",
       "url": "https://www.currys.co.uk/products/10271325.html"
     },
     {
@@ -821,7 +839,7 @@
       "percentage": 32.1,
       "old_price": "249.00",
       "new_price": "169.00",
-      "timestamp": "2026-01-30T07:55:04.514520",
+      "timestamp": "2026-01-30T08:00:19.163927",
       "url": "https://www.currys.co.uk/products/10263910.html"
     },
     {
@@ -920,7 +938,7 @@
       "percentage": 30.0,
       "old_price": "250.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-30T07:55:13.118124",
+      "timestamp": "2026-01-30T08:00:18.991292",
       "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
     },
     {
@@ -929,7 +947,7 @@
       "percentage": 30.0,
       "old_price": "140.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-30T07:55:13.118124",
+      "timestamp": "2026-01-30T08:00:18.991292",
       "url": "https://www.flannels.com/fred-perry-mens-zip-long-sleeve-overshirt-603891"
     },
     {
@@ -1048,24 +1066,6 @@
       "new_price": "44.00",
       "timestamp": "2026-01-30T03:03:40.904965",
       "url": "https://www.pigletinbed.com/products/warm-clay-100-linen-fitted-sheet"
-    },
-    {
-      "site": "astridandmiyu_com",
-      "product": "Pavé Seamless 1.2mm Piercing Hoop in Solid White Gold",
-      "percentage": 29.0,
-      "old_price": "155.00",
-      "new_price": "110.00",
-      "timestamp": "2026-01-29T17:23:31.935198",
-      "url": "https://www.astridandmiyu.com/products/pave-seamless-1-2mm-piercing-hoop-in-solid-white-gold"
-    },
-    {
-      "site": "currys_com",
-      "product": "AEG 7000 SenseBoil TI84IB10FB 80 cm Electric Induction",
-      "percentage": 29.0,
-      "old_price": "999.00",
-      "new_price": "709.00",
-      "timestamp": "2026-01-30T07:05:25.696502",
-      "url": "https://www.currys.co.uk/products/10281801.html"
     }
   ]
 }

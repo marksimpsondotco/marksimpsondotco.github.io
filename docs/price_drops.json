@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T21:06:53.834712",
-  "total_drops": 2688,
+  "generated_at": "2026-01-30T21:12:11.758285",
+  "total_drops": 2693,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "site": "currys_com",
-      "count": 318,
+      "count": 319,
       "max_drop": 40.0,
-      "total_savings": 20527.53
+      "total_savings": 20597.53
     },
     {
       "site": "kingofcotton_com",
@@ -142,6 +142,12 @@
       "total_savings": 1.0
     },
     {
+      "site": "baby-nest_co_uk",
+      "count": 11,
+      "max_drop": 17.8,
+      "total_savings": 464.1
+    },
+    {
       "site": "boden_com",
       "count": 15,
       "max_drop": 17.1,
@@ -158,12 +164,6 @@
       "count": 1,
       "max_drop": 14.7,
       "total_savings": 407.0
-    },
-    {
-      "site": "baby-nest_co_uk",
-      "count": 7,
-      "max_drop": 14.3,
-      "total_savings": 350.0
     },
     {
       "site": "thebabyservice_com",
@@ -710,7 +710,7 @@
       "percentage": 50.0,
       "old_price": "129.95",
       "new_price": "65.00",
-      "timestamp": "2026-01-30T21:06:44.595747",
+      "timestamp": "2026-01-30T21:11:55.237066",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-pink-filician-dark-pink-leather-trainers-filician"
     },
     {
@@ -890,7 +890,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T21:06:39.392555",
+      "timestamp": "2026-01-30T21:11:36.491396",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-stone"
     },
     {
@@ -899,7 +899,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T21:06:39.392555",
+      "timestamp": "2026-01-30T21:11:36.491396",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-carbonite"
     },
     {
@@ -908,7 +908,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T21:06:39.392555",
+      "timestamp": "2026-01-30T21:11:36.491396",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-mink"
     },
     {

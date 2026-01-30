@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T17:54:26.761264",
-  "total_drops": 2452,
+  "generated_at": "2026-01-30T17:59:44.430008",
+  "total_drops": 2467,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -53,9 +53,9 @@
     },
     {
       "site": "currys_com",
-      "count": 302,
+      "count": 303,
       "max_drop": 40.0,
-      "total_savings": 19553.53
+      "total_savings": 19623.53
     },
     {
       "site": "kingofcotton_com",
@@ -143,9 +143,9 @@
     },
     {
       "site": "pendletonwoolenmills_eu",
-      "count": 122,
+      "count": 136,
       "max_drop": 16.7,
-      "total_savings": 1541.25
+      "total_savings": 1810.75
     },
     {
       "site": "hauslondon_com",
@@ -911,7 +911,7 @@
       "percentage": 40.4,
       "old_price": "156.00",
       "new_price": "93.00",
-      "timestamp": "2026-01-30T17:54:09.884418",
+      "timestamp": "2026-01-30T17:58:22.963801",
       "url": "https://www.johnlewis.com/ralph-lauren-ph4206-mens-phantos-sunglasses/p110648655"
     },
     {

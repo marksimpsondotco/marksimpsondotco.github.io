@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T09:03:31.883526",
-  "total_drops": 2098,
+  "generated_at": "2026-01-30T09:08:44.325245",
+  "total_drops": 2102,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "currys_com",
-      "count": 207,
+      "count": 210,
       "max_drop": 40.0,
-      "total_savings": 13432.56
+      "total_savings": 13452.56
     },
     {
       "site": "kingofcotton_com",
@@ -83,9 +83,9 @@
     },
     {
       "site": "mamasandpapas_com",
-      "count": 17,
+      "count": 18,
       "max_drop": 32.1,
-      "total_savings": 639.07
+      "total_savings": 669.07
     },
     {
       "site": "smallsmart_co_uk",
@@ -974,7 +974,7 @@
       "percentage": 30.0,
       "old_price": "34.99",
       "new_price": "24.49",
-      "timestamp": "2026-01-30T09:03:20.467236",
+      "timestamp": "2026-01-30T09:07:48.955211",
       "url": "https://www.currys.co.uk/products/10287538.html"
     },
     {

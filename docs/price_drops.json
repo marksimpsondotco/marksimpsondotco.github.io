@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T18:15:58.977814",
-  "total_drops": 2475,
+  "generated_at": "2026-01-30T18:21:16.556193",
+  "total_drops": 2482,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -71,9 +71,9 @@
     },
     {
       "site": "ukbabycentre_com",
-      "count": 19,
+      "count": 26,
       "max_drop": 34.7,
-      "total_savings": 1672.35
+      "total_savings": 1759.38
     },
     {
       "site": "2tall_com",

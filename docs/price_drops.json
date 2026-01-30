@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T17:38:15.114820",
-  "total_drops": 2293,
+  "generated_at": "2026-01-30T17:43:33.934504",
+  "total_drops": 2315,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -53,9 +53,9 @@
     },
     {
       "site": "currys_com",
-      "count": 298,
+      "count": 302,
       "max_drop": 40.0,
-      "total_savings": 19063.53
+      "total_savings": 19553.53
     },
     {
       "site": "kingofcotton_com",
@@ -170,6 +170,12 @@
       "count": 1,
       "max_drop": 10.0,
       "total_savings": 10.0
+    },
+    {
+      "site": "pendletonwoolenmills_eu",
+      "count": 18,
+      "max_drop": 9.1,
+      "total_savings": 313.0
     },
     {
       "site": "houseofisabella_co_uk",
@@ -404,7 +410,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T17:37:41.598307",
+      "timestamp": "2026-01-30T17:40:30.453919",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -422,7 +428,7 @@
       "percentage": 53.5,
       "old_price": "85.95",
       "new_price": "40.00",
-      "timestamp": "2026-01-30T17:37:41.598307",
+      "timestamp": "2026-01-30T17:40:30.453919",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-black-fabri-shoes-fabri"
     },
     {
@@ -692,7 +698,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T17:37:41.598307",
+      "timestamp": "2026-01-30T17:40:30.453919",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -899,7 +905,7 @@
       "percentage": 40.4,
       "old_price": "156.00",
       "new_price": "93.00",
-      "timestamp": "2026-01-30T17:37:59.957927",
+      "timestamp": "2026-01-30T17:43:17.491648",
       "url": "https://www.johnlewis.com/ralph-lauren-ph4206-mens-phantos-sunglasses/p110648655"
     },
     {
@@ -926,7 +932,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T17:37:41.598307",
+      "timestamp": "2026-01-30T17:40:30.453919",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {

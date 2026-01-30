@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T11:47:49.235358",
-  "total_drops": 2161,
+  "generated_at": "2026-01-30T11:53:00.354051",
+  "total_drops": 2165,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 543,
+      "count": 545,
       "max_drop": 72.2,
-      "total_savings": 11236.6
+      "total_savings": 11379.6
     },
     {
       "site": "oliversweeney_com",
@@ -35,9 +35,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 9,
+      "count": 10,
       "max_drop": 53.8,
-      "total_savings": 323.0
+      "total_savings": 340.5
     },
     {
       "site": "brownsfashion_com",
@@ -113,9 +113,9 @@
     },
     {
       "site": "scandiborn_co_uk",
-      "count": 3,
+      "count": 4,
       "max_drop": 20.0,
-      "total_savings": 12.95
+      "total_savings": 13.9
     },
     {
       "site": "babyandnurseryworld_co_uk",
@@ -221,7 +221,7 @@
       "percentage": 70.0,
       "old_price": "12.00",
       "new_price": "3.60",
-      "timestamp": "2026-01-30T11:47:37.367650",
+      "timestamp": "2026-01-30T11:52:51.774326",
       "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-egyptian-cotton-percale-200-thread-count-bedding/p5417600"
     },
     {
@@ -320,7 +320,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T11:47:19.023457",
+      "timestamp": "2026-01-30T11:52:31.756793",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -329,7 +329,7 @@
       "percentage": 53.6,
       "old_price": "70.00",
       "new_price": "32.50",
-      "timestamp": "2026-01-30T11:47:37.367650",
+      "timestamp": "2026-01-30T11:52:51.774326",
       "url": "https://www.johnlewis.com/john-lewis-harry-floor-lamp/p3299933"
     },
     {
@@ -356,7 +356,7 @@
       "percentage": 50.0,
       "old_price": "110.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-30T11:47:37.367650",
+      "timestamp": "2026-01-30T11:52:51.774326",
       "url": "https://www.johnlewis.com/john-lewis-2-section-recycling-bin-with-handles-60l/p5971630"
     },
     {
@@ -365,8 +365,17 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-30T11:47:37.367650",
+      "timestamp": "2026-01-30T11:52:51.774326",
       "url": "https://www.johnlewis.com/john-lewis-pedal-bin-30l/p6361018"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Montane Composite Insulated Hooded Jacket",
+      "percentage": 50.0,
+      "old_price": "220.00",
+      "new_price": "110.00",
+      "timestamp": "2026-01-30T11:52:51.774326",
+      "url": "https://www.johnlewis.com/montane-composite-insulated-hooded-jacket/p111787995"
     },
     {
       "site": "johnlewis_com",
@@ -457,6 +466,15 @@
       "new_price": "22.50",
       "timestamp": "2026-01-29T12:17:38.294832",
       "url": "https://www.johnlewis.com/john-lewis-luce-textured-cushion/p112399300"
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Boy's Stay Loose Taper Jeans",
+      "percentage": 50.0,
+      "old_price": "35.00",
+      "new_price": "17.50",
+      "timestamp": "2026-01-30T11:52:31.756793",
+      "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
       "site": "dusk_com",
@@ -635,7 +653,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T11:47:19.023457",
+      "timestamp": "2026-01-30T11:52:31.756793",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -770,7 +788,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T11:47:19.023457",
+      "timestamp": "2026-01-30T11:52:31.756793",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1060,24 +1078,6 @@
       "new_price": "31.00",
       "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/stanley-quencher-stainless-steel-flowstate-tumbler-1-18l/p110979710"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Calvin Klein - Women's Logo Midweight Scarf",
-      "percentage": 30.8,
-      "old_price": "65.00",
-      "new_price": "45.00",
-      "timestamp": "2026-01-30T03:57:13.964543",
-      "url": "https://www.flannels.com/calvin-klein-womens-logo-midweight-scarf-902068"
-    },
-    {
-      "site": "smallsmart_co_uk",
-      "product": "Sebra Classic Wooden Car",
-      "percentage": 30.4,
-      "old_price": "3.95",
-      "new_price": "2.75",
-      "timestamp": "2026-01-30T03:42:14.544591",
-      "url": "https://www.smallsmart.co.uk/products/sebra-classic-wooden-car"
     }
   ]
 }

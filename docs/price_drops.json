@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-30T00:35:12.036096",
-  "total_drops": 1371,
+  "generated_at": "2026-01-30T00:40:20.359489",
+  "total_drops": 1401,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "johnlewis_com",
-      "count": 169,
+      "count": 198,
       "max_drop": 72.2,
-      "total_savings": 2958.71
+      "total_savings": 3192.27
     },
     {
       "site": "oliversweeney_com",
@@ -107,9 +107,9 @@
     },
     {
       "site": "currys_com",
-      "count": 9,
+      "count": 10,
       "max_drop": 19.5,
-      "total_savings": 892.0
+      "total_savings": 1012.0
     },
     {
       "site": "uk_renogy_com",
@@ -419,7 +419,7 @@
       "percentage": 45.4,
       "old_price": "3030.00",
       "new_price": "1655.00",
-      "timestamp": "2026-01-30T00:34:43.908292",
+      "timestamp": "2026-01-30T00:39:44.190044",
       "url": "https://brownsfashion.com/products/bernadette-winnie-embroidery-maxi-dress-olmss2600156454"
     },
     {
@@ -455,7 +455,7 @@
       "percentage": 43.7,
       "old_price": "1305.00",
       "new_price": "735.00",
-      "timestamp": "2026-01-30T00:34:43.908292",
+      "timestamp": "2026-01-30T00:39:44.190044",
       "url": "https://brownsfashion.com/products/rebecca-vallance-bellatrix-off-shoulder-ruffled-midi-dress-olmss2600160546"
     },
     {
@@ -482,8 +482,17 @@
       "percentage": 40.0,
       "old_price": "25.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-30T00:35:07.403396",
+      "timestamp": "2026-01-30T00:40:12.852879",
       "url": "https://www.johnlewis.com/mac-powder-kiss-lipstick/p114703485"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "MAC Powder Kiss Liquid Lip Colour",
+      "percentage": 40.0,
+      "old_price": "25.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-30T00:40:12.852879",
+      "url": "https://www.johnlewis.com/mac-powder-kiss-liquid-lip-colour/p5092430"
     },
     {
       "site": "johnlewis_com",
@@ -599,7 +608,7 @@
       "percentage": 36.4,
       "old_price": "110.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-30T00:34:43.908292",
+      "timestamp": "2026-01-30T00:39:44.190044",
       "url": "https://brownsfashion.com/products/simon-miller-bwai-striped-bikini-bottom-olrss2600169718"
     },
     {
@@ -707,7 +716,7 @@
       "percentage": 33.6,
       "old_price": "119.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-30T00:34:55.285942",
+      "timestamp": "2026-01-30T00:40:05.226118",
       "url": "https://fenwick.co.uk/products/dark-brown-silver-ankle-boot-9617531109"
     },
     {
@@ -725,7 +734,7 @@
       "percentage": 32.1,
       "old_price": "249.00",
       "new_price": "169.00",
-      "timestamp": "2026-01-30T00:34:24.142886",
+      "timestamp": "2026-01-30T00:36:16.620301",
       "url": "https://www.mamasandpapas.com/products/armadillo-224165200"
     },
     {
@@ -788,7 +797,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T00:34:43.908292",
+      "timestamp": "2026-01-30T00:39:44.190044",
       "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
     },
     {
@@ -797,7 +806,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T00:34:43.908292",
+      "timestamp": "2026-01-30T00:39:44.190044",
       "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
     },
     {
@@ -806,7 +815,7 @@
       "percentage": 29.6,
       "old_price": "675.00",
       "new_price": "475.00",
-      "timestamp": "2026-01-30T00:34:43.908292",
+      "timestamp": "2026-01-30T00:39:44.190044",
       "url": "https://brownsfashion.com/products/r13-zebra-frayed-shirt-olpss2600163645"
     },
     {
@@ -815,7 +824,7 @@
       "percentage": 29.5,
       "old_price": "660.00",
       "new_price": "465.00",
-      "timestamp": "2026-01-30T00:34:43.908292",
+      "timestamp": "2026-01-30T00:39:44.190044",
       "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
     },
     {
@@ -824,7 +833,7 @@
       "percentage": 29.3,
       "old_price": "615.00",
       "new_price": "435.00",
-      "timestamp": "2026-01-30T00:34:43.908292",
+      "timestamp": "2026-01-30T00:39:44.190044",
       "url": "https://brownsfashion.com/products/r13-plaid-shirt-olpss2600163647"
     },
     {
@@ -869,7 +878,7 @@
       "percentage": 28.8,
       "old_price": "139.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-30T00:35:07.403396",
+      "timestamp": "2026-01-30T00:40:12.852879",
       "url": "https://www.johnlewis.com/carvela-sardinia-woven-panel-lace-up-trainers-black/p112893124"
     },
     {
@@ -1051,15 +1060,6 @@
       "new_price": "33.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/cap-in-delphinium-19452"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Dolman Midi Dress In Greenfinch",
-      "percentage": 26.7,
-      "old_price": "1350.00",
-      "new_price": "990.00",
-      "timestamp": "2026-01-29T13:39:43.695231",
-      "url": "https://www.victoriabeckham.com/products/long-sleeve-dolman-midi-in-greenfinch-21779"
     }
   ]
 }

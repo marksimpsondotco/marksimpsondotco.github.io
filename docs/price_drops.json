@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T18:47:58.936972",
-  "total_drops": 2651,
+  "generated_at": "2026-01-30T18:53:17.499802",
+  "total_drops": 2653,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -95,9 +95,9 @@
     },
     {
       "site": "smallsmart_co_uk",
-      "count": 34,
+      "count": 36,
       "max_drop": 30.4,
-      "total_savings": 93.68
+      "total_savings": 96.64
     },
     {
       "site": "astridandmiyu_com",
@@ -872,7 +872,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T18:47:50.754256",
+      "timestamp": "2026-01-30T18:53:07.486036",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-stone"
     },
     {
@@ -881,7 +881,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T18:47:50.754256",
+      "timestamp": "2026-01-30T18:53:07.486036",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-carbonite"
     },
     {
@@ -890,7 +890,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T18:47:50.754256",
+      "timestamp": "2026-01-30T18:53:07.486036",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-mink"
     },
     {

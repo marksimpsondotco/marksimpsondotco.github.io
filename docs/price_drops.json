@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-30T09:40:30.113659",
-  "total_drops": 2110,
+  "generated_at": "2026-01-30T09:45:44.948825",
+  "total_drops": 2111,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "pigletinbed_com",
-      "count": 8,
+      "count": 9,
       "max_drop": 76.0,
-      "total_savings": 273.0
+      "total_savings": 279.0
     },
     {
       "site": "johnlewis_com",
@@ -740,7 +740,7 @@
       "percentage": 35.0,
       "old_price": "200.00",
       "new_price": "130.00",
-      "timestamp": "2026-01-30T09:39:15.308731",
+      "timestamp": "2026-01-30T09:45:18.307219",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-duvet-set"
     },
     {
@@ -830,7 +830,7 @@
       "percentage": 32.7,
       "old_price": "245.00",
       "new_price": "165.00",
-      "timestamp": "2026-01-30T09:39:15.308731",
+      "timestamp": "2026-01-30T09:45:18.307219",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-sheet-set"
     },
     {
@@ -1001,7 +1001,7 @@
       "percentage": 30.0,
       "old_price": "59.99",
       "new_price": "41.99",
-      "timestamp": "2026-01-30T09:40:25.069088",
+      "timestamp": "2026-01-30T09:45:41.102567",
       "url": "https://www.currys.co.uk/products/10287528.html"
     },
     {

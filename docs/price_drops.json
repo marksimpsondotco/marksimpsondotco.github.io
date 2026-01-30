@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T08:05:45.979770",
-  "total_drops": 2019,
+  "generated_at": "2026-01-30T08:10:58.893745",
+  "total_drops": 2025,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "currys_com",
-      "count": 131,
+      "count": 137,
       "max_drop": 40.0,
-      "total_savings": 9360.03
+      "total_savings": 9706.03
     },
     {
       "site": "kingofcotton_com",
@@ -524,7 +524,7 @@
       "percentage": 40.0,
       "old_price": "15.00",
       "new_price": "9.00",
-      "timestamp": "2026-01-30T08:05:33.104511",
+      "timestamp": "2026-01-30T08:10:49.521211",
       "url": "https://www.johnlewis.com/joules-kids-cotton-long-sleeve-floral-top-red/p114201130"
     },
     {
@@ -560,7 +560,7 @@
       "percentage": 40.0,
       "old_price": "39.99",
       "new_price": "23.99",
-      "timestamp": "2026-01-30T08:05:36.381370",
+      "timestamp": "2026-01-30T08:10:54.712639",
       "url": "https://www.currys.co.uk/products/10156607.html"
     },
     {
@@ -740,7 +740,7 @@
       "percentage": 34.9,
       "old_price": "229.00",
       "new_price": "149.00",
-      "timestamp": "2026-01-30T08:05:36.381370",
+      "timestamp": "2026-01-30T08:10:54.712639",
       "url": "https://www.currys.co.uk/products/10281509.html"
     },
     {
@@ -785,7 +785,7 @@
       "percentage": 33.9,
       "old_price": "179.99",
       "new_price": "119.00",
-      "timestamp": "2026-01-30T08:05:36.381370",
+      "timestamp": "2026-01-30T08:10:54.712639",
       "url": "https://www.currys.co.uk/products/10271325.html"
     },
     {
@@ -839,7 +839,7 @@
       "percentage": 32.1,
       "old_price": "249.00",
       "new_price": "169.00",
-      "timestamp": "2026-01-30T08:05:36.381370",
+      "timestamp": "2026-01-30T08:10:54.712639",
       "url": "https://www.currys.co.uk/products/10263910.html"
     },
     {
@@ -938,7 +938,7 @@
       "percentage": 30.0,
       "old_price": "250.00",
       "new_price": "175.00",
-      "timestamp": "2026-01-30T08:05:35.004450",
+      "timestamp": "2026-01-30T08:06:09.175835",
       "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
     },
     {
@@ -947,7 +947,7 @@
       "percentage": 30.0,
       "old_price": "140.00",
       "new_price": "98.00",
-      "timestamp": "2026-01-30T08:05:35.004450",
+      "timestamp": "2026-01-30T08:06:09.175835",
       "url": "https://www.flannels.com/fred-perry-mens-zip-long-sleeve-overshirt-603891"
     },
     {

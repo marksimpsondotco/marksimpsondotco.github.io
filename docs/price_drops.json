@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T11:05:27.582794",
-  "total_drops": 2144,
+  "generated_at": "2026-01-30T11:10:44.646995",
+  "total_drops": 2147,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "oliversweeney_com",
-      "count": 12,
-      "max_drop": 70.2,
-      "total_savings": 510.0
+      "count": 15,
+      "max_drop": 71.4,
+      "total_savings": 855.0
     },
     {
       "site": "victoriabeckham_com",
@@ -193,6 +193,15 @@
     },
     {
       "site": "oliversweeney_com",
+      "product": "Durness Dark Tan",
+      "percentage": 71.4,
+      "old_price": "259.00",
+      "new_price": "74.00",
+      "timestamp": "2026-01-30T11:10:28.155724",
+      "url": "https://www.oliversweeney.com/products/durness-dark-tan-shoes"
+    },
+    {
+      "site": "oliversweeney_com",
       "product": "Dunbeath Dark Tan",
       "percentage": 70.2,
       "old_price": "299.00",
@@ -296,7 +305,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T11:05:03.952348",
+      "timestamp": "2026-01-30T11:10:36.197843",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -499,6 +508,24 @@
     },
     {
       "site": "oliversweeney_com",
+      "product": "Ellerigg Brown",
+      "percentage": 44.7,
+      "old_price": "179.00",
+      "new_price": "99.00",
+      "timestamp": "2026-01-30T11:10:28.155724",
+      "url": "https://www.oliversweeney.com/products/ellerigg-brown-boots"
+    },
+    {
+      "site": "oliversweeney_com",
+      "product": "Ellerigg Black",
+      "percentage": 44.7,
+      "old_price": "179.00",
+      "new_price": "99.00",
+      "timestamp": "2026-01-30T11:10:28.155724",
+      "url": "https://www.oliversweeney.com/products/ellerigg-black-boots"
+    },
+    {
+      "site": "oliversweeney_com",
       "product": "Hyde Chocolate",
       "percentage": 44.3,
       "old_price": "79.00",
@@ -557,7 +584,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T11:05:03.952348",
+      "timestamp": "2026-01-30T11:10:36.197843",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -683,7 +710,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T11:05:03.952348",
+      "timestamp": "2026-01-30T11:10:36.197843",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1045,33 +1072,6 @@
       "new_price": "70.00",
       "timestamp": "2026-01-30T03:57:13.964543",
       "url": "https://www.flannels.com/barbour-mens--cord-cotton-long-sleeve-overshirt-604215"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "Joie i-Harbour E Signature Car Seat - Eclipse",
-      "percentage": 30.0,
-      "old_price": "250.00",
-      "new_price": "175.00",
-      "timestamp": "2026-01-29T19:50:16.995026",
-      "url": "https://ukbabycentre.com/products/joie-i-harbour-e-signature-car-seat-eclipse"
-    },
-    {
-      "site": "currys_com",
-      "product": "SAMSUNG Z Flip7 Case - Clear",
-      "percentage": 30.0,
-      "old_price": "34.99",
-      "new_price": "24.49",
-      "timestamp": "2026-01-30T09:07:48.955211",
-      "url": "https://www.currys.co.uk/products/10287538.html"
-    },
-    {
-      "site": "currys_com",
-      "product": "SAMSUNG Galaxy Z Fold7 Grip Case - Blue",
-      "percentage": 30.0,
-      "old_price": "59.99",
-      "new_price": "41.99",
-      "timestamp": "2026-01-30T09:58:32.758625",
-      "url": "https://www.currys.co.uk/products/10287528.html"
     }
   ]
 }

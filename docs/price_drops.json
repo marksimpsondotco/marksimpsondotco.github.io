@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T11:21:29.160235",
-  "total_drops": 2154,
+  "generated_at": "2026-01-30T11:26:44.241437",
+  "total_drops": 2155,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 537,
+      "count": 538,
       "max_drop": 72.2,
-      "total_savings": 10700.7
+      "total_savings": 10780.7
     },
     {
       "site": "oliversweeney_com",
@@ -311,7 +311,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T11:21:09.056703",
+      "timestamp": "2026-01-30T11:26:05.189180",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -572,7 +572,7 @@
       "percentage": 41.7,
       "old_price": "24.00",
       "new_price": "14.00",
-      "timestamp": "2026-01-30T11:21:17.807662",
+      "timestamp": "2026-01-30T11:25:58.164220",
       "url": "https://dusk.com/products/soft-touch-microfibre-fitted-sheet-white"
     },
     {
@@ -599,7 +599,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T11:21:09.056703",
+      "timestamp": "2026-01-30T11:26:05.189180",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -734,7 +734,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T11:21:09.056703",
+      "timestamp": "2026-01-30T11:26:05.189180",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {

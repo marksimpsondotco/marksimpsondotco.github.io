@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T13:53:10.383130",
-  "total_drops": 2217,
+  "generated_at": "2026-01-30T13:58:23.178563",
+  "total_drops": 2218,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 571,
+      "count": 572,
       "max_drop": 72.2,
-      "total_savings": 12533.56
+      "total_savings": 12536.16
     },
     {
       "site": "oliversweeney_com",
@@ -269,7 +269,7 @@
       "percentage": 70.0,
       "old_price": "99.00",
       "new_price": "29.70",
-      "timestamp": "2026-01-30T13:53:00.757444",
+      "timestamp": "2026-01-30T13:58:15.046793",
       "url": "https://www.johnlewis.com/john-lewis-olive-leather-block-heel-ankle-boots/p113907301"
     },
     {
@@ -278,7 +278,7 @@
       "percentage": 70.0,
       "old_price": "65.00",
       "new_price": "19.50",
-      "timestamp": "2026-01-30T13:53:00.757444",
+      "timestamp": "2026-01-30T13:58:15.046793",
       "url": "https://www.johnlewis.com/john-lewis-straight-relaxed-leg-jean/p114103538"
     },
     {
@@ -377,7 +377,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T13:52:58.074779",
+      "timestamp": "2026-01-30T13:58:08.366593",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -539,7 +539,7 @@
       "percentage": 50.0,
       "old_price": "45.00",
       "new_price": "22.50",
-      "timestamp": "2026-01-30T13:53:00.757444",
+      "timestamp": "2026-01-30T13:58:15.046793",
       "url": "https://www.johnlewis.com/john-lewis-merino-wool-crew-neck-jumper/p113797003"
     },
     {
@@ -548,7 +548,7 @@
       "percentage": 50.0,
       "old_price": "39.00",
       "new_price": "19.50",
-      "timestamp": "2026-01-30T13:53:00.757444",
+      "timestamp": "2026-01-30T13:58:15.046793",
       "url": "https://www.johnlewis.com/john-lewis-v-neck-merino-wool-sleeveless-jumper/p113744926"
     },
     {
@@ -557,7 +557,7 @@
       "percentage": 50.0,
       "old_price": "100.00",
       "new_price": "50.00",
-      "timestamp": "2026-01-30T13:53:00.757444",
+      "timestamp": "2026-01-30T13:58:15.046793",
       "url": "https://www.johnlewis.com/levis-501-cropped-jeans/p112906802"
     },
     {
@@ -629,7 +629,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T13:52:58.074779",
+      "timestamp": "2026-01-30T13:58:08.366593",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -827,7 +827,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T13:52:58.074779",
+      "timestamp": "2026-01-30T13:58:08.366593",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -872,7 +872,7 @@
       "percentage": 40.0,
       "old_price": "69.00",
       "new_price": "41.40",
-      "timestamp": "2026-01-30T13:53:00.757444",
+      "timestamp": "2026-01-30T13:58:15.046793",
       "url": "https://www.johnlewis.com/john-lewis-cashmere-sleeveless-knit-vest/p113835631"
     },
     {
@@ -971,7 +971,7 @@
       "percentage": 38.1,
       "old_price": "289.00",
       "new_price": "179.00",
-      "timestamp": "2026-01-30T13:53:00.469904",
+      "timestamp": "2026-01-30T13:58:13.346814",
       "url": "https://www.currys.co.uk/products/10263784.html"
     },
     {
@@ -998,7 +998,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T13:52:58.074779",
+      "timestamp": "2026-01-30T13:58:08.366593",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T02:08:27.353894",
-  "total_drops": 1819,
+  "generated_at": "2026-01-30T02:13:36.661771",
+  "total_drops": 1822,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -77,9 +77,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 4,
-      "max_drop": 29.4,
-      "total_savings": 67.0
+      "count": 6,
+      "max_drop": 31.8,
+      "total_savings": 97.0
     },
     {
       "site": "astridandmiyu_com",
@@ -107,9 +107,9 @@
     },
     {
       "site": "currys_com",
-      "count": 13,
+      "count": 14,
       "max_drop": 19.5,
-      "total_savings": 1212.0
+      "total_savings": 1217.0
     },
     {
       "site": "uk_renogy_com",
@@ -173,7 +173,7 @@
       "percentage": 76.0,
       "old_price": "25.00",
       "new_price": "6.00",
-      "timestamp": "2026-01-30T02:07:27.807856",
+      "timestamp": "2026-01-30T02:13:28.297766",
       "url": "https://www.pigletinbed.com/products/pine-green-stripe-cotton-towels"
     },
     {
@@ -407,7 +407,7 @@
       "percentage": 46.4,
       "old_price": "16.80",
       "new_price": "9.00",
-      "timestamp": "2026-01-30T02:08:11.714559",
+      "timestamp": "2026-01-30T02:13:18.325554",
       "url": "https://dusk.com/products/washed-cotton-plain-dye-duvet-cover-set-almond"
     },
     {
@@ -443,7 +443,7 @@
       "percentage": 45.4,
       "old_price": "3030.00",
       "new_price": "1655.00",
-      "timestamp": "2026-01-30T02:08:25.529992",
+      "timestamp": "2026-01-30T02:13:24.299411",
       "url": "https://brownsfashion.com/products/bernadette-winnie-embroidery-maxi-dress-olmss2600156454"
     },
     {
@@ -479,7 +479,7 @@
       "percentage": 43.7,
       "old_price": "1305.00",
       "new_price": "735.00",
-      "timestamp": "2026-01-30T02:08:25.529992",
+      "timestamp": "2026-01-30T02:13:24.299411",
       "url": "https://brownsfashion.com/products/rebecca-vallance-bellatrix-off-shoulder-ruffled-midi-dress-olmss2600160546"
     },
     {
@@ -632,7 +632,7 @@
       "percentage": 36.4,
       "old_price": "110.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-30T02:08:25.529992",
+      "timestamp": "2026-01-30T02:13:24.299411",
       "url": "https://brownsfashion.com/products/simon-miller-bwai-striped-bikini-bottom-olrss2600169718"
     },
     {
@@ -713,7 +713,7 @@
       "percentage": 34.4,
       "old_price": "90.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-30T02:08:12.312607",
+      "timestamp": "2026-01-30T02:13:12.281332",
       "url": "https://fenwick.co.uk/products/kurt-geiger-white-bmaxima-white-8648110979"
     },
     {
@@ -749,7 +749,7 @@
       "percentage": 33.6,
       "old_price": "119.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-30T02:08:12.312607",
+      "timestamp": "2026-01-30T02:13:12.281332",
       "url": "https://fenwick.co.uk/products/dark-brown-silver-ankle-boot-9617531109"
     },
     {
@@ -769,6 +769,15 @@
       "new_price": "169.00",
       "timestamp": "2026-01-30T00:36:16.620301",
       "url": "https://www.mamasandpapas.com/products/armadillo-224165200"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Barbour International - Mallory Pom Beanie",
+      "percentage": 31.8,
+      "old_price": "22.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-30T02:13:32.253409",
+      "url": "https://www.flannels.com/barbour-international-womens-mallory-cable-knit-pom-beanie-906987"
     },
     {
       "site": "dusk_com",
@@ -830,7 +839,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T02:08:25.529992",
+      "timestamp": "2026-01-30T02:13:24.299411",
       "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
     },
     {
@@ -839,7 +848,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T02:08:25.529992",
+      "timestamp": "2026-01-30T02:13:24.299411",
       "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
     },
     {
@@ -848,7 +857,7 @@
       "percentage": 29.6,
       "old_price": "675.00",
       "new_price": "475.00",
-      "timestamp": "2026-01-30T02:08:25.529992",
+      "timestamp": "2026-01-30T02:13:24.299411",
       "url": "https://brownsfashion.com/products/r13-zebra-frayed-shirt-olpss2600163645"
     },
     {
@@ -857,7 +866,7 @@
       "percentage": 29.5,
       "old_price": "660.00",
       "new_price": "465.00",
-      "timestamp": "2026-01-30T02:08:25.529992",
+      "timestamp": "2026-01-30T02:13:24.299411",
       "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
     },
     {
@@ -866,7 +875,7 @@
       "percentage": 29.4,
       "old_price": "68.00",
       "new_price": "48.00",
-      "timestamp": "2026-01-30T02:08:15.019140",
+      "timestamp": "2026-01-30T02:13:32.253409",
       "url": "https://www.flannels.com/ganni-womens-rib-knit-wool-beanie-901340"
     },
     {
@@ -875,7 +884,7 @@
       "percentage": 29.3,
       "old_price": "615.00",
       "new_price": "435.00",
-      "timestamp": "2026-01-30T02:08:25.529992",
+      "timestamp": "2026-01-30T02:13:24.299411",
       "url": "https://brownsfashion.com/products/r13-plaid-shirt-olpss2600163647"
     },
     {
@@ -902,7 +911,7 @@
       "percentage": 29.0,
       "old_price": "62.00",
       "new_price": "44.00",
-      "timestamp": "2026-01-30T02:07:27.807856",
+      "timestamp": "2026-01-30T02:13:28.297766",
       "url": "https://www.pigletinbed.com/products/warm-clay-100-linen-fitted-sheet"
     },
     {
@@ -956,7 +965,7 @@
       "percentage": 28.2,
       "old_price": "39.00",
       "new_price": "28.00",
-      "timestamp": "2026-01-30T02:08:15.019140",
+      "timestamp": "2026-01-30T02:13:32.253409",
       "url": "https://www.flannels.com/coach-womens-embroidered-cable-knit-beanie-900594"
     },
     {
@@ -1057,15 +1066,6 @@
       "new_price": "820.00",
       "timestamp": "2026-01-29T18:56:25.573475",
       "url": "https://brownsfashion.com/products/prada-patent-leather-wedge-sandals-olsss2600166987"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Cap In Navy",
-      "percentage": 26.7,
-      "old_price": "60.00",
-      "new_price": "44.00",
-      "timestamp": "2026-01-29T19:54:32.803866",
-      "url": "https://www.victoriabeckham.com/products/cap-in-navy-21158"
     }
   ]
 }

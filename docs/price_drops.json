@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T12:55:56.021751",
-  "total_drops": 2184,
+  "generated_at": "2026-01-30T13:01:07.416741",
+  "total_drops": 2197,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 557,
+      "count": 563,
       "max_drop": 72.2,
-      "total_savings": 11793.57
+      "total_savings": 12234.66
     },
     {
       "site": "oliversweeney_com",
@@ -35,9 +35,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 10,
+      "count": 17,
       "max_drop": 53.8,
-      "total_savings": 340.5
+      "total_savings": 689.48
     },
     {
       "site": "brownsfashion_com",
@@ -238,6 +238,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Coach Tabby 26 Pebbled Leather Shoulder Bag",
+      "percentage": 70.0,
+      "old_price": "475.00",
+      "new_price": "142.50",
+      "timestamp": "2026-01-30T13:00:58.998515",
+      "url": "https://www.johnlewis.com/coach-tabby-26-pebbled-leather-shoulder-bag/p5071387"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Regular Fit Linen Shirt",
       "percentage": 70.0,
       "old_price": "59.00",
@@ -318,6 +327,15 @@
       "url": "https://www.johnlewis.com/john-lewis-oversized-leather-tote-bag/p113961376"
     },
     {
+      "site": "johnlewis_com",
+      "product": "Saint Tropez Mila 3/4 Sleeve Jumper",
+      "percentage": 56.3,
+      "old_price": "34.99",
+      "new_price": "15.30",
+      "timestamp": "2026-01-30T13:00:58.998515",
+      "url": "https://www.johnlewis.com/saint-tropez-mila-3-4-sleeve-jumper/p112393072"
+    },
+    {
       "site": "dusk_com",
       "product": "Washed Cotton Linen Blend Plain Dye Cushion Cover - Chalk White",
       "percentage": 55.6,
@@ -341,7 +359,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T12:55:47.810243",
+      "timestamp": "2026-01-30T13:00:55.109444",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -557,7 +575,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T12:55:47.810243",
+      "timestamp": "2026-01-30T13:00:55.109444",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -755,7 +773,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T12:55:47.810243",
+      "timestamp": "2026-01-30T13:00:55.109444",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -908,7 +926,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T12:55:47.810243",
+      "timestamp": "2026-01-30T13:00:55.109444",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1011,6 +1029,15 @@
       "url": "https://www.oliversweeney.com/products/ramada-dark-grey-trousers"
     },
     {
+      "site": "fenwick_co_uk",
+      "product": "OLIVER SWEENEY Eastington Shoes",
+      "percentage": 36.0,
+      "old_price": "250.00",
+      "new_price": "160.00",
+      "timestamp": "2026-01-30T13:00:55.109444",
+      "url": "https://fenwick.co.uk/products/black-oliver-sweeney-eastington-shoes-eastobk"
+    },
+    {
       "site": "brownsfashion_com",
       "product": "Pop! set-of-four coasters",
       "percentage": 35.3,
@@ -1063,33 +1090,6 @@
       "new_price": "59.00",
       "timestamp": "2026-01-30T04:37:35.696465",
       "url": "https://fenwick.co.uk/products/kurt-geiger-white-bmaxima-white-8648110979"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "zip logo jacket",
-      "percentage": 34.0,
-      "old_price": "2365.00",
-      "new_price": "1560.00",
-      "timestamp": "2026-01-29T18:56:25.573475",
-      "url": "https://brownsfashion.com/products/prada-zip-logo-jacket-oo2ss2600167070"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Treath Mulberry",
-      "percentage": 33.9,
-      "old_price": "59.00",
-      "new_price": "39.00",
-      "timestamp": "2026-01-30T11:19:17.455806",
-      "url": "https://www.oliversweeney.com/products/treath-mulberry-knitwear"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Treath Grey",
-      "percentage": 33.9,
-      "old_price": "59.00",
-      "new_price": "39.00",
-      "timestamp": "2026-01-30T11:19:17.455806",
-      "url": "https://www.oliversweeney.com/products/treath-grey-knitwear"
     }
   ]
 }

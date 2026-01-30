@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T11:10:59.714265",
-  "total_drops": 2147,
+  "generated_at": "2026-01-30T11:16:16.543297",
+  "total_drops": 2153,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "site": "oliversweeney_com",
-      "count": 15,
+      "count": 20,
       "max_drop": 71.4,
-      "total_savings": 855.0
+      "total_savings": 945.0
     },
     {
       "site": "victoriabeckham_com",
@@ -29,9 +29,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 90,
+      "count": 91,
       "max_drop": 63.6,
-      "total_savings": 3643.0
+      "total_savings": 3653.0
     },
     {
       "site": "fenwick_co_uk",
@@ -197,7 +197,7 @@
       "percentage": 71.4,
       "old_price": "259.00",
       "new_price": "74.00",
-      "timestamp": "2026-01-30T11:10:28.155724",
+      "timestamp": "2026-01-30T11:15:17.324590",
       "url": "https://www.oliversweeney.com/products/durness-dark-tan-shoes"
     },
     {
@@ -305,7 +305,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T11:10:36.197843",
+      "timestamp": "2026-01-30T11:15:48.905339",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -512,7 +512,7 @@
       "percentage": 44.7,
       "old_price": "179.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-30T11:10:28.155724",
+      "timestamp": "2026-01-30T11:15:17.324590",
       "url": "https://www.oliversweeney.com/products/ellerigg-brown-boots"
     },
     {
@@ -521,7 +521,7 @@
       "percentage": 44.7,
       "old_price": "179.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-30T11:10:28.155724",
+      "timestamp": "2026-01-30T11:15:17.324590",
       "url": "https://www.oliversweeney.com/products/ellerigg-black-boots"
     },
     {
@@ -561,6 +561,15 @@
       "url": "https://brownsfashion.com/products/rebecca-vallance-bellatrix-off-shoulder-ruffled-midi-dress-olmss2600160546"
     },
     {
+      "site": "dusk_com",
+      "product": "Soft Touch Microfibre Fitted Sheet - White",
+      "percentage": 41.7,
+      "old_price": "24.00",
+      "new_price": "14.00",
+      "timestamp": "2026-01-30T11:15:53.106882",
+      "url": "https://dusk.com/products/soft-touch-microfibre-fitted-sheet-white"
+    },
+    {
       "site": "oliversweeney_com",
       "product": "Swanley Tan",
       "percentage": 40.4,
@@ -584,7 +593,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T11:10:36.197843",
+      "timestamp": "2026-01-30T11:15:48.905339",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -678,6 +687,15 @@
       "url": "https://www.kingofcotton.com/products/pima-750-thread-cotton-sateen-fitted-sheet"
     },
     {
+      "site": "oliversweeney_com",
+      "product": "Treath Navy",
+      "percentage": 39.1,
+      "old_price": "64.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-30T11:15:17.324590",
+      "url": "https://www.oliversweeney.com/products/treath-navy-knitwear"
+    },
+    {
       "site": "flannels_com",
       "product": "Kangol - Women's Panel Six Panel Baseball Cap",
       "percentage": 38.9,
@@ -710,7 +728,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T11:10:36.197843",
+      "timestamp": "2026-01-30T11:15:48.905339",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -876,6 +894,24 @@
       "url": "https://brownsfashion.com/products/prada-zip-logo-jacket-oo2ss2600167070"
     },
     {
+      "site": "oliversweeney_com",
+      "product": "Treath Mulberry",
+      "percentage": 33.9,
+      "old_price": "59.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-30T11:15:17.324590",
+      "url": "https://www.oliversweeney.com/products/treath-mulberry-knitwear"
+    },
+    {
+      "site": "oliversweeney_com",
+      "product": "Treath Grey",
+      "percentage": 33.9,
+      "old_price": "59.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-30T11:15:17.324590",
+      "url": "https://www.oliversweeney.com/products/treath-grey-knitwear"
+    },
+    {
       "site": "currys_com",
       "product": "KENSINGTON SD5000T5 5-Port USB-A Docking Station",
       "percentage": 33.9,
@@ -1036,42 +1072,6 @@
       "new_price": "32.20",
       "timestamp": "2026-01-29T12:17:38.294832",
       "url": "https://www.johnlewis.com/john-lewis-brushed-cotton-gingham-pyjama-set/p111801531"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "FALKE Cosy Wool & Cashmere Blend Socks",
-      "percentage": 30.0,
-      "old_price": "20.00",
-      "new_price": "14.00",
-      "timestamp": "2026-01-29T13:48:10.497516",
-      "url": "https://www.johnlewis.com/falke-cosy-wool-cashmere-blend-socks/p112090754"
-    },
-    {
-      "site": "flannels_com",
-      "product": "PS Paul Smith - Men's Zipped Harrington Jacket",
-      "percentage": 30.0,
-      "old_price": "250.00",
-      "new_price": "175.00",
-      "timestamp": "2026-01-30T08:06:09.175835",
-      "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Fred Perry - Men's  Long Sleeve Zip Overshirt",
-      "percentage": 30.0,
-      "old_price": "140.00",
-      "new_price": "98.00",
-      "timestamp": "2026-01-30T08:06:09.175835",
-      "url": "https://www.flannels.com/fred-perry-mens-zip-long-sleeve-overshirt-603891"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Barbour - Men's  Cord Cotton Long Sleeve Overshirt",
-      "percentage": 30.0,
-      "old_price": "100.00",
-      "new_price": "70.00",
-      "timestamp": "2026-01-30T03:57:13.964543",
-      "url": "https://www.flannels.com/barbour-mens--cord-cotton-long-sleeve-overshirt-604215"
     }
   ]
 }

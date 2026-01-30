@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T11:16:16.543297",
-  "total_drops": 2153,
+  "generated_at": "2026-01-30T11:21:29.160235",
+  "total_drops": 2154,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -130,6 +130,12 @@
       "total_savings": 40.0
     },
     {
+      "site": "leaderonline_com",
+      "count": 1,
+      "max_drop": 18.2,
+      "total_savings": 1.0
+    },
+    {
       "site": "boden_com",
       "count": 11,
       "max_drop": 17.1,
@@ -197,7 +203,7 @@
       "percentage": 71.4,
       "old_price": "259.00",
       "new_price": "74.00",
-      "timestamp": "2026-01-30T11:15:17.324590",
+      "timestamp": "2026-01-30T11:19:17.455806",
       "url": "https://www.oliversweeney.com/products/durness-dark-tan-shoes"
     },
     {
@@ -305,7 +311,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T11:15:48.905339",
+      "timestamp": "2026-01-30T11:21:09.056703",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -512,7 +518,7 @@
       "percentage": 44.7,
       "old_price": "179.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-30T11:15:17.324590",
+      "timestamp": "2026-01-30T11:19:17.455806",
       "url": "https://www.oliversweeney.com/products/ellerigg-brown-boots"
     },
     {
@@ -521,7 +527,7 @@
       "percentage": 44.7,
       "old_price": "179.00",
       "new_price": "99.00",
-      "timestamp": "2026-01-30T11:15:17.324590",
+      "timestamp": "2026-01-30T11:19:17.455806",
       "url": "https://www.oliversweeney.com/products/ellerigg-black-boots"
     },
     {
@@ -566,7 +572,7 @@
       "percentage": 41.7,
       "old_price": "24.00",
       "new_price": "14.00",
-      "timestamp": "2026-01-30T11:15:53.106882",
+      "timestamp": "2026-01-30T11:21:17.807662",
       "url": "https://dusk.com/products/soft-touch-microfibre-fitted-sheet-white"
     },
     {
@@ -593,7 +599,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T11:15:48.905339",
+      "timestamp": "2026-01-30T11:21:09.056703",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -692,7 +698,7 @@
       "percentage": 39.1,
       "old_price": "64.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-30T11:15:17.324590",
+      "timestamp": "2026-01-30T11:19:17.455806",
       "url": "https://www.oliversweeney.com/products/treath-navy-knitwear"
     },
     {
@@ -728,7 +734,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T11:15:48.905339",
+      "timestamp": "2026-01-30T11:21:09.056703",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -899,7 +905,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-30T11:15:17.324590",
+      "timestamp": "2026-01-30T11:19:17.455806",
       "url": "https://www.oliversweeney.com/products/treath-mulberry-knitwear"
     },
     {
@@ -908,7 +914,7 @@
       "percentage": 33.9,
       "old_price": "59.00",
       "new_price": "39.00",
-      "timestamp": "2026-01-30T11:15:17.324590",
+      "timestamp": "2026-01-30T11:19:17.455806",
       "url": "https://www.oliversweeney.com/products/treath-grey-knitwear"
     },
     {

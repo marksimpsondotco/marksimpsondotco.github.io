@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T02:13:36.661771",
-  "total_drops": 1822,
+  "generated_at": "2026-01-30T02:18:46.324497",
+  "total_drops": 1824,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -77,9 +77,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 6,
+      "count": 8,
       "max_drop": 31.8,
-      "total_savings": 97.0
+      "total_savings": 109.0
     },
     {
       "site": "astridandmiyu_com",
@@ -173,7 +173,7 @@
       "percentage": 76.0,
       "old_price": "25.00",
       "new_price": "6.00",
-      "timestamp": "2026-01-30T02:13:28.297766",
+      "timestamp": "2026-01-30T02:18:11.665273",
       "url": "https://www.pigletinbed.com/products/pine-green-stripe-cotton-towels"
     },
     {
@@ -407,7 +407,7 @@
       "percentage": 46.4,
       "old_price": "16.80",
       "new_price": "9.00",
-      "timestamp": "2026-01-30T02:13:18.325554",
+      "timestamp": "2026-01-30T02:18:39.047264",
       "url": "https://dusk.com/products/washed-cotton-plain-dye-duvet-cover-set-almond"
     },
     {
@@ -443,7 +443,7 @@
       "percentage": 45.4,
       "old_price": "3030.00",
       "new_price": "1655.00",
-      "timestamp": "2026-01-30T02:13:24.299411",
+      "timestamp": "2026-01-30T02:18:12.041065",
       "url": "https://brownsfashion.com/products/bernadette-winnie-embroidery-maxi-dress-olmss2600156454"
     },
     {
@@ -479,7 +479,7 @@
       "percentage": 43.7,
       "old_price": "1305.00",
       "new_price": "735.00",
-      "timestamp": "2026-01-30T02:13:24.299411",
+      "timestamp": "2026-01-30T02:18:12.041065",
       "url": "https://brownsfashion.com/products/rebecca-vallance-bellatrix-off-shoulder-ruffled-midi-dress-olmss2600160546"
     },
     {
@@ -632,7 +632,7 @@
       "percentage": 36.4,
       "old_price": "110.00",
       "new_price": "70.00",
-      "timestamp": "2026-01-30T02:13:24.299411",
+      "timestamp": "2026-01-30T02:18:12.041065",
       "url": "https://brownsfashion.com/products/simon-miller-bwai-striped-bikini-bottom-olrss2600169718"
     },
     {
@@ -713,7 +713,7 @@
       "percentage": 34.4,
       "old_price": "90.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-30T02:13:12.281332",
+      "timestamp": "2026-01-30T02:18:42.527646",
       "url": "https://fenwick.co.uk/products/kurt-geiger-white-bmaxima-white-8648110979"
     },
     {
@@ -749,7 +749,7 @@
       "percentage": 33.6,
       "old_price": "119.00",
       "new_price": "79.00",
-      "timestamp": "2026-01-30T02:13:12.281332",
+      "timestamp": "2026-01-30T02:18:42.527646",
       "url": "https://fenwick.co.uk/products/dark-brown-silver-ankle-boot-9617531109"
     },
     {
@@ -776,8 +776,17 @@
       "percentage": 31.8,
       "old_price": "22.00",
       "new_price": "15.00",
-      "timestamp": "2026-01-30T02:13:32.253409",
+      "timestamp": "2026-01-30T02:18:33.037046",
       "url": "https://www.flannels.com/barbour-international-womens-mallory-cable-knit-pom-beanie-906987"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Barbour - Beldon Beret",
+      "percentage": 31.8,
+      "old_price": "22.00",
+      "new_price": "15.00",
+      "timestamp": "2026-01-30T02:18:33.037046",
+      "url": "https://www.flannels.com/barbour-womens-beldon-beret-900180"
     },
     {
       "site": "dusk_com",
@@ -839,7 +848,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T02:13:24.299411",
+      "timestamp": "2026-01-30T02:18:12.041065",
       "url": "https://brownsfashion.com/products/r13-cinched-hem-hoodie-olpss2600163651"
     },
     {
@@ -848,7 +857,7 @@
       "percentage": 29.8,
       "old_price": "570.00",
       "new_price": "400.00",
-      "timestamp": "2026-01-30T02:13:24.299411",
+      "timestamp": "2026-01-30T02:18:12.041065",
       "url": "https://brownsfashion.com/products/r13-plaid-frayed-shirt-olpss2600163638"
     },
     {
@@ -857,7 +866,7 @@
       "percentage": 29.6,
       "old_price": "675.00",
       "new_price": "475.00",
-      "timestamp": "2026-01-30T02:13:24.299411",
+      "timestamp": "2026-01-30T02:18:12.041065",
       "url": "https://brownsfashion.com/products/r13-zebra-frayed-shirt-olpss2600163645"
     },
     {
@@ -866,7 +875,7 @@
       "percentage": 29.5,
       "old_price": "660.00",
       "new_price": "465.00",
-      "timestamp": "2026-01-30T02:13:24.299411",
+      "timestamp": "2026-01-30T02:18:12.041065",
       "url": "https://brownsfashion.com/products/r13-plaid-mini-shirt-dress-olpss2600163639"
     },
     {
@@ -875,7 +884,7 @@
       "percentage": 29.4,
       "old_price": "68.00",
       "new_price": "48.00",
-      "timestamp": "2026-01-30T02:13:32.253409",
+      "timestamp": "2026-01-30T02:18:33.037046",
       "url": "https://www.flannels.com/ganni-womens-rib-knit-wool-beanie-901340"
     },
     {
@@ -884,7 +893,7 @@
       "percentage": 29.3,
       "old_price": "615.00",
       "new_price": "435.00",
-      "timestamp": "2026-01-30T02:13:24.299411",
+      "timestamp": "2026-01-30T02:18:12.041065",
       "url": "https://brownsfashion.com/products/r13-plaid-shirt-olpss2600163647"
     },
     {
@@ -911,7 +920,7 @@
       "percentage": 29.0,
       "old_price": "62.00",
       "new_price": "44.00",
-      "timestamp": "2026-01-30T02:13:28.297766",
+      "timestamp": "2026-01-30T02:18:11.665273",
       "url": "https://www.pigletinbed.com/products/warm-clay-100-linen-fitted-sheet"
     },
     {
@@ -965,7 +974,7 @@
       "percentage": 28.2,
       "old_price": "39.00",
       "new_price": "28.00",
-      "timestamp": "2026-01-30T02:13:32.253409",
+      "timestamp": "2026-01-30T02:18:33.037046",
       "url": "https://www.flannels.com/coach-womens-embroidered-cable-knit-beanie-900594"
     },
     {
@@ -1057,15 +1066,6 @@
       "new_price": "2155.00",
       "timestamp": "2026-01-29T18:56:25.573475",
       "url": "https://brownsfashion.com/products/prada-button-fastening-blazer-olnss2600166947"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "patent-leather wedge sandals",
-      "percentage": 26.8,
-      "old_price": "1120.00",
-      "new_price": "820.00",
-      "timestamp": "2026-01-29T18:56:25.573475",
-      "url": "https://brownsfashion.com/products/prada-patent-leather-wedge-sandals-olsss2600166987"
     }
   ]
 }

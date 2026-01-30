@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T18:37:08.905874",
-  "total_drops": 2598,
+  "generated_at": "2026-01-30T18:42:24.517755",
+  "total_drops": 2650,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,15 +35,21 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 21,
+      "count": 22,
       "max_drop": 53.8,
-      "total_savings": 784.43
+      "total_savings": 808.03
     },
     {
       "site": "brownsfashion_com",
       "count": 417,
       "max_drop": 50.0,
       "total_savings": 39819.2
+    },
+    {
+      "site": "ukbabycentre_com",
+      "count": 48,
+      "max_drop": 44.2,
+      "total_savings": 2743.73
     },
     {
       "site": "berrysjewellers_co_uk",
@@ -71,15 +77,9 @@
     },
     {
       "site": "chelseababy_com",
-      "count": 96,
+      "count": 139,
       "max_drop": 35.0,
-      "total_savings": 4526.75
-    },
-    {
-      "site": "ukbabycentre_com",
-      "count": 40,
-      "max_drop": 34.7,
-      "total_savings": 2368.13
+      "total_savings": 6981.03
     },
     {
       "site": "2tall_com",
@@ -867,6 +867,33 @@
       "url": "https://www.johnlewis.com/sweaty-betty-power-ultrasculpt-high-waisted-7-8-gym-leggings/p110400324"
     },
     {
+      "site": "ukbabycentre_com",
+      "product": "Oyster Swinging Crib - Stone",
+      "percentage": 44.2,
+      "old_price": "249.00",
+      "new_price": "139.00",
+      "timestamp": "2026-01-30T18:42:06.398083",
+      "url": "https://ukbabycentre.com/products/oyster-swinging-crib-stone"
+    },
+    {
+      "site": "ukbabycentre_com",
+      "product": "Oyster Swinging Crib - Carbonite",
+      "percentage": 44.2,
+      "old_price": "249.00",
+      "new_price": "139.00",
+      "timestamp": "2026-01-30T18:42:06.398083",
+      "url": "https://ukbabycentre.com/products/oyster-swinging-crib-carbonite"
+    },
+    {
+      "site": "ukbabycentre_com",
+      "product": "Oyster Swinging Crib - Mink",
+      "percentage": 44.2,
+      "old_price": "249.00",
+      "new_price": "139.00",
+      "timestamp": "2026-01-30T18:42:06.398083",
+      "url": "https://ukbabycentre.com/products/oyster-swinging-crib-mink"
+    },
+    {
       "site": "johnlewis_com",
       "product": "The Little Green Sheep Organic Cotton Cellular Blanket",
       "percentage": 44.0,
@@ -1081,33 +1108,6 @@
       "new_price": "39.00",
       "timestamp": "2026-01-30T11:19:17.455806",
       "url": "https://www.oliversweeney.com/products/treath-navy-knitwear"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Kangol - Women's Panel Six Panel Baseball Cap",
-      "percentage": 38.9,
-      "old_price": "18.00",
-      "new_price": "11.00",
-      "timestamp": "2026-01-30T03:57:13.964543",
-      "url": "https://www.flannels.com/kangol-womens-panel-six-panel-baseball-cap-402639"
-    },
-    {
-      "site": "currys_com",
-      "product": "HISENSE GG643B 60 cm Gas Hob - Black",
-      "percentage": 38.1,
-      "old_price": "289.00",
-      "new_price": "179.00",
-      "timestamp": "2026-01-30T14:01:17.710809",
-      "url": "https://www.currys.co.uk/products/10263784.html"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Cashmere Rib Knit Beanie Hat",
-      "percentage": 37.5,
-      "old_price": "39.20",
-      "new_price": "24.50",
-      "timestamp": "2026-01-29T13:04:03.145929",
-      "url": "https://www.johnlewis.com/john-lewis-cashmere-rib-knit-beanie-hat/p113610121"
     }
   ]
 }

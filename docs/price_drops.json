@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T18:31:53.432354",
-  "total_drops": 2543,
+  "generated_at": "2026-01-30T18:37:08.905874",
+  "total_drops": 2598,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 20,
+      "count": 21,
       "max_drop": 53.8,
-      "total_savings": 753.23
+      "total_savings": 784.43
     },
     {
       "site": "brownsfashion_com",
@@ -70,10 +70,16 @@
       "total_savings": 1691.5
     },
     {
+      "site": "chelseababy_com",
+      "count": 96,
+      "max_drop": 35.0,
+      "total_savings": 4526.75
+    },
+    {
       "site": "ukbabycentre_com",
-      "count": 36,
+      "count": 40,
       "max_drop": 34.7,
-      "total_savings": 2087.13
+      "total_savings": 2368.13
     },
     {
       "site": "2tall_com",
@@ -164,12 +170,6 @@
       "count": 7,
       "max_drop": 12.6,
       "total_savings": 90.0
-    },
-    {
-      "site": "chelseababy_com",
-      "count": 46,
-      "max_drop": 12.6,
-      "total_savings": 733.21
     },
     {
       "site": "callidus_shop",

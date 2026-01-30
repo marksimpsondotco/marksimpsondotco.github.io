@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-30T09:35:11.731628",
-  "total_drops": 2106,
+  "generated_at": "2026-01-30T09:40:30.113659",
+  "total_drops": 2110,
   "top_drops_shown": 100,
   "site_stats": [
     {
       "site": "pigletinbed_com",
-      "count": 6,
+      "count": 8,
       "max_drop": 76.0,
-      "total_savings": 123.0
+      "total_savings": 273.0
     },
     {
       "site": "johnlewis_com",
@@ -47,9 +47,9 @@
     },
     {
       "site": "currys_com",
-      "count": 214,
+      "count": 216,
       "max_drop": 40.0,
-      "total_savings": 13700.56
+      "total_savings": 13980.56
     },
     {
       "site": "kingofcotton_com",
@@ -735,6 +735,15 @@
       "url": "https://brownsfashion.com/products/jonathan-adler-pop-set-of-four-coasters-lls78itym524232114"
     },
     {
+      "site": "pigletinbed_com",
+      "product": "Berry Linen Blend Duvet Set",
+      "percentage": 35.0,
+      "old_price": "200.00",
+      "new_price": "130.00",
+      "timestamp": "2026-01-30T09:39:15.308731",
+      "url": "https://www.pigletinbed.com/products/berry-linen-blend-duvet-set"
+    },
+    {
       "site": "currys_com",
       "product": "HP 14a-ne1500sa 14\" Chromebook - Intel® Celeron®, 64 GB",
       "percentage": 34.9,
@@ -814,6 +823,15 @@
       "new_price": "79.00",
       "timestamp": "2026-01-30T04:37:35.696465",
       "url": "https://fenwick.co.uk/products/dark-brown-silver-ankle-boot-9617531109"
+    },
+    {
+      "site": "pigletinbed_com",
+      "product": "Berry Linen Blend Sheet Set",
+      "percentage": 32.7,
+      "old_price": "245.00",
+      "new_price": "165.00",
+      "timestamp": "2026-01-30T09:39:15.308731",
+      "url": "https://www.pigletinbed.com/products/berry-linen-blend-sheet-set"
     },
     {
       "site": "johnlewis_com",
@@ -983,7 +1001,7 @@
       "percentage": 30.0,
       "old_price": "59.99",
       "new_price": "41.99",
-      "timestamp": "2026-01-30T09:35:02.310332",
+      "timestamp": "2026-01-30T09:40:25.069088",
       "url": "https://www.currys.co.uk/products/10287528.html"
     },
     {
@@ -1048,24 +1066,6 @@
       "new_price": "60.00",
       "timestamp": "2026-01-30T03:57:13.964543",
       "url": "https://www.flannels.com/lauren-by-ralph-lauren-womens-logo-embossed-leather-gloves-903598"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "plaid shirt",
-      "percentage": 29.3,
-      "old_price": "615.00",
-      "new_price": "435.00",
-      "timestamp": "2026-01-30T05:28:35.260186",
-      "url": "https://brownsfashion.com/products/r13-plaid-shirt-olpss2600163647"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Sweaty Betty Escape Italian Luxe Fleece Hoodie",
-      "percentage": 29.2,
-      "old_price": "60.00",
-      "new_price": "42.50",
-      "timestamp": "2026-01-29T13:04:03.145929",
-      "url": "https://www.johnlewis.com/sweaty-betty-escape-italian-luxe-fleece-hoodie/p5437821"
     }
   ]
 }

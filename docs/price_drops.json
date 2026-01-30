@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T06:06:22.506174",
-  "total_drops": 1896,
+  "generated_at": "2026-01-30T06:11:30.875818",
+  "total_drops": 1901,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -53,9 +53,9 @@
     },
     {
       "site": "flannels_com",
-      "count": 41,
+      "count": 46,
       "max_drop": 38.9,
-      "total_savings": 1268.0
+      "total_savings": 1678.0
     },
     {
       "site": "currys_com",
@@ -889,6 +889,24 @@
     },
     {
       "site": "flannels_com",
+      "product": "PS Paul Smith - Men's Zipped Harrington Jacket",
+      "percentage": 30.0,
+      "old_price": "250.00",
+      "new_price": "175.00",
+      "timestamp": "2026-01-30T06:11:25.752203",
+      "url": "https://www.flannels.com/ps-paul-smith-mens-zipped-harrington-jacket-609085"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Fred Perry - Men's  Long Sleeve Zip Overshirt",
+      "percentage": 30.0,
+      "old_price": "140.00",
+      "new_price": "98.00",
+      "timestamp": "2026-01-30T06:11:25.752203",
+      "url": "https://www.flannels.com/fred-perry-mens-zip-long-sleeve-overshirt-603891"
+    },
+    {
+      "site": "flannels_com",
       "product": "Barbour - Men's  Cord Cotton Long Sleeve Overshirt",
       "percentage": 30.0,
       "old_price": "100.00",
@@ -1048,24 +1066,6 @@
       "new_price": "30.00",
       "timestamp": "2026-01-29T12:17:38.294832",
       "url": "https://www.johnlewis.com/tommy-hilfiger-1985-regular-fit-polo-shirt/p109261145"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "HUSH Raven Chunky Ribbed Knitted Cardigan",
-      "percentage": 28.6,
-      "old_price": "77.00",
-      "new_price": "55.00",
-      "timestamp": "2026-01-29T13:48:10.497516",
-      "url": "https://www.johnlewis.com/hush-raven-chunky-ribbed-knitted-cardigan/p113108223"
-    },
-    {
-      "site": "flannels_com",
-      "product": "The North Face - Mens Mountain Water Resistant Long Sleeve Rain Anorak",
-      "percentage": 28.6,
-      "old_price": "105.00",
-      "new_price": "75.00",
-      "timestamp": "2026-01-30T03:57:13.964543",
-      "url": "https://www.flannels.com/the-north-face-mens-mountain-water-resistant-long-sleeve-rain-anorak-605099"
     }
   ]
 }

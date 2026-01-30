@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T08:16:24.664051",
-  "total_drops": 2030,
+  "generated_at": "2026-01-30T08:21:37.981191",
+  "total_drops": 2031,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "site": "dusk_com",
-      "count": 87,
+      "count": 88,
       "max_drop": 63.6,
-      "total_savings": 3630.0
+      "total_savings": 3631.0
     },
     {
       "site": "brownsfashion_com",

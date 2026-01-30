@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T17:59:44.430008",
-  "total_drops": 2467,
+  "generated_at": "2026-01-30T18:05:08.585434",
+  "total_drops": 2473,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -143,9 +143,9 @@
     },
     {
       "site": "pendletonwoolenmills_eu",
-      "count": 136,
+      "count": 142,
       "max_drop": 16.7,
-      "total_savings": 1810.75
+      "total_savings": 1941.25
     },
     {
       "site": "hauslondon_com",

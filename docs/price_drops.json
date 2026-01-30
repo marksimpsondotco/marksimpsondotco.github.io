@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T19:25:20.482985",
-  "total_drops": 2667,
+  "generated_at": "2026-01-30T19:30:39.353182",
+  "total_drops": 2668,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -143,9 +143,9 @@
     },
     {
       "site": "boden_com",
-      "count": 14,
+      "count": 15,
       "max_drop": 17.1,
-      "total_savings": 42.95
+      "total_savings": 46.95
     },
     {
       "site": "pendletonwoolenmills_eu",
@@ -746,7 +746,7 @@
       "percentage": 48.0,
       "old_price": "25.00",
       "new_price": "13.00",
-      "timestamp": "2026-01-30T19:25:10.013039",
+      "timestamp": "2026-01-30T19:30:26.965321",
       "url": "https://dusk.com/products/colour-stitch-fade-effect-cushion-cover-multi-natural"
     },
     {
@@ -881,7 +881,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T19:25:03.162518",
+      "timestamp": "2026-01-30T19:30:24.064593",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-stone"
     },
     {
@@ -890,7 +890,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T19:25:03.162518",
+      "timestamp": "2026-01-30T19:30:24.064593",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-carbonite"
     },
     {
@@ -899,7 +899,7 @@
       "percentage": 44.2,
       "old_price": "249.00",
       "new_price": "139.00",
-      "timestamp": "2026-01-30T19:25:03.162518",
+      "timestamp": "2026-01-30T19:30:24.064593",
       "url": "https://ukbabycentre.com/products/oyster-swinging-crib-mink"
     },
     {

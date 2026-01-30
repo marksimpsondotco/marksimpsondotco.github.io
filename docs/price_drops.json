@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T21:22:45.677070",
-  "total_drops": 2696,
+  "generated_at": "2026-01-30T21:28:01.772501",
+  "total_drops": 2709,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 24,
+      "count": 31,
       "max_drop": 53.8,
-      "total_savings": 889.98
+      "total_savings": 1184.78
     },
     {
       "site": "brownsfashion_com",
@@ -56,6 +56,12 @@
       "count": 1,
       "max_drop": 40.4,
       "total_savings": 4000.0
+    },
+    {
+      "site": "thesewingstudio_co_uk",
+      "count": 6,
+      "max_drop": 40.0,
+      "total_savings": 730.0
     },
     {
       "site": "currys_com",
@@ -710,7 +716,7 @@
       "percentage": 50.0,
       "old_price": "129.95",
       "new_price": "65.00",
-      "timestamp": "2026-01-30T21:22:04.306749",
+      "timestamp": "2026-01-30T21:27:48.907210",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-pink-filician-dark-pink-leather-trainers-filician"
     },
     {
@@ -1065,6 +1071,15 @@
       "url": "https://www.johnlewis.com/john-lewis-colour-block-towels/p112259760"
     },
     {
+      "site": "thesewingstudio_co_uk",
+      "product": "Pfaff Ambition 610 Sewing Machine",
+      "percentage": 40.0,
+      "old_price": "999.00",
+      "new_price": "599.00",
+      "timestamp": "2026-01-30T21:27:52.959512",
+      "url": "https://www.thesewingstudio.co.uk/products/pfaff-ambition-610-sewing-machine"
+    },
+    {
       "site": "currys_com",
       "product": "TTAP TTD-2 Twin Glass Wall Shelf",
       "percentage": 40.0,
@@ -1099,15 +1114,6 @@
       "new_price": "27.00",
       "timestamp": "2026-01-29T13:18:21.877198",
       "url": "https://www.victoriabeckham.com/products/tank-top-in-pistachio-21159"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Tank Top Delphinium",
-      "percentage": 40.0,
-      "old_price": "60.00",
-      "new_price": "36.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/tank-top-in-delphinium-21159"
     }
   ]
 }

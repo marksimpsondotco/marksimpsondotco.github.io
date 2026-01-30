@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T11:42:37.885588",
-  "total_drops": 2160,
+  "generated_at": "2026-01-30T11:47:49.235358",
+  "total_drops": 2161,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -113,9 +113,9 @@
     },
     {
       "site": "scandiborn_co_uk",
-      "count": 2,
+      "count": 3,
       "max_drop": 20.0,
-      "total_savings": 12.0
+      "total_savings": 12.95
     },
     {
       "site": "babyandnurseryworld_co_uk",
@@ -221,7 +221,7 @@
       "percentage": 70.0,
       "old_price": "12.00",
       "new_price": "3.60",
-      "timestamp": "2026-01-30T11:42:22.522192",
+      "timestamp": "2026-01-30T11:47:37.367650",
       "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-egyptian-cotton-percale-200-thread-count-bedding/p5417600"
     },
     {
@@ -320,7 +320,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T11:42:15.030188",
+      "timestamp": "2026-01-30T11:47:19.023457",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -329,7 +329,7 @@
       "percentage": 53.6,
       "old_price": "70.00",
       "new_price": "32.50",
-      "timestamp": "2026-01-30T11:42:22.522192",
+      "timestamp": "2026-01-30T11:47:37.367650",
       "url": "https://www.johnlewis.com/john-lewis-harry-floor-lamp/p3299933"
     },
     {
@@ -356,7 +356,7 @@
       "percentage": 50.0,
       "old_price": "110.00",
       "new_price": "55.00",
-      "timestamp": "2026-01-30T11:42:22.522192",
+      "timestamp": "2026-01-30T11:47:37.367650",
       "url": "https://www.johnlewis.com/john-lewis-2-section-recycling-bin-with-handles-60l/p5971630"
     },
     {
@@ -365,7 +365,7 @@
       "percentage": 50.0,
       "old_price": "50.00",
       "new_price": "25.00",
-      "timestamp": "2026-01-30T11:42:22.522192",
+      "timestamp": "2026-01-30T11:47:37.367650",
       "url": "https://www.johnlewis.com/john-lewis-pedal-bin-30l/p6361018"
     },
     {
@@ -635,7 +635,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T11:42:15.030188",
+      "timestamp": "2026-01-30T11:47:19.023457",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -770,7 +770,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T11:42:15.030188",
+      "timestamp": "2026-01-30T11:47:19.023457",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {

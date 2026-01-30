@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T12:50:45.921138",
-  "total_drops": 2182,
+  "generated_at": "2026-01-30T12:55:56.021751",
+  "total_drops": 2184,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -53,9 +53,9 @@
     },
     {
       "site": "currys_com",
-      "count": 234,
+      "count": 236,
       "max_drop": 40.0,
-      "total_savings": 15388.51
+      "total_savings": 15438.51
     },
     {
       "site": "kingofcotton_com",
@@ -341,7 +341,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T12:50:41.697741",
+      "timestamp": "2026-01-30T12:55:47.810243",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -557,7 +557,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T12:50:41.697741",
+      "timestamp": "2026-01-30T12:55:47.810243",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -755,7 +755,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T12:50:41.697741",
+      "timestamp": "2026-01-30T12:55:47.810243",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -908,7 +908,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T12:50:41.697741",
+      "timestamp": "2026-01-30T12:55:47.810243",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T17:32:59.483849",
-  "total_drops": 2284,
+  "generated_at": "2026-01-30T17:38:15.114820",
+  "total_drops": 2293,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 587,
+      "count": 588,
       "max_drop": 72.2,
-      "total_savings": 13167.04
+      "total_savings": 13230.04
     },
     {
       "site": "oliversweeney_com",
@@ -53,9 +53,9 @@
     },
     {
       "site": "currys_com",
-      "count": 290,
+      "count": 298,
       "max_drop": 40.0,
-      "total_savings": 18763.53
+      "total_savings": 19063.53
     },
     {
       "site": "kingofcotton_com",
@@ -404,7 +404,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T17:32:22.057009",
+      "timestamp": "2026-01-30T17:37:41.598307",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -422,7 +422,7 @@
       "percentage": 53.5,
       "old_price": "85.95",
       "new_price": "40.00",
-      "timestamp": "2026-01-30T17:32:22.057009",
+      "timestamp": "2026-01-30T17:37:41.598307",
       "url": "https://fenwick.co.uk/products/moda-in-pelle-black-fabri-shoes-fabri"
     },
     {
@@ -692,7 +692,7 @@
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T17:32:22.057009",
+      "timestamp": "2026-01-30T17:37:41.598307",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -895,6 +895,15 @@
     },
     {
       "site": "johnlewis_com",
+      "product": "Ralph Lauren PH4206 Men's Phantos Sunglasses",
+      "percentage": 40.4,
+      "old_price": "156.00",
+      "new_price": "93.00",
+      "timestamp": "2026-01-30T17:37:59.957927",
+      "url": "https://www.johnlewis.com/ralph-lauren-ph4206-mens-phantos-sunglasses/p110648655"
+    },
+    {
+      "site": "johnlewis_com",
       "product": "John Lewis Roll Neck Cashmere Jumper",
       "percentage": 40.4,
       "old_price": "109.00",
@@ -917,7 +926,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T17:32:22.057009",
+      "timestamp": "2026-01-30T17:37:41.598307",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -1081,15 +1090,6 @@
       "new_price": "24.50",
       "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/john-lewis-cashmere-rib-knit-beanie-hat/p113610121"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Cashmere Gloves",
-      "percentage": 37.5,
-      "old_price": "31.20",
-      "new_price": "19.50",
-      "timestamp": "2026-01-29T12:17:38.294832",
-      "url": "https://www.johnlewis.com/john-lewis-cashmere-gloves/p112374235"
     }
   ]
 }

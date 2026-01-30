@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T09:14:09.044600",
-  "total_drops": 2102,
+  "generated_at": "2026-01-30T09:19:23.398216",
+  "total_drops": 2103,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "currys_com",
-      "count": 210,
+      "count": 211,
       "max_drop": 40.0,
-      "total_savings": 13452.56
+      "total_savings": 13622.56
     },
     {
       "site": "kingofcotton_com",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T09:29:55.989462",
-  "total_drops": 2104,
+  "generated_at": "2026-01-30T09:35:11.731628",
+  "total_drops": 2106,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "site": "currys_com",
-      "count": 212,
+      "count": 214,
       "max_drop": 40.0,
-      "total_savings": 13642.56
+      "total_savings": 13700.56
     },
     {
       "site": "kingofcotton_com",
@@ -978,6 +978,15 @@
       "url": "https://www.currys.co.uk/products/10287538.html"
     },
     {
+      "site": "currys_com",
+      "product": "SAMSUNG Galaxy Z Fold7 Grip Case - Blue",
+      "percentage": 30.0,
+      "old_price": "59.99",
+      "new_price": "41.99",
+      "timestamp": "2026-01-30T09:35:02.310332",
+      "url": "https://www.currys.co.uk/products/10287528.html"
+    },
+    {
       "site": "flannels_com",
       "product": "BARBOUR - Men's Re Engineered Bardon Spey Detachable Hood Long Sleeve Wax Jacket",
       "percentage": 29.8,
@@ -1057,15 +1066,6 @@
       "new_price": "42.50",
       "timestamp": "2026-01-29T13:04:03.145929",
       "url": "https://www.johnlewis.com/sweaty-betty-escape-italian-luxe-fleece-hoodie/p5437821"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "chicken-design ceramic plate",
-      "percentage": 29.1,
-      "old_price": "275.00",
-      "new_price": "195.00",
-      "timestamp": "2026-01-29T18:56:25.573475",
-      "url": "https://brownsfashion.com/products/amuse-la-bouche-chicken-design-ceramic-plate-ollcty200164644"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T12:08:51.640913",
-  "total_drops": 2167,
+  "generated_at": "2026-01-30T12:14:04.315701",
+  "total_drops": 2173,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "site": "johnlewis_com",
-      "count": 545,
+      "count": 551,
       "max_drop": 72.2,
-      "total_savings": 11379.6
+      "total_savings": 11533.9
     },
     {
       "site": "oliversweeney_com",
@@ -326,7 +326,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T12:08:25.329816",
+      "timestamp": "2026-01-30T12:13:33.118004",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -474,12 +474,48 @@
       "url": "https://www.johnlewis.com/john-lewis-luce-textured-cushion/p112399300"
     },
     {
+      "site": "johnlewis_com",
+      "product": "John Lewis Cotton/Viscose Blend Towels, Pack of 2",
+      "percentage": 50.0,
+      "old_price": "9.60",
+      "new_price": "4.80",
+      "timestamp": "2026-01-30T12:13:56.286056",
+      "url": "https://www.johnlewis.com/john-lewis-cotton-viscose-blend-towels-pack-of-2/p111568001"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Night and Day Reversible Toddler Pure Cotton Duvet Cover & Pillowcase Set",
+      "percentage": 50.0,
+      "old_price": "16.00",
+      "new_price": "8.00",
+      "timestamp": "2026-01-30T12:13:56.286056",
+      "url": "https://www.johnlewis.com/john-lewis-night-and-day-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p6332606"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Herschel Supply Co. Retreat Backpack",
+      "percentage": 50.0,
+      "old_price": "100.00",
+      "new_price": "50.00",
+      "timestamp": "2026-01-30T12:13:56.286056",
+      "url": "https://www.johnlewis.com/herschel-supply-co-retreat-backpack/p110710185"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "UGG Classic Mini II Short Sheepskin Boots",
+      "percentage": 50.0,
+      "old_price": "165.00",
+      "new_price": "82.50",
+      "timestamp": "2026-01-30T12:13:56.286056",
+      "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
+    },
+    {
       "site": "fenwick_co_uk",
       "product": "Boy's Stay Loose Taper Jeans",
       "percentage": 50.0,
       "old_price": "35.00",
       "new_price": "17.50",
-      "timestamp": "2026-01-30T12:08:25.329816",
+      "timestamp": "2026-01-30T12:13:33.118004",
       "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
     },
     {
@@ -659,7 +695,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T12:08:25.329816",
+      "timestamp": "2026-01-30T12:13:33.118004",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -697,6 +733,24 @@
       "new_price": "10.20",
       "timestamp": "2026-01-30T10:28:27.190593",
       "url": "https://www.johnlewis.com/le-creuset-stoneware-mug-350ml/p1816158"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Connect Check Towels",
+      "percentage": 40.0,
+      "old_price": "10.00",
+      "new_price": "6.00",
+      "timestamp": "2026-01-30T12:13:56.286056",
+      "url": "https://www.johnlewis.com/john-lewis-connect-check-towels/p111662913"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Colour Block Towels",
+      "percentage": 40.0,
+      "old_price": "12.50",
+      "new_price": "7.50",
+      "timestamp": "2026-01-30T12:13:56.286056",
+      "url": "https://www.johnlewis.com/john-lewis-colour-block-towels/p112259760"
     },
     {
       "site": "currys_com",
@@ -794,7 +848,7 @@
       "percentage": 37.5,
       "old_price": "8.00",
       "new_price": "5.00",
-      "timestamp": "2026-01-30T12:08:25.329816",
+      "timestamp": "2026-01-30T12:13:33.118004",
       "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
     },
     {
@@ -1030,60 +1084,6 @@
       "new_price": "87.55",
       "timestamp": "2026-01-29T13:48:10.497516",
       "url": "https://www.johnlewis.com/baukjen-celine-v-neck-wool-rich-cardigan-blossom/p113169856"
-    },
-    {
-      "site": "mamasandpapas_com",
-      "product": "Armadillo Pushchair - Chalk",
-      "percentage": 32.1,
-      "old_price": "249.00",
-      "new_price": "169.00",
-      "timestamp": "2026-01-30T00:36:16.620301",
-      "url": "https://www.mamasandpapas.com/products/armadillo-224165200"
-    },
-    {
-      "site": "currys_com",
-      "product": "ACER 315 15.6\" Chromebook - Intel® Celeron®, 64 GB eMMC",
-      "percentage": 32.1,
-      "old_price": "249.00",
-      "new_price": "169.00",
-      "timestamp": "2026-01-30T08:13:22.254968",
-      "url": "https://www.currys.co.uk/products/10263910.html"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Barbour International - Mallory Pom Beanie",
-      "percentage": 31.8,
-      "old_price": "22.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-30T03:57:13.964543",
-      "url": "https://www.flannels.com/barbour-international-womens-mallory-cable-knit-pom-beanie-906987"
-    },
-    {
-      "site": "flannels_com",
-      "product": "Barbour - Beldon Beret",
-      "percentage": 31.8,
-      "old_price": "22.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-30T03:57:13.964543",
-      "url": "https://www.flannels.com/barbour-womens-beldon-beret-900180"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Pair of Mykonos Seersucker Pillowcases - 200 Thread Count - Cotton - White",
-      "percentage": 31.4,
-      "old_price": "7.00",
-      "new_price": "4.80",
-      "timestamp": "2026-01-29T16:04:33.096934",
-      "url": "https://dusk.com/products/pair-of-mykonos-pillowcases-white-200-thread-count"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Stanley Quencher Stainless Steel FlowState Tumbler, 1.18L",
-      "percentage": 31.0,
-      "old_price": "44.95",
-      "new_price": "31.00",
-      "timestamp": "2026-01-30T10:28:27.190593",
-      "url": "https://www.johnlewis.com/stanley-quencher-stainless-steel-flowstate-tumbler-1-18l/p110979710"
     }
   ]
 }

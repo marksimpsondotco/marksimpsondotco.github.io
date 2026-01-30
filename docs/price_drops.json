@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T10:38:51.471500",
-  "total_drops": 2140,
+  "generated_at": "2026-01-30T10:44:04.695313",
+  "total_drops": 2141,
   "top_drops_shown": 100,
   "site_stats": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "site": "fenwick_co_uk",
-      "count": 8,
+      "count": 9,
       "max_drop": 53.8,
-      "total_savings": 320.0
+      "total_savings": 323.0
     },
     {
       "site": "brownsfashion_com",
@@ -296,7 +296,7 @@
       "percentage": 53.8,
       "old_price": "65.00",
       "new_price": "30.00",
-      "timestamp": "2026-01-30T10:38:28.083737",
+      "timestamp": "2026-01-30T10:43:38.735992",
       "url": "https://fenwick.co.uk/products/missoni-moonshadow-towel"
     },
     {
@@ -557,7 +557,7 @@
       "percentage": 40.1,
       "old_price": "359.00",
       "new_price": "215.00",
-      "timestamp": "2026-01-30T10:38:28.083737",
+      "timestamp": "2026-01-30T10:43:38.735992",
       "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
     },
     {
@@ -678,6 +678,15 @@
       "url": "https://www.johnlewis.com/john-lewis-cashmere-gloves/p112374235"
     },
     {
+      "site": "fenwick_co_uk",
+      "product": "Vegan Life Towel Collection",
+      "percentage": 37.5,
+      "old_price": "8.00",
+      "new_price": "5.00",
+      "timestamp": "2026-01-30T10:43:38.735992",
+      "url": "https://fenwick.co.uk/products/vossen-vegan-life-towel-white"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Travalo Milano Refillable Perfume Atomiser Spray",
       "percentage": 36.8,
@@ -791,7 +800,7 @@
       "percentage": 35.0,
       "old_price": "200.00",
       "new_price": "130.00",
-      "timestamp": "2026-01-30T10:38:37.328082",
+      "timestamp": "2026-01-30T10:43:19.675625",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-duvet-set"
     },
     {
@@ -881,7 +890,7 @@
       "percentage": 32.7,
       "old_price": "245.00",
       "new_price": "165.00",
-      "timestamp": "2026-01-30T10:38:37.328082",
+      "timestamp": "2026-01-30T10:43:19.675625",
       "url": "https://www.pigletinbed.com/products/berry-linen-blend-sheet-set"
     },
     {
@@ -1063,15 +1072,6 @@
       "new_price": "41.99",
       "timestamp": "2026-01-30T09:58:32.758625",
       "url": "https://www.currys.co.uk/products/10287528.html"
-    },
-    {
-      "site": "flannels_com",
-      "product": "BARBOUR - Men's Re Engineered Bardon Spey Detachable Hood Long Sleeve Wax Jacket",
-      "percentage": 29.8,
-      "old_price": "349.00",
-      "new_price": "245.00",
-      "timestamp": "2026-01-30T03:57:13.964543",
-      "url": "https://www.flannels.com/barbour-mens-re-engineered-bardon-spey-detachable-hood-long-sleeve-wax-jacket-321161"
     }
   ]
 }

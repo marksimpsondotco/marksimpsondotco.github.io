@@ -1,24 +1,7 @@
 {
-  "generated_at": "2026-01-31T23:35:13.386798",
-  "total_drops": 1,
-  "top_drops_shown": 1,
-  "site_stats": [
-    {
-      "site": "fenwick_co_uk",
-      "count": 1,
-      "max_drop": 62.9,
-      "total_savings": 100.0
-    }
-  ],
-  "drops": [
-    {
-      "site": "fenwick_co_uk",
-      "product": "STRUT ANKLE",
-      "percentage": 62.9,
-      "old_price": "159.00",
-      "new_price": "59.00",
-      "timestamp": "2026-01-31T23:34:40.991625",
-      "url": null
-    }
-  ]
+  "generated_at": "2026-01-31T23:36:09.870579",
+  "total_drops": 0,
+  "top_drops_shown": 0,
+  "site_stats": [],
+  "drops": []
 }

@@ -1,25 +1,37 @@
 {
-  "generated_at": "2026-01-30T21:38:35.620493",
-  "total_drops": 2710,
+  "generated_at": "2026-01-31T22:43:50.786816",
+  "total_drops": 6782,
   "top_drops_shown": 100,
   "site_stats": [
     {
+      "site": "currys_com",
+      "count": 865,
+      "max_drop": 93.9,
+      "total_savings": 56882.17
+    },
+    {
+      "site": "flannels_com",
+      "count": 3293,
+      "max_drop": 79.9,
+      "total_savings": 296725.48
+    },
+    {
       "site": "pigletinbed_com",
-      "count": 11,
+      "count": 12,
       "max_drop": 76.0,
-      "total_savings": 379.0
+      "total_savings": 385.0
     },
     {
       "site": "johnlewis_com",
-      "count": 591,
+      "count": 793,
       "max_drop": 72.2,
-      "total_savings": 13253.79
+      "total_savings": 17669.15
     },
     {
       "site": "oliversweeney_com",
-      "count": 20,
+      "count": 35,
       "max_drop": 71.4,
-      "total_savings": 945.0
+      "total_savings": 1625.0
     },
     {
       "site": "victoriabeckham_com",
@@ -28,16 +40,22 @@
       "total_savings": 57632.0
     },
     {
+      "site": "houseofisabella_co_uk",
+      "count": 3,
+      "max_drop": 66.7,
+      "total_savings": 72.76
+    },
+    {
       "site": "dusk_com",
-      "count": 121,
+      "count": 123,
       "max_drop": 63.6,
-      "total_savings": 5440.5
+      "total_savings": 5506.7
     },
     {
       "site": "fenwick_co_uk",
-      "count": 31,
+      "count": 53,
       "max_drop": 53.8,
-      "total_savings": 1184.78
+      "total_savings": 2316.88
     },
     {
       "site": "brownsfashion_com",
@@ -52,34 +70,28 @@
       "total_savings": 2769.73
     },
     {
+      "site": "boodles_com",
+      "count": 3,
+      "max_drop": 41.4,
+      "total_savings": 18000.0
+    },
+    {
       "site": "berrysjewellers_co_uk",
-      "count": 1,
+      "count": 2,
       "max_drop": 40.4,
-      "total_savings": 4000.0
+      "total_savings": 4140.0
     },
     {
       "site": "thesewingstudio_co_uk",
-      "count": 6,
+      "count": 11,
       "max_drop": 40.0,
-      "total_savings": 730.0
-    },
-    {
-      "site": "currys_com",
-      "count": 321,
-      "max_drop": 40.0,
-      "total_savings": 20627.53
+      "total_savings": 1557.0
     },
     {
       "site": "kingofcotton_com",
       "count": 2,
       "max_drop": 39.5,
       "total_savings": 65.95
-    },
-    {
-      "site": "flannels_com",
-      "count": 49,
-      "max_drop": 38.9,
-      "total_savings": 1693.5
     },
     {
       "site": "chelseababy_com",
@@ -112,10 +124,22 @@
       "total_savings": 45.0
     },
     {
+      "site": "hauslondon_com",
+      "count": 4,
+      "max_drop": 28.6,
+      "total_savings": 1436.5
+    },
+    {
       "site": "hoxtonmacs_co_uk",
-      "count": 17,
+      "count": 18,
       "max_drop": 26.1,
-      "total_savings": 2165.0
+      "total_savings": 2365.0
+    },
+    {
+      "site": "condorcycles_com",
+      "count": 1,
+      "max_drop": 25.7,
+      "total_savings": 45.01
     },
     {
       "site": "twentytwentyone_com",
@@ -142,34 +166,28 @@
       "total_savings": 40.0
     },
     {
+      "site": "baby-nest_co_uk",
+      "count": 25,
+      "max_drop": 18.9,
+      "total_savings": 1037.15
+    },
+    {
       "site": "leaderonline_com",
       "count": 1,
       "max_drop": 18.2,
       "total_savings": 1.0
     },
     {
-      "site": "baby-nest_co_uk",
-      "count": 12,
-      "max_drop": 17.8,
-      "total_savings": 464.15
-    },
-    {
       "site": "boden_com",
-      "count": 15,
+      "count": 20,
       "max_drop": 17.1,
-      "total_savings": 46.95
+      "total_savings": 56.95
     },
     {
       "site": "pendletonwoolenmills_eu",
       "count": 142,
       "max_drop": 16.7,
       "total_savings": 1941.25
-    },
-    {
-      "site": "hauslondon_com",
-      "count": 1,
-      "max_drop": 14.7,
-      "total_savings": 407.0
     },
     {
       "site": "thebabyservice_com",
@@ -191,15 +209,9 @@
     },
     {
       "site": "hollinsandhollinshead_com",
-      "count": 1,
+      "count": 10,
       "max_drop": 10.0,
-      "total_savings": 10.0
-    },
-    {
-      "site": "houseofisabella_co_uk",
-      "count": 2,
-      "max_drop": 6.2,
-      "total_savings": 12.76
+      "total_savings": 380.0
     },
     {
       "site": "westenddj_co_uk",
@@ -216,6 +228,42 @@
   ],
   "drops": [
     {
+      "site": "currys_com",
+      "product": "LG UltraGear 27G411A-B.AEK Full HD 27\" LED Monitor - Bl",
+      "percentage": 93.9,
+      "old_price": "1799.00",
+      "new_price": "109.00",
+      "timestamp": "2026-01-31T09:27:55.602438",
+      "url": "https://www.currys.co.uk/products/10293835.html"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Mona Pumps",
+      "percentage": 79.9,
+      "old_price": "1190.00",
+      "new_price": "239.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-mona-leather-stiletto-court-shoes-243687"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Eve Over The Knee Boot",
+      "percentage": 79.9,
+      "old_price": "1590.00",
+      "new_price": "319.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-eve-leather-medium-heel-over-the-knee-boots-243685"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Atomic Boot",
+      "percentage": 79.9,
+      "old_price": "890.00",
+      "new_price": "179.00",
+      "timestamp": "2026-01-31T03:11:12.847943",
+      "url": "https://www.flannels.com/bottega-veneta-atomic-boot-432424"
+    },
+    {
       "site": "pigletinbed_com",
       "product": "Pine Green Pembroke Stripe Cotton Towels",
       "percentage": 76.0,
@@ -223,6 +271,24 @@
       "new_price": "6.00",
       "timestamp": "2026-01-30T03:03:40.904965",
       "url": "https://www.pigletinbed.com/products/pine-green-stripe-cotton-towels"
+    },
+    {
+      "site": "flannels_com",
+      "product": "Juliette Has A Gun - Miami Shake Eau De Parfum",
+      "percentage": 75.0,
+      "old_price": "100.00",
+      "new_price": "25.00",
+      "timestamp": "2026-01-31T11:53:37.202910",
+      "url": "https://www.flannels.com/juliette-has-a-gun-miami-shake-eau-de-parfum-754887"
+    },
+    {
+      "site": "currys_com",
+      "product": "LG LG UltraFine 40U990A-W.AEK 5K2K 40\" Curved Nano IPS",
+      "percentage": 73.4,
+      "old_price": "1499.00",
+      "new_price": "399.00",
+      "timestamp": "2026-01-31T08:38:58.437613",
+      "url": "https://www.currys.co.uk/products/10293829.html"
     },
     {
       "site": "johnlewis_com",
@@ -243,6 +309,15 @@
       "url": "https://www.oliversweeney.com/products/durness-dark-tan-shoes"
     },
     {
+      "site": "currys_com",
+      "product": "LG UltraGear 34G630A-B Wide Quad HD 34\" Curved VA LED G",
+      "percentage": 70.8,
+      "old_price": "1399.00",
+      "new_price": "409.00",
+      "timestamp": "2026-01-31T09:27:55.602438",
+      "url": "https://www.currys.co.uk/products/10293828.html"
+    },
+    {
       "site": "oliversweeney_com",
       "product": "Dunbeath Dark Tan",
       "percentage": 70.2,
@@ -259,6 +334,51 @@
       "new_price": "98.00",
       "timestamp": "2026-01-30T14:59:11.120172",
       "url": "https://www.johnlewis.com/reiss-gable-single-breasted-wool-blend-coat/p114285714"
+    },
+    {
+      "site": "flannels_com",
+      "product": "VALENTINO GARAVANI - Open Skate Low Trainers",
+      "percentage": 70.1,
+      "old_price": "700.00",
+      "new_price": "209.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/valentino-garavani-mens-open-skate-low-leather-chunky-trainers-122485"
+    },
+    {
+      "site": "flannels_com",
+      "product": "VALENTINO GARAVANI - Roman Stud Low Trainer",
+      "percentage": 70.1,
+      "old_price": "700.00",
+      "new_price": "209.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/valentino-garavani-roman-stud-low-trainer-115790"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Luna Court Heels",
+      "percentage": 70.1,
+      "old_price": "800.00",
+      "new_price": "239.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-luna-leather-medium-heel-stiletto-court-shoes-243847"
+    },
+    {
+      "site": "flannels_com",
+      "product": "ACNE STUDIOS - Musubi Shoulder Bag",
+      "percentage": 70.1,
+      "old_price": "900.00",
+      "new_price": "269.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/acne-studios-womens-musubi-leather-zip-shoulder-bag-711115"
+    },
+    {
+      "site": "currys_com",
+      "product": "LG UltraGear GX9 34GX900A-B Quad HD 34\" Curved OLED Gam",
+      "percentage": 70.1,
+      "old_price": "999.00",
+      "new_price": "299.00",
+      "timestamp": "2026-01-31T09:27:55.602438",
+      "url": "https://www.currys.co.uk/products/10293825.html"
     },
     {
       "site": "johnlewis_com",
@@ -333,6 +453,348 @@
       "url": "https://www.johnlewis.com/john-lewis-spot-print-baby-sleeping-bag-0-5-tog-pack-of-2/p111143888"
     },
     {
+      "site": "flannels_com",
+      "product": "COMME DES GARCONS PLAY - X Converse Half Peeping Heart Chuck Taylor 70 Trainers",
+      "percentage": 70.0,
+      "old_price": "140.00",
+      "new_price": "42.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/comme-des-garcons-play-womens-half-peeping-heart-chuck-taylor-canvas-trainers-276155"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BALMAIN - B-Bold Low Top Trainers",
+      "percentage": 70.0,
+      "old_price": "750.00",
+      "new_price": "225.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/balmain-womens-b-bold-low-top-leather-chunky-trainers-234000"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Women's Flat Sandals",
+      "percentage": 70.0,
+      "old_price": "450.00",
+      "new_price": "135.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-flat-sandals-231330"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Kick High Top Sneakers",
+      "percentage": 70.0,
+      "old_price": "630.00",
+      "new_price": "189.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-kick-leather-high-top-trainers-277475"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BALMAIN - B Runner Trainers",
+      "percentage": 70.0,
+      "old_price": "550.00",
+      "new_price": "165.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/balmain-womens-b-runner-leather-lace-up-chunky-trainers-275955"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Luna Ballerina Flats",
+      "percentage": 70.0,
+      "old_price": "750.00",
+      "new_price": "225.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-luna-leather-gold-bead-ballet-pumps-243848"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Andrea Slingback Mules",
+      "percentage": 70.0,
+      "old_price": "830.00",
+      "new_price": "249.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-andrea-calfskin-slingback-pumps-243845"
+    },
+    {
+      "site": "flannels_com",
+      "product": "ACNE STUDIOS - Wool Blend Beanie",
+      "percentage": 70.0,
+      "old_price": "140.00",
+      "new_price": "42.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/acne-studios-womens-wool-blend-ribbed-beanie-900132"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PRADA - Crystal Degrade Belt",
+      "percentage": 70.0,
+      "old_price": "750.00",
+      "new_price": "225.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/prada-womens-crystal-degrad--embellished-goat-leather-belt-708211"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BALMAIN - Men's B-Court Classic Leather Trainers",
+      "percentage": 69.9,
+      "old_price": "495.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-31T03:11:12.847943",
+      "url": "https://www.flannels.com/balmain-mens-b-court-classic-leather-low-top-trainers-114941"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Sawyer Check Slip On Trainers",
+      "percentage": 69.9,
+      "old_price": "860.00",
+      "new_price": "259.00",
+      "timestamp": "2026-01-31T03:11:12.847943",
+      "url": "https://www.flannels.com/bottega-veneta-mens-sawyer-check-leather-slip-on-trainers-114002"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Polar Low Boots",
+      "percentage": 69.9,
+      "old_price": "695.00",
+      "new_price": "209.00",
+      "timestamp": "2026-01-31T03:11:12.847943",
+      "url": "https://www.flannels.com/chloe-womens-polar-low-waterproof-sheepskin-ankle-snow-boots-103879"
+    },
+    {
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Crystal Chain Necklace",
+      "percentage": 69.8,
+      "old_price": "480.00",
+      "new_price": "145.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/saint-laurent-crystal-chain-necklace-752988"
+    },
+    {
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Espadrilles",
+      "percentage": 69.8,
+      "old_price": "480.00",
+      "new_price": "145.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/saint-laurent-womens-slip-on-espadrilles-230142"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Leonie Court Heels",
+      "percentage": 69.8,
+      "old_price": "925.00",
+      "new_price": "279.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-leonie-leather-stiletto-court-shoes-243846"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Jeannette Wedge Clogs",
+      "percentage": 69.8,
+      "old_price": "990.00",
+      "new_price": "299.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-jeannette-wedge-leather-slip-on-clogs-243844"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Blink Mule",
+      "percentage": 69.8,
+      "old_price": "890.00",
+      "new_price": "269.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/bottega-veneta-womens-blink-mule-lambskin-kitten-heel-heeled-sandals-243159"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Summer Banana Tote Bag",
+      "percentage": 69.8,
+      "old_price": "890.00",
+      "new_price": "269.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-summer-banana-raffia-straw-bag-714507"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Bracelet Bag",
+      "percentage": 69.8,
+      "old_price": "2050.00",
+      "new_price": "619.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-bracelet-leather-top-handle-bag-738810"
+    },
+    {
+      "site": "flannels_com",
+      "product": "DOLCE AND GABBANA - Logo Grained Leather Belt",
+      "percentage": 69.8,
+      "old_price": "315.00",
+      "new_price": "95.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/dolce-and-gabbana-womens-logo-grained-textured-leather-belt-945092"
+    },
+    {
+      "site": "flannels_com",
+      "product": "PRADA - Long Belt",
+      "percentage": 69.8,
+      "old_price": "480.00",
+      "new_price": "145.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/prada-womens-long-leather-belt-931371"
+    },
+    {
+      "site": "flannels_com",
+      "product": "DOLCE AND GABBANA - Calfskin Nappa New Roma Sneakers",
+      "percentage": 69.8,
+      "old_price": "625.00",
+      "new_price": "189.00",
+      "timestamp": "2026-01-31T03:11:12.847943",
+      "url": "https://www.flannels.com/dolce-and-gabbana-womens-new-roma-leather-lace-up-chunky-trainers-120550"
+    },
+    {
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Stud Bracelet",
+      "percentage": 69.7,
+      "old_price": "380.00",
+      "new_price": "115.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/saint-laurent-stud-black-calf-leather-silver-tone-clasp-leather-bracelet-723900"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Pary Espadrille",
+      "percentage": 69.7,
+      "old_price": "525.00",
+      "new_price": "159.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-pary-leather-slip-on-espadrilles-230399"
+    },
+    {
+      "site": "flannels_com",
+      "product": "FENDI - 46mm Square Toe Woven Slingback Heels",
+      "percentage": 69.7,
+      "old_price": "1150.00",
+      "new_price": "349.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/fendi-womens-square-toe-woven-leather-low-heel-slingbacks-230525"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Women's Summer Banana Straw Bags",
+      "percentage": 69.7,
+      "old_price": "1550.00",
+      "new_price": "469.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-summer-natural-fiber-straw-bag-714508"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BALMAIN - B Court Trainers",
+      "percentage": 69.6,
+      "old_price": "490.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/balmain-b-court-trainers-275412"
+    },
+    {
+      "site": "flannels_com",
+      "product": "CHLOE - Iconic Flap With Chain",
+      "percentage": 69.6,
+      "old_price": "950.00",
+      "new_price": "289.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/chloe-womens-iconic-flap-leather-magnetic-wallet-on-chain-884476"
+    },
+    {
+      "site": "flannels_com",
+      "product": "MIU MIU - Logo-Embossed Slingbacks",
+      "percentage": 69.6,
+      "old_price": "820.00",
+      "new_price": "249.00",
+      "timestamp": "2026-01-31T03:11:12.847943",
+      "url": "https://www.flannels.com/miu-miu-womens-logo-embossed-leather-block-court-shoes-243660"
+    },
+    {
+      "site": "flannels_com",
+      "product": "VALENTINO GARAVANI - Rockstud Camouflage Trainers",
+      "percentage": 69.5,
+      "old_price": "640.00",
+      "new_price": "195.00",
+      "timestamp": "2026-01-31T03:11:12.847943",
+      "url": "https://www.flannels.com/valentino-garavani-mens-rockstud-camouflage-leather-lace-up-trainers-116547"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty 30\" Power Bootcut Gym Trousers",
+      "percentage": 69.4,
+      "old_price": "90.00",
+      "new_price": "27.50",
+      "timestamp": "2026-01-31T11:16:39.800417",
+      "url": "https://www.johnlewis.com/sweaty-betty-30-inch-power-bootcut-gym-trousers/p110730830"
+    },
+    {
+      "site": "flannels_com",
+      "product": "DOLCE AND GABBANA - Calfskin Portofino Sneakers",
+      "percentage": 69.3,
+      "old_price": "485.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/dolce-and-gabbana-womens-portofino-calfskin-leather-lace-up-low-top-trainers-276482"
+    },
+    {
+      "site": "flannels_com",
+      "product": "FENDI - Beauty Pouch",
+      "percentage": 69.3,
+      "old_price": "440.00",
+      "new_price": "135.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/fendi-beauty-pouch-701966"
+    },
+    {
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Washed Denim Baseball Cap",
+      "percentage": 69.3,
+      "old_price": "420.00",
+      "new_price": "129.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/saint-laurent-womens-cassandre-washed-denim-cotton-baseball-cap-360735"
+    },
+    {
+      "site": "flannels_com",
+      "product": "DOLCE AND GABBANA - Logo Thong Sandal",
+      "percentage": 69.3,
+      "old_price": "485.00",
+      "new_price": "149.00",
+      "timestamp": "2026-01-31T03:11:12.847943",
+      "url": "https://www.flannels.com/dolce-and-gabbana-womens-logo-thong-patent-leather-buckle-flat-sandals-238492"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty Breathe Easy Long Sleeve Top",
+      "percentage": 69.2,
+      "old_price": "65.00",
+      "new_price": "20.00",
+      "timestamp": "2026-01-31T12:02:02.331846",
+      "url": "https://www.johnlewis.com/sweaty-betty-breathe-easy-long-sleeve-top/p6015575"
+    },
+    {
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Mini Box Bag",
+      "percentage": 69.0,
+      "old_price": "435.00",
+      "new_price": "135.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/saint-laurent-mens-mini-box-lambskin-zip-wallet-on-chain-730054"
+    },
+    {
+      "site": "flannels_com",
+      "product": "MONCLER - Legre Crossbody Bag",
+      "percentage": 68.9,
+      "old_price": "370.00",
+      "new_price": "115.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/moncler-legre-crossbody-bag-836633"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Sweaty Betty After Class Longline Sweatshirt",
       "percentage": 68.0,
@@ -351,6 +813,24 @@
       "url": "https://www.victoriabeckham.com/products/blackless-bib-top-in-white-21769"
     },
     {
+      "site": "houseofisabella_co_uk",
+      "product": "Montana Beige Rug | 3716B",
+      "percentage": 66.7,
+      "old_price": "89.90",
+      "new_price": "29.90",
+      "timestamp": "2026-01-31T17:14:26.351784",
+      "url": "https://houseofisabella.co.uk/products/montana-beige-rug-3716b"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty Stamina Seamless Sports Bra",
+      "percentage": 64.3,
+      "old_price": "35.00",
+      "new_price": "12.50",
+      "timestamp": "2026-01-31T11:16:39.800417",
+      "url": "https://www.johnlewis.com/sweaty-betty-stamina-seamless-sports-bra/p113084940"
+    },
+    {
       "site": "dusk_com",
       "product": "Washed Cotton Linen Blend Plain Dye Sofa Cushion Cover - Chalk White",
       "percentage": 63.6,
@@ -358,6 +838,15 @@
       "new_price": "8.00",
       "timestamp": "2026-01-29T16:04:33.096934",
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-sofa-cushion-cover-chalk-white"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty City Goer Backpack",
+      "percentage": 61.1,
+      "old_price": "95.00",
+      "new_price": "37.00",
+      "timestamp": "2026-01-31T00:50:21.645878",
+      "url": "https://www.johnlewis.com/sweaty-betty-city-goer-backpack/p113925155"
     },
     {
       "site": "johnlewis_com",
@@ -396,6 +885,33 @@
       "url": "https://www.johnlewis.com/john-lewis-oversized-leather-tote-bag/p113961376"
     },
     {
+      "site": "currys_com",
+      "product": "REMINGTON Shine Therapy D5216 Hair Dryer - White & Teal",
+      "percentage": 58.3,
+      "old_price": "59.99",
+      "new_price": "25.00",
+      "timestamp": "2026-01-31T08:38:58.437613",
+      "url": "https://www.currys.co.uk/products/10244244.html"
+    },
+    {
+      "site": "currys_com",
+      "product": "HP 65 W Universal USB Type-C Laptop Charger - 1.8 m",
+      "percentage": 58.3,
+      "old_price": "59.99",
+      "new_price": "25.00",
+      "timestamp": "2026-01-31T08:38:58.437613",
+      "url": "https://www.currys.co.uk/products/10289890.html"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Bloom & Bay Maddison Animal Print Beanie",
+      "percentage": 56.7,
+      "old_price": "24.95",
+      "new_price": "10.80",
+      "timestamp": "2026-01-31T12:02:02.331846",
+      "url": "https://www.johnlewis.com/bloom-bay-maddison-animal-print-beanie/p114313413"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Saint Tropez Mila 3/4 Sleeve Jumper",
       "percentage": 56.3,
@@ -403,6 +919,15 @@
       "new_price": "15.30",
       "timestamp": "2026-01-30T13:28:10.643396",
       "url": "https://www.johnlewis.com/saint-tropez-mila-3-4-sleeve-jumper/p112393072"
+    },
+    {
+      "site": "oliversweeney_com",
+      "product": "Navigli Indigo",
+      "percentage": 56.2,
+      "old_price": "89.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-31T10:57:25.339561",
+      "url": "https://www.oliversweeney.com/products/navigli-indigo-jeans"
     },
     {
       "site": "dusk_com",
@@ -414,6 +939,42 @@
       "url": "https://dusk.com/products/washed-cotton-linen-blend-plain-dye-cushion-cover-chalk-white"
     },
     {
+      "site": "oliversweeney_com",
+      "product": "Povoa Brown",
+      "percentage": 55.3,
+      "old_price": "199.00",
+      "new_price": "89.00",
+      "timestamp": "2026-01-31T10:57:25.339561",
+      "url": "https://www.oliversweeney.com/products/povoa-brown-derby-shoe"
+    },
+    {
+      "site": "oliversweeney_com",
+      "product": "Povoa Black",
+      "percentage": 55.3,
+      "old_price": "199.00",
+      "new_price": "89.00",
+      "timestamp": "2026-01-31T10:57:25.339561",
+      "url": "https://www.oliversweeney.com/products/povoa-black-shoes"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "Sweaty Betty Spirit Restored Yoga Sports Bra",
+      "percentage": 55.1,
+      "old_price": "24.50",
+      "new_price": "11.00",
+      "timestamp": "2026-01-31T10:32:18.460613",
+      "url": "https://www.johnlewis.com/sweaty-betty-spirit-restored-yoga-sports-bra/p111361934"
+    },
+    {
+      "site": "johnlewis_com",
+      "product": "John Lewis Penbury Floral Pleated Tapered Lampshade",
+      "percentage": 55.0,
+      "old_price": "30.00",
+      "new_price": "13.50",
+      "timestamp": "2026-01-31T10:32:18.460613",
+      "url": "https://www.johnlewis.com/john-lewis-penbury-floral-pleated-tapered-lampshade/p113282535"
+    },
+    {
       "site": "johnlewis_com",
       "product": "J.Lindeberg Clinton Water-Repellent Utility Jacket, Navy",
       "percentage": 55.0,
@@ -421,6 +982,24 @@
       "new_price": "85.50",
       "timestamp": "2026-01-30T06:44:33.185259",
       "url": "https://www.johnlewis.com/j-lindeberg-clinton-water-repellent-utility-jacket-navy/p114708473"
+    },
+    {
+      "site": "dusk_com",
+      "product": "Washed Cotton 200 Thread Count Plain Dye Duvet Cover & Pillowcase Set - Off White",
+      "percentage": 55.0,
+      "old_price": "20.00",
+      "new_price": "9.00",
+      "timestamp": "2026-01-31T15:51:45.094351",
+      "url": "https://dusk.com/products/washed-cotton-plain-dye-duvet-cover-set-almond"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BOTTEGA VENETA - Small Hop",
+      "percentage": 54.0,
+      "old_price": "3370.00",
+      "new_price": "1549.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/bottega-veneta-womens-small-hop-leather-magnetic-hobo-bag-778275"
     },
     {
       "site": "fenwick_co_uk",
@@ -450,6 +1029,15 @@
       "url": "https://fenwick.co.uk/products/moda-in-pelle-black-fabri-shoes-fabri"
     },
     {
+      "site": "currys_com",
+      "product": "LG UltraGear 32GX850A-B 4K Ultra HD 32\" OLED Gaming Mon",
+      "percentage": 53.4,
+      "old_price": "899.00",
+      "new_price": "419.00",
+      "timestamp": "2026-01-31T08:38:58.437613",
+      "url": "https://www.currys.co.uk/products/10293839.html"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Tefal Emotion Stainless Steel Non-Stick Frying Pan",
       "percentage": 52.5,
@@ -457,6 +1045,24 @@
       "new_price": "19.00",
       "timestamp": "2026-01-29T12:17:38.294832",
       "url": "https://www.johnlewis.com/tefal-emotion-stainless-steel-non-stick-frying-pan/p5417734"
+    },
+    {
+      "site": "currys_com",
+      "product": "LG UltraFine 32U720A-B 4K Ultra HD 32\" LED Monitor - Bl",
+      "percentage": 51.6,
+      "old_price": "349.00",
+      "new_price": "169.00",
+      "timestamp": "2026-01-31T11:16:08.355497",
+      "url": "https://www.currys.co.uk/products/10293832.html"
+    },
+    {
+      "site": "flannels_com",
+      "product": "BALENCIAGA - Women's Heeled Sandals",
+      "percentage": 51.3,
+      "old_price": "119.00",
+      "new_price": "58.00",
+      "timestamp": "2026-01-31T05:22:07.772012",
+      "url": "https://www.flannels.com/balenciaga-womens-heeled-sandals-230795"
     },
     {
       "site": "johnlewis_com",
@@ -468,6 +1074,24 @@
       "url": "https://www.johnlewis.com/reiss-gabi-slim-fit-tailored-suit-trousers/p110852260"
     },
     {
+      "site": "oliversweeney_com",
+      "product": "Navigli Charcoal",
+      "percentage": 50.6,
+      "old_price": "79.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-31T10:57:25.339561",
+      "url": "https://www.oliversweeney.com/products/navigli-charcoal-jeans"
+    },
+    {
+      "site": "oliversweeney_com",
+      "product": "Navigli Light Indigo",
+      "percentage": 50.6,
+      "old_price": "79.00",
+      "new_price": "39.00",
+      "timestamp": "2026-01-31T10:57:25.339561",
+      "url": "https://www.oliversweeney.com/products/navigli-light-indigo-jeans"
+    },
+    {
       "site": "johnlewis_com",
       "product": "Reiss Logan Funnel Neck Coat",
       "percentage": 50.6,
@@ -477,643 +1101,31 @@
       "url": "https://www.johnlewis.com/reiss-logan-funnel-neck-coat/p112480690"
     },
     {
-      "site": "johnlewis_com",
-      "product": "John Lewis 2 Section Recycling Bin, with Handles, 60L",
-      "percentage": 50.0,
-      "old_price": "110.00",
-      "new_price": "55.00",
-      "timestamp": "2026-01-30T11:57:35.582866",
-      "url": "https://www.johnlewis.com/john-lewis-2-section-recycling-bin-with-handles-60l/p5971630"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Pedal Bin, 30L",
-      "percentage": 50.0,
-      "old_price": "50.00",
-      "new_price": "25.00",
-      "timestamp": "2026-01-30T11:57:35.582866",
-      "url": "https://www.johnlewis.com/john-lewis-pedal-bin-30l/p6361018"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Montane Composite Insulated Hooded Jacket",
-      "percentage": 50.0,
-      "old_price": "220.00",
-      "new_price": "110.00",
-      "timestamp": "2026-01-30T11:57:35.582866",
-      "url": "https://www.johnlewis.com/montane-composite-insulated-hooded-jacket/p111787995"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "FALKE Pure Matt 50 Denier Semi-Opaque Tights",
-      "percentage": 50.0,
-      "old_price": "27.00",
-      "new_price": "13.50",
-      "timestamp": "2026-01-30T14:59:11.120172",
-      "url": "https://www.johnlewis.com/falke-pure-matt-50-denier-semi-opaque-tights/p109776290"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Crew Neck Cotton T-Shirt",
-      "percentage": 50.0,
-      "old_price": "12.00",
-      "new_price": "6.00",
-      "timestamp": "2026-01-30T14:59:11.120172",
-      "url": "https://www.johnlewis.com/john-lewis-crew-neck-cotton-t-shirt/p113944854"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Atlanta 4-Wheel 66cm Ultra Lightweight Medium Suitcase",
-      "percentage": 50.0,
-      "old_price": "109.00",
-      "new_price": "54.50",
-      "timestamp": "2026-01-30T13:28:10.643396",
-      "url": "https://www.johnlewis.com/john-lewis-atlanta-4-wheel-66cm-ultra-lightweight-medium-suitcase/p5814267"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Fringed Velvet Cushion",
-      "percentage": 50.0,
-      "old_price": "35.00",
-      "new_price": "17.50",
-      "timestamp": "2026-01-30T10:28:27.190593",
-      "url": "https://www.johnlewis.com/john-lewis-fringed-velvet-cushion/p112452017"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis ANYDAY Spots Reversible Toddler Pure Cotton Duvet Cover & Pillowcase Set",
-      "percentage": 50.0,
-      "old_price": "18.00",
-      "new_price": "9.00",
-      "timestamp": "2026-01-30T10:28:27.190593",
-      "url": "https://www.johnlewis.com/john-lewis-anyday-spots-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p110424544"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Stackers Hanging Wash Bag",
-      "percentage": 50.0,
-      "old_price": "65.00",
-      "new_price": "32.50",
-      "timestamp": "2026-01-30T10:28:27.190593",
-      "url": "https://www.johnlewis.com/stackers-hanging-wash-bag/p4113537"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Egyptian Cotton Unisex Bath Robe",
-      "percentage": 50.0,
-      "old_price": "60.00",
-      "new_price": "30.00",
-      "timestamp": "2026-01-30T10:28:27.190593",
-      "url": "https://www.johnlewis.com/john-lewis-egyptian-cotton-unisex-bath-robe/p111801685"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Lauren Ralph Lauren Keaton Tote Bag",
-      "percentage": 50.0,
-      "old_price": "129.00",
-      "new_price": "64.50",
-      "timestamp": "2026-01-29T13:04:03.145929",
-      "url": "https://www.johnlewis.com/lauren-ralph-lauren-keaton-tote-bag/p113887158"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Tommy Jeans Linear Logo Embroidery T-Shirt",
-      "percentage": 50.0,
-      "old_price": "24.00",
-      "new_price": "12.00",
-      "timestamp": "2026-01-29T13:04:03.145929",
-      "url": "https://www.johnlewis.com/tommy-jeans-linear-logo-embroidery-t-shirt/p112462623"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Crisp & Fresh 325 Thread Count Anti Allergy Duvet Cover Set",
-      "percentage": 50.0,
-      "old_price": "42.00",
-      "new_price": "21.00",
-      "timestamp": "2026-01-29T12:17:38.294832",
-      "url": "https://www.johnlewis.com/john-lewis-crisp-fresh-325-thread-count-anti-allergy-duvet-cover-set/p110918602"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "FALKE Soft Merino Wool Blend Opaque Tights",
-      "percentage": 50.0,
-      "old_price": "44.00",
-      "new_price": "22.00",
-      "timestamp": "2026-01-29T12:17:38.294832",
-      "url": "https://www.johnlewis.com/falke-soft-merino-wool-blend-opaque-tights/p3111060"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Oliver Sweeney Joel Leather Derby Shoes, Tan",
-      "percentage": 50.0,
-      "old_price": "179.00",
-      "new_price": "89.50",
-      "timestamp": "2026-01-29T12:17:38.294832",
-      "url": "https://www.johnlewis.com/oliver-sweeney-joel-leather-derby-shoes-tan/p113337715"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Luce Textured Cushion",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-29T12:17:38.294832",
-      "url": "https://www.johnlewis.com/john-lewis-luce-textured-cushion/p112399300"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Merino Wool Crew Neck Jumper",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-30T14:14:06.849114",
-      "url": "https://www.johnlewis.com/john-lewis-merino-wool-crew-neck-jumper/p113797003"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis V-Neck Merino Wool Sleeveless Jumper",
-      "percentage": 50.0,
-      "old_price": "39.00",
-      "new_price": "19.50",
-      "timestamp": "2026-01-30T14:14:06.849114",
-      "url": "https://www.johnlewis.com/john-lewis-v-neck-merino-wool-sleeveless-jumper/p113744926"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Levi's 501 Cropped Jeans",
-      "percentage": 50.0,
-      "old_price": "100.00",
-      "new_price": "50.00",
-      "timestamp": "2026-01-30T14:14:06.849114",
-      "url": "https://www.johnlewis.com/levis-501-cropped-jeans/p112906802"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Cotton/Viscose Blend Towels, Pack of 2",
-      "percentage": 50.0,
-      "old_price": "9.60",
-      "new_price": "4.80",
-      "timestamp": "2026-01-30T12:44:11.919752",
-      "url": "https://www.johnlewis.com/john-lewis-cotton-viscose-blend-towels-pack-of-2/p111568001"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Night and Day Reversible Toddler Pure Cotton Duvet Cover & Pillowcase Set",
-      "percentage": 50.0,
-      "old_price": "16.00",
-      "new_price": "8.00",
-      "timestamp": "2026-01-30T12:44:11.919752",
-      "url": "https://www.johnlewis.com/john-lewis-night-and-day-reversible-toddler-pure-cotton-duvet-cover-pillowcase-set/p6332606"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Herschel Supply Co. Retreat Backpack",
-      "percentage": 50.0,
-      "old_price": "100.00",
-      "new_price": "50.00",
-      "timestamp": "2026-01-30T12:44:11.919752",
-      "url": "https://www.johnlewis.com/herschel-supply-co-retreat-backpack/p110710185"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "UGG Classic Mini II Short Sheepskin Boots",
-      "percentage": 50.0,
-      "old_price": "165.00",
-      "new_price": "82.50",
-      "timestamp": "2026-01-30T12:44:11.919752",
-      "url": "https://www.johnlewis.com/ugg-classic-mini-ii-short-sheepskin-boots/p5661925"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Beatrice Upturn Disc Twirl Fascinator",
-      "percentage": 50.0,
-      "old_price": "45.00",
-      "new_price": "22.50",
-      "timestamp": "2026-01-30T12:44:11.919752",
-      "url": "https://www.johnlewis.com/john-lewis-beatrice-upturn-disc-twirl-fascinator/p111454501"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polo Ralph Lauren Cotton Cable Knit Jumper",
-      "percentage": 50.0,
-      "old_price": "190.00",
-      "new_price": "95.00",
-      "timestamp": "2026-01-30T12:44:11.919752",
-      "url": "https://www.johnlewis.com/polo-ralph-lauren-cotton-cable-knit-jumper/p5085683"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "ROKA London Canfield B Recycled Nylon Rolltop Backpack, 15L",
-      "percentage": 50.0,
-      "old_price": "74.95",
-      "new_price": "37.48",
-      "timestamp": "2026-01-30T12:44:11.919752",
-      "url": "https://www.johnlewis.com/roka-london-canfield-b-recycled-nylon-rolltop-backpack-15l/p112395052"
-    },
-    {
       "site": "fenwick_co_uk",
-      "product": "Filician Leather Trainers",
-      "percentage": 50.0,
-      "old_price": "129.95",
-      "new_price": "65.00",
-      "timestamp": "2026-01-30T21:38:19.166103",
-      "url": "https://fenwick.co.uk/products/moda-in-pelle-dark-pink-filician-dark-pink-leather-trainers-filician"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Boy's Stay Loose Taper Jeans",
-      "percentage": 50.0,
-      "old_price": "35.00",
-      "new_price": "17.50",
-      "timestamp": "2026-01-30T17:40:30.453919",
-      "url": "https://fenwick.co.uk/products/levis-lvb-stay-loose-taper-jeans-sierra-pass-8ed516"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Antigua Soft Fine Ribbed Towel Collection - Fern",
-      "percentage": 50.0,
-      "old_price": "10.00",
-      "new_price": "5.00",
-      "timestamp": "2026-01-29T16:04:33.096934",
-      "url": "https://dusk.com/products/antigua-soft-fine-ribbed-towel-collection-fern"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Colour Stitch Fade Effect Sofa Cushion Cover - Multi/Natural",
-      "percentage": 50.0,
-      "old_price": "20.00",
-      "new_price": "10.00",
-      "timestamp": "2026-01-29T16:04:33.096934",
-      "url": "https://dusk.com/products/colour-stitch-fade-effect-sofa-cushion-cover-multi-natural"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "perforated suede ballet flats",
-      "percentage": 50.0,
-      "old_price": "1680.00",
-      "new_price": "840.00",
-      "timestamp": "2026-01-29T18:56:25.573475",
-      "url": "https://brownsfashion.com/products/ala-a-perforated-suede-ballet-flats-olsss2600162631"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Colour Stitch Fade Effect Cushion Cover - Multi/Natural",
-      "percentage": 48.0,
-      "old_price": "25.00",
-      "new_price": "13.00",
-      "timestamp": "2026-01-30T20:55:41.985843",
-      "url": "https://dusk.com/products/colour-stitch-fade-effect-cushion-cover-multi-natural"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Le Creuset Classic Salt Mill",
-      "percentage": 47.6,
-      "old_price": "41.00",
-      "new_price": "21.50",
-      "timestamp": "2026-01-29T12:17:38.294832",
-      "url": "https://www.johnlewis.com/le-creuset-classic-salt-mill/p5065295"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "Cabana pillow",
-      "percentage": 47.4,
-      "old_price": "190.00",
-      "new_price": "100.00",
-      "timestamp": "2026-01-29T18:56:25.573475",
-      "url": "https://brownsfashion.com/products/jonathan-adler-cabana-pillow-ollcty200134980"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Washed Cotton 200 Thread Count Plain Dye Duvet Cover & Pillowcase Set - Off White",
-      "percentage": 46.4,
-      "old_price": "16.80",
-      "new_price": "9.00",
-      "timestamp": "2026-01-30T04:02:01.861413",
-      "url": "https://dusk.com/products/washed-cotton-plain-dye-duvet-cover-set-almond"
-    },
-    {
-      "site": "pigletinbed_com",
-      "product": "Cedar Green Knitted Throw",
-      "percentage": 46.2,
-      "old_price": "119.00",
-      "new_price": "64.00",
-      "timestamp": "2026-01-29T16:04:08.461310",
-      "url": "https://www.pigletinbed.com/products/cedar-green-knitted-throw"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Kendal Khaki",
-      "percentage": 45.5,
-      "old_price": "99.00",
-      "new_price": "54.00",
-      "timestamp": "2026-01-29T17:35:21.405371",
-      "url": "https://www.oliversweeney.com/products/kendal-khaki-trainers"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Kendal Tan",
-      "percentage": 45.5,
-      "old_price": "99.00",
-      "new_price": "54.00",
-      "timestamp": "2026-01-29T17:35:21.405371",
-      "url": "https://www.oliversweeney.com/products/kendal-tan-leather-trainers"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "Winnie Embroidery maxi dress",
-      "percentage": 45.4,
-      "old_price": "3030.00",
-      "new_price": "1655.00",
-      "timestamp": "2026-01-30T05:28:35.260186",
-      "url": "https://brownsfashion.com/products/bernadette-winnie-embroidery-maxi-dress-olmss2600156454"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Ellerigg Brown",
-      "percentage": 44.7,
-      "old_price": "179.00",
-      "new_price": "99.00",
-      "timestamp": "2026-01-30T11:19:17.455806",
-      "url": "https://www.oliversweeney.com/products/ellerigg-brown-boots"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Ellerigg Black",
-      "percentage": 44.7,
-      "old_price": "179.00",
-      "new_price": "99.00",
-      "timestamp": "2026-01-30T11:19:17.455806",
-      "url": "https://www.oliversweeney.com/products/ellerigg-black-boots"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Sweaty Betty Breathe Easy Mesh Run Tank Top",
-      "percentage": 44.4,
-      "old_price": "45.00",
-      "new_price": "25.00",
-      "timestamp": "2026-01-30T14:59:11.120172",
-      "url": "https://www.johnlewis.com/sweaty-betty-breathe-easy-mesh-run-tank-top/p114133235"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Hyde Chocolate",
-      "percentage": 44.3,
-      "old_price": "79.00",
+      "product": "AMAZING",
+      "percentage": 50.6,
+      "old_price": "89.00",
       "new_price": "44.00",
-      "timestamp": "2026-01-29T17:35:21.405371",
-      "url": "https://www.oliversweeney.com/products/hyde-chocolate-knitwear"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Hyde Grey",
-      "percentage": 44.3,
-      "old_price": "79.00",
-      "new_price": "44.00",
-      "timestamp": "2026-01-29T17:35:21.405371",
-      "url": "https://www.oliversweeney.com/products/hyde-grey-jumper"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Hyde Navy",
-      "percentage": 44.3,
-      "old_price": "79.00",
-      "new_price": "44.00",
-      "timestamp": "2026-01-29T17:35:21.405371",
-      "url": "https://www.oliversweeney.com/products/hyde-navy-knitwear"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Sweaty Betty Power UltraSculpt High Waisted 7/8 Gym Leggings",
-      "percentage": 44.3,
-      "old_price": "88.00",
-      "new_price": "49.00",
-      "timestamp": "2026-01-30T12:44:11.919752",
-      "url": "https://www.johnlewis.com/sweaty-betty-power-ultrasculpt-high-waisted-7-8-gym-leggings/p110400324"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "Oyster Swinging Crib - Stone",
-      "percentage": 44.2,
-      "old_price": "249.00",
-      "new_price": "139.00",
-      "timestamp": "2026-01-30T21:19:06.189413",
-      "url": "https://ukbabycentre.com/products/oyster-swinging-crib-stone"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "Oyster Swinging Crib - Carbonite",
-      "percentage": 44.2,
-      "old_price": "249.00",
-      "new_price": "139.00",
-      "timestamp": "2026-01-30T21:19:06.189413",
-      "url": "https://ukbabycentre.com/products/oyster-swinging-crib-carbonite"
-    },
-    {
-      "site": "ukbabycentre_com",
-      "product": "Oyster Swinging Crib - Mink",
-      "percentage": 44.2,
-      "old_price": "249.00",
-      "new_price": "139.00",
-      "timestamp": "2026-01-30T21:19:06.189413",
-      "url": "https://ukbabycentre.com/products/oyster-swinging-crib-mink"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "The Little Green Sheep Organic Cotton Cellular Blanket",
-      "percentage": 44.0,
-      "old_price": "32.00",
-      "new_price": "17.92",
-      "timestamp": "2026-01-30T14:59:11.120172",
-      "url": "https://www.johnlewis.com/the-little-green-sheep-organic-cotton-cellular-blanket/p111896247"
-    },
-    {
-      "site": "brownsfashion_com",
-      "product": "Bellatrix off shoulder ruffled midi dress",
-      "percentage": 43.7,
-      "old_price": "1305.00",
-      "new_price": "735.00",
-      "timestamp": "2026-01-30T05:28:35.260186",
-      "url": "https://brownsfashion.com/products/rebecca-vallance-bellatrix-off-shoulder-ruffled-midi-dress-olmss2600160546"
-    },
-    {
-      "site": "dusk_com",
-      "product": "Soft Touch Microfibre Fitted Sheet - White",
-      "percentage": 41.7,
-      "old_price": "24.00",
-      "new_price": "14.00",
-      "timestamp": "2026-01-30T11:25:58.164220",
-      "url": "https://dusk.com/products/soft-touch-microfibre-fitted-sheet-white"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Polo Ralph Lauren Short Sleeve Custom Slim Fit Polo Shirt",
-      "percentage": 40.5,
-      "old_price": "100.00",
-      "new_price": "59.50",
-      "timestamp": "2026-01-30T12:44:11.919752",
-      "url": "https://www.johnlewis.com/polo-ralph-lauren-short-sleeve-custom-slim-fit-polo-shirt/p111436343"
-    },
-    {
-      "site": "oliversweeney_com",
-      "product": "Swanley Tan",
-      "percentage": 40.4,
-      "old_price": "99.00",
-      "new_price": "59.00",
-      "timestamp": "2026-01-29T17:35:21.405371",
-      "url": "https://www.oliversweeney.com/products/swanley-tan-boots"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Ralph Lauren PH4206 Men's Phantos Sunglasses",
-      "percentage": 40.4,
-      "old_price": "156.00",
-      "new_price": "93.00",
-      "timestamp": "2026-01-30T17:58:22.963801",
-      "url": "https://www.johnlewis.com/ralph-lauren-ph4206-mens-phantos-sunglasses/p110648655"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Roll Neck Cashmere Jumper",
-      "percentage": 40.4,
-      "old_price": "109.00",
-      "new_price": "65.00",
-      "timestamp": "2026-01-30T14:59:11.120172",
-      "url": "https://www.johnlewis.com/john-lewis-roll-neck-cashmere-jumper/p114084375"
-    },
-    {
-      "site": "berrysjewellers_co_uk",
-      "product": "18ct White Gold Oval Cut Pink Tourmaline & Diamond Set Trefoil Drop Earnings",
-      "percentage": 40.4,
-      "old_price": "9895.00",
-      "new_price": "5895.00",
-      "timestamp": "2026-01-29T18:15:19.449923",
-      "url": "https://www.berrysjewellers.co.uk/products/berrys-18ct-white-gold-oval-cut-pink-tourmaline-diamond-set-trefoil-drop-earnings"
-    },
-    {
-      "site": "fenwick_co_uk",
-      "product": "Oxford Duvet Cover",
-      "percentage": 40.1,
-      "old_price": "359.00",
-      "new_price": "215.00",
-      "timestamp": "2026-01-30T17:40:30.453919",
-      "url": "https://fenwick.co.uk/products/other-rosette-oxford-duvet-cover"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Joules Kids' Cotton Long Sleeve Floral Top, Red",
-      "percentage": 40.0,
-      "old_price": "15.00",
-      "new_price": "9.00",
-      "timestamp": "2026-01-30T08:14:54.633838",
-      "url": "https://www.johnlewis.com/joules-kids-cotton-long-sleeve-floral-top-red/p114201130"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "MAC Powder Kiss Lipstick",
-      "percentage": 40.0,
-      "old_price": "25.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-30T00:54:42.317035",
-      "url": "https://www.johnlewis.com/mac-powder-kiss-lipstick/p114703485"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "MAC Powder Kiss Liquid Lip Colour",
-      "percentage": 40.0,
-      "old_price": "25.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-30T00:54:42.317035",
-      "url": "https://www.johnlewis.com/mac-powder-kiss-liquid-lip-colour/p5092430"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "Le Creuset Stoneware Mug, 350ml",
-      "percentage": 40.0,
-      "old_price": "17.00",
-      "new_price": "10.20",
-      "timestamp": "2026-01-30T10:28:27.190593",
-      "url": "https://www.johnlewis.com/le-creuset-stoneware-mug-350ml/p1816158"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Cashmere Sleeveless Knit Vest",
-      "percentage": 40.0,
-      "old_price": "69.00",
-      "new_price": "41.40",
-      "timestamp": "2026-01-30T14:14:06.849114",
-      "url": "https://www.johnlewis.com/john-lewis-cashmere-sleeveless-knit-vest/p113835631"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "White Stuff Abbie Cotton T-Shirt",
-      "percentage": 40.0,
-      "old_price": "25.00",
-      "new_price": "15.00",
-      "timestamp": "2026-01-30T16:28:23.609174",
-      "url": "https://www.johnlewis.com/white-stuff-abbie-cotton-t-shirt/p111473537"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Connect Check Towels",
-      "percentage": 40.0,
-      "old_price": "10.00",
-      "new_price": "6.00",
-      "timestamp": "2026-01-30T12:44:11.919752",
-      "url": "https://www.johnlewis.com/john-lewis-connect-check-towels/p111662913"
-    },
-    {
-      "site": "johnlewis_com",
-      "product": "John Lewis Colour Block Towels",
-      "percentage": 40.0,
-      "old_price": "12.50",
-      "new_price": "7.50",
-      "timestamp": "2026-01-30T12:44:11.919752",
-      "url": "https://www.johnlewis.com/john-lewis-colour-block-towels/p112259760"
-    },
-    {
-      "site": "thesewingstudio_co_uk",
-      "product": "Pfaff Ambition 610 Sewing Machine",
-      "percentage": 40.0,
-      "old_price": "999.00",
-      "new_price": "599.00",
-      "timestamp": "2026-01-30T21:38:19.915702",
-      "url": "https://www.thesewingstudio.co.uk/products/pfaff-ambition-610-sewing-machine"
+      "timestamp": "2026-01-31T07:09:01.935620",
+      "url": "https://fenwick.co.uk/products/dune-london-black-amazing"
     },
     {
       "site": "currys_com",
-      "product": "TTAP TTD-2 Twin Glass Wall Shelf",
-      "percentage": 40.0,
-      "old_price": "39.99",
-      "new_price": "23.99",
-      "timestamp": "2026-01-30T08:13:22.254968",
-      "url": "https://www.currys.co.uk/products/10156607.html"
+      "product": "PHILIPS HUE White & Colour Ambiance Smart LED Bulb - E2",
+      "percentage": 50.6,
+      "old_price": "94.99",
+      "new_price": "46.97",
+      "timestamp": "2026-01-31T09:27:55.602438",
+      "url": "https://www.currys.co.uk/products/10267239.html"
     },
     {
-      "site": "victoriabeckham_com",
-      "product": "Tank Top In White",
-      "percentage": 40.0,
-      "old_price": "75.00",
-      "new_price": "45.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/tank-top-in-white-21159"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Tank Top In Rose",
-      "percentage": 40.0,
-      "old_price": "60.00",
-      "new_price": "36.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/tank-top-in-rose-21159"
-    },
-    {
-      "site": "victoriabeckham_com",
-      "product": "Tank Top In Pistachio",
-      "percentage": 40.0,
-      "old_price": "45.00",
-      "new_price": "27.00",
-      "timestamp": "2026-01-29T13:18:21.877198",
-      "url": "https://www.victoriabeckham.com/products/tank-top-in-pistachio-21159"
+      "site": "flannels_com",
+      "product": "SAINT LAURENT - Cassandre Double-Wrap Bracelet",
+      "percentage": 50.4,
+      "old_price": "240.00",
+      "new_price": "119.00",
+      "timestamp": "2026-01-31T01:00:22.564180",
+      "url": "https://www.flannels.com/saint-laurent-cassandre-double-wrap-calf-leather-bracelet-836748"
     }
   ]
 }

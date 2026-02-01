@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-31T23:55:30.217785",
-  "total_drops": 1,
-  "top_drops_shown": 1,
+  "generated_at": "2026-02-01T00:00:32.839238",
+  "total_drops": 2,
+  "top_drops_shown": 2,
   "site_stats": [
     {
       "site": "fenwick_co_uk",
-      "count": 1,
+      "count": 2,
       "max_drop": 62.9,
-      "total_savings": 100.0
+      "total_savings": 130.0
     }
   ],
   "drops": [
@@ -17,7 +17,16 @@
       "percentage": 62.9,
       "old_price": "159.00",
       "new_price": "59.00",
-      "timestamp": "2026-01-31T23:55:13.126921",
+      "timestamp": "2026-02-01T00:00:10.463113",
+      "url": null
+    },
+    {
+      "site": "fenwick_co_uk",
+      "product": "Kross Sandals Black",
+      "percentage": 43.5,
+      "old_price": "69.00",
+      "new_price": "39.00",
+      "timestamp": "2026-02-01T00:00:10.463113",
       "url": null
     }
   ]

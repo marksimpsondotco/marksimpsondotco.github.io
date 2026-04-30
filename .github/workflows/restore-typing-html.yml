@@ -24,9 +24,19 @@ jobs:
       - name: Check and restore typing.html
         run: |
           if [ ! -f docs/typing.html ]; then
-            echo "docs/typing.html is missing – restoring from backup branch"
-            git fetch origin backup/typing-html
-            git checkout origin/backup/typing-html -- docs/typing.html
+            echo "docs/typing.html is missing – restoring from known commit"
+            # Restore from the immutable commit that introduced the file (PR #2 head).
+            # This SHA is the merge commit of the branch copilot/develop-touch-typing-app.
+            BACKUP_SHA="1562ccf24de4665bc3fadb03c502eca3d22eb36d"
+            if ! git fetch origin "$BACKUP_SHA"; then
+              echo "ERROR: Could not fetch backup commit $BACKUP_SHA – aborting restore" >&2
+              exit 1
+            fi
+            if ! git cat-file -e "FETCH_HEAD:docs/typing.html"; then
+              echo "ERROR: docs/typing.html not found in backup commit $BACKUP_SHA" >&2
+              exit 1
+            fi
+            git checkout FETCH_HEAD -- docs/typing.html
             git config user.name  "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add docs/typing.html

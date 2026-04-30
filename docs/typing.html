@@ -4,6 +4,12 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Touch Typing – Home Row First</title>
+  <!--
+    NOTE: These scripts are loaded from the unpkg CDN without Subresource Integrity (SRI)
+    hashes because the app has no build step. For production hardening, pin each URL to an
+    exact version (e.g. react@18.2.0) and add matching integrity="sha384-…" attributes once
+    the final hashes are known. See https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
+  -->
   <script src="https://cdn.tailwindcss.com"></script>
   <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
   <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
@@ -41,9 +47,12 @@
       { id: 14, name: 'Full Alphabet', desc: 'All keys — Z, slash (/), B and N',            keys: ['f','j','d','k','s','l','a',';','g','h','r','u','e','i','w','o','q','p','t','y','v','m','c',',','x','.','z','/','b','n'] },
     ];
 
-    const REQUIRED_ACC = 95;   // % accuracy required to unlock next level
-    const MIN_CHARS    = 100;  // minimum chars typed at level before accuracy is checked
-    const TEXT_LEN     = 260;  // characters per generated practice block
+    const REQUIRED_ACC       = 95;   // % accuracy required to unlock next level
+    const MIN_CHARS          = 100;  // minimum chars typed at level before accuracy is checked
+    const TEXT_LEN           = 260;  // characters per generated practice block
+    const MIN_WORD_LEN       = 2;    // shortest generated word (chars)
+    const WORD_LEN_RANGE     = 4;    // random extra length added to MIN_WORD_LEN (gives 2–5)
+    const LEVEL_UP_DURATION  = 2500; // ms the level-up celebration overlay is shown
 
     // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     // FINGER MAP
@@ -96,10 +105,11 @@
       return `rgba(${r},${g},${b},${a})`;
     }
 
-    // Lazy AudioContext — created on first key press to satisfy browser autoplay rules
+    // Lazy AudioContext — created on first key press to satisfy browser autoplay rules.
+    // The webkitAudioContext fallback covers legacy Safari/Chrome versions prior to 2014.
     let _audioCtx = null;
     function getAudioCtx() {
-      if (!_audioCtx) _audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      if (!_audioCtx) _audioCtx = new (window.AudioContext || window.webkitAudioContext)(); // eslint-disable-line new-cap
       if (_audioCtx.state === 'suspended') _audioCtx.resume();
       return _audioCtx;
     }
@@ -171,7 +181,7 @@
       const words = [];
       let filled = 0;
       while (filled < len) {
-        const wlen = 2 + Math.floor(Math.random() * 4); // 2–5 char words
+        const wlen = MIN_WORD_LEN + Math.floor(Math.random() * WORD_LEN_RANGE);
         let word = '', prev = null, streak = 0;
         for (let i = 0; i < wlen; i++) {
           const c = pick(streak >= 2 ? prev : null);
@@ -469,6 +479,8 @@
         setLevelChars(0);
         setLevelAcc(100);
         initText(levelIdx);
+        // initText is a closure that reads heatmapRef.current (always up-to-date via its own
+        // useEffect sync), so omitting it from deps here is intentional and safe.
       }, [levelIdx]); // eslint-disable-line react-hooks/exhaustive-deps
 
       // ── WPM timer — fires every 500 ms ────────────────────────────
@@ -571,7 +583,7 @@
           setTimeout(() => {
             setShowLvlUp(false);
             setLevelIdx(nextIdx);
-          }, 2500);
+          }, LEVEL_UP_DURATION);
         }
       }, []); // intentionally empty — all live values accessed via refs
 

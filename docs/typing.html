@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Touch Typing – Home Row First</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
+    .mono { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+    .key-glow { box-shadow: 0 0 18px 5px rgba(234,179,8,.8), inset 0 1px 0 rgba(255,255,255,.2); }
+    * { box-sizing: border-box; }
+  </style>
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen">
+  <div id="root"></div>
+
+  <script type="text/babel">
+    const { useState, useEffect, useRef, useCallback } = React;
+
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    // LEVEL DATA  – Home Row First curriculum
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    const LEVEL_DATA = [
+      { id:  1, name: 'Home Index',    desc: 'Left & right index fingers — F and J',        keys: ['f','j'] },
+      { id:  2, name: 'Home Middle',   desc: 'Add D (left middle) and K (right middle)',     keys: ['f','j','d','k'] },
+      { id:  3, name: 'Home Ring',     desc: 'Add S (left ring) and L (right ring)',         keys: ['f','j','d','k','s','l'] },
+      { id:  4, name: 'Full Home Row', desc: 'Complete home row: A and semicolon (;)',       keys: ['f','j','d','k','s','l','a',';'] },
+      { id:  5, name: 'Index Stretch', desc: 'Index finger reaches: G and H',               keys: ['f','j','d','k','s','l','a',';','g','h'] },
+      { id:  6, name: 'Upper Index',   desc: 'Upper row index fingers: R and U',            keys: ['f','j','d','k','s','l','a',';','g','h','r','u'] },
+      { id:  7, name: 'Upper Middle',  desc: 'Upper row middle fingers: E and I',           keys: ['f','j','d','k','s','l','a',';','g','h','r','u','e','i'] },
+      { id:  8, name: 'Upper Ring',    desc: 'Upper row ring fingers: W and O',             keys: ['f','j','d','k','s','l','a',';','g','h','r','u','e','i','w','o'] },
+      { id:  9, name: 'Upper Row',     desc: 'Complete upper row: Q and P',                 keys: ['f','j','d','k','s','l','a',';','g','h','r','u','e','i','w','o','q','p'] },
+      { id: 10, name: 'T & Y',         desc: 'Centre upper stretches: T and Y',             keys: ['f','j','d','k','s','l','a',';','g','h','r','u','e','i','w','o','q','p','t','y'] },
+      { id: 11, name: 'Lower Index',   desc: 'Lower row index fingers: V and M',            keys: ['f','j','d','k','s','l','a',';','g','h','r','u','e','i','w','o','q','p','t','y','v','m'] },
+      { id: 12, name: 'Lower Middle',  desc: 'Lower row middle fingers: C and comma (,)',   keys: ['f','j','d','k','s','l','a',';','g','h','r','u','e','i','w','o','q','p','t','y','v','m','c',','] },
+      { id: 13, name: 'Lower Ring',    desc: 'Lower row ring fingers: X and period (.)',    keys: ['f','j','d','k','s','l','a',';','g','h','r','u','e','i','w','o','q','p','t','y','v','m','c',',','x','.'] },
+      { id: 14, name: 'Full Alphabet', desc: 'All keys — Z, slash (/), B and N',            keys: ['f','j','d','k','s','l','a',';','g','h','r','u','e','i','w','o','q','p','t','y','v','m','c',',','x','.','z','/','b','n'] },
+    ];
+
+    const REQUIRED_ACC = 95;   // % accuracy required to unlock next level
+    const MIN_CHARS    = 100;  // minimum chars typed at level before accuracy is checked
+    const TEXT_LEN     = 260;  // characters per generated practice block
+
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    // FINGER MAP
+    // 0 = thumb | 1 = L-pinky | 2 = L-ring | 3 = L-middle | 4 = L-index
+    //             5 = R-index | 6 = R-middle| 7 = R-ring   | 8 = R-pinky
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    const FINGER_MAP = {
+      '`':1, '1':1, 'q':1, 'a':1, 'z':1,
+      '2':2, 'w':2, 's':2, 'x':2,
+      '3':3, 'e':3, 'd':3, 'c':3,
+      '4':4, 'r':4, 'f':4, 'v':4, '5':4, 't':4, 'g':4, 'b':4,
+      ' ':0,
+      '6':5, 'y':5, 'h':5, 'n':5, '7':5, 'u':5, 'j':5, 'm':5,
+      '8':6, 'i':6, 'k':6, ',':6,
+      '9':7, 'o':7, 'l':7, '.':7,
+      '0':8, 'p':8, ';':8, '/':8, "'":8, '-':8, '=':8, '[':8, ']':8, '\\':8,
+    };
+
+    const FINGERS = {
+      0: { label: 'Thumb',        color: '#71717a' },
+      1: { label: 'Left Pinky',   color: '#7c3aed' },
+      2: { label: 'Left Ring',    color: '#2563eb' },
+      3: { label: 'Left Middle',  color: '#0d9488' },
+      4: { label: 'Left Index',   color: '#16a34a' },
+      5: { label: 'Right Index',  color: '#ca8a04' },
+      6: { label: 'Right Middle', color: '#ea580c' },
+      7: { label: 'Right Ring',   color: '#dc2626' },
+      8: { label: 'Right Pinky',  color: '#9333ea' },
+    };
+
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    // KEYBOARD LAYOUT  (ml = left-margin offset in px to mimic stagger)
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    const KB_ROWS = [
+      { keys: ['`','1','2','3','4','5','6','7','8','9','0','-','='],  ml: 0  },
+      { keys: ['q','w','e','r','t','y','u','i','o','p','[',']','\\'], ml: 24 },
+      { keys: ['a','s','d','f','g','h','j','k','l',';',"'"],          ml: 40 },
+      { keys: ['z','x','c','v','b','n','m',',','.','/'],              ml: 64 },
+    ];
+
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    // UTILITIES
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    /** Convert a 6-digit hex colour + alpha [0-1] to rgba(…) string */
+    function hexRgba(hex, a) {
+      const r = parseInt(hex.slice(1, 3), 16);
+      const g = parseInt(hex.slice(3, 5), 16);
+      const b = parseInt(hex.slice(5, 7), 16);
+      return `rgba(${r},${g},${b},${a})`;
+    }
+
+    // Lazy AudioContext — created on first key press to satisfy browser autoplay rules
+    let _audioCtx = null;
+    function getAudioCtx() {
+      if (!_audioCtx) _audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      if (_audioCtx.state === 'suspended') _audioCtx.resume();
+      return _audioCtx;
+    }
+
+    /** Synthesise a subtle mechanical-keyboard click (or a low error buzz) */
+    function playClick(isError) {
+      try {
+        const ctx  = getAudioCtx();
+        const osc  = ctx.createOscillator();
+        const gain = ctx.createGain();
+        const flt  = ctx.createBiquadFilter();
+        osc.connect(flt);
+        flt.connect(gain);
+        gain.connect(ctx.destination);
+
+        flt.type = 'bandpass';
+        const now = ctx.currentTime;
+
+        if (isError) {
+          flt.frequency.value = 300;
+          flt.Q.value = 0.8;
+          osc.type = 'sawtooth';
+          osc.frequency.setValueAtTime(200, now);
+          gain.gain.setValueAtTime(0.10, now);
+          gain.gain.exponentialRampToValueAtTime(0.001, now + 0.20);
+          osc.start(now);
+          osc.stop(now + 0.20);
+        } else {
+          flt.frequency.value = 1400;
+          flt.Q.value = 1.2;
+          osc.type = 'square';
+          osc.frequency.setValueAtTime(1000, now);
+          osc.frequency.exponentialRampToValueAtTime(500, now + 0.025);
+          gain.gain.setValueAtTime(0.06, now);
+          gain.gain.exponentialRampToValueAtTime(0.001, now + 0.035);
+          osc.start(now);
+          osc.stop(now + 0.035);
+        }
+      } catch (_) { /* silently ignore if audio unavailable */ }
+    }
+
+    /**
+     * Procedural practice-text generator.
+     * Characters from the current level's key-set are weighted by their error
+     * rate in the heatmap — keys typed poorly appear more often.
+     */
+    function genText(keys, heatmap, len) {
+      const chars = keys.filter(k => k !== ' ');
+      if (!chars.length) return 'fjfj fjfj fjfj';
+
+      const weights = chars.map(k => {
+        const h = heatmap[k];
+        return (h && h.total > 0) ? 1 + (h.errors / h.total) * 5 : 1;
+      });
+
+      function pick(exclude) {
+        const pool  = exclude ? chars.filter(c => c !== exclude) : chars;
+        if (!pool.length) return chars[0];
+        const poolW = pool.map(c => weights[chars.indexOf(c)]);
+        const total = poolW.reduce((s, w) => s + w, 0);
+        let r = Math.random() * total;
+        for (let i = 0; i < pool.length; i++) {
+          r -= poolW[i];
+          if (r <= 0) return pool[i];
+        }
+        return pool[pool.length - 1];
+      }
+
+      const words = [];
+      let filled = 0;
+      while (filled < len) {
+        const wlen = 2 + Math.floor(Math.random() * 4); // 2–5 char words
+        let word = '', prev = null, streak = 0;
+        for (let i = 0; i < wlen; i++) {
+          const c = pick(streak >= 2 ? prev : null);
+          streak = (c === prev) ? streak + 1 : 1;
+          prev = c;
+          word += c;
+        }
+        words.push(word);
+        filled += word.length + 1;
+      }
+      return words.join(' ');
+    }
+
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    // COMPONENT — VirtualKeyboard
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    function VirtualKeyboard({ target, available }) {
+      const tFi     = FINGER_MAP[target] ?? -1;
+      const tFinger = FINGERS[tFi];
+
+      return (
+        <div className="mt-6 select-none">
+
+          {/* Active-finger badge */}
+          <div className="h-9 flex items-center justify-center mb-3">
+            {tFinger && target !== ' ' && (
+              <span
+                className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-semibold text-white"
+                style={{ backgroundColor: tFinger.color }}
+              >
+                <span>☝️</span>
+                <span className="mono font-bold uppercase">{target}</span>
+                <span className="opacity-70">—</span>
+                <span>{tFinger.label}</span>
+              </span>
+            )}
+            {target === ' ' && (
+              <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-semibold text-white bg-zinc-600">
+                👍 Spacebar — Thumb
+              </span>
+            )}
+          </div>
+
+          {/* Key rows */}
+          <div className="flex flex-col items-center gap-1 overflow-x-auto pb-2">
+            {KB_ROWS.map((row, ri) => (
+              <div key={ri} className="flex gap-1" style={{ marginLeft: `${row.ml}px` }}>
+                {row.keys.map(k => {
+                  const fi      = FINGER_MAP[k] ?? -1;
+                  const fc      = FINGERS[fi];
+                  const isT     = (k === target);
+                  const isAvail = available.includes(k);
+                  return (
+                    <div
+                      key={k}
+                      className={`mono w-9 h-9 flex items-center justify-center rounded text-xs font-bold uppercase border transition-all duration-75 ${isT ? 'key-glow scale-110 relative z-10' : ''}`}
+                      style={{
+                        backgroundColor: isT
+                          ? fc?.color ?? '#ca8a04'
+                          : isAvail && fc
+                            ? hexRgba(fc.color, 0.40)
+                            : '#18181b',
+                        borderColor: isT
+                          ? fc?.color ?? '#ca8a04'
+                          : isAvail && fc
+                            ? hexRgba(fc.color, 0.35)
+                            : '#3f3f46',
+                        color: isT ? '#fff' : isAvail ? '#d4d4d8' : '#3f3f46',
+                      }}
+                    >
+                      {k}
+                    </div>
+                  );
+                })}
+              </div>
+            ))}
+
+            {/* Spacebar row */}
+            <div className="mt-1">
+              <div
+                className={`mono h-9 flex items-center justify-center rounded text-xs font-bold border transition-all duration-75 ${target === ' ' ? 'key-glow' : ''}`}
+                style={{
+                  width: 256,
+                  backgroundColor: target === ' ' ? '#71717a' : '#18181b',
+                  borderColor:     target === ' ' ? '#71717a' : '#3f3f46',
+                  color:           target === ' ' ? '#fff'    : '#3f3f46',
+                }}
+              >
+                SPACE
+              </div>
+            </div>
+          </div>
+
+          {/* Finger colour legend */}
+          <div className="flex flex-wrap justify-center gap-x-4 gap-y-1 mt-3">
+            {Object.entries(FINGERS).filter(([i]) => i !== '0').map(([i, f]) => (
+              <div
+                key={i}
+                className={`flex items-center gap-1 text-xs transition-opacity duration-150 ${parseInt(i) === tFi ? 'opacity-100 font-bold text-white' : 'opacity-35 text-zinc-500'}`}
+              >
+                <div className="w-2.5 h-2.5 rounded-sm flex-shrink-0" style={{ backgroundColor: f.color }} />
+                {f.label}
+              </div>
+            ))}
+          </div>
+        </div>
+      );
+    }
+
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    // COMPONENT — TypingDisplay
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    function TypingDisplay({ text, pos, states }) {
+      const curRef = useRef(null);
+
+      useEffect(() => {
+        curRef.current?.scrollIntoView({ block: 'nearest', inline: 'nearest' });
+      }, [pos]);
+
+      return (
+        <div className="mono text-2xl bg-zinc-900 rounded-xl p-6 leading-loose overflow-hidden max-h-48">
+          {text.split('').map((ch, i) => {
+            const s     = states[i];
+            const isCur = (i === pos);
+            return (
+              <span
+                key={i}
+                ref={isCur ? curRef : null}
+                className={[
+                  s === 'correct'   ? 'text-green-400' : '',
+                  s === 'incorrect' ? 'text-red-400 underline decoration-red-500 decoration-2' : '',
+                  s !== 'correct' && s !== 'incorrect' && !isCur ? 'text-zinc-600' : '',
+                  isCur ? 'bg-yellow-400 text-zinc-900 rounded px-0.5' : '',
+                ].filter(Boolean).join(' ')}
+              >
+                {ch === ' ' ? '\u00A0' : ch}
+              </span>
+            );
+          })}
+        </div>
+      );
+    }
+
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    // COMPONENT — Stats
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    function Stats({ wpm, accuracy, levelChars, levelAcc, levelName }) {
+      const progress   = Math.min(1, levelChars / MIN_CHARS);
+      const canAdvance = levelChars >= MIN_CHARS && levelAcc >= REQUIRED_ACC;
+      const accColor   = accuracy  >= 95 ? 'text-green-400' : accuracy  >= 80 ? 'text-yellow-400' : 'text-red-400';
+      const lAccColor  = levelAcc  >= 95 ? 'text-green-400' : levelAcc  >= 80 ? 'text-yellow-400' : 'text-red-400';
+
+      return (
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+          <div className="bg-zinc-900 rounded-xl p-4 text-center">
+            <div className="mono text-3xl font-bold text-blue-400">{wpm}</div>
+            <div className="text-xs text-zinc-500 uppercase tracking-widest mt-1">WPM</div>
+          </div>
+
+          <div className="bg-zinc-900 rounded-xl p-4 text-center">
+            <div className={`mono text-3xl font-bold ${accColor}`}>{accuracy}%</div>
+            <div className="text-xs text-zinc-500 uppercase tracking-widest mt-1">Accuracy</div>
+          </div>
+
+          <div className="bg-zinc-900 rounded-xl p-4 text-center">
+            <div className={`mono text-3xl font-bold ${lAccColor}`}>{levelAcc}%</div>
+            <div className="text-xs text-zinc-500 uppercase tracking-widest mt-1">Level Acc</div>
+          </div>
+
+          <div className="bg-zinc-900 rounded-xl p-4">
+            <div className="text-xs text-zinc-500 uppercase tracking-widest mb-2 truncate">{levelName}</div>
+            <div className="h-2 bg-zinc-800 rounded-full overflow-hidden">
+              <div
+                className={`h-full rounded-full transition-all duration-300 ${canAdvance ? 'bg-green-500' : 'bg-blue-600'}`}
+                style={{ width: `${progress * 100}%` }}
+              />
+            </div>
+            <div className="text-xs text-zinc-600 mt-1">
+              {canAdvance
+                ? '✓ Ready to advance!'
+                : `${levelChars} / ${MIN_CHARS} chars · need ${REQUIRED_ACC}%`}
+            </div>
+          </div>
+        </div>
+      );
+    }
+
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    // COMPONENT — Heatmap
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    function Heatmap({ heatmap, keys }) {
+      const chars = keys.filter(k => k !== ' ');
+      return (
+        <div className="bg-zinc-900 rounded-xl p-4 mt-4">
+          <div className="text-xs uppercase tracking-widest text-zinc-600 mb-3">Key Error Heatmap</div>
+          <div className="flex flex-wrap gap-1.5">
+            {chars.map(k => {
+              const h    = heatmap[k] ?? { total: 0, errors: 0 };
+              const rate = h.total > 0 ? h.errors / h.total : 0;
+              return (
+                <div
+                  key={k}
+                  title={`${k.toUpperCase()}: ${h.errors} errors / ${h.total} typed (${Math.round(rate * 100)}% error rate)`}
+                  className="mono w-9 h-9 flex items-center justify-center rounded text-xs font-bold uppercase cursor-help border"
+                  style={{
+                    backgroundColor: `rgba(248,81,73,${0.08 + rate * 0.82})`,
+                    borderColor:     `rgba(248,81,73,${0.15 + rate * 0.55})`,
+                    color: rate > 0.35 ? '#fff' : '#a1a1aa',
+                  }}
+                >
+                  {k}
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      );
+    }
+
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    // COMPONENT — LevelBar  (14-segment progress strip at the top)
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    function LevelBar({ currentIdx }) {
+      return (
+        <div className="flex gap-0.5 mb-5">
+          {LEVEL_DATA.map((l, i) => (
+            <div
+              key={l.id}
+              title={`Level ${l.id}: ${l.name}`}
+              className={`flex-1 h-1.5 rounded-full transition-all duration-500 ${
+                i < currentIdx  ? 'bg-green-600'
+                : i === currentIdx ? 'bg-blue-500'
+                : 'bg-zinc-800'
+              }`}
+            />
+          ))}
+        </div>
+      );
+    }
+
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    // COMPONENT — App  (TypingEngine lives here)
+    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    function App() {
+      // ── Persistent UI state ────────────────────────────────────────
+      const [levelIdx,   setLevelIdx]   = useState(0);
+      const [soundOn,    setSoundOn]    = useState(true);
+      const [showLvlUp,  setShowLvlUp]  = useState(false);
+
+      // ── Display-only state (drives renders) ────────────────────────
+      const [dispText,   setDispText]   = useState('');
+      const [dispPos,    setDispPos]    = useState(0);
+      const [dispStates, setDispStates] = useState([]);
+      const [wpm,        setWpm]        = useState(0);
+      const [accuracy,   setAccuracy]   = useState(100);
+      const [levelAcc,   setLevelAcc]   = useState(100);
+      const [levelChars, setLevelChars] = useState(0);
+      const [heatmap,    setHeatmap]    = useState({});
+
+      // ── Engine refs — always up-to-date inside the keydown handler ──
+      const textRef       = useRef('');
+      const posRef        = useRef(0);
+      const statesRef     = useRef([]);
+      const startTimeRef  = useRef(null);
+      const totalTypedRef = useRef(0);
+      const totalErrRef   = useRef(0);
+      const lvlTypedRef   = useRef(0);
+      const lvlErrRef     = useRef(0);
+      const heatmapRef    = useRef({});
+      const soundOnRef    = useRef(true);
+      const levelIdxRef   = useRef(0);
+      const levelingRef   = useRef(false); // guard against double level-up
+
+      // Keep refs aligned with state
+      useEffect(() => { soundOnRef.current  = soundOn;  }, [soundOn]);
+      useEffect(() => { levelIdxRef.current = levelIdx; }, [levelIdx]);
+      useEffect(() => { heatmapRef.current  = heatmap;  }, [heatmap]);
+
+      // ── Initialise / reset text when level changes ─────────────────
+      function initText(idx) {
+        const level = LEVEL_DATA[idx];
+        const t     = genText(level.keys, heatmapRef.current, TEXT_LEN);
+        textRef.current   = t;
+        posRef.current    = 0;
+        statesRef.current = new Array(t.length).fill('pending');
+        setDispText(t);
+        setDispPos(0);
+        setDispStates([...statesRef.current]);
+      }
+
+      useEffect(() => {
+        lvlTypedRef.current = 0;
+        lvlErrRef.current   = 0;
+        levelingRef.current = false;
+        setLevelChars(0);
+        setLevelAcc(100);
+        initText(levelIdx);
+      }, [levelIdx]); // eslint-disable-line react-hooks/exhaustive-deps
+
+      // ── WPM timer — fires every 500 ms ────────────────────────────
+      useEffect(() => {
+        const id = setInterval(() => {
+          if (startTimeRef.current && totalTypedRef.current > 0) {
+            const mins = (Date.now() - startTimeRef.current) / 60000;
+            setWpm(Math.max(0, Math.round((totalTypedRef.current / 5) / mins)));
+          }
+        }, 500);
+        return () => clearInterval(id);
+      }, []);
+
+      // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      // TYPING ENGINE — raw keydown listener (no React synthetic event overhead)
+      // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      const handleKeyDown = useCallback((e) => {
+        // Ignore modified keys and multi-char keys (arrows, F-keys, etc.)
+        if (e.ctrlKey || e.altKey || e.metaKey) return;
+        if (e.key.length > 1 && e.key !== 'Backspace') return;
+        if (!textRef.current) return;
+
+        e.preventDefault();
+
+        // ── Backspace — erase one character ──────────────────────────
+        if (e.key === 'Backspace') {
+          if (posRef.current > 0) {
+            posRef.current--;
+            statesRef.current = [...statesRef.current];
+            statesRef.current[posRef.current] = 'pending';
+            setDispPos(posRef.current);
+            setDispStates([...statesRef.current]);
+          }
+          return;
+        }
+
+        // ── End of text — regenerate ─────────────────────────────────
+        if (posRef.current >= textRef.current.length) {
+          const idx = levelIdxRef.current;
+          const t   = genText(LEVEL_DATA[idx].keys, heatmapRef.current, TEXT_LEN);
+          textRef.current   = t;
+          posRef.current    = 0;
+          statesRef.current = new Array(t.length).fill('pending');
+          setDispText(t);
+          setDispPos(0);
+          setDispStates([...statesRef.current]);
+          return;
+        }
+
+        const pos      = posRef.current;
+        const expected = textRef.current[pos];
+        const isOk     = (e.key === expected);
+
+        // Start timer on first keystroke
+        if (!startTimeRef.current) startTimeRef.current = Date.now();
+
+        // Update char states
+        statesRef.current = [...statesRef.current];
+        statesRef.current[pos] = isOk ? 'correct' : 'incorrect';
+        posRef.current = pos + 1;
+
+        // Update global totals
+        totalTypedRef.current++;
+        if (!isOk) totalErrRef.current++;
+        const gAcc = Math.round(((totalTypedRef.current - totalErrRef.current) / totalTypedRef.current) * 100);
+        setAccuracy(gAcc);
+
+        // Update level totals
+        lvlTypedRef.current++;
+        if (!isOk) lvlErrRef.current++;
+        const lAcc = Math.round(((lvlTypedRef.current - lvlErrRef.current) / lvlTypedRef.current) * 100);
+        setLevelAcc(lAcc);
+        setLevelChars(lvlTypedRef.current);
+
+        // Update heatmap (spaces are not tracked per-key)
+        if (expected !== ' ') {
+          const prev  = heatmapRef.current[expected] ?? { total: 0, errors: 0 };
+          const next  = { total: prev.total + 1, errors: prev.errors + (isOk ? 0 : 1) };
+          heatmapRef.current = { ...heatmapRef.current, [expected]: next };
+          setHeatmap({ ...heatmapRef.current });
+        }
+
+        // Sound feedback
+        if (soundOnRef.current) playClick(!isOk);
+
+        // Flush display
+        setDispPos(posRef.current);
+        setDispStates([...statesRef.current]);
+
+        // ── Level-up check ───────────────────────────────────────────
+        const nextIdx = levelIdxRef.current + 1;
+        if (
+          !levelingRef.current &&
+          lvlTypedRef.current >= MIN_CHARS &&
+          lAcc >= REQUIRED_ACC &&
+          nextIdx < LEVEL_DATA.length
+        ) {
+          levelingRef.current = true;
+          setShowLvlUp(true);
+          setTimeout(() => {
+            setShowLvlUp(false);
+            setLevelIdx(nextIdx);
+          }, 2500);
+        }
+      }, []); // intentionally empty — all live values accessed via refs
+
+      useEffect(() => {
+        window.addEventListener('keydown', handleKeyDown);
+        return () => window.removeEventListener('keydown', handleKeyDown);
+      }, [handleKeyDown]);
+
+      // ── Derived display values ─────────────────────────────────────
+      const level     = LEVEL_DATA[levelIdx];
+      const targetKey = dispText[dispPos] ?? '';
+
+      // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      // RENDER
+      // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      return (
+        <div className="min-h-screen flex flex-col items-center py-10 px-4">
+          <div className="w-full max-w-3xl">
+
+            {/* ── Header ─────────────────────────────────────────── */}
+            <div className="flex items-center justify-between mb-6">
+              <div>
+                <h1 className="text-xl font-bold tracking-tight">⌨️ Touch Typing</h1>
+                <p className="text-xs text-zinc-500 mt-0.5">
+                  Home Row First · unlock next level at {REQUIRED_ACC}% accuracy
+                </p>
+              </div>
+              <button
+                onClick={() => setSoundOn(s => !s)}
+                className="text-xs px-3 py-1.5 rounded-full border border-zinc-700 text-zinc-400 hover:border-zinc-500 transition-colors"
+              >
+                {soundOn ? '🔊 Sound On' : '🔇 Sound Off'}
+              </button>
+            </div>
+
+            {/* ── Level progress strip ────────────────────────────── */}
+            <LevelBar currentIdx={levelIdx} />
+
+            {/* ── Level label ─────────────────────────────────────── */}
+            <div className="text-center mb-4">
+              <span className="text-xs text-zinc-500 uppercase tracking-widest">Level {level.id} — </span>
+              <span className="text-sm text-zinc-300 font-medium">{level.name}</span>
+              <span className="text-xs text-zinc-600 ml-2">({level.desc})</span>
+            </div>
+
+            {/* ── Key chips (keys in current level) ───────────────── */}
+            <div className="flex justify-center flex-wrap gap-1 mb-5">
+              {level.keys.filter(k => k !== ' ').map(k => (
+                <div
+                  key={k}
+                  className={`mono w-7 h-7 flex items-center justify-center rounded text-xs font-bold uppercase border transition-all ${k === targetKey ? 'scale-125 ring-2 ring-yellow-400' : ''}`}
+                  style={{
+                    backgroundColor: hexRgba(FINGERS[FINGER_MAP[k] ?? 0]?.color ?? '#71717a', 0.5),
+                    borderColor:     hexRgba(FINGERS[FINGER_MAP[k] ?? 0]?.color ?? '#71717a', 0.7),
+                    color: '#e4e4e7',
+                  }}
+                >
+                  {k}
+                </div>
+              ))}
+            </div>
+
+            {/* ── Stats ───────────────────────────────────────────── */}
+            <Stats
+              wpm={wpm}
+              accuracy={accuracy}
+              levelChars={levelChars}
+              levelAcc={levelAcc}
+              levelName={level.name}
+            />
+
+            {/* ── Typing area ─────────────────────────────────────── */}
+            <div className="mt-4">
+              <TypingDisplay text={dispText} pos={dispPos} states={dispStates} />
+            </div>
+
+            {/* ── Virtual keyboard ────────────────────────────────── */}
+            <VirtualKeyboard target={targetKey} available={level.keys} />
+
+            {/* ── Heatmap ─────────────────────────────────────────── */}
+            <Heatmap heatmap={heatmap} keys={level.keys} />
+
+            {/* ── Low-accuracy warning ────────────────────────────── */}
+            {levelChars >= 30 && levelAcc < 80 && (
+              <div className="mt-4 text-sm text-red-400 bg-red-950/40 rounded-xl p-3 border border-red-900 text-center">
+                ⚠️ Slow down and focus on accuracy — the heatmap above shows your problem keys
+              </div>
+            )}
+
+          </div>{/* max-w-3xl */}
+
+          {/* ── Level-up overlay ────────────────────────────────────── */}
+          {showLvlUp && (
+            <div className="fixed inset-0 bg-black/80 flex items-center justify-center z-50 backdrop-blur-sm">
+              <div className="bg-zinc-900 border border-green-600/40 rounded-2xl p-12 text-center shadow-2xl">
+                <div className="text-7xl mb-4">🎉</div>
+                <h2 className="text-3xl font-bold text-green-400 mb-2">Level Up!</h2>
+                <p className="text-zinc-300 font-medium">
+                  Advancing to Level {level.id + 1}: {LEVEL_DATA[Math.min(levelIdx + 1, LEVEL_DATA.length - 1)].name}
+                </p>
+                <p className="text-zinc-500 text-sm mt-2">
+                  {LEVEL_DATA[Math.min(levelIdx + 1, LEVEL_DATA.length - 1)].desc}
+                </p>
+              </div>
+            </div>
+          )}
+
+        </div>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+  </script>
+</body>
+</html>

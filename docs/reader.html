@@ -1,0 +1,1008 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>RSVP Reader</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0d0d0d;
+    --surface: #1a1a1a;
+    --surface2: #242424;
+    --text: #f0f0f0;
+    --text-muted: #888;
+    --accent: #e63946;
+    --orp: #e63946;
+    --font-size: 2.4rem;
+    --progress-h: 4px;
+  }
+
+  html, body {
+    height: 100%;
+    overflow: hidden;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Georgia', serif;
+    touch-action: none;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  /* ── SCREENS ─────────────────────────────────────────── */
+  .screen {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    gap: 20px;
+    transition: opacity .25s;
+  }
+  .screen.hidden { opacity: 0; pointer-events: none; }
+
+  /* ── LOAD SCREEN ─────────────────────────────────────── */
+  #load-screen h1 {
+    font-size: 1.6rem;
+    letter-spacing: .05em;
+    color: var(--text);
+    margin-bottom: 8px;
+  }
+  #load-screen p { font-size: .85rem; color: var(--text-muted); text-align: center; }
+
+  .input-group {
+    width: 100%;
+    max-width: 380px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .input-label {
+    font-size: .75rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    margin-bottom: 2px;
+  }
+
+  .input-row {
+    display: flex;
+    gap: 8px;
+  }
+
+  input[type="text"] {
+    flex: 1;
+    background: var(--surface2);
+    border: 1px solid #333;
+    border-radius: 8px;
+    color: var(--text);
+    font-size: .9rem;
+    padding: 10px 12px;
+    outline: none;
+    transition: border-color .2s;
+  }
+  input[type="text"]:focus { border-color: var(--accent); }
+
+  .btn {
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 16px;
+    font-size: .85rem;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: opacity .15s;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .btn:active { opacity: .75; }
+  .btn.secondary {
+    background: var(--surface2);
+    border: 1px solid #333;
+    color: var(--text);
+  }
+
+  .divider {
+    width: 100%;
+    max-width: 380px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--text-muted);
+    font-size: .75rem;
+  }
+  .divider::before, .divider::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: #333;
+  }
+
+  .file-upload-area {
+    width: 100%;
+    max-width: 380px;
+    display: flex;
+    gap: 10px;
+  }
+  .file-upload-area label {
+    flex: 1;
+    background: var(--surface2);
+    border: 1px dashed #444;
+    border-radius: 8px;
+    padding: 14px 10px;
+    text-align: center;
+    cursor: pointer;
+    font-size: .85rem;
+    color: var(--text-muted);
+    transition: border-color .2s, color .2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .file-upload-area label:active { border-color: var(--accent); color: var(--text); }
+  .file-upload-area input[type="file"] { display: none; }
+
+  #load-error {
+    color: var(--accent);
+    font-size: .8rem;
+    text-align: center;
+    min-height: 1.2em;
+    max-width: 340px;
+  }
+
+  /* ── READER SCREEN ───────────────────────────────────── */
+  #reader-screen {
+    flex-direction: column;
+    justify-content: stretch;
+    padding: 0;
+  }
+
+  /* Progress bar */
+  #progress-bar-wrap {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: var(--progress-h);
+    background: #222;
+    z-index: 30;
+  }
+  #progress-bar {
+    height: 100%;
+    background: var(--accent);
+    width: 0%;
+    transition: width .15s linear;
+  }
+
+  /* Word display */
+  #word-stage {
+    position: fixed;
+    inset: 0;
+    bottom: var(--progress-h);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* ORP alignment container */
+  #orp-frame {
+    display: flex;
+    align-items: center;
+    /* width is set by JS to accommodate longest word at current font-size */
+    position: relative;
+  }
+
+  /* Red vertical ORP guide line */
+  #orp-line {
+    position: absolute;
+    top: -12px;
+    bottom: -12px;
+    width: 2px;
+    background: color-mix(in srgb, var(--orp) 35%, transparent);
+    border-radius: 1px;
+    pointer-events: none;
+  }
+
+  #word-display {
+    font-size: var(--font-size);
+    font-weight: 400;
+    white-space: nowrap;
+    line-height: 1.2;
+    letter-spacing: .02em;
+    position: relative;
+  }
+
+  #word-display .pre  { color: var(--text); }
+  #word-display .orp  { color: var(--orp); }
+  #word-display .post { color: var(--text); }
+
+  /* Pause overlay */
+  #pause-icon {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(.8);
+    font-size: 3rem;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .2s, transform .2s;
+    z-index: 20;
+  }
+  #pause-icon.show {
+    opacity: .6;
+    transform: translate(-50%, -50%) scale(1);
+  }
+
+  /* WPM HUD */
+  #wpm-hud {
+    position: fixed;
+    top: 50%;
+    right: 60px;
+    transform: translateY(-50%);
+    background: rgba(0,0,0,.75);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid #333;
+    border-radius: 10px;
+    padding: 10px 16px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text);
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity .3s;
+    z-index: 25;
+    white-space: nowrap;
+  }
+  #wpm-hud.show { opacity: 1; }
+
+  /* Speed touch zone */
+  #speed-zone {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 52px;
+    bottom: var(--progress-h);
+    z-index: 15;
+    /* invisible but touchable */
+    background: transparent;
+    cursor: ns-resize;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* Back / settings buttons */
+  #top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 14px;
+    z-index: 20;
+    pointer-events: none;
+  }
+  #top-bar button {
+    pointer-events: auto;
+    background: rgba(0,0,0,.55);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border: 1px solid #333;
+    border-radius: 8px;
+    color: var(--text);
+    font-size: .85rem;
+    padding: 7px 13px;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    transition: opacity .15s;
+  }
+  #top-bar button:active { opacity: .65; }
+
+  /* ── SETTINGS DRAWER ─────────────────────────────────── */
+  #settings-drawer {
+    position: fixed;
+    inset: 0;
+    z-index: 50;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background: rgba(0,0,0,.6);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .25s;
+  }
+  #settings-drawer.open {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  #settings-panel {
+    background: var(--surface);
+    border-radius: 18px 18px 0 0;
+    padding: 24px 20px 36px;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    transform: translateY(30px);
+    transition: transform .25s;
+  }
+  #settings-drawer.open #settings-panel { transform: translateY(0); }
+
+  .settings-title {
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: center;
+    color: var(--text);
+    letter-spacing: .04em;
+  }
+
+  .settings-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  .settings-row label {
+    font-size: .85rem;
+    color: var(--text-muted);
+    flex: 0 0 100px;
+  }
+  .settings-row span.val {
+    font-size: .85rem;
+    color: var(--text);
+    flex: 0 0 44px;
+    text-align: right;
+  }
+
+  input[type="range"] {
+    flex: 1;
+    -webkit-appearance: none;
+    appearance: none;
+    height: 4px;
+    background: #333;
+    border-radius: 2px;
+    outline: none;
+    cursor: pointer;
+  }
+  input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    background: var(--accent);
+    cursor: pointer;
+    border: 2px solid #0d0d0d;
+  }
+  input[type="range"]::-moz-range-thumb {
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    background: var(--accent);
+    cursor: pointer;
+    border: 2px solid #0d0d0d;
+  }
+
+  input[type="color"] {
+    -webkit-appearance: none;
+    width: 36px; height: 36px;
+    border: none;
+    border-radius: 6px;
+    padding: 2px;
+    background: var(--surface2);
+    cursor: pointer;
+  }
+
+  .close-drawer-btn {
+    align-self: center;
+    background: var(--surface2);
+    border: none;
+    border-radius: 8px;
+    color: var(--text);
+    font-size: .85rem;
+    padding: 10px 30px;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* loading spinner */
+  #spinner {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.75);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 16px;
+    z-index: 100;
+    color: var(--text);
+    font-size: .9rem;
+  }
+  #spinner.hidden { display: none; }
+  .spin-ring {
+    width: 44px; height: 44px;
+    border: 4px solid #333;
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin .7s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* word-count info */
+  #word-info {
+    position: fixed;
+    bottom: calc(var(--progress-h) + 6px);
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: .65rem;
+    color: #444;
+    pointer-events: none;
+    z-index: 10;
+  }
+</style>
+</head>
+<body>
+
+<!-- ── SPINNER ─────────────────────────────────────────── -->
+<div id="spinner" class="hidden">
+  <div class="spin-ring"></div>
+  <span id="spinner-msg">Loading…</span>
+</div>
+
+<!-- ── LOAD SCREEN ─────────────────────────────────────── -->
+<div id="load-screen" class="screen">
+  <h1>📖 RSVP Reader</h1>
+  <p>Load a URL, PDF, or EPUB to begin speed-reading</p>
+
+  <div class="input-group">
+    <div class="input-label">Load from URL</div>
+    <div class="input-row">
+      <input type="text" id="url-input" placeholder="https://example.com/article" autocomplete="off" autocorrect="off" spellcheck="false">
+      <button class="btn" id="url-btn">Go</button>
+    </div>
+  </div>
+
+  <div class="divider">or upload a file</div>
+
+  <div class="file-upload-area">
+    <label for="pdf-file">
+      📄 PDF
+      <input type="file" id="pdf-file" accept=".pdf">
+    </label>
+    <label for="epub-file">
+      📚 EPUB
+      <input type="file" id="epub-file" accept=".epub">
+    </label>
+  </div>
+
+  <div id="load-error"></div>
+</div>
+
+<!-- ── READER SCREEN ──────────────────────────────────── -->
+<div id="reader-screen" class="screen hidden">
+
+  <div id="top-bar">
+    <button id="back-btn">← Back</button>
+    <button id="settings-btn">⚙ Settings</button>
+  </div>
+
+  <div id="word-stage">
+    <div id="orp-frame">
+      <div id="orp-line"></div>
+      <div id="word-display"><span class="pre"></span><span class="orp"></span><span class="post"></span></div>
+    </div>
+  </div>
+
+  <div id="pause-icon">⏸</div>
+  <div id="wpm-hud"></div>
+
+  <!-- right-side speed zone -->
+  <div id="speed-zone"></div>
+
+  <div id="word-info"></div>
+
+  <div id="progress-bar-wrap">
+    <div id="progress-bar"></div>
+  </div>
+</div>
+
+<!-- ── SETTINGS DRAWER ────────────────────────────────── -->
+<div id="settings-drawer">
+  <div id="settings-panel">
+    <div class="settings-title">Settings</div>
+
+    <div class="settings-row">
+      <label>Font size</label>
+      <input type="range" id="font-range" min="1.4" max="5" step="0.1" value="2.4">
+      <span class="val" id="font-val">2.4rem</span>
+    </div>
+
+    <div class="settings-row">
+      <label>WPM</label>
+      <input type="range" id="wpm-range" min="200" max="1000" step="10" value="300">
+      <span class="val" id="wpm-val">300</span>
+    </div>
+
+    <div class="settings-row">
+      <label>ORP colour</label>
+      <input type="color" id="orp-color" value="#e63946">
+    </div>
+
+    <button class="close-drawer-btn" id="close-drawer-btn">Done</button>
+  </div>
+</div>
+
+<!-- ── CDN SCRIPTS ─────────────────────────────────────── -->
+<!-- pdf.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<!-- epub.js -->
+<script src="https://cdn.jsdelivr.net/npm/epubjs@0.3.93/dist/epub.min.js"></script>
+
+<script>
+'use strict';
+
+/* ════════════════════════════════════════════════════════════
+   STATE
+═══════════════════════════════════════════════════════════ */
+const state = {
+  words: [],
+  idx: 0,
+  wpm: 300,
+  playing: false,
+  timer: null,
+  fontSize: 2.4,
+  orpColor: '#e63946',
+};
+
+/* ════════════════════════════════════════════════════════════
+   ELEMENT REFS
+═══════════════════════════════════════════════════════════ */
+const $ = id => document.getElementById(id);
+const loadScreen    = $('load-screen');
+const readerScreen  = $('reader-screen');
+const urlInput      = $('url-input');
+const urlBtn        = $('url-btn');
+const pdfFile       = $('pdf-file');
+const epubFile      = $('epub-file');
+const loadError     = $('load-error');
+const spinner       = $('spinner');
+const spinnerMsg    = $('spinner-msg');
+const wordDisplay   = $('word-display');
+const orpFrame      = $('orp-frame');
+const orpLine       = $('orp-line');
+const progressBar   = $('progress-bar');
+const pauseIcon     = $('pause-icon');
+const wpmHud        = $('wpm-hud');
+const speedZone     = $('speed-zone');
+const wordInfo      = $('word-info');
+const backBtn       = $('back-btn');
+const settingsBtn   = $('settings-btn');
+const settingsDrawer= $('settings-drawer');
+const closeDrwBtn   = $('close-drawer-btn');
+const fontRange     = $('font-range');
+const fontVal       = $('font-val');
+const wpmRange      = $('wpm-range');
+const wpmVal        = $('wpm-val');
+const orpColorInput = $('orp-color');
+
+/* ════════════════════════════════════════════════════════════
+   HELPERS
+═══════════════════════════════════════════════════════════ */
+function showSpinner(msg = 'Loading…') {
+  spinnerMsg.textContent = msg;
+  spinner.classList.remove('hidden');
+}
+function hideSpinner() { spinner.classList.add('hidden'); }
+
+function setError(msg) { loadError.textContent = msg; }
+function clearError()  { loadError.textContent = ''; }
+
+/**
+ * Tokenise raw text into words, stripping blank tokens.
+ */
+function textToWords(text) {
+  return text.split(/\s+/).map(w => w.trim()).filter(Boolean);
+}
+
+/* Minimum word count required to start the reader */
+const MIN_WORDS = 5;
+
+/* Width (px) of the right-edge speed touch zone (must match CSS) */
+const SPEED_ZONE_WIDTH = 52;
+
+/**
+ * ORP index: roughly 1/3 into the word (0-based).
+ * Single-char words → index 0.
+ */
+function orpIndex(word) {
+  if (word.length <= 1) return 0;
+  return Math.ceil(word.length / 3) - 1;
+}
+
+/* ════════════════════════════════════════════════════════════
+   DISPLAY
+═══════════════════════════════════════════════════════════ */
+let orpPixelOffset = 0; // px from left edge of word-display to ORP char
+
+function updateOrpOffset() {
+  // Measure where the ORP character sits relative to the word-display div
+  // by temporarily rendering the current word to a hidden canvas.
+  // We use a canvas 2d context for precise sub-pixel measurement.
+  const style = getComputedStyle(wordDisplay);
+  const font  = `${style.fontWeight} ${style.fontSize} ${style.fontFamily}`;
+
+  const ctx = updateOrpOffset._ctx || (updateOrpOffset._ctx = document.createElement('canvas').getContext('2d'));
+  ctx.font = font;
+
+  const word = state.words[state.idx] || '';
+  const i    = orpIndex(word);
+  const pre  = word.slice(0, i);
+
+  const preW  = ctx.measureText(pre).width;
+  const charW = ctx.measureText(word[i] || '').width;
+  orpPixelOffset = preW + charW / 2; // centre of the ORP character
+}
+
+function positionOrpLine() {
+  // orp-line x = orpPixelOffset relative to word-display left
+  orpLine.style.left = `${orpPixelOffset}px`;
+}
+
+function renderWord() {
+  if (!state.words.length) return;
+  const word = state.words[state.idx];
+  const i    = orpIndex(word);
+  const pre  = word.slice(0, i);
+  const orp  = word[i] || '';
+  const post = word.slice(i + 1);
+
+  wordDisplay.innerHTML =
+    `<span class="pre">${escHtml(pre)}</span>` +
+    `<span class="orp">${escHtml(orp)}</span>` +
+    `<span class="post">${escHtml(post)}</span>`;
+
+  updateOrpOffset();
+  positionOrpLine();
+
+  // Shift the whole word-display so the ORP char aligns to a fixed screen column (50% of stage)
+  // We do this by setting a negative margin-left on word-display equal to orpPixelOffset,
+  // and then centering the orp-frame at 50%+orpPixelOffset from left…
+  // Simpler: just translate word-display so its ORP char is at x=0 of the flex centre.
+  wordDisplay.style.transform = `translateX(-${orpPixelOffset}px)`;
+
+  // Progress
+  const pct = state.words.length > 1
+    ? (state.idx / (state.words.length - 1)) * 100
+    : 100;
+  progressBar.style.width = `${pct}%`;
+
+  // word count info
+  wordInfo.textContent = `${state.idx + 1} / ${state.words.length}`;
+}
+
+function escHtml(str) {
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+/* ════════════════════════════════════════════════════════════
+   PLAYBACK ENGINE
+═══════════════════════════════════════════════════════════ */
+function msPerWord() { return 60000 / state.wpm; }
+
+function tick() {
+  if (!state.playing) return;
+  renderWord();
+  state.idx++;
+  if (state.idx >= state.words.length) {
+    state.idx = state.words.length - 1;
+    pause();
+    return;
+  }
+  state.timer = setTimeout(tick, msPerWord());
+}
+
+function play() {
+  if (state.playing || !state.words.length) return;
+  if (state.idx >= state.words.length) state.idx = 0;
+  state.playing = true;
+  pauseIcon.classList.remove('show');
+  tick();
+}
+
+function pause() {
+  state.playing = false;
+  clearTimeout(state.timer);
+  renderWord();
+  pauseIcon.classList.add('show');
+  setTimeout(() => pauseIcon.classList.remove('show'), 600);
+}
+
+function togglePlay() {
+  state.playing ? pause() : play();
+}
+
+/* ════════════════════════════════════════════════════════════
+   SHOW READER
+═══════════════════════════════════════════════════════════ */
+function startReader(words) {
+  state.words = words;
+  state.idx   = 0;
+  state.playing = false;
+  clearTimeout(state.timer);
+
+  loadScreen.classList.add('hidden');
+  readerScreen.classList.remove('hidden');
+
+  // small delay so layout is painted before we measure text
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      renderWord();
+      play();
+    });
+  });
+}
+
+/* ════════════════════════════════════════════════════════════
+   URL LOADING (via allOrigins CORS proxy)
+═══════════════════════════════════════════════════════════ */
+async function loadUrl(url) {
+  showSpinner('Fetching URL…');
+  clearError();
+  try {
+    // Try direct fetch first (works for CORS-open resources)
+    let text = '';
+    let ok = false;
+    try {
+      const r = await fetch(url, { mode: 'cors' });
+      if (r.ok) { text = await r.text(); ok = true; }
+    } catch (_) {}
+
+    if (!ok) {
+      // Fall back to allorigins proxy
+      const proxy = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+      const r = await fetch(proxy);
+      if (!r.ok) throw new Error('Proxy request failed');
+      const j = await r.json();
+      text = j.contents || '';
+    }
+
+    // Strip HTML tags if HTML response — use DOMParser to avoid executing
+    // inline event handlers that innerHTML would trigger on untrusted content.
+    const parsed  = new DOMParser().parseFromString(text, 'text/html');
+    parsed.querySelectorAll('script, style, nav, header, footer, aside').forEach(el => el.remove());
+    const stripped = parsed.body ? (parsed.body.innerText || parsed.body.textContent || '') : text;
+
+    const words = textToWords(stripped);
+    if (words.length < MIN_WORDS) throw new Error('Not enough readable text found at that URL.');
+    hideSpinner();
+    startReader(words);
+  } catch (e) {
+    hideSpinner();
+    setError(`Error: ${e.message}`);
+  }
+}
+
+/* ════════════════════════════════════════════════════════════
+   PDF LOADING
+═══════════════════════════════════════════════════════════ */
+async function loadPdf(file) {
+  showSpinner('Reading PDF…');
+  clearError();
+  try {
+    pdfjsLib.GlobalWorkerOptions.workerSrc =
+      'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+    const arrayBuffer = await file.arrayBuffer();
+    const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise;
+    let fullText = '';
+    for (let p = 1; p <= pdf.numPages; p++) {
+      const page = await pdf.getPage(p);
+      const content = await page.getTextContent();
+      fullText += content.items.map(item => item.str).join(' ') + ' ';
+    }
+    const words = textToWords(fullText);
+    if (words.length < MIN_WORDS) throw new Error('Could not extract text from this PDF.');
+    hideSpinner();
+    startReader(words);
+  } catch (e) {
+    hideSpinner();
+    setError(`PDF error: ${e.message}`);
+  }
+}
+
+/* ════════════════════════════════════════════════════════════
+   EPUB LOADING
+═══════════════════════════════════════════════════════════ */
+async function loadEpub(file) {
+  showSpinner('Reading EPUB…');
+  clearError();
+  try {
+    const arrayBuffer = await file.arrayBuffer();
+    const book = ePub(arrayBuffer);
+    await book.ready;
+    await book.locations.generate(1000);
+
+    let fullText = '';
+    const spine = book.spine;
+
+    // Iterate spine items and extract text via a hidden iframe
+    const items = [];
+    spine.each(item => items.push(item));
+
+    for (const item of items) {
+      try {
+        const doc = await item.load(book.load.bind(book));
+        const body = doc.querySelector ? doc.querySelector('body') : null;
+        if (body) {
+          fullText += (body.innerText || body.textContent || '') + ' ';
+        } else {
+          fullText += (doc.innerText || doc.textContent || '') + ' ';
+        }
+        item.unload();
+      } catch (_) {}
+    }
+
+    const words = textToWords(fullText);
+    if (words.length < MIN_WORDS) throw new Error('Could not extract text from this EPUB.');
+    hideSpinner();
+    startReader(words);
+  } catch (e) {
+    hideSpinner();
+    setError(`EPUB error: ${e.message}`);
+  }
+}
+
+/* ════════════════════════════════════════════════════════════
+   SPEED ZONE – vertical swipe on right edge
+═══════════════════════════════════════════════════════════ */
+let speedTouchStartY = null;
+let speedWpmStart    = null;
+let wpmHudTimer      = null;
+
+function showWpmHud() {
+  wpmHud.textContent = `${state.wpm} WPM`;
+  wpmHud.classList.add('show');
+  clearTimeout(wpmHudTimer);
+  wpmHudTimer = setTimeout(() => wpmHud.classList.remove('show'), 1200);
+}
+
+speedZone.addEventListener('touchstart', e => {
+  speedTouchStartY = e.touches[0].clientY;
+  speedWpmStart    = state.wpm;
+  e.preventDefault();
+}, { passive: false });
+
+speedZone.addEventListener('touchmove', e => {
+  if (speedTouchStartY === null) return;
+  const dy    = speedTouchStartY - e.touches[0].clientY; // up = positive
+  const range = 800; // WPM range (200–1000)
+  const zoneH = speedZone.offsetHeight;
+  const delta = Math.round((dy / zoneH) * range);
+  state.wpm   = Math.min(1000, Math.max(200, speedWpmStart + delta));
+
+  // Keep range slider in sync
+  wpmRange.value = state.wpm;
+  wpmVal.textContent = state.wpm;
+
+  showWpmHud();
+  e.preventDefault();
+}, { passive: false });
+
+speedZone.addEventListener('touchend', () => {
+  speedTouchStartY = null;
+  speedWpmStart    = null;
+});
+
+/* ════════════════════════════════════════════════════════════
+   WORD STAGE – tap to play/pause
+═══════════════════════════════════════════════════════════ */
+$('word-stage').addEventListener('click', e => {
+  // Ignore taps on the right-edge zone (which overlays it)
+  if (e.clientX > window.innerWidth - SPEED_ZONE_WIDTH) return;
+  togglePlay();
+});
+
+/* ════════════════════════════════════════════════════════════
+   SETTINGS DRAWER
+═══════════════════════════════════════════════════════════ */
+settingsBtn.addEventListener('click', () => {
+  pause();
+  settingsDrawer.classList.add('open');
+});
+closeDrwBtn.addEventListener('click', () => settingsDrawer.classList.remove('open'));
+settingsDrawer.addEventListener('click', e => {
+  if (e.target === settingsDrawer) settingsDrawer.classList.remove('open');
+});
+
+fontRange.addEventListener('input', () => {
+  state.fontSize = parseFloat(fontRange.value);
+  fontVal.textContent = `${state.fontSize.toFixed(1)}rem`;
+  document.documentElement.style.setProperty('--font-size', `${state.fontSize}rem`);
+  renderWord();
+});
+
+wpmRange.addEventListener('input', () => {
+  state.wpm = parseInt(wpmRange.value, 10);
+  wpmVal.textContent = state.wpm;
+});
+
+orpColorInput.addEventListener('input', () => {
+  state.orpColor = orpColorInput.value;
+  document.documentElement.style.setProperty('--orp', state.orpColor);
+  renderWord();
+});
+
+/* ════════════════════════════════════════════════════════════
+   BACK BUTTON
+═══════════════════════════════════════════════════════════ */
+backBtn.addEventListener('click', () => {
+  pause();
+  state.words = [];
+  readerScreen.classList.add('hidden');
+  loadScreen.classList.remove('hidden');
+  clearError();
+});
+
+/* ════════════════════════════════════════════════════════════
+   URL LOAD BUTTON + ENTER KEY
+═══════════════════════════════════════════════════════════ */
+urlBtn.addEventListener('click', () => {
+  const url = urlInput.value.trim();
+  if (!url) { setError('Please enter a URL.'); return; }
+  loadUrl(url);
+});
+urlInput.addEventListener('keydown', e => {
+  if (e.key === 'Enter') urlBtn.click();
+});
+
+/* ════════════════════════════════════════════════════════════
+   FILE INPUTS
+═══════════════════════════════════════════════════════════ */
+pdfFile.addEventListener('change', e => {
+  const file = e.target.files[0];
+  if (file) loadPdf(file);
+});
+epubFile.addEventListener('change', e => {
+  const file = e.target.files[0];
+  if (file) loadEpub(file);
+});
+
+/* ════════════════════════════════════════════════════════════
+   KEYBOARD SHORTCUTS (desktop convenience)
+═══════════════════════════════════════════════════════════ */
+document.addEventListener('keydown', e => {
+  if (readerScreen.classList.contains('hidden')) return;
+  if (e.key === ' ' || e.key === 'k') { e.preventDefault(); togglePlay(); }
+  if (e.key === 'ArrowRight') { pause(); state.idx = Math.min(state.idx + 1, state.words.length - 1); renderWord(); }
+  if (e.key === 'ArrowLeft')  { pause(); state.idx = Math.max(state.idx - 1, 0); renderWord(); }
+  if (e.key === 'ArrowUp')    { state.wpm = Math.min(1000, state.wpm + 50); wpmRange.value = state.wpm; wpmVal.textContent = state.wpm; showWpmHud(); }
+  if (e.key === 'ArrowDown')  { state.wpm = Math.max(200,  state.wpm - 50); wpmRange.value = state.wpm; wpmVal.textContent = state.wpm; showWpmHud(); }
+});
+
+/* ════════════════════════════════════════════════════════════
+   RESIZE → re-render to keep ORP alignment accurate
+═══════════════════════════════════════════════════════════ */
+window.addEventListener('resize', () => {
+  if (!readerScreen.classList.contains('hidden')) renderWord();
+});
+
+/* ════════════════════════════════════════════════════════════
+   INIT
+═══════════════════════════════════════════════════════════ */
+wpmRange.value  = state.wpm;
+wpmVal.textContent = state.wpm;
+fontRange.value = state.fontSize;
+fontVal.textContent = `${state.fontSize.toFixed(1)}rem`;
+</script>
+</body>
+</html>

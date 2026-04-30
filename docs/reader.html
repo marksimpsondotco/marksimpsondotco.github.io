@@ -263,9 +263,9 @@
   /* WPM HUD */
   #wpm-hud {
     position: fixed;
-    top: 50%;
-    right: 60px;
-    transform: translateY(-50%);
+    top: calc(env(safe-area-inset-top, 0px) + 14px);
+    left: 50%;
+    transform: translateX(-50%);
     background: rgba(0,0,0,.75);
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
